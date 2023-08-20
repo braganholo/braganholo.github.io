@@ -1,0 +1,242 @@
+---
+title: PROG 3
+in_menu: true
+sort_info: 2
+---
+# Programação de Computadores
+
+<BR/>
+Horário: segundas e quartas de 18h às 20h 
+
+Local: Sala 215
+
+Local para avisos e entrega de trabalhos da disciplina: usaremos o [Google Classroom](http://classroom.google.com/). É necessário ter uma conta no ID UFF. A sala de aula no Google Classroom será usada também para divulgar avisos gerais e para dúvidas. <BR/>
+
+Importante: todos os alunos **devem** se inscrever no Google Classroom. Para se inscrever, clique no símbolo de "+" no canto superior direito da página, e selecione a opção "Participar da Turma". O código de inscrição na turma será fornecido no primeiro dia de aula. 
+
+## Monitoria
+
+Robson - robsonfelipevs@gmail.com  (SEG 16-18h; TER 16-18h; QUA 11-13h; QUI 11-13h)
+
+Vinicius - aguiarvi2014.2@gmail.com (TER 09-13h; QUI 09-13h)
+
+## Avaliação
+
+P1 = Prova sem consulta
+
+P2 = Prova sem consulta
+
+Média = (P1 + P2) / 2
+
+**APROVADO**
+
+(Presença >= 75%) E (*Média* >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Presença >= 75%) E (4 <= *Média* < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Caso contrário
+
+## Exercícios no Google Classroom
+
+Diversos exercícios serão disponibilizadas durante o curso. Todos terão data de entrega marcada no Gloogle Classroom. Durante a resolução dos exercícios, os alunos podem usar comentários de uma tarefa específica para tirar dúvidas no [Google Classroom](http://classroom.google.com). Espera-se que os alunos façam uso do próprio compilador Fortran para verificar a corretude das suas respostas. Alunos que entregarem os exercícios no prazo e corretos podem ser aprovados direto caso tenham ficado com média entre 5,5 e 5,9. Da mesma forma, terão direto à VS caso tenham ficado com média entre 3,5 e 3,9.
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.uff.br/sites/default/files/001-2015_regulamento_do_curso_de_graduacao_0.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 96) e não há abono de faltas sem documentação (Art. 103).
+
+## Bibliografia
+
+Harry Ferrer et al., Fortran Estruturado, Editora Guanabara Koogan
+
+Furlan, M., Gomes, M., Soares, M., Concilio, R., 2005, Algoritmos e Lógica de Programação, Editora Thomson.
+
+Farrer, H. et al., 1999, Algoritmos Estruturados, Editora LTC.
+
+Guimarães, A., Lages, N., 1994, Algoritmos e Estruturas de Dados, Editora LTC.
+
+## Ferramentas
+
+O aluno tem liberdade de utilizar o compilador Fortran de sua preferência. Contudo, nas atividades de sala de aula será utilizado o [Force 3.0](http://force.lepsch.com). 
+
+- [Force 3.0](http://force.lepsch.com) para Windows 
+- Fortran 77 para MacOS: [g77 3.4](http://hpc.sourceforge.net/) - atenção pois essa página tem link para várias ferramentas. Ver as instruções do item g77 3.4 (segundo item da página)
+- [Compilador Online Fortran 95](http://www.tutorialspoint.com/compile_fortran_online.php) (tem algumas diferenças para o 77, mas é compatível). É uma boa opção para os que desejam usar tablet para fazer os exercícios. 
+
+## Cronograma
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;" border="1">
+	<tr style="font-weight: bold;">
+		<td>Data</td>
+		<td>Atividade</td>
+	</tr>
+    <tr>
+        <td>29/08/2016</td>
+        <td>Apresentação da disciplina</td>
+    </tr>
+    <tr>
+        <td>31/08/2016</td>
+        <td>Introdução à programação</td>
+    </tr>
+    <tr>
+	    <td>05/09/2016</td>
+        <td>Algoritmos</td>
+    </tr>
+    <tr>
+        <td>07/09/2016</td>
+        <td>FERIADO</td>
+    </tr>
+    <tr>
+        <td>12/09/2016</td>
+        <td>Algoritmos + Paradigmas de Programação</td>
+    </tr>
+    <tr>
+        <td>14/09/2016</td>
+        <td>Organização de Programas, leitura, escrita e tipos de dados</td>
+    </tr>
+    <tr>
+        <td>19/09/2016</td>
+        <td><a href="../../material/prog3/05-exercicios.pdf">Exercícios</a> (Laboratório)</td>
+    </tr>
+    <tr>
+        <td>21/09/2016</td>
+        <td>Operadores e Estruturas de Decisão</td>
+    </tr>
+    <tr>
+        <td>26/09/2016</td>
+        <td><a href="../../material/prog3/07-exercicios.pdf">Exercícios</a> (Laboratório)</td>
+    </tr>
+    <tr>
+        <td>28/09/2016</td>
+        <td>Repetição Contável</td>
+    </tr>
+    <tr>
+        <td>03/10/2016</td>
+        <td>SEM AULA - <a href="http://sbbd2016.fpc.ufba.br/en/" target = "_blank">SBBD</a></td>
+    </tr>
+    <tr>
+        <td>05/10/2016</td>
+        <td>SEM AULA - <a href="http://sbbd2016.fpc.ufba.br/en/" target = "_blank">SBBD</a></td>
+    </tr>
+    <tr>
+        <td>10/10/2016</td>
+        <td>Repetição Condicional</td>
+    </tr>
+    <tr>
+        <td>12/10/2016</td>
+        <td>FERIADO</td>
+    </tr>
+    <tr>
+        <td>17/10/2016</td>
+        <td>SEM AULA - AGENDA ACADÊMICA</td>
+    </tr>
+    <tr>
+        <td>19/10/2016</td>
+        <td>SEM AULA - AGENDA ACADÊMICA</td>
+    </tr>
+    <tr>
+        <td>24/10/2016</td>
+        <td>Exercícios (Laboratório)</td>
+    </tr>
+    <tr>
+        <td>26/10/2016</td>
+        <td>Vetores</td>
+    </tr>
+    <tr>
+        <td>31/10/2016</td>
+        <td>MAtrizes e Exercícios (Laboratório)</td>
+    </tr>
+    <tr>
+        <td>02/11/2016</td>
+        <td>FERIADO</td>
+    </tr>
+    <tr>
+        <td>07/11/2016</td>
+        <td>PROVA 1</td>
+    </tr>
+    <tr>
+        <td>09/11/2016</td>
+        <td>Introdução à Subprogramação</td>
+    </tr>
+    <tr>
+        <td>14/11/2016</td>
+        <td>RECESSO</td>
+    </tr>
+    <tr>
+        <td>16/11/2016</td>
+        <td>Funções</td>
+    </tr>
+    <tr>
+        <td>21/11/2016</td>
+        <td>RECESSO</td>
+    </tr>
+    <tr>
+        <td>23/11/2016</td>
+        <td>Vista de Prova</td>
+    </tr>
+    <tr>
+        <td>28/11/2016</td>
+        <td>Exercícios (Laboratório)</td>
+    </tr>
+    <tr>
+        <td>30/11/2016</td>
+        <td>Arquivos</td>
+    </tr>
+    <tr>
+        <td>05/12/2016</td>
+        <td>Exercícios (Laboratório)</td>
+    </tr>
+    <tr>
+        <td>07/12/2016</td>
+        <td>Modularização e Formatação de Entrada e Saída</td>
+    </tr>
+    <tr>
+        <td>12/12/2016</td>
+        <td>Exercícios (Laboratório)</td>
+    </tr>
+    <tr>
+        <td>14/12/2016</td>
+        <td>Exercícios (Laboratório)</td>
+    </tr>
+    <tr>
+        <td>19/12/2016</td>
+        <td>Plantão de Dúvidas (Laboratório)</td>
+    </tr>
+    <tr>
+        <td>21/12/2016</td>
+        <td>PROVA 2</td>
+    </tr>
+    <tr>
+        <td>26/12/2016</td>
+        <td>RECESSO</td>
+    </tr>
+    <tr>
+        <td>28/12/2016</td>
+        <td>RECESSO</td>
+    </tr>
+    <tr>
+        <td>02/01/2017</td>
+        <td>SEM AULA</td>
+    </tr>
+    <tr>
+        <td>04/01/2017</td>
+        <td>SEGUNDA CHAMADA</td>
+    </tr>
+    <tr>
+        <td>09/01/2017</td>
+        <td>VISTA DE PROVA</td>
+    </tr>
+    <tr>
+        <td>11/01/2017</td>
+        <td>VS</td>
+    </tr>
+    <tr>
+        <td>16/01/2017</td>
+        <td>VISTA DE PROVA</td>
+    </tr>
+</table>

@@ -1,0 +1,295 @@
+---
+title: PROG1
+in_menu: true
+sort_info: 2
+---
+# Programação de Computadores I 
+
+
+
+<BR/>
+Horário: quartas de 9h às 11h e sextas de 9h às 13h
+
+Local: sala 504, bloco H (quartas) e sala 402 bloco H, ou LCC no bloco E (sextas)
+
+Grupo para avisos da disciplina: usaremos um grupo fechado do Facebook para as discussões da disciplina. Inscrevam-se em <http://www.facebook.com/groups/prog1.2012.2/>. Esse grupo será usado para divulgar avisos gerais. <BR/>
+
+Grupo para dúvidas da disciplina, mantido pelo monitor: <http://www.facebook.com/groups/394549190570295/>. Esse grupo será usado para tirar dúvidas sobre a matéria.
+
+Importante: todos os alunos **devem** se cadastrar nesses grupos -- os grupo são fechados, então nada que for postado neles aparecerá na sua linha do tempo do Facebook.
+
+## Monitoria
+
+Monitor: Alessandro Campello 
+
+Horário de Atendimento: SEG 9-11h, SEX 9-11h
+
+## Avaliação
+
+Média = (3 x P1 + 3 x P2 + 3 x Trabalho + Participação) / 10
+
+**APROVADO**:<BR/> 
+(Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**: <BR/>
+(Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS o aluno que tirar nota maior ou igual a 6.
+
+**REPROVADO**: caso contrário
+
+## Grupos
+ 
+O trabalho da disciplina será feito em grupos de 4 participantes, que devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Apesar do trabalho ser em grupo, a avaliação será individual. Entreguem por e-mail (assunto: PROG1 - Grupo) o número da matrícula e o nome completo de cada participante do grupo.
+
+Ao final do curso, cada membro do grupo será solicitado a indicar, sob o seu ponto de vista, o percentual de participação de cada membro do grupo (inclusive de si próprio) nas atividades relacionadas ao trabalho. Esta informação será utilizada na distribuição das notas. Desta forma, empenhe-se desde o início de forma pró-ativa.
+
+## Trabalho
+
+Cada grupo deverá implementar um jogo como trabalho da disciplina. Os grupos deverão combinar com o professor o tema escolhido para o jogo. Os grupos podem optar por implementar jogos já conhecidos (ex.: jogo da velha) ou criar seus próprios jogos.
+
+No 1o. seminário (ver seção Cronograma) cada grupo deverá explicar como será o seu jogo. Nesse momento, é esperado que sejam apresentados ao menos desenhos e fluxogramas detalhando a dinâmica do jogo que pretendem desenvolver. No seminário final (ver seção Cronograma) os grupos apresentarão o jogo funcionando e terão a oportunidade de discutir as dificuldades encontradas durante o desenvolvimento.
+
+O código fonte do jogo deve ser entregue em CD ou via e-mail (assunto do e-mail: Prog - Trabalho). A entrega deve ser feita na data estipulada (ver seção Cronograma). Além do código-fonte, cada grupo deve entregar um relatório contendo o manual de uso do jogo, além dos fluxogramas atualizados, e uma discussão da implementação e dificuldades encontradas. 
+
+Trabalhos que não forem entregues e apresentados no prazo estipulado terão pedágio de 1 ponto por dia de atraso.  
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 80, §14). Vale notar que segundo o mesmo regulamento, nenhuma falta será abonada (Art. 80, §15).
+
+## Avaliação de Aprendizagem em Caráter Excepcional
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), não será permitida a Avaliação de Aprendizagem em Caráter Excepcional (i.e., 2ª chamada), com exceção dos casos citados no Art. 87, de acordo com os procedimentos do Art. 88.
+
+## Bibliografia
+
+Feijó, B., Clua, E., Silva, F., 2010, Introdução à Ciência da Computação com Jogos, Editora Campus.
+
+Oracle, The Java Tutorials, disponível em http://docs.oracle.com/javase/tutorial.
+
+Sierra, K., Bates, B., 2005, Use a Cabeça! Java, Alta Books, 2a. edição.
+
+Furlan, M., Gomes, M., Soares, M., Concilio, R., 2005, Algoritmos e Lógica de Programação, Editora Thomson.
+
+Farrer, H. et al., 1999, Algoritmos Estruturados, Editora LTC.
+
+Guimarães, A., Lages, N., 1994, Algoritmos e Estruturas de Dados, Editora LTC.
+
+## Ferramentas
+
+O aluno tem liberdade de utilizar o editor e o compilador Java de sua preferência. Contudo, nas atividades de sala de aula será utilizado o [NetBeans](http://netbeans.org/) como editor e o [JDK da Oracle](http://www.oracle.com/technetwork/java/javase/downloads/index.html) como compilador, ambos na versão Java SE.
+
+## Listas de Exercícios
+
+Duas listas de exercício são disponibilizadas durante o curso, respectivamente para a matéria da primeira e da segunda prova. Durante a resolução dos exercícios apresentados nas listas, os alunos podem entrar em contato com os monitores para tirar dúvidas. Contudo, espera-se que os alunos façam uso do próprio compilador Java para verificar a corretude das suas respostas.
+
+As listas não precisam ser entregues ao professor. O intuito é servirem como apoio para fixar a matéria dada em sala. Como estímulo, ao menos uma questão de cada prova será baseada na lista de exercícios. Nas aulas de exercícios, os alunos serão convidados a apresentar as suas respostas da lista. Essas apresentações irão compor o item Participação da nota final.
+
+[Lista para a primeira prova](../../material/prog1/lista1.pdf)
+
+[Lista para a segunda prova](../../material/prog1/lista2.pdf)
+
+Obs.: Caso tenha dificuldade de fazer alguma questão, verifique se não é referente a uma matéria que está para ser apresentada nas próximas aulas.
+
+## Cronograma
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;" border="1">
+	<tr style="font-weight: bold;">
+		<td>Data</td>
+		<td>Atividade</td>
+		<td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>21/11/2012</td>	  
+	  <td><a href="../../material/prog1/Aula1-Apresentacao2012.2.pdf" target="_blank">Apresentação da disciplina</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/11/2012</td>	  	  
+    <td><a href="../../material/prog1/Aula2.pdf" target="_blank">Introdução à Programação</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/11/2012</td>	  	  
+    <td><a href="../../material/prog1/Aula3.pdf" target="_blank">Fluxogramas</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>30/11/2012</td>	  	  
+    <td>Fluxogramas (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>05/12/2012</td>	  	  
+    <td>Exercícios</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/12/2012</td>	  	  
+    <td><a href="../../material/prog1/Aula4.pdf" target="_blank">Organização de Programas em Java</a></td>
+	  <td></td>
+	</tr>
+  <tr>
+	  <td>12/12/2012</td>	  	  
+    <td><a href="../../material/prog1/Aula5.pdf" target="_blank">Operadores e Estruturas de Decisão</a></td>
+	  <td></td>
+	</tr>	
+	<tr>
+	  <td>14/12/2012</td>	  	  
+    <td>Aula prática</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>19/12/2012</td>	  	  
+    <td>DOJO</td>
+	  <td></td>
+	</tr>		
+	<tr>
+	  <td>21/12/2012</td>	  	  
+    <td><a href="../../material/prog1/Aula6.pdf" target="_blank">Estruturas de Repetição e String</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/12/2012</td>	  	  
+    <td>RECESSO DE NATAL</td>
+	  <td></td>
+	</tr>	
+	<tr>
+	  <td>28/12/2012</td>	  	  
+    <td>RECESSO DE NATAL</td>
+	  <td></td>
+	</tr>		
+	<tr>
+	  <td>02/01/2013</td>	  	  
+    <td>SEM AULA - Façam os <a href="../../material/prog1/ExerciciosExtras.zip" target="_blank">exercícios de revisão sobre a matéria</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/01/2013</td>	  	  
+    <td>SEM AULA</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/01/2013</td>	  	  
+    <td>Exercícios</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11/01/2013</td>	  	  
+    <td>Strings e exercícios</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/01/2013</td>	  	  
+    <td>PROVA 1</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>18/01/2013</td>	  	  
+    <td>Aula dedicada ao trabalho da disciplina</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/01/2013</td>	  	  
+    <td>Vista de Prova</td>
+	  <td></td>
+	</tr>	
+	<tr>
+	  <td>25/01/2013</td>	  	  
+    <td>Seminário (1a. rodada)</td>
+	  <td></td>
+	</tr>	
+	<tr>
+	  <td>30/01/2013</td>	  	  
+    <td><a href="../../material/prog1/Aula7.pdf" target="_blank">Subprogramação</a></td>
+	  <td></td>
+	</tr>	
+	<tr>
+	  <td>01/02/2013</td>	  	  
+    <td>Exercícios</td>
+	  <td></td>
+	</tr>	
+	<tr>
+	  <td>06/02/2013</td>	  	  
+    <td><a href="../../material/prog1/Aula8.pdf" target="_blank">Vetores</a></td>
+	  <td></td>
+	</tr>	
+	<tr>
+	  <td>08/02/2013</td>	  	  
+    <td>Aula de JPlay</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>13/02/2013</td>	  	  
+    <td>RECESSO DE CARNAVAL</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>15/02/2013</td>	  	  
+    <td>SEM AULA</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>20/02/2013</td>	  	  
+    <td>Matrizes</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>22/02/2013</td>	  	  
+    <td>Exercícios de Vetores e Matrizes</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>27/02/2013</td>	  	  
+    <td>SEM AULA</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>01/03/2013</td>	  	  
+    <td><a href="../../material/prog1/Aula9.pdf" target="_blank">Arquivos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>06/03/2013</td>	  	  
+    <td>Sem aula</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>08/03/2013</td>	  	  
+    <td>Revisão para a prova e trabalho da disciplina</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>13/03/2013</td>	  	  
+    <td>PROVA 2</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>15/03/2013</td>	  	  
+    <td>Seminário (rodada final) + Vista de Prova</td>
+	  <td>Relatório + código fonte</td>
+	</tr>
+	<tr>
+	  <td>20/03/2013</td>	  	  
+         <td>Vista de Prova (sala 326, bloco E)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>22/03/2013</td>	  	  
+         <td>Plantão de dúvidas (sala 326, bloco E)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>27/03/2013</td>	  	  
+         <td>VS</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>29/03/2013</td>	  	  
+         <td>Vista de prova (sala 326, bloco E)</td>
+	  <td></td>
+	</tr>
+
+</table>
+

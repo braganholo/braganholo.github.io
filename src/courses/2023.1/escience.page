@@ -1,0 +1,292 @@
+---
+title: E-SCIENCE 
+in_menu: true
+sort_info: 1
+---
+# E-Science
+
+<BR/>
+Horário: quartas e sextas de 09:00 às 11:00
+
+Local: Sala 213
+
+Grupo da disciplina: usaremos o [Google Classroom](https://classroom.google.com/) para as discussões da disciplina. Essa turma no Google Classroom será usada também para divulgar avisos gerais. <BR/>
+(importante: todos os alunos já foram cadastrados na turma do Google Classroom -- caso você não tenha sido cadastrado, entre em contato com a professora.
+
+## Avaliação
+
+
+Media = (4 x Trabalho + 2 x Seminários + Avaliação de Artigos) / 7 
+
+**APROVADO**:<BR/> 
+(Aluno de Pós) E (Presença >= 75%) E (Média >= 6)<BR/>
+(Aluno de Graduação) E (Média >= 6)
+
+
+**VERIFICAÇÃO SUPLEMENTAR**: <BR/>
+<!--(Aluno de Graduação) E (Presença >= 75%) E (4 <= Média < 6) -->
+(Aluno de Graduação) E (4 <= Média < 6)
+
+Será aprovado na VS o aluno que tirar nota maior ou igual a 6.
+
+**REPROVADO**: caso contrário
+
+
+## Grupos
+ 
+As atividades relativas aos Seminários da disciplina (apresentação e debate de artigos) serão feitas individualmente para alunos de doutorado e mestrado, e em dupla para alunos de graduação. Os grupos devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Apesar das atividades serem em grupo, a avaliação será individual. Coloquem um comentário no post do Classroom com os nomes dos componentes do seu grupo. Para critérios de avaliação, alunos avulsos são considerados da mesma forma que alunos de mestrado. 
+
+Em relação ao trabalho final da disciplina, alunos podem optar por manter o grupo ou fazer o trabalho individualmente. Favor informar a decisão em relação a como o trabalho final será realizado no mesmo comentário no Google Classroom que informará a composição de cada grupo.  
+
+## Seminários
+
+Um cronograma de leituras de artigos é indicado para viabilizar a consolidação dos conhecimentos referentes à disciplina.
+
+Algumas aulas do curso (ver seção Cronograma) consistem na apresentação e discussão dos artigos lidos na semana. A participação nessa atividade será considerada na composição da Média (item Seminários). Cada grupo ficará responsável pela apresentação de um ou mais artigos (dependendo do tamanho da turma), e da condução da discussão de um ou mais artigos que tenham sido apresentados por outro grupo. A apresentação e condução da discussão compõem a média da disciplina (item Seminários). 
+
+A apresentação pode e deve incluir material extra, que não seja do artigo lido. 
+
+Os debates devem levantar questões de discussão com a turma, tentando ligar o conteúdo do artigo com o conteúdo da disciplina. O grupo debatedor deve trazer questionamentos e instigar a participação da turma na discussão. A avaliação desse item levará em consideração a profundidade das questões levantadas, qualidade das discussões, e intensidade de interação de cada aluno nas discussões. 
+
+Alunos de graduação, ao invés de atuarem como debatedores e apresentadores de artigos, atuarão como demonstradores das ferramentas que usaremos em aula. A função do demonstrador é entregar aos colegas um manual passo a passo de instalação da ferramenta (via post no Google Classroom). Além disso, o grupo demonstrador deve fazer uma demonstração da ferramenta durante a aula, usando para isso um exemplo de uso que deve ser explicado passo a passo. O grupo deve explicar a relação entre a ferramenta e o conteúdo da disciplina (aulas e seminários). Em alguns casos, a ferramenta exige versões específicas de sistema operacional ou outros softwares. Nesse caso, recomendo o uso de uma máquina Virtual (como sugestão, você pode usar o [VirtualBox](https://www.virtualbox.org/) para gerenciar a máquina virtual).  
+
+Os artigos estão disponíveis online em bibliotecas digitais acessíveis da rede da UFF. Caso você tenha dificuldade em obter algum dos artigos, entre em contato com a professora.
+
+## Leituras
+
+Os PDFs de todas as leituras estão disponíveis no Google Classroom da disciplina, caso não seja possível encontrá-los gratuitamente nos links fornecidos abaixo. 
+
+<a name="L1">**1a. Leitura:**</a> 
+
+- Freire, J., Koop, D., Santos, E., Silva, C. [Provenance for Computational Tasks: A Survey](https://vgc.poly.edu/~juliana/pub/freire-cise2008.pdf). Computing in Science & Engineering, 2008.
+: &nbsp;
+: APRESENTADOR: --
+: DEBATEDOR: --
+
+- Buneman, P., Tan, W-C. [Data Provenance: What next?](https://sigmodrecord.org/publications/sigmodRecord/1809/pdfs/03_Principles_Buneman.pdf). SIGMOD RECORD, vol. 47, 2018.  
+: &nbsp;
+: APRESENTADOR: --
+: DEBATEDOR: --
+
+- Ferramenta: [Prov-Viewer](https://github.com/gems-uff/prov-viewer). Há um artigo que explica a ferramenta Prov-Viewer: Kohwalter, T., Oliveira, T., Freire, J., Clua, E., Murta, L. [Prov Viewer: A Graph-Based Visualization Tool for Interactive Exploration of Provenance Data](https://link.springer.com/chapter/10.1007/978-3-319-40593-3_6). In: IPAW, 2016.
+: &nbsp;
+: DEMONSTRADOR: --
+
+<a name="L2">**2a. Leitura:**</a>
+
+- Silva, C., Freire, J., Callahan, S. [Provenance for Visualizations Reproducibility and Beyond](https://ieeexplore.ieee.org/document/4293741). Computing in Science & Engineering, 2007.
+: &nbsp; 
+: APRESENTADOR: --
+: DEBATEDOR: --
+
+- Wolstencroft et al. [The Taverna workflow suite: designing and executing workflows of Web Services on the desktop, web or in the cloud](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3692062/). Nucleic Acids Research, vol. 41, 2013. 
+: &nbsp;
+: APRESENTADOR: --
+: DEBATEDOR: --
+
+- Ferramenta: [VisTrails](https://www.vistrails.org/index.php/Main_Page)
+: &nbsp;
+: DEMONSTRADOR: --
+
+<a name="L3">**3a. Leitura:**</a>
+
+- Murta, L., Braganholo, V., Chirigati, F., Koop, D., Freire, J. [noWorkflow: Capturing and Analyzing Provenance of Scripts](https://github.com/gems-uff/noworkflow/raw/master/docs/ipaw2014.pdf). In: IPAW, 2014.
+: &nbsp;
+: APRESENTADOR: --
+: DEBATEDOR: --
+
+- Pimentel, J.F., Freire, J., Braganholo, V., Murta, L. [Tracking and Analyzing the Evolution of Provenance from Scripts](https://github.com/gems-uff/noworkflow/raw/master/docs/ipaw2016a.pdf). In: IPAW, 2016.
+: &nbsp;
+: APRESENTADOR: --
+: DEBATEDOR: --
+
+- Ferramenta: [noWorkflow](http://gems-uff.github.io/noworkflow/)
+: &nbsp;
+: DEMONSTRADOR: --
+
+<a name="L4">**4a. Leitura:**</a>
+
+- McPhillips, T. et al.. [YesWorkflow: A User-Oriented, Language-Independent Tool for Recovering Workflow Information from Scripts](http://ijdc.net/index.php/ijdc/article/view/10.1.298). International Journal of Digital Curation, v. 10(1), 2015. 
+: &nbsp;
+: APRESENTADOR: --
+: DEBATEDOR: --
+
+- Gun, P., Engler, D. [Using Automatic Persistent Memoization to Facilitate Data Analysis Scripting](https://dl.acm.org/doi/10.1145/2001420.2001455). In: ISSTA, 2011.
+: &nbsp;
+: APRESENTADOR: --
+: DEBATEDOR: --
+
+- Ferramenta: [YesWorkflow](https://github.com/yesworkflow-org/yw-prototypes)
+: &nbsp;
+: DEMONSTRADOR: --
+
+- Ferramenta: [IncPy](http://www.pgbovine.net/incpy.html) -- [Repositório Alternativo](https://github.com/pajju/IncPy)
+: &nbsp;
+: DEMONSTRADOR: --
+
+<a name="L5">**5a. Leitura:**</a>
+
+- Nuzzo, R. [How scientists fool themselves - and how they can stop](http://www.nature.com/news/how-scientists-fool-themselves-and-how-they-can-stop-1.18517). Nature, October, 2015.
+: &nbsp;
+: APRESENTADOR: -- 
+: DEBATEDOR: --
+
+- Peng, R. [Reproducible research in computational science](http://science.sciencemag.org/content/334/6060/1226.full). Science, 2011.
+: &nbsp;
+: APRESENTADOR: --
+: DEBATEDOR: --
+
+<a name="L6">**6a. Leitura:**</a>
+
+- Chirigati, F., Rampin, R., Shasha, D., Freire, J. [ReproZip: Computational Reproducibility With Ease](https://vgc.poly.edu/~fchirigati/papers/reprozip-sigmod206.pdf). In: SIGMOD, 2016. 
+: &nbsp;
+: APRESENTADOR: --
+: DEBATEDOR: --
+
+- Howe, B., Guo, P. [CDE: A Tool for Creating Portable Experimental Software Packages](http://ieeexplore.ieee.org/document/6171146/). Computing in Science & Engineering, v 14(4), 2012.
+: &nbsp;
+: APRESENTADOR: --
+: DEBATEDOR: --
+
+- Ferramenta 1: [Reprozip](https://www.reprozip.org/) 
+: &nbsp;
+: DEMONSTRADOR: --
+
+- Ferramenta 2: [CDE](http://www.pgbovine.net/cde.html) -- [Repositório Alternativo](https://github.com/usnistgov/corr-CDE)
+: &nbsp;
+: DEMONSTRADOR: --
+
+<a name="L7">**7a. Leitura:**</a>
+
+- Pimentel, J.F., Murta, L., Braganholo, V., Freire, J. [A large-scale study about quality and reproducibility of jupyter notebooks](https://ieeexplore.ieee.org/document/8816763). In MSR 2019: 507-517
+: &nbsp;
+: APRESENTADOR: --
+: DEBATEDOR: --
+
+- Wang, J., Crawl, D., Purawat, S. [Big Data Provenance: Challenges, State of the Art and Opportunities](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7364047). In: IEEE International Conference on Big Data, 2015.
+: &nbsp;
+: APRESENTADOR: --
+: DEBATEDOR: --
+
+- Ferramenta: N/A
+
+## Trabalho
+
+Cada grupo (lembrando que também é possível fazer o trabalho de forma individual) deve, durante as primeiras semanas de aula, escolher o tema do seu trabalho. O tema do trabalho deve ser negociado com a professora antes do seu início.
+
+Como resultado, espera-se a escrita de um artigo de 5 páginas no [formato da ACM](https://www.acm.org/publications/proceedings-template), apresentando a motivação e o objetivo do trabalho, trabalhos relacionados, resultados obtidos e considerações finais. Para trabalhos que tenham implementação (o que é fortemente recomendado), será menor a exigência sobre a análise de trabalhos relacionados. Por outro lado, espera-se que sejam fornecidos exemplos de utilização do protótipo implementado. Além disso, também é esperado um detalhamento das dificuldades encontradas e decisões tomadas. Em princípio, os artigos resultantes do trabalho serão utilizados somente para avaliação na disciplina, mas podem ser posteriormente aprimorados para submissão a fóruns científicos, caso seja de interesse do aluno e da professora. O trabalho deve ser entregue na data estipulada no Cronograma da disciplina.
+
+Sugiro fortemente a leitura das [dicas para escrita de artigos científicos](http://www.ic.unicamp.br/~cmbm/tips/valduriez.pdf). Elas podem ajudar vocês a produzirem um trabalho de qualidade.
+
+A entrega será feita através da submissão do artigo para a "mini-conferência" da disciplina, usando um software de controle de conferências real, o [Easy Chair](http://www.easychair.org). Para submeter seu artigo, [clique aqui](https://easychair.org/conferences/?conf=escienceuff20231). 
+
+O trabalho será apresentado em três momentos distintos (ver seção Cronograma). O grupo/aluno poderá utilizar slides e quadro. Na primeira apresentação é esperado que o grupo/aluno discuta o contexto do trabalho, objetivo e o andamento atual do trabalho. Na segunda apresentação, é esperado que já exista algum resultado concreto. A terceira apresentação será a apresentação final, onde os grupos devem mostrar os resultados obtidos no trabalho. Vale notar que nesse momento os trabalhos já foram entregues, e essa apresentação serve como um espaço para que os grupos detalhem as suas experiências na execução do trabalho. 
+
+Trabalhos que não forem entregues e apresentados no prazo estipulado ficarão com nota ZERO.  
+
+## Avaliação de Artigos
+
+Os artigos entregues por cada grupo serão [submetidos através do Easy Chair](https://easychair.org/conferences/?conf=escienceuff20231). Na disciplina, simularemos uma conferência real, onde autores submetem artigos e os artigos são avaliados pelo Comitê de Programa da conferência. Os alunos da disciplina farão parte do comitê de programa, e consequentemente receberão artigos dos colegas para avaliar. As avaliações serão consideradas na nota do aluno que fez a avaliação (item Avaliação de Artigos), mas não serão consideradas na nota do grupo que submeteu o artigo (para que as avaliações sejam sérias, sem preocupação em prejudicar a nota do colega).   
+
+Para avaliar os artigos que foram atribuídos a você, [clique aqui](https://easychair.org/conferences/?conf=escienceuff20231). Escolha entrar com o papel de reviewer ao invés de autor. Depois, acesse o menu Reviews, e clique em My Papers. Lá aparecerão os artigos que foram atribuídos para você avaliar.  
+
+## Presença
+
+<!-- ### Regulamento da Graduação em relação a faltas
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.uff.br/sites/default/files/001-2015_regulamento_do_curso_de_graduacao_0.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 96) e não há abono de faltas sem documentação (Art. 103).
+
+-->
+
+### Regulamento da Pós-Graduação  em relação a faltas
+
+De acordo com o [Regulamento do PGC](http://www.ic.uff.br/images/documentos/pos_graduacao/regras_e_procedimentos/regulamentos/RegPGNovo.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 20). Caso essa freqüência não
+seja atingida, o aluno será considerado reprovado na disciplina e lhe será atribuído o
+grau 0,0 (zero). 
+
+
+
+## Bibliografia
+
+- CALDWELL, R., LINDBERG, D. [How Science works](http://undsci.berkeley.edu/lessons/pdfs/how_science_works.pdf), Understanding Science Project, University of California Museum of Paleontology. 
+
+- GIL, Y., MILES, S., 2010. [PROV Model Primer](http://www.w3.org/TR/prov-primer/). W3C. 
+
+- HERSCHEL, M.; DIESTELKAMPER, R.; LAHMAR, H. [A survey on provenance: What for? What form? What from?](https://link.springer.com/article/10.1007/s00778-017-0486-1). The VLDB Journal, 2017. 
+
+- MARINHO, A. ; MURTA, L. ; WERNER, C. ; BRAGANHOLO, V. ; CRUZ, S. ; OGASAARA, E. ; MATTOSO, M. [ProvManager: a provenance management system for scientific workflows](http://onlinelibrary.wiley.com/doi/10.1002/cpe.1870/abstract). Concurrency and Computation, v. 24, p. 1513-1530, 2012.
+
+- MATTOSO, M. L. Q. ; WERNER, C. M. L. ; TRAVASSOS, G. H. ; BRAGANHOLO, V. ; MURTA, L. G. P. ; OGASAWARA, E. ; OLIVEIRA, D. ; CRUZ, S. ; MARTINHO, W. . [Towards Supporting the Life Cycle of Large Scale Scientific Experiments](http://www.inderscienceonline.com/doi/abs/10.1504/IJBPIM.2010.033176). International Journal of Business Process Integration and Management (Print), v. 5, p. 79-92, 2010
+
+- MISSIER, P., DEY, S., BELHAJJME, K., CUEVAS-VICENTTIN, V., LUDASCHER, B.: [D-PROV: Extending the PROV Provenance Model with Workflow Structure](https://www.usenix.org/conference/tapp13/technical-sessions/presentation/missier). In: TaPP (2013). 
+
+- MOREAU, L., FREIRE, J., FUTRELLE, J., McGRATH, R.E., MYERS, J., PAULSON, P.: [The Open Provenance Model: An Overview](https://link.springer.com/chapter/10.1007/978-3-540-89965-5_31). In: IPAW. (2008). 
+
+- MOREAU, L., MISSIER, P. [PROV Data Model](https://www.w3.org/TR/2013/REC-prov-dm-20130430/). W3C Recommendation, 2013.
+
+- [The scientific method](https://www.khanacademy.org/science/biology/intro-to-biology/science-of-biology/a/the-science-of-biology), Khan Academy
+
+- Artigos das leituras que faremos na disciplina, relacionados acima.
+
+## Cronograma
+
+<!-- 
+|15/03/2019|[Apresentação da Disciplina](/material/escience/01-Apresentacao.pdf) (para alunos da pós)|
+|22/03/2019|Apresentação da Disciplina (para alunos da graduação) (não haverá aula da pós nesse dia devido à [Escola de Verão do PGC](http://www.ic.uff.br/eri-rj-2019/ev-ppgc/))
+|29/03/2019|[Método Científico e Experimentos Científicos](/material/escience/02-ScientificMethod.pdf)|
+|05/04/2019|[Proveniência](/material/escience/03-Provenance.pdf) + <a href="#L1">1a. Leitura</a>|
+|12/04/2019|[Workflows e Scripts](/material/escience/04-Workflows-Scripts-v2.pdf) + <a href="#L2">2a. Leitura</a>|
+|19/04/2019|FERIADO|
+|26/04/2019|<a href="#L3">3a. Leitura</a> + <a href="#L4">4a. Leitura</a>|
+|03/05/2019|[Aula Prática](/material/escience/pratica.zip) no Lab 304 <BR/>Material de Apoio:<BR/>[Manual do Vistrails](http://www.vistrails.org/usersguide/v2.2/html/VisTrails.pdf)<BR/> [Manual do noWorkflow](http://gems-uff.github.io/noworkflow/)|
+|10/05/2019|APRESENTAÇÃO DE PROPOSTAS DO TRABALHO|
+|17/05/2019|[Reproducibilidade](/material/escience/06-Reproducibility.pdf) + <a href="#L5">5a. Leitura</a>|
+|24/05/2019|<a href="#L6">6a. Leitura</a> + AULA|
+|31/05/2019|<a href="#L7">7a. Leitura</a> + AULA|
+|07/06/2019|APRESENTAÇÃO ANDAMENTO TRABALHO|
+|14/06/2019|**PROVA**<BR/>APRESENTAÇÃO ANDAMENTO TRABALHO (CONTINUAÇÃO)|
+|21/06/2019|FERIADO|
+|28/06/2019|APRESENTAÇÃO DO TRABALHO FINAL|Artigo no [EasyChair](https://easychair.org/conferences/?conf=escienceuff20221)
+|05/07/2019|APRESENTAÇÃO DO TRABALHO FINAL|Avaliação dos Artigos no [EasyChair](https://easychair.org/conferences/?conf=escienceuff20221)
+|12/07/2019|**SEGUNDA CHAMADA** (apenas p/ alunos de graduação)<BR/>VISTA DE PROVA|
+|19/07/2019|**VS** (Apenas para alunos de graduação)<BR/>VISTA DE VS|
+
+-->
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+|Data|Atividade
+|--
+|05/04/2023| Apresentação da Disciplina
+|07/04/2023| **FERIADO**
+|12/04/2023| [Método Científico e Experimentos Científicos](/material/escience/02-ScientificMethod.pdf)|
+|14/04/2023| Método Científico e Experimentos Científicos (continuação)
+|19/04/2023| [Proveniência](/material/escience/03-Provenance.pdf)
+|21/04/2023| **FERIADO**
+|26/04/2023| 1a. Leitura
+|28/04/2023| [Workflows e Scripts](/material/escience/04-Workflows-Scripts-v2.pdf)
+|03/05/2023| **SEM AULA** 
+|05/05/2023| 2a. Leitura
+|10/05/2023| 3a. Leitura
+|12/05/2023| [Aula Prática](/material/escience/pratica.zip) no Lab 304 <BR/>Material de Apoio:<BR/>[Manual do Vistrails](http://www.vistrails.org/usersguide/v2.2/html/VisTrails.pdf)<BR/> [Manual do noWorkflow](http://gems-uff.github.io/noworkflow/)
+|17/05/2023| 4a. Leitura
+|19/05/2023| Aula dedicada à elaboração da proposta do trabalho
+|24/05/2023| **TRABALHO** - Apresentação de Propostas
+|26/05/2023| [Reproducibilidade](/material/escience/06-Reproducibility.pdf)
+|31/05/2023| 5a. Leitura
+|02/06/2023| 6a. Leitura
+|07/06/2023| Aula dedicada ao trabalho final
+|09/06/2023| **FERIADO**
+|14/06/2023| 7a. Leitura
+|16/06/2023| Aula dedicada ao trabalho final
+|21/06/2023| **TRABALHO** - Apresentação de Andamento
+|23/06/2023| [Redação de Artigos](/material/escience/07-Artigos.pdf)
+|28/06/2023| [Aula Prática - LaTeX e Overleaf](/material/escience/08-Overleaf.pdf)
+|30/06/2023| Aula dedicada ao trabalho final
+|05/07/2023| Aula dedicada ao trabalho final
+|07/07/2023| Entrega do Artigo via [EasyChair](https://easychair.org/conferences/?conf=escienceuff20231)
+|12/07/2023| **TRABALHO** - Apresentação Final + <BR/> Entrega das Avaliações dos Artigos via [EasyChair](https://easychair.org/conferences/?conf=escienceuff20231)
+|14/07/2023| SEM AULA
+|19/07/2023| **VS**
+|21/07/2023| **VISTA DE VS**
+
+

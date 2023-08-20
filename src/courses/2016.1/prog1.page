@@ -1,0 +1,213 @@
+---
+title: PROG I
+in_menu: true
+sort_info: 2
+---
+# Programação de Computadores I
+
+
+
+<BR/>
+Horário: quartas e sextas de 11h às 13h 
+
+Local: Sala 306 (quarta) e 215 (sexta)
+
+Grupo para avisos da disciplina: usaremos um grupo fechado do Facebook para as discussões da disciplina. Inscrevam-se em <https://www.facebook.com/groups/prog1.2016.1.uff/>. Esse grupo será usado para divulgar avisos gerais e para dúvidas. <BR/>
+
+Importante: todos os alunos **devem** se cadastrar nesse grupo -- o grupo é fechado, então nada que for postado nele aparecerá na sua linha do tempo do Facebook.
+
+## Monitoria
+
+Arthur Bastos (SEG 16-18h; TER 14-16h; QUA 9-11h; SEX 14-16h)
+
+Felipe Brito (SEG 16-18h; QUA 11-13h; QUI 11-13h; SEX 14-16h)
+
+## Avaliação
+
+P1 = Prova sem consulta
+
+P2 = Prova sem consulta
+
+Média = (P1 * 2 + P2 * 2 + T) / 5
+
+**APROVADO**
+
+(Presença >= 75%) E (*Média* >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Presença >= 75%) E (4 <= *Média* < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Caso contrário
+
+## Grupos
+
+As atividades da disciplina serão feitas em grupos de no máximo 4 participantes. Os grupos são flexíveis e podem mudar a cada trabalho. Observar apenas o limite máximo de 4 participantes.  
+
+
+## Exercícios para Entregar
+
+Ao longo da disciplina, serão realizados diversos exercícios. Esses exercícios comporão a nota T da disciplina. Todos terão data de entrega fixada e deverão ser entregues no Google Classroom da disciplina. O código de inscrição na turma do Google Classroom, além de instruções de como se inscrever, estão postados no [grupo do Facebook](https://www.facebook.com/groups/prog1.2016.1.uff/). 
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.uff.br/sites/default/files/001-2015_regulamento_do_curso_de_graduacao_0.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 96) e não há abono de faltas sem documentação (Art. 103).
+
+## Bibliografia
+
+Paul Barry, Use a Cabeça! Programação, Editora Alta Books.
+
+Paul Barry, Use a Cabeça! Python, Editora Alta Books.
+
+Furlan, M., Gomes, M., Soares, M., Concilio, R., 2005, Algoritmos e Lógica de Programação, Editora Thomson.
+
+## Ferramentas
+
+* [Interpretador Python](https://www.python.org/downloads/)
+* [PyCharm](https://www.jetbrains.com/pycharm-educational/)
+* Existem apps para tablets e celulares que permitem programar em Python. Faça a busca na loja de aplicativos do seu aparelho.
+
+O aluno tem liberdade de utilizar a IDE Python de sua preferência. Contudo, nas atividades de sala de aula será utilizado o [PyCharm](https://www.jetbrains.com/pycharm-educational/).
+
+## Listas de Exercícios
+
+Duas listas de exercício são disponibilizadas durante o curso, respectivamente para a matéria da primeira e da segunda prova. Durante a resolução dos exercícios apresentados nas listas, os alunos podem entrar em contato com os monitores para tirar dúvidas. Contudo, espera-se que os alunos façam uso do próprio compilador Python para verificar a corretude das suas respostas.
+
+As listas não precisam ser entregues ao professor. O intuito é servirem como apoio para fixar a matéria dada em sala. Como estímulo, ao menos uma questão de cada prova será baseada na lista de exercícios. Nas aulas de exercícios, os alunos serão convidados a apresentar as suas respostas da lista. Essas apresentações irão compor o item Participação da nota final.
+
+* [Lista para a primeira prova](../../material/prog-python/lista1.pdf)
+
+* [Lista para a segunda prova](../../material/prog-python/lista2.pdf) 
+
+Obs.: Caso tenha dificuldade de fazer alguma questão, verifique se não é referente a uma matéria que está para ser apresentada nas próximas aulas.
+
+
+## Cronograma
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;" border="1">
+	<tr style="font-weight: bold;">
+		<td>Data</td>
+		<td>Atividade</td>
+	</tr>
+    <tr>
+        <td>27/04/2016</td>
+        <td><a href="../../material/prog-python/01-Apresentacao-2016.1.pdf" target="_blank">Apresentação da Disciplina</a></td>
+    </tr>
+    <tr>
+	    <td>29/04/2016</td>
+        <td>SEM AULA (FORMATURA CEDERJ)</td>
+    </tr>
+    <tr>
+        <td>04/05/2016</td>
+        <td><a href="../../material/prog-python/02-Introducao.pdf" target="_blank">Introdução à Programação</a></td>
+    </tr>
+    <tr>
+        <td>06/05/2016</td>
+        <td>Exercícios</td>
+    </tr>
+    <tr>
+        <td>11/05/2016</td>
+        <td><a href="../../material/prog-python/03-Organizacao.pdf" target="_blank">Organização de Programas em Python</a></td>
+    </tr>
+    <tr>
+        <td>13/05/2016</td>
+        <td><a href="../../material/prog-python/03-Exercicios.pdf" target="_blank">Exercícios</a></td>
+    </tr>
+    <tr>
+        <td>18/05/2016</td>
+        <td><a href="../../material/prog-python/04-OperadoresEstruturasDecisao.pdf" target="_blank">Operadores e Comandos de Decisão</a></td>
+    </tr>
+    <tr>
+        <td>20/05/2016</td>
+        <td><a href="../../material/prog-python/04-Exercicios.pdf" target="_blank">Exercícios</a></td>
+    </tr>
+    <tr>
+        <td>25/05/2016</td>
+        <td><a href="../../material/prog-python/05-Repeticao.pdf" target="_blank">Estruturas de Repetição</a></td>
+    </tr>
+    <tr>
+        <td>27/05/2016</td>
+        <td>FERIADO</td>
+    </tr>
+    <tr>
+        <td>01/06/2016</td>
+        <td>Exercícios (ver slides da aula passada)</td>
+    </tr>
+    <tr>
+        <td>03/06/2016</td>
+        <td><a href="../../material/prog-python/06-Vetores.pdf" target="_blank">Vetores</a></td>
+    </tr>
+    <tr>
+        <td>08/06/2016</td>
+        <td><a href="../../material/prog-python/06-Exercicios.pdf" target="_blank">Exercícios sobre vetores</a></td>
+    </tr>
+    <tr>
+        <td>10/06/2016</td>
+        <td>PROVA 1</td>
+    </tr>
+    <tr>
+        <td>15/06/2016</td>
+        <td><a href="../../material/prog-python/07-Matrizes.pdf" target="_blank">Matrizes</a></td>
+    </tr>
+    <tr>
+        <td>17/06/2016</td>
+        <td>Exercícios sobre matrizes</td>
+    </tr>
+    <tr>
+        <td>22/06/2016</td>
+        <td>VISTA DE PROVA</td>
+    </tr>
+    <tr>
+        <td>24/06/2016</td>
+        <td><a href="../../material/prog-python/08-Listas.pdf" target="_blank">Manipulação de Listas</a></td>
+    </tr>
+    <tr>
+        <td>29/06/2016</td>
+        <td><a href="../../material/prog-python/09-Subprogramacao.pdf" target="_blank">Subprogramação</a></td>
+    </tr>
+    <tr>
+        <td>01/07/2016</td>
+        <td><a href="../../material/prog-python/09-Exercicios.pdf" target="_blank">Exercícios</a></td>
+    </tr>
+    <tr>
+        <td>06/07/2016</td>
+        <td>SEM AULA - <a href="http://www.csbc2016.com.br/"  target="_blank">CSBC</a></td>
+    </tr>
+    <tr>
+        <td>08/07/2016</td>
+        <td>SEM AULA - <a href="http://www.csbc2016.com.br/"  target="_blank">CSBC</a></td>
+    </tr>
+    <tr>
+        <td>13/07/2016</td>
+        <td><a href="../../material/prog-python/10-Strings.pdf" target="_blank">Manipulação de Strings</a></td>
+    </tr>
+    <tr>
+        <td>15/07/2016</td>
+        <td><a href="../../material/prog-python/11-TuplasDicionarios.pdf" target="_blank">Tuplas e Dicionários</a></td>
+    </tr>
+    <tr>
+        <td>20/07/2016</td>
+        <td><a href="../../material/prog-python/12-Arquivos.pdf" target="_blank">Arquivos</a></td>
+    </tr>
+    <tr>
+        <td>22/07/2016</td>
+        <td>PROVA 2</td>
+    </tr>
+    <tr>
+        <td>27/07/2016</td>
+        <td>VISTA DE PROVA</td>
+    </tr>
+    <tr>
+        <td>29/07/2016</td>
+        <td>VS ou SEGUNDA CHAMADA (11-13h)<BR/>
+            VISTA DE PROVA (16-18h na sala 512)</td>
+    </tr>
+    <tr>
+        <td>03/08/2016</td>
+        <td>VS (para quem fez SEGUNDA CHAMADA)</td>
+    </tr>
+</table>

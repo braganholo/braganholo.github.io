@@ -1,0 +1,130 @@
+---
+title: ED2
+in_menu: true
+sort_info: 1
+   
+---
+# Estruturas de Dados II
+
+<BR/>
+
+Horário: quartas e sextas, de 7h às 9h
+
+Local: Sala 321, Lab 304
+
+Local para avisos e entrega de trabalhos da disciplina: usaremos o [Google Classroom](http://classroom.google.com/). É necessário ter uma conta no ID UFF. A sala de aula no Google Classroom será usada também para divulgar avisos gerais e para dúvidas. <BR/>
+
+Importante: todos os alunos **devem** se inscrever no Google Classroom (os alunos para os quais eu possuía o endereço de email do ID UFF receberam convite -- nesse caso basta aceitar o convite). Para se inscrever, clique no símbolo de "+" no canto superior direito da página, e selecione a opção "Participar da Turma". O código de inscrição na turma será fornecido no primeiro dia de aula. 
+
+## Avaliação
+
+A avaliação da disciplina é composta de duas provas (P1 e P2) e de trabalhos de implementação ao longo da disciplina (T). A média será calculada da seguinte forma: 
+
+P1 = Prova sem consulta
+
+P2 = Prova sem consulta
+
+T = Média dos Trabalhos
+
+Média = (P1 + P2 + T) / 3
+
+**APROVADO**
+
+(Presença >= 75%) E (*Média* >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Presença >= 75%) E (4 <= *Média* < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Caso contrário
+
+### Trabalhos de Implementação
+
+Ao longo da disciplina, serão realizados diversos trabalhos de implementação. Esses trabalhos comporão a nota T da disciplina. Todos terão data de entrega fixada e deverão ser entregues no Google Classroom da disciplina. O código de inscrição na turma do Google Classroom estão na lista de chamada da disciplina. 
+
+As implementações que faremos ao longo da disciplina serão em C. Fornecerei projeto do [Netbeans](https://netbeans.org/downloads/) para cada exercício, mas haverá também um makefile disponível para quem preferir usar outra IDE. Quem quizer usar o makefile via linha de comando deve fazer da seguinte forma:  
+
+    $ make main
+
+### Grupos
+
+Os Trabalhos e exercícios da disciplina serão feitos em grupos de no máximo 3 participantes. Os grupos são flexíveis e podem mudar a cada trabalho. Observar apenas o limite máximo de 3 participantes.  
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.uff.br/sites/default/files/001-2015_regulamento_do_curso_de_graduacao_0.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 96) e não há abono de faltas sem documentação (Art. 103).
+
+## Bibliografia
+
+Ferraz, I. N. Programação com Arquivos. Editora Manole Ltda. Barueri, 2003. 
+
+Szwarcfiter, J., Markenzon, L. Estruturas de Dados e Seus Algoritmos. Editora LTC, 3a. edição, 2010.
+
+Santos, Clesio S. e Azeredo, Paulo A. Tabelas: Organização e Pesquisa. Série de Livros Didáticos, Número 10. Ed. Sagra Luzzatto, 2001.
+
+Smith, Peter D. e Barnes, G. Michael. Files & Databases: An Introduction. Addison Wesley Series in Computer Science,1987.
+
+## Ferramentas
+
+Para ajudar na identificação de memory leak, vocês podem usar as seguintes ferramentas: 
+
+* [Dr. Memory](http://drmemory.org/docs/index.html) (funciona em todas as plataformas)
+
+* [Valgrind](http://valgrind.org/) (específico para Linux)
+
+## Listas de Exercícios
+
+[Lista 1]({relocatable: /material/ed2/listas/Lista1.pdf}) - Arquivos Sequenciais
+
+[Lista 2]({relocatable: /material/ed2/listas/Lista2.pdf}) - Tabelas Hash
+
+[Lista 3]({relocatable: /material/ed2/listas/Lista3.pdf}) - Árvores B, B+, Tries 
+
+[Lista 4]({relocatable: /material/ed2/listas/Lista4.pdf}) - Indexação por chaves secundárias
+
+## Cronograma
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+|Data|Atividade
+|---
+|18/08/2017|Apresentação da Disciplina
+|23/08/2017|[Conceito de Arquivos](/material/ed2/02-Arquivos-v2.pdf)
+|25/08/2017|Manipulação de Arquivos (slides da aula anterior)<br/>[Tutorial sobre manipulação de arquivos em C](/material/ed2/02-tutorialArquivosC.zip)
+|30/08/2017|SEM AULA - [VLDB](http://www.vldb.org/2017)
+|01/09/2017|SEM AULA - [VLDB](http://www.vldb.org/2017)
+|06/09/2017|[Classificação Externa](/material/ed2/04-ClassificacaoExterna-v2.pdf)
+|08/09/2017|RECESSO
+|13/09/2017|SEM AULA
+|15/09/2017|SEM AULA
+|20/09/2017|[Intercalação de Partições Classificadas](/material/ed2/05-Intercalacao-v2.pdf)
+|22/09/2017|[Tabelas Hash](/material/ed2/06-AcessoDireto-v2.pdf)
+|27/09/2017|Tratamento de Colisão por Encadeamento Exterior (slides da aula passada)
+|29/09/2017|Implementação de Hash com Tratamento de Colisão por Encadeamento Exterior
+|04/10/2017|Tratamento de Colisão por Encadeamento Interior e Endereçamento Aberto. Tabelas Extensíveis (slides da aula de 22/09).  
+|06/10/2017|Implementação de Hash com Tratamento de Colisão por Encadeamento Interior sem Zona de Colisão 
+|11/10/2017|PROVA 1
+|13/10/2017|SEM AULA
+|18/10/2017|[Arquivos Indexados - Árvores B](/material/ed2/07-ArquivosIndexados-v2.pdf)
+|20/10/2017|VISTA DE PROVA
+|25/10/2017|SEM AULA - AGENDA ACADÊMICA
+|27/10/2017|SEM AULA - AGENDA ACADÊMICA
+|01/11/2017|Árvore B+ (slides da aula anterior)
+|03/11/2017|RECESSO
+|08/11/2017|[Arquivos Indexados por Chaves Secundárias](/material/ed2/10-ArquivosIndexadosChavesSecundarias.pdf)
+|10/11/2017|Implementação Indexação por Chave Secundária
+|15/11/2017|FERIADO
+|17/11/2017|[Árvores Digitais](/material/ed2/08-ArvoresDigitais.pdf)
+|22/11/2017|FERIADO
+|24/11/2017|[Listas de Prioridade](/material/ed2/09-ListasPrioridade.pdf)
+|29/11/2017|Inserção em Listas de Prioridade
+|01/12/2017|[Compressão de Dados](/material/ed2/11-Compressao.pdf)
+|06/12/2017|Plantão de Dúvidas (sala 512)
+|08/12/2017|PROVA 2
+|13/12/2017|SEGUNDA CHAMADA
+|15/12/2017|VISTA DE PROVA
+|20/12/2017|VS
+|22/12/2017|VISTA DE PROVA

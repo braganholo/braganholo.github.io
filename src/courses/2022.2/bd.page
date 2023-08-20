@@ -1,0 +1,201 @@
+---
+title: PROJETO BD 
+in_menu: true
+sort_info: 1
+---
+# Introdução a Projeto de Banco de Dados
+
+<BR/>
+Horário: terças e quintas de 14:00 às 16:00
+
+Local: Sala 217
+
+Sala de aula virtual da disciplina: usaremos o [Google Classroom](http://classroom.google.com/) para as discussões e avisos. A sala de aula no Google Classroom será usada também para divulgar avisos gerais e para dúvidas. <BR/>
+
+<!--
+## Monitoria
+
+Monitor: a ser definido
+
+Horários de atendimento: a ser definido
+
+-->
+
+## Ementa
+
+- Introdução;
+- Modelo Entidade-Relacionamento;
+- Modelo Relacional; 
+- Mapeamento Lógico Relacional;
+- Normalização;
+- Definição e Manipulação de Dados em SQL;
+
+## Avaliação
+
+A avaliação da disciplina é composta de duas provas (P1 e P2) e de um conjunto de trabalhos (T). A média será calculada da seguinte forma: 
+
+P1 = Prova sem consulta
+
+P2 = Prova sem consulta
+
+T = Média das notas dos trabalhos 
+
+Média = ((P1 * 2) + (P2 * 2) + T ) / 5
+
+**APROVADO**:<BR/> 
+(Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**: <BR/>
+(Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS o aluno que tirar nota maior ou igual a 6.
+
+**REPROVADO**: caso contrário
+
+<!-- ## Exercícios no Google Classroom
+
+Diversos exercícios serão disponibilizadas durante o curso. Todos terão data de entrega marcada no Google Classroom. Durante a resolução dos exercícios, os alunos podem usar comentários de uma tarefa específica para tirar dúvidas no [Google Classroom](http://classroom.google.com). Espera-se que os alunos façam uso do compilador C para verificar a corretude das suas respostas. Alunos que entregarem os exercícios **no prazo e corretos** podem ser aprovados direto caso tenham ficado com média entre 5,5 e 5,9. Da mesma forma, terão direto à VS caso tenham ficado com média entre 3,5 e 3,9. 
+
+## Duplas
+
+O Trabalho e os exercícios da disciplina serão feitos em duplas. As duplas são flexíveis e podem mudar a cada exercício. Observar apenas o limite máximo de 2 participantes. 
+
+IMPORTANTE: os exercícios devem ser entregues por todos os membros da dupla, SEMPRE. O nome do arquivo zip deve ser a concatenação do nome da dupla, separados por um traço (-). Exemplo: suponha a seguinte dupla Fábio Santos e João Felipe da Silva. O nome do arquivo zip a ser entregue em cada tarefa é FabioSantos-JoaoFelipedaSilva.zip. Note que os nomes são ordenados alfabeticamente.   
+
+-->
+
+## Trabalhos
+
+Haverá um conjunto de trabalhos a serem entregues via [CodeBench](https://codebench.icomp.ufam.edu.br/) e via [Google Classroom](http://classroom.google.com). As entregas possuem data marcada e entregas atrasadas não serão aceitas. Esse item compõe a média final da disciplina, e a nota desse item será calculada pela média aritmética dos trabalhos passados ao longo do semestre. 
+
+## Slides das Aulas
+
+Os slides das aulas estão disponíveis no Google Classroom. 
+
+<!-- ## Listas de Exercícios 
+
+As listas de exercícios abaixo são sugeridas para auxiliar no estudo e fixação da matéria. 
+
+* [Árvores Binárias](/material/ed/lista-arvore-binaria.pdf)
+* [Árvores Binárias de Busca](/material/ed/lista-arvore-binaria-busca.pdf)
+* [AVL](/material/ed/lista-avl.pdf) 
+* [Grafos](/material/ed/lista-grafos.pdf)
+* [Árvores B e B+](/material/ed/lista-arvores-b-bmais.pdf)
+* [Tabelas Hash](/material/ed/lista-hash.pdf)
+
+
+## Video-aulas no Youtube
+
+As aulas da disciplina estão disponíveis no Youtube. Acesse a [playlist](https://youtube.com/playlist?list=PLYqZErLVzMfGDF0M2p-ZKKq0xDdGWuvqI) no meu [canal](https://www.youtube.com/channel/UCB0eF44ArWMdinU7ygks5SA). 
+
+-->
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.uff.br/sites/default/files/001-2015_regulamento_do_curso_de_graduacao_0.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 96) e não há abono de faltas sem documentação (Art. 103).
+
+## Bibliografia
+
+
+Sistemas de Banco de Dados. Ramez E. Elmasri, e Shamkant Navathe, 2005, 4a edição, Ed. Pearson - Addison Wesley.
+
+Sistema de Banco de Dados. Abraham Silberschatz, Henry Korth, S. Sudarshan, 2020, 7a. Edição, GEN LTC (Essa é a referência mais completa para a parte de álgebra relacional).
+
+Projeto de Banco de Dados. Carlos Alberto Heuser, 2004, 5a. edição, Porto Alegre: Sagra Luzzato.
+
+
+## Ferramentas
+
+### MariaDB
+
+Para consultas SQL, usaremos o banco de dados [MariaBD](https://mariadb.org/). 
+
+### [MariaDB Online](https://sqliteonline.com/)
+
+Nesse site também é possível usar outros SGBDs (SQLite, PostgreSQL e MS SQL) 
+
+### [Tutorial sobre o MariaDB](https://www.mariadbtutorial.com/)
+
+## Cronograma
+
+<!--
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+|Data|Atividade
+|--
+|29/03/2022|Apresentação da Disciplina 
+|31/03/2022|[Revisão de C](/material/ed/02-RevisaoC.pdf)
+|05/04/2022|Aula no Laboratório
+|07/04/2022|[Árvores e Árvores Binárias](/material/ed/03-ArvoresBinarias.pdf) <BR/>[Implementação de Árvore Binária](/material/ed/arvore-binaria.zip) 
+|12/04/2022|[Árvores Binárias de Busca](/material/ed/04-ArvoresBinariasBusca.pdf) <BR/>[Implementação de Busca e Inserção em Árvore Binária de Busca](/material/ed/busca-insercao-abb.c) 
+|14/04/2022|[Árvores AVL](/material/ed/05-ArvoresAVL.pdf)  
+|19/04/2022|Aula no Laboratório
+|21/04/2022|FERIADO
+|26/04/2022|[Grafos](/material/ed/06-Grafos.pdf) 
+|28/04/2022|Aula no Laboratório
+|03/05/2022|[Arquivos](/material/ed/07-Arquivos.pdf)<BR/>[Tutorial de Acesso a Arquivos em C](/material/ed/tutorial-arquivos.zip) 
+|05/05/2022|[Ordenação de Arquivos](/material/ed/08-Ordenacao.pdf)<BR/>[Insertion Sort em Memória e em Disco para Ordenar Arquivos](/material/ed/insertion-sort.zip)  
+|10/05/2022|Aula no Laboratório
+|12/05/2022|Ordenação Externa de Arquivos: [Geração de Partições Classificadas](/material/ed/09-GeracaoParticoes.pdf)<BR/>[Implementação de Classificação Interna](/material/ed/geracao-particoes.zip)
+|17/05/2022|Aula CANCELADA por motivos de saúde
+|19/05/2022|Ordenação Externa de Arquivos: [Intercalação de Partições Classificadas](/material/ed/10-Intercalacao.pdf)<BR/>[Implementação de Intercalação](/material/ed/intercalacao.zip)
+|24/05/2022|AULA
+|26/05/2022|**PROVA 1**
+|31/05/2022|Aula CANCELADA por motivos de saúde
+|02/06/2022|[Árvore B](/material/ed/11-ArvoreB.pdf)<BR/>[Implementação de Busca e Inserção em Árvore B em memória](/material/ed/arvore-b.zip)
+|07/06/2022|Árvore B (continuação) 
+|09/06/2022|[Árvore B+](/material/ed/12-ArvoreBMais.pdf)
+|14/06/2022|VISTA DE PROVA + Aula no Laboratório
+|16/06/2022|FERIADO
+|21/06/2022|[Tabelas Hash](/material/ed/13-TabelasHash.pdf). [Tratamento de colisão por encadeamento exterior](/material/ed/13-TabelasHash-Encadeamento-Exterior.pdf). <BR/>[Implementação Básica de Tabela Hash em memória](/material/ed/hash-basico.c) (Essa implementação não trata colisões)<BR/>[Implementação de Tabela Hash em memória com tratamento de colisões por Encadeamento Exterior](/material/ed/hash-encadeamento-exterior.c)
+|23/06/2022|[Tratamento de colisão por encadeamento interior](/material/ed/13-TabelasHash-Encadeamento-Interior.pdf)<BR/>[Implementação de Tabela Hash em memória com tratamento de colisões por Encadeamento Interior](/material/ed/hash-encadeamento-interior.c)
+|28/06/2022|Aula no Laboratório
+|30/06/2022|[Tratamento de colisão por endereçamento aberto](/material/ed/13-TabelasHash-Enderecamento-Aberto.pdf)
+|05/07/2022|Aula no Laboratório
+|07/07/2022|[Heap](/material/ed/14-Heap.pdf)<BR/>[Implementação em memória](/material/ed/heap.c)<BR/>[Implementação em disco](/material/ed/heap-disco.c)
+|12/07/2022|**PROVA 2**
+|14/07/2022|**SEGUNDA CHAMADA**
+|19/07/2022|VISTA DE PROVA
+|21/07/2019|**VS** 
+|26/07/2019|VISTA DE VS
+
+-->
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+|Data|Atividade
+|--
+|23/08/2022| Apresentação da Disciplina
+|25/08/2022| Conceitos Fundamentais
+|30/08/2022| Modelo Entidade-Relacionamento
+|01/09/2022| Modelo Entidade-Relacionamento
+|06/09/2022| Modelo Entidade-Relacionamento
+|08/09/2022| Modelo Entidade-Relacionamento
+|13/09/2022| Modelo Relacional
+|15/09/2022| Mapeamento ER-Relacional
+|20/09/2022| Mapeamento ER-Relacional
+|22/09/2022| Exercícios
+|27/09/2022| Álgebra Relacional
+|29/09/2022| Álgebra Relacional
+|04/10/2022| Álgebra Relacional
+|06/10/2022| Álgebra Relacional
+|11/10/2022| Aula de Dúvidas
+|13/10/2022| **PROVA 1**
+|18/10/2022| **SEM AULA - Agenda Acadêmica**
+|20/10/2022| **SEM AULA - Agenda Acadêmica**
+|25/10/2022| VISTA DE PROVA
+|27/10/2022| SQL - DDL
+|01/11/2022| SQL - DQL
+|03/11/2022| SQL - DQL
+|08/11/2022| Aula de Laboratório
+|10/11/2022| AULA CANCELADA
+|15/11/2022| **FERIADO**
+|17/11/2022| SQL - DML
+|22/11/2022| Normalização
+|24/11/2022| **SEM AULA - JOGO DO BRASIL** 
+|29/11/2022| **PROVA 2**
+|01/12/2022| **SEGUNDA CHAMADA**
+|06/12/2022| SEM AULA
+|08/12/2022| **VISTA DE PROVA**
+|13/12/2022| SEM AULA
+|15/12/2022| **VS**
+|20/12/2022| **VISTA DE VS**

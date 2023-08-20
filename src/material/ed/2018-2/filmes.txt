@@ -1,0 +1,117 @@
+Star Wars Episode IV A New Hope/1977/George Lucas/Sci-Fi/125
+Star Wars Episode V The Empire Strikes Back/1980/Irvin Kershner/Sci-Fi/127
+Star Wars Episode VI Return of the Jedi/1983/Richard Marquand/Sci-Fi/136
+Star Wars Episode I The Phantom Menace/1999/George Lucas/Sci-Fi/136
+Star Wars Episode II Attack of the Clones/2002/George Lucas/Sci-Fi/142
+Star Wars Episode III Revenge of the Sith/2005/George Lucas/Sci-Fi/150
+Star Wars Episode VII The Force Awakens/2015/J. J. Abrams/Sci-Fi/135
+Star Wars Episode VIII The Last Jedi/2017/Rian Johnson/Sci-Fi/152
+Forrest Gump/1994/Robert Zemeckis/Drama/142
+The Theory of Everything/2014/James Marsh/Biography | Drama/123
+The Physician/2013/Philipp Stolzl/Adventure/150
+The Man Who Knew Infinity/2015/Matt Brown/Biography | Drama/108
+E.T. the Extra-Terrestrial/1982/Steven Spielberg/Sci-Fi/115
+Back to the Future/1985/Robert Zemeckis/Sci-Fi/116
+300/2006/Zack Snyder/Action/117
+Pride & Prejudice/2005/Joe Wright/Romance | Drama/129
+Snow White and the Seven Dwarfs/1937/William Cottrell/Animation/83
+Snow White and the Huntsman/2012/Rupert Sanders/Adventure/127
+Pretty Woman/1990/Garry Marshall/Romance/119
+Mr. & Mrs. Smith/2005/Doug Liman/Action/120
+Schindlers List/1993/Steven Spielberg/Biography | Drama/195
+Gifted Hands: The Ben Carson Story/2009/Thomas Carter/Biography | Drama/86
+The Avengers/2012/Joss Whedon/Action/153
+Dances with Wolves/1990/Kevin Costner/Adventure/181
+The Exorcist/1973/William Friedkin/Horror/122
+The Walking Dead S1E1: Days Gone Bye/2010/Frank Darabont/Sci-Fi/67
+The Walking Dead S1E2: Guts/2010/Michelle MacLaren/Sci-Fi/45
+The Walking Dead S1E3: Tell It to the Frogs/2010/Gwyneth Horder-Payton/Sci-Fi/44
+The Walking Dead S1E4: Vatos/2010/Johan Renck/Sci-Fi/45
+The Walking Dead S1E5: Wildfire/2010/Ernest Dickerson/Sci-Fi/45
+The Walking Dead S1E6: TS-19/2010/Guy Ferland/Sci-Fi/45
+The Walking Dead S2E1: What Lies Ahead/2011/Ernest Dickerson, Gwyneth Horder-Payton /Sci-Fi/45
+The Walking Dead S2E2: Bloodletting/2011/Ernest Dickerson/Sci-Fi/45
+The Walking Dead S2E3: Save the Last One/2011/Phil Abraham/Sci-Fi/45
+The Walking Dead S2E4: Cherokee Rose/2011/Billy Gierhart/Sci-Fi/45
+The Walking Dead S2E5: Chupacabra/2011/Guy Ferland/Sci-Fi/45
+The Walking Dead S2E6: Secrets/2011/David Boyd/Sci-Fi/45
+The Walking Dead S2E7: Pretty Much Dead Already/2011/Michelle MacLaren/Sci-Fi/45
+The Walking Dead S2E8: Nebraska/2012/Clark Johnson/Sci-Fi/45
+The Walking Dead S2E9: Triggerfinger/2012/Billy Gierhart/Sci-Fi/45
+The Walking Dead S2E10: 18 Miles Out/2012/Ernest Dickerson/Sci-Fi/45
+The Walking Dead S2E11: Judge, Jury, Executioner/2012/Greg Nicotero/Sci-Fi/45
+The Walking Dead S2E12: Better Angels/2012/Guy Ferland/Sci-Fi/45
+The Walking Dead S2E13: Beside the Dying Fire/2012/Ernest Dickerson/Sci-Fi/45
+Friends S1E1: The One Where Monica Gets a Roommate/1994/James Burrows/Comedy/22
+Friends S1E2: The One with the Sonogram at the End/1994/James Burrows/Comedy/22
+Friends S1E3: The One with the Thumb/1994/James Burrows/Comedy/22
+Friends S1E4: The One with George Stephanopoulos/1994/James Burrows/Comedy/22
+Friends S1E5: The One with the East German Laundry Detergent/1994/Pamela Fryman/Comedy/22
+Friends S1E6: The One with the Butt/1994/Arlene Sanford/Comedy/22
+Friends S1E7: The One with the Blackout/1994/James Burrows/Comedy/22
+Friends S1E8: The One Where Nana Dies Twice/1994/James Burrows/Comedy/22
+Friends S1E8: The One Where Underdog Gets Away/1994/James Burrows/Comedy/22
+Friends S1E10: The One with the Monkey/1994/Peter Bonerz/Comedy/22
+Friends S1E11: The One with Mrs. Bing/1995/James Burrows/Comedy/22
+Friends S1E12: The One with the Dozen Lasagnas/1995/Paul Lazarus/Comedy/22
+Friends S1E13: The One with the Boobies/1995/Alan Myerson/Comedy/22
+Friends S1E14: The One with the Candy Hearts/1995/James Burrows/Comedy/22
+Friends S1E15: The One with the Stoned Guy/1995/Alan Myerson/Comedy/22
+Friends S1E16: The One with Two Parts: Part 1/1995/Michael Lembeck/Comedy/22
+Friends S1E17: The One with Two Parts: Part 2/1995/Michael Lembeck/Comedy/22
+Friends S1E18: The One with All the Poker/1995/James Burrows/Comedy/22
+Friends S1E19: The One Where the Monkey Gets Away/1995/Peter Bonerz/Comedy/22
+Friends S1E20: The One with the Evil Orthodontist/1995/Peter Bonerz/Comedy/22
+Friends S1E21: The One with the Fake Monica/1995/Gail Mancuso/Comedy/22
+Friends S1E22: The One with the Ick Factor/1995/Robby Benson/Comedy/22
+Friends S1E23: The One with the Birth/1995/James Burrows/Comedy/22
+Friends S1E24: The One Where Rachel Finds Out/1995/Kevin S. Bright/Comedy/22
+Friends S2E1: The One with Ross New Girlfriend/1995/Michael Lembeck/Comedy/22
+Friends S2E2: The One with the Breast Milk/1995/Michael Lembeck/Comedy/22
+Friends S2E3: The One Where Heckles Dies/1995/Kevin S. Bright/Comedy/22
+Friends S2E4: The One with Phoebes Husband/1995/Gail Mancuso/Comedy/22
+Friends S2E5: The One with Five Steaks and an Eggplant/1995/Ellen Gittelsohn/Comedy/22
+Friends S2E6: The One with the Baby on the Bus/1995/Gail Mancuso/Comedy/22
+Friends S2E7: The One Where Ross Finds Out/1995/Peter Bonerz/Comedy/22
+Friends S2E8: The One with the List/1995/Mary Kay Place/Comedy/22
+Friends S2E9: The One with Phoebes Dad/1995/Kevin S. Bright/Comedy/22
+Friends S2E10: The One with Russ/1996/Thomas Schlamme/Comedy/22
+Friends S2E11: The One with the Lesbian Wedding/1996/Thomas Schlamme/Comedy/22
+Friends S2E12: The One After the Superbowl/1996/Michael Lembeck/Comedy/22
+Friends S2E13: The One After the Superbowl/1996/Michael Lembeck/Comedy/22
+Friends S2E14: The One with the Prom Video/1996/James Burrows/Comedy/22
+Friends S2E15: The One Where Ross and Rachel...You Know/1996/Michael Lembeck/Comedy/22
+Friends S2E16: The One Where Joey Moves Out/1996/Michael Lembeck/Comedy/22
+Friends S2E17: The One Where Eddie Moves In/1996/Michael Lembeck/Comedy/22
+Friends S2E18: The One Where Dr. Ramoray Dies/1996/Michael Lembeck/Comedy/22
+Friends S2E19: The One Where Eddie Wont Go/1996/Michael Lembeck/Comedy/22
+Friends S2E20: The One Where Old Yeller Dies/1996/Michael Lembeck/Comedy/22
+Friends S2E21: The One with the Bullies/1996/Michael Lembeck/Comedy/22
+Friends S2E22: The One with the Two Parties/1996/Michael Lembeck/Comedy/22
+Friends S2E23: The One with the Chicken Pox/1996/Michael Lembeck/Comedy/22
+Friends S2E24: The One with Barry and Mindy's Wedding/1996/Michael Lembeck/Comedy/22
+Friends S3E1: The One with the Princess Leia Fantasy/1996/Gail Mancuso/Comedy/22
+Friends S3E2: The One Where No One is Ready"/1996/Gail Mancuso/Comedy/22
+Friends S3E3: The One with the Jam/1996/Kevin S. Bright/Comedy/22
+Friends S3E4: The One with the Metaphorical Tunnel/1996/Steve Zuckerman/Comedy/22
+Friends S3E5: The One with Frank Jr./1996/Steve Zuckerman/Comedy/22
+Friends S3E6: The One with the Flashback/1996/Peter Bonerz/Comedy/22
+Friends S3E7: The One with the Race Car Bed/1996/Gail Mancuso/Comedy/22
+Friends S3E8: The One with the Giant Poking Device/1996/Gail Mancuso/Comedy/22
+Friends S3E9: The One with the Football/1996/Kevin S. Bright/Comedy/22
+Friends S3E10: The One Where Rachel Quits/1996/Terry Hughes/Comedy/22
+Friends S3E11: The One Where Chandler Cant Remember Which Sister/1997/Terry Hughes/Comedy/22
+Friends S3E12: The One with All the Jealousy/1997/Robby Benson/Comedy/22
+Friends S3E13: The One Where Monica and Richard are Just Friends/1997/Robby Benson/Comedy/22
+Friends S3E14: The One with Phoebe's Ex-Partner/1997/Robby Benson/Comedy/22
+Friends S3E15: The One Where Ross and Rachel Take a Break/1997/James Burrows/Comedy/22
+Friends S3E16: The One with the Morning After/1997/James Burrows/Comedy/22
+Friends S3E17: The One Without the Ski Trip/1997/Sam Simon/Comedy/22
+Friends S3E18: The One with the Hypnosis Tape/1997/Robby Benson/Comedy/22
+Friends S3E19: The One with the Tiny T-Shirt/1997/Terry Hughes/Comedy/22
+Friends S3E20: The One with the Dollhouse/1997/Terry Hughes/Comedy/22
+Friends S3E21: The One with a Chick and a Duck/1997/Michael Lembeck/Comedy/22
+Friends S3E22: The One with the Screamer/1997/Peter Bonerz/Comedy/22
+Friends S3E23: The One with Ross Thing/1997/Shelley Jensen/Comedy/22
+Friends S3E24: The One with the Ultimate Fighting Champion/1997/Robby Benson/Comedy/22
+Friends S3E25: The One at the Beach/1997/Pamela Fryman/Comedy/22

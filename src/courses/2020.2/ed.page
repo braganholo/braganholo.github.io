@@ -1,0 +1,130 @@
+---
+title: ED 
+in_menu: true
+sort_info: 1
+---
+# Estruturas de Dados e Seus Algoritmos
+
+<BR/>
+Horário: terças e quintas de 11:00 às 13:00 (veja cronograma no final desta página)
+
+Sala: [Google Meet](https://meet.google.com/) informado no [Google Classroom](http://classroom.google.com/).  
+
+Todos os alunos **devem** estar inscritos na nossa sala de aula virtual do [Google Classroom](http://classroom.google.com/). Caso você não esteja inscrito, entre em contato comigo.
+
+
+## Monitoria
+
+- Lucas Camilo da Cunha
+- Gabriel Bittencourt Leite
+
+Local e Horários de Atendimento: consulte nossa sala do Google Classroom (em Materias/Monitoria)
+
+## Ementa
+
+- Árvores binárias, binárias de busca e AVL;
+- Grafos;
+- Arquivos; 
+- Ordenação externa de arquivos (geração de partições classificadas e intercalação de partições);
+- Árvores B e B+ (em memória principal e secundária);
+- Tabelas hash (ou de dispersão) (em memória principal e secundária);
+- Listas de prioridade (ou heaps) (em memória principal e secundária); 
+
+## Dinâmica do curso
+
+A dinâmica adotada para este curso é conhecida como [Aula Invertida](https://pt.wikipedia.org/wiki/Aula_Invertida), onde os alunos assistem a aulas assíncronas (i.e., gravadas), no horário que for mais conveniente para eles, e as aulas síncronas (i.e., ao vivo) ocorrem com o objetivo de tirar dúvidas. Essa dinâmica está alinhada com a recomendação da Resolução 197/2020, Art. 10, § 6º, de ter de 30% a 50% de atividades síncronas e as demais assíncronas.
+
+As **aulas assíncronas** serão disponibilizadas em vídeo no [Google Classroom](http://classroom.google.com/). Os alunos devem assistir as aulas segundo o cronograma apresentado no final desta página e fazer os exercícios propostos disponibilizados no [Google Classroom](http://classroom.google.com/). 
+
+Além das aulas assíncronas, reservamos as **terças-feiras, das 11h às 13h, para aulas síncronas, visando tirar dúvidas dos alunos**. Essas aulas síncronas serão via [Google Meet](https://meet.google.com/) informado no [Google Classroom](http://classroom.google.com/). É importante que os alunos assistam a aula da semana anterior e façam os exercícios propostos no Google Classroom antes da aula síncrona da semana seguinte, já que o propósito dessas aulas síncronas é tirar dúvidas. Além disso, os alunos que preferirem podem ainda postar as suas dúvidas no [Google Classroom](http://classroom.google.com/) para serem respondidas assincronamente.
+
+## Gravação
+
+As aulas síncronas serão gravadas e disponibilizadas para os alunos (Art. 10, § 4º, da resolução 197/2020), visando permitir que quem não pôde assistir de forma síncrona tenha acesso ao que foi apresentado e discutido. Além disso, esse material pode ser utilizado pelos demais alunos durante seus estudos durante o curso. Caso algum aluno não queria que sua imagem ou voz seja gravada, mantenha a câmera desligada e opte pelo uso do chat ao invés do microfone. Essas gravações não podem ser disponibilizadas fora do escopo desse curso sem que haja autorização de todas as partes envolvidas (Art. 56 da resolução 197/2020).
+
+## Avaliação
+
+Adotaremos avaliação continuada do aprendizado, composta por testes individuais semanais assíncronos. Os testes individuais semanais assíncronos começarão a ser aplicados um mês após o início do semestre letivo (Art. 17 da resolução 197/2020) e contarão com um prazo de 48 horas para realização (Art. 34, item II, da resolução 197/2020). É muito importante que os alunos sejam honestos para responder utilizando somente os seus conhecimentos, sem consultar informações externas ou outras pessoas. Para essas avaliações podem ser utilizados mecanismos de detecção de plágio, tanto entre as respostas dos alunos quanto em relação a Internet. 
+
+Como as avaliações são assíncronas, não será oferecida avaliação de segunda chamada (Art. 34, item VI, § 1º, da resolução 197/2020). Como as avaliações são continuadas, não será oferecida verificação suplementar (Art. 99, § 2º, do Regulamento dos Cursos de Graduação).
+
+A nota final dos alunos será calculada de acordo com a seguinte fórmula:
+
+*Nota Final* = Média aritmética das notas dos testes semanais assíncronos
+
+O aluno será aprovado se obtiver *Nota Final* maior ou igual a 6.
+
+## Presença
+
+Não será cobrada presença (Art. 43, item I da resolução 197/2020). 
+
+## Bibliografia
+
+Ferraz, I. N. Programação com Arquivos. Editora Manole Ltda. Barueri, 2003. 
+
+Szwarcfiter, J., Markenzon, L. Estruturas de Dados e Seus Algoritmos. Editora LTC, 3a. edição, 2010.
+
+Cormen, T.H., Leiserson, C.E., Rivest, R.L., Introduction to algorithms, McGraw-Hill, 2009.
+
+Celes, W., Cerqueira, R., Rangel, J.L. Introdução a Estruturas de Dados, Campus, 1a
+Edição, 2004.
+
+Kernighan, B.W.,Ritchie, D.M. C: a linguagem de programação (Padrão ANSI), Campus, Segunda
+Edição, 1990.
+
+### Bibliografia Complementar
+
+Tenenbaum, A.M., Langsam, Y., Augenstein, M.J. Estruturas de Dados Usando C, Pearson, Primeira Edição, 1995.
+
+Ramakrishnan, R. Database Management Systems, McGraw Hill, Third Edition, 2003.
+
+## Ferramentas
+
+Para programação em C, recomendo o [CLion](https://www.jetbrains.com/clion/?fromMenu). É possível solicitar uma licença grátis para estudante no site da [Jetbrains](https://www.jetbrains.com/student/).
+
+Para ajudar na identificação de memory leak, vocês podem usar as seguintes ferramentas: 
+
+* [Dr. Memory](http://drmemory.org/docs/index.html) (funciona em todas as plataformas)
+
+* [Valgrind](http://valgrind.org/) (específico para Linux)
+
+## Cronograma
+
+<!-- 
+
+|28/06/2019| [Heap](/material/ed/14-Heap.pdf)<BR/>[Implementação em memória](/material/ed/heap.c)<BR/>[Implementação em disco](/material/ed/heap-disco.c)<BR/>Essa aula não foi ministrada presencialmente. O vídeo da aula está disponível no Google Classroom. 
+
+
+-->
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+|Data|Atividade
+|--
+| 02/02/2021 | Aula síncrona de apresentação da disciplina (11h-13h)
+| 04/02/2021 | [Revisão de C](https://youtu.be/H6fHpEg0kXk) [(slides)](/material/ed/02-RevisaoC.pdf) 
+| 09/02/2021 | Aula síncrona de dúvidas (11-13h)
+| 11/02/2021 | [Árvores e Árvores Binárias](https://youtu.be/bALKIuJ9aBI) [(slides)](/material/ed/03-ArvoresBinarias.pdf)
+| 16/02/2021 | CARNAVAL
+| 18/02/2021 | [Árvores Binárias de Busca](https://youtu.be/b5Ee8dzfaZ4) [(slides)](/material/ed/04-ArvoresBinariasBusca.pdf) 
+| 23/02/2021 | Aula síncrona de dúvidas (11-13h)
+| 25/02/2021 | [Árvores AVL](https://youtu.be/qXj5HTf2jFQ) [(slides)](/material/ed/05-ArvoresAVL.pdf)
+| 02/03/2021 | Aula síncrona de dúvidas (11-13h)
+| 04/03/2021 | [Grafos](https://youtu.be/oVjQHuJxdfE) [(slides)](/material/ed/06-Grafos.pdf)  + **Avaliação** no [Run.Codes](https://run.codes/)
+| 09/03/2021 | Aula síncrona de dúvidas (11-13h)
+| 11/03/2021 | [Arquivos](https://youtu.be/ZHY6OhK06s0) [(slides)](/material/ed/07-Arquivos.pdf)<BR/>[Tutorial de Acesso a Arquivos em C](/material/ed/tutorial-arquivos.zip)<BR/>[Ordenação de Arquivos](https://youtu.be/pmfD0QfJzS4) [(slides)](/material/ed/08-Ordenacao.pdf)<BR/>[Insertion Sort em Memória e em Disco para Ordenar Arquivos](/material/ed/insertion-sort.zip)<BR/> **Avaliação** no [Run.Codes](https://run.codes/)
+| 16/03/2021 | Aula síncrona de dúvidas (11-13h)
+| 18/03/2021 | [Geração de Partições Classificadas](https://youtu.be/4gNltLMQQTE) [(slides)](/material/ed/09-GeracaoParticoes.pdf)<BR/>[Execução passo a passo do algoritmo de Seleção com Substituição](https://youtu.be/HjZYoq8cHQM)<BR/>[Execução passo a passo do algoritmo de Seleção Natural](https://youtu.be/E6VuEZmLwQY)<BR/> **Avaliação** no [Run.Codes](https://run.codes/)
+| 23/03/2021 | Aula síncrona de dúvidas (11-13h)
+| 25/03/2021 | [Intercalação de Partições Classificadas](https://youtu.be/QjTbq5Tp-DQ) [(slides)](/material/ed/10-Intercalacao.pdf)<BR/> **Avaliação** no [Run.Codes](https://run.codes/)
+| 30/03/2021 | Aula síncrona de dúvidas (11-13h)
+| 01/04/2021 | [Árvore B](https://youtu.be/38RM8_VMIcI) [(slides)](/material/ed/11-ArvoreB.pdf)<BR/>[Implementação de Busca e Inserção em Árvore B em memória](/material/ed/arvore-b.zip) <BR/> **Avaliação** no [Run.Codes](https://run.codes/)
+| 06/04/2021 | Aula síncrona de dúvidas (11-13h)
+| 08/04/2021 | [Árvore B+](https://youtu.be/BaTG9xNPCK8) [(slides)](/material/ed/12-ArvoreBMais.pdf) + **Avaliação**
+| 13/04/2021 | Aula síncrona de dúvidas (11-13h)
+| 15/04/2021 | [Tabelas Hash](https://youtu.be/gLkbGJR4FwI) [(slides)](/material/ed/13-TabelasHash-Intro.pdf) <BR/> [Tratamento de colisão por encadeamento exterior](https://youtu.be/x-AXgx_itgw) [(slides)](/material/ed/13-TabelasHash-Encadeamento-Exterior.pdf) <BR/>[Implementação Básica de Tabela Hash em memória](/material/ed/hash-basico.c) (Essa implementação não trata colisões)<BR/>[Implementação de Tabela Hash em memória com tratamento de colisões por Encadeamento Exterior](/material/ed/hash-encadeamento-exterior.c) <BR/> **Avaliação** no [Run.Codes](https://run.codes/)
+| 20/04/2021 | Aula síncrona de dúvidas (11-13h)
+| 22/04/2021 | [Tratamento de colisão por encadeamento interior](https://youtu.be/uX-wry1mD2c) [(slides)](/material/ed/13-TabelasHash-Encadeamento-Interior.pdf)<BR/>[Implementação de Tabela Hash em memória com tratamento de colisões por Encadeamento Interior](/material/ed/hash-encadeamento-interior.c)<BR/>**Avaliação**
+| 27/04/2021 | Aula síncrona de dúvidas (11-13h)
+| 29/04/2021 | [Tratamento de colisão por endereçamento aberto](https://youtu.be/mpI_pAlNlVI) [(slides)](/material/ed/13-TabelasHash-Enderecamento-Aberto.pdf)<BR/>[Implementação de Tabela Hash em memória com tratamento de colisões por Endereçamento Aberto](/material/ed/hash-enderecamento-aberto.c) <BR/>**Avaliação** no [Run.Codes](https://run.codes/)
+| 04/05/2021 | Aula síncrona de dúvidas (11-13h)
+| 06/05/2021 | [Heap](https://youtu.be/FtjOKEobRUs) [(slides)](/material/ed/14-Heap.pdf)<BR/>[Implementação em memória](/material/ed/heap.c)<BR/>[Implementação em disco](/material/ed/heap-disco.c)<BR/>**Avaliação** no [Google Classroom](http://classroom.google.com/)

@@ -1,0 +1,16 @@
+--- paths
+[/**/*.pdf, /**/*.dat, /**/*.zip, /**/*.pptx, /**/*.xsd, /**/*.txt, /**/*.dotx, /**/*.sql, /**/*.png, /**/*.rar, /**/*.pl, /.htaccess]:
+  handler: copy
+
+--- alcn
+courses/:
+  title: Courses
+  proxy_path: 2023.1/ed.html
+  in_menu: true
+  sort_info: 3
+
+students/:
+  title: Students
+  proxy_path: current.html
+  in_menu: true
+  sort_info: 4

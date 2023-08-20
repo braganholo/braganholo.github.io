@@ -1,0 +1,306 @@
+---
+title: ED2
+in_menu: true
+sort_info: 1
+
+---
+# Estruturas de Dados II
+
+<BR/>
+
+Horário: terças e quintas, de 11:00h às 13:00h
+
+Local: sala 448 (terça) e 336 (quinta)
+
+Lista: <http://groups.google.com.br/group/tcc-04-074-uff-2010-2> <BR/>
+(importante: todos os alunos **devem** se cadastrar nessa lista)
+
+## Avaliação
+
+Média = (Avaliação1 + Avaliação2 + Avaliação3) / 3
+
+Avaliação1 = Prova sem consulta
+
+Avaliação2 = Prova sem consulta
+
+Avaliação3 = (Participação + 3 x Trabalho) / 4
+
+**APROVADO**: (Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**: (Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+## Grupos
+
+As atividades da Avaliação3 serão feitas em grupos de 5 participantes, que devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Entreguem por e-mail (assunto: ED2 - Grupo) o número da matrícula e o nome completo de cada participante do grupo.
+
+Ao final do curso, cada membro do grupo será solicitado a indicar, sob o seu ponto de vista, o percentual de participação de cada membro do grupo (inclusive de si próprio) no resultado final dos trabalhos. Esta informação será utilizada na distribuição das notas. Desta forma, se empenhe desde o início de forma pró-ativa.
+
+
+## Participação
+
+Na maioria das aulas serão fornecidos exercícios para serem feitos em grupo durante a aula. Ao término, os grupos serão convidados a se voluntariar para apresentar as suas soluções. A participação nessas atividades será considerada na composição da Avaliação3 (item Participação). Haverá também alguns DOJOs e a participação nos DOJOs também fará parte da nota da avaliação 3.
+
+## Trabalho
+
+Implementar um gerenciador de dados que seja capaz de fazer as seguintes tarefas: 
+
+1. Permitir que o usuário especifique a estrutura das tabelas que deseja armazenar (nome da tabela, conjunto de atributos e tipo de cada atributo)
+2. Permitir que o usuário insira registros nas tabelas (usuário escolhe a tabela e o sistema pergunta valores para os atributos da tabela
+3. Permitir que o usuário faça consultas sobre os registros de uma determinada tabela. Usuário escolhe o nome da tabela e um ou mais atributos (não necessariamente os atributos chave da tabela). O usuário passa as condições de seleção de cada um dos atributos (exemplo: codigo > 30 e data = "05/10/2010"). 
+4. Permitir que o usuário exclua registros de uma tabela. A seleção dos registros a serem excluídos será feita da mesma forma explicada no item 3.
+5. Permitir que o usuário modifique o valor de um determinado atributo de uma determinada tabela. O usuário escolhe a tabela, o atributo e os critérios de seleção da tupla a ser modificada, fornecendo o valor da chave.
+
+**ATENÇÃO:** No dia da apresentação, o gerenciador de dados já deve estar com os seguintes [dados cadastrados](ed2/dadosIniciais.dat) em uma tabela chamada PESSOA, com os atributos COD, NOME (de tamanho 10) e IDADE. 
+
+A implementação deve usar arquivos indexados, e o aluno pode escolher a estrutura de indexação que desejar. A escolha deve ser justificada no relatório do trabalho. 
+
+**Relatório**: o relatório a ser entregue deve descrever a implementação, dificuldades encontradas e deve ter um manual de uso do sistema.  
+
+**Código fonte**: deve ser entregue, juntamente com instruções de instalação. 
+
+**Apresentação**: será feita em cima do código-fonte. Alunos devem estar preparados para responder sobre detalhes do código. 
+
+Obs.: atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 80, §14). Vale notar que segundo o mesmo regulamento, nenhuma falta será abonada (Art. 80, §15).
+
+## Avaliação de Aprendizagem em Caráter Excepcional
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), não será permitida a Avaliação de Aprendizagem em Caráter Excepcional (i.e., 2ª chamada), com exceção dos casos citados no Art. 87, de acordo com os procedimentos do Art. 88.
+
+## Bibliografia
+
+Ferraz, I. N. Programação com Arquivos. Editora Manole Ltda. Barueri, 2003. 
+
+Szwarcfiter, J., Markenzon, L. Estruturas de Dados e Seus Algoritmos. Editora LTC, 3a. edição, 2010.
+
+Santos, Clesio S. e Azeredo, Paulo A. Tabelas: Organização e Pesquisa. Série de Livros Didáticos, Número 10. Ed. Sagra Luzzatto, 2001.
+
+Smith, Peter D. e Barnes, G. Michael. Files & Databases: An Introduction. Addison Wesley Series in Computer Science,1987.
+
+## Listas de Exercícios
+
+[Lista 1](../../material/ed2/listas/Lista1.pdf) - Arquivos Sequenciais
+
+[Lista 2](../../material/ed2/listas/Lista2.pdf) - Tabelas Hash
+
+[Lista 3](../../material/ed2/listas/Lista3.pdf) - Árvores B, B+, Tries 
+
+[Lista 4](../../material/ed2/listas/Lista4.pdf) - Indexação por chaves secundárias
+
+## Cronograma
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;" border="1">
+	<tr style="font-weight: bold;">
+		<td>Data</td>
+		<td>Atividade</td>
+		<td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>10/08/2010</td>
+	  <td>Apresentação da disciplina<BR/>
+	  Leitura: <a href="http://www.isqa.unomaha.edu/haworth/isqa3300/fs001.htm" target="_blank">Why File Structures?</a> 
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>12/08/2010</td>
+	  <td><a href="../../material/ed2/02-Arquivos.pdf" target="_blank">Conceito de Arquivos</a>
+	  </td> 
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>17/08/2010</td>
+	  <td>Continuação: conceito de arquivos<BR/>
+	  Material de Apoio: <a href="../../material/ed2/02-tutorialArquivos.zip" target="_blank">Arquivos Java do Tutorial</a>
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>19/08/2010</td>
+	  <td><a href="../../material/ed2/03-ArquivosSequenciais.pdf" target="_blank">Arquivos Sequenciais</a><BR/>
+	  Material de Apoio: <a href="../../material/ed2/03-Ordenacao.pptx" target="_blank">Métodos de Ordenação (autor Vinícius Marmontele)</a>
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>24/08/2010</td>
+	  <td><a href="../../material/ed2/04-AtualizacaoLote.pdf" target="_blank">Arquivos Sequenciais - Atualização em Lote</a><BR/>
+	  Material de Apoio: Tutorial <a href="http://netbeans.org/kb/docs/java/junit-intro_pt_BR.html" target="_blank">JUnit</a>. Atenção: usem JUnit 4
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/08/2010</td>
+	  <td>DOJO - Balance Line</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>31/08/2010</td>
+	  <td><a href="../../material/ed2/05-Intercalacao.pdf" target="_blank">Arquivos Sequenciais - Intercalação</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/09/2010</td>
+	  <td><a href="../../material/ed2/06-ClassificacaoExterna.pdf" target="_blank">Arquivos Sequenciais - Classificação Externa</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/09/2010</td>
+	  <td>FERIADO</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/09/2010</td>
+	  <td><a href="../../material/ed2/07-Intercalacao.pdf" target="_blank">Arquivos Sequenciais - Intercalação (com restrição)</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/09/2010</td>
+	  <td>DOJO Intercalação</td>	   
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/09/2010</td>
+	  <td><a href="../../material/ed2/08-AcessoDireto.pdf" target="_blank">Arquivos de Acesso Randômico - Hash Tables</a><BR/>
+	  Material de Apoio: <a href="../../material/ed2/08-tutorialArquivosAcessoRandomico.zip" target="_blank">Arquivos Java do Tutorial de Arquivos de Acesso Randômico</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/09/2010</td>
+	  <td>Continuação: Arquivos de Acesso Randômico - Hash Tables</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/09/2010</td>
+	  <td>Continuação: Arquivos de Acesso Randômico - Hash Tables</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/09/2010</td>
+	  <td>Continuação: Arquivos de Acesso Randômico - Hash Tables<BR/>
+	  <a href="../../material/ed2/DojoHash.zip" target="_blank">Arquivo com testes para exercício em grupo</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>30/09/2010</td>
+	  <td>Continuação - exercício em grupo</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>05/10/2010</td>
+	  <td>Não haverá aula -- <a href="http://www.ufmg.br/swib/?cat=7" target="_blank">SBBD</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/10/2010</td>
+	  <td>Não haverá aula -- <a href="http://www.ufmg.br/swib/?cat=7" target="_blank">SBBD</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>12/10/2010</td>
+	  <td>FERIADO</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/10/2010</td>
+	  <td>PROVA 1</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>19/10/2010</td>
+	  <td>Não haverá aula -- Semana de Ciência e Tecnologia</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/10/2010</td>
+	  <td>Não haverá aula -- Semana de Ciência e Tecnologia</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/10/2010</td>
+	  <td><a href="../../material/ed2/09-ArquivosIndexados.pdf" target="_blank">Arquivos Indexados</a> (Árvores B, B*, B+ e Tries)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/10/2010</td>
+	  <td>Continuação - Arquivos Indexados</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/11/2010</td>
+	  <td>FERIADO</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/11/2010</td>
+	  <td>Continuação - Arquivos Indexados</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/11/2010</td>
+	  <td>Não haverá aula -- Agenda Acadêmica</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11/11/2010</td>
+	  <td>Não haverá aula -- Agenda Acadêmica</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/11/2010</td>
+	  <td>DOJO em grupo</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>18/11/2010</td>
+	  <td>DOJO em grupo</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/11/2010</td>	
+	  <td><a href="../../material/ed2/10-ArquivosIndexadosChavesSecundarias.pdf" target="_blanc">Arquivos Indexados por chaves secundárias</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>25/11/2010</td>
+	  <td>Apresentação do Trabalho</td>
+	  <td>Relatório <BR/>
+	      Código-fonte</td>
+	</tr>
+	<tr>
+	  <td>30/11/2010</td>
+	  <td>Apresentação do Trabalho</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/12/2010</td>
+	  <td>PROVA 2 - Sala 104 - Bloco D (Latec)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/12/2010</td>
+	  <td>Vista de Prova</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/12/2010</td>
+	  <td>VS - Prédio da Física - sala 304</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/12/2010</td>
+	  <td>Vista de Prova</td>
+	  <td></td>
+	</tr>	
+	<tr>
+	  <td>16/12/2010</td>
+	  <td>Lançamento de Notas</td>
+	  <td></td>
+	</tr>	
+</table>
+

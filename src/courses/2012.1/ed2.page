@@ -1,0 +1,329 @@
+---
+title: ED2
+in_menu: true
+sort_info: 1
+   
+---
+# Estruturas de Dados II
+
+<BR/>
+
+Horário: quartas e sextas, de 07:00h às 09:00h
+
+Local: sala 405 UFASA
+
+Lista: <http://groups.google.com.br/group/ed2-uff-2012-1> <BR/>
+(importante: todos os alunos **devem** se cadastrar nessa lista)
+
+## Monitoria
+
+Monitor: Carlos Henrique Carvalho da Silva (<henriquezplay@hotmail.com>)
+
+Horário de Atendimento: SEG	09-11h,	TER 11-13h, QUA 09-11h, QUI	11-13h
+
+## Avaliação
+
+A avaliação da disciplina é composta de duas provas (P1 e P2) e um trabalho (T). A média será calculada da seguinte forma: 
+
+Média = ((P1 + P2 + T) / 3) + PARTICIPAÇÃO
+
+**APROVADO**: (Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**: (Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+O item PARTICIPAÇÃO é um bônus de até 0,5 ponto na média. Terá direito a este ponto o aluno que satisfizer aos seguintes requisitos: 
+
+1. Entregar todas as listas de exercícios, cada uma com pelo menos 70% respostas corretas
+2. Entregar todos os exercícios passados em sala de aula
+3. Participar de todos os DOJOs como piloto (pelo menos uma vez em cada DOJO)
+
+O aluno que cumprir 2 dos 3 itens acima obterá 0,25 de nota de PARTICIPAÇÃO. Já o aluno cumprir todos os itens acima obterá 0,50 de nota de PARTICIPAÇÃO. O aluno que cumprir apenas um dos itens acima fica com 0,1 de nota de PARTICIPAÇÃO. Os demais alunos ficam com nota ZERO de participação.
+
+## Trabalho
+
+Implementar um sistema de controle de locação de DVDs. O sistema deve ser capaz de realizar as seguintes tarefas: 
+
+1. Permitir que o usuário cadastre clientes. Cada cliente tem os seguintes atributos: código, nome, telefone.
+2. Permitir que o usuário cadastre DVDs. Cada DVD tem os seguintes atributos: código, título, ano de lançamento.
+3. Permitir que o usuário cadastre locações de DVDs para clientes. Cada locação deve relacionar o código do cliente, código do DVD, data do empréstimo, data da devolução, status (se já foi devolvido ou não).
+
+Atenção: usar 3 tabelas: uma para clientes, uma para DVDs e outra para locações. 
+
+4. Permitir que o usuário exclua registros de qualquer uma das três tabelas. 
+5. Permitir que o usuário modifique o valor de um determinado atributo de uma determinada tabela. O usuário escolhe a tabela, o atributo e os critérios de seleção da tupla a ser modificada, fornecendo o valor da chave.
+6. Permitir que o usuário faça consultas sobre os dados do sistema.
+
+As seguintes consultas são obrigatórias: 
+
+6.1. Encontrar um cliente que tenha um determinado nome (exemplo: nome=JOANA)
+6.2. Encontrar um DVD que tenha ano de lançamento maior que um determinado valor (exemplo: ano > 2011)
+6.3. Encontrar um cliente que tenha algum DVD locado ainda não devolvido
+6.4. Encontrar um cliente que tenha locado mais do que um número X DVDs (exemplo: X = 2). Nesta consulta vale o histórico, ou seja, ela independe do DVD já ter sido ou não devolvido.
+6.5. Encontrar um DVD que tenha um determinado título
+
+As consultas devem ser parametrizadas, ou seja, o usuário informa o valor que quer usar como parâmetro em cada tipo de consulta. 
+Além das consultas acima, o sistema deve também permitir outros 5 tipos de consulta, no mínimo.
+
+O trabalho deve ser implementado com **Árvore B+**. 
+
+**Relatório**: o relatório a ser entregue deve descrever a implementação, dificuldades encontradas e deve ter um manual de uso do sistema.  
+
+**Código fonte**: deve ser entregue, juntamente com instruções de instalação. 
+
+O trabalho será entregue em duas etapas (ver seção Cronograma). Na primeira entrega é esperado que já exista algum resultado concreto. Pelo menos a interface já deve estar pronta e funcionando. 
+
+A segunda etapa consista de entrega e apresentação do trabalho completo, onde os grupos devem mostrar os resultados obtidos no trabalho. 
+
+A apresentação será feitas na forma de uma demostração do trabalho em funcionamento. Alunos devem estar preparados para responder sobre detalhes do código. 
+
+O atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+### Grupos
+
+O trabalho da disciplina será feito em grupos de 5 participantes, que devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Entreguem por e-mail (assunto: ED2 - Grupo) o número da matrícula e o nome completo de cada participante do grupo.
+
+### Auto-Avaliação
+
+Ao final da disciplina, cada componente do grupo deverá me enviar, de forma anônima, o percentual de participação de cada membro do grupo no trabalho. Os componentes que não enviarem assumem que o que foi informado pelos colegas está correto. Estes percentuais serão consolidados e aplicados sobre a nota do trabalho. Desta forma, dois componente de um mesmo grupo podem ficar com notas diferentes no trabalho. 
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 80, §14). Vale notar que segundo o mesmo regulamento, nenhuma falta será abonada (Art. 80, §15).
+
+## Avaliação de Aprendizagem em Caráter Excepcional
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), não será permitida a Avaliação de Aprendizagem em Caráter Excepcional (i.e., 2ª chamada), com exceção dos casos citados no Art. 87, de acordo com os procedimentos do Art. 88.
+
+## Bibliografia
+
+Ferraz, I. N. Programação com Arquivos. Editora Manole Ltda. Barueri, 2003. 
+
+Szwarcfiter, J., Markenzon, L. Estruturas de Dados e Seus Algoritmos. Editora LTC, 3a. edição, 2010.
+
+Santos, Clesio S. e Azeredo, Paulo A. Tabelas: Organização e Pesquisa. Série de Livros Didáticos, Número 10. Ed. Sagra Luzzatto, 2001.
+
+Smith, Peter D. e Barnes, G. Michael. Files & Databases: An Introduction. Addison Wesley Series in Computer Science,1987.
+
+## Listas de Exercícios
+
+Veja as datas de entrega das listas no cronograma da disciplina.
+
+[Lista 1](../../material/ed2/listas/Lista1.pdf) - Arquivos Sequenciais
+
+[Lista 2](../../material/ed2/listas/Lista2.pdf) - Tabelas Hash
+
+[Lista 3](../../material/ed2/listas/Lista3.pdf) - Árvores B, B+, Tries 
+
+[Lista 4](../../material/ed2/listas/Lista4.pdf) - Indexação por chaves secundárias
+
+## Cronograma
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;" border="1">
+	<tr style="font-weight: bold;">
+		<td>Data</td>
+		<td>Atividade</td>
+		<td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>07/03/2012</td>	  
+    <td>Apresentação da disciplina<BR/>
+	  Leitura: <a href="http://www.isqa.unomaha.edu/haworth/isqa3300/fs001.htm" target="_blank">Why File Structures?</a></td>	  
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>9/03/2012</td>	  
+	  <td><a href="../../material/ed2/02-Arquivos.pdf" target="_blank">Conceito de Arquivos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/03/2012</td>
+	  <td><a href="../../material/ed2/02-tutorialArquivos.zip" target="_blank">Tutorial sobre manipulação de arquivos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/03/2012</td>
+	  <td><a href="../../material/ed2/03-ArquivosSequenciais.pdf" target="_blank">Arquivos Sequenciais</a><BR/>
+	  <a href="../../material/ed2/04-AtualizacaoLote.pdf" target="_blank">Atualização em Lote</a><BR/>
+	  Material de Apoio: Tutorial <a href="http://netbeans.org/kb/docs/java/junit-intro_pt_BR.html" target="_blank">JUnit</a>. Atenção: usem JUnit 4
+	  </td> 	  
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/03/2012</td>	  
+	  <td>DOJO Balance Line<BR/>
+	  Folhinha com os <a href="../../material/ed2/CasosTesteDOJO-BalanceLine.pdf" target="_blank">casos de Tese</a></td>	  	  
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/03/2012</td>	  
+    <td><a href="../../material/ed2/05-Intercalacao.pdf" target="_blank">Intercalação de Arquivos Sequenciais</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/03/2012</td>	  
+	  <td><a href="../../material/ed2/06-ClassificacaoExterna.pdf" target="_blank">Classificação Externa: geração de partições classificadas</a><BR/>
+	  <a href="../../material/ed2/DojoGeracaoParticoes.zip" target="_blank">Arquivo com os casos de teste em Java</a> para a implementação da tarefa de casa
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>30/03/2012</td>	  
+	  <td>NÃO HOUVE AULA (greve de ônibus)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/04/2012</td>
+	  <td><a href="../../material/ed2/07-Intercalacao.pdf" target="_blank">Classificação Externa: intercalação</a>	<BR/>   
+	  DOJO Intercalação 
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>06/04/2012</td>	  
+	  <td>Sem aula (Semana Santa)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11/04/2012</td>
+	  <td><a href="../../material/ed2/08-AcessoDireto.pdf" target="_blank">Arquivos de Acesso Direto: hashing</a><BR/>
+	  <a href="../../material/ed2/08-TutorialArquivosAcessoRandomico.zip" target="_blank">Tutorial sobre manipulação de arquivos de acesso randômico</a>
+	  </td>
+	  <td>Lista 1</td>
+	</tr>
+	<tr>
+	  <td>13/04/2012</td>
+	  <td>Hashing (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>18/04/2012</td>
+	  <td>Hashing (continuação) <BR/>
+	  Aula prática: Arquivo com a <a href="../../material/ed2/CasosTesteDOJO-Hash.pdf" target="_blank">especificação dos testes</a><BR/>
+	  <a href="../../material/ed2/DojoHash.zip" target="_blank">Esqueleto da implementação</a></td>	  
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>20/04/2012</td>
+	  <td>Aula prática (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>25/04/2012</td>
+	  <td>Aula de dúvidas</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>27/04/2012</td>
+	  <td>PROVA 1</td>
+	  <td>Lista 2</td>
+	</tr>
+	<tr>
+	  <td>02/05/2012</td>
+	  <td>Apresentação da Parte 1 do Trabalho<BR/>
+	  (10 minutos para cada grupo)
+	  </td>
+	  <td>Código fonte da 1a. parte do Trabalho</td>
+	</tr>
+	<tr>
+	  <td>04/05/2012</td>
+	  <td>Vista de prova (sala 326 BL E)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/05/2012</td>
+	  <td><a href="../../material/ed2/09-ArquivosIndexados.pdf" target="_blank">Arquivos Indexados: Árvore B</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11/05/2012</td>	  	  
+	  <td>Aula prática: esquema gráfico das <a href="../../material/ed2/ArvoresTesteDOJOB.pdf" target="_blank">árvores usadas no testes</a> e 
+	  <a href="../../material/ed2/DojoArvoreB.zip" target="_blank">esqueleto da implementação</a>
+	  </td>
+	  <td></td>	  
+	</tr>
+	<tr>
+	  <td>16/05/2012</td>
+	  <td>Continuação da implementação (árvore B)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>18/05/2012</td>
+	  <td>Continuação de Arquivos indexados: Árvore B+</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/05/2012</td>
+	  <td>Aula prática: esquema gráfico das <a href="../../material/ed2/ArvoresTesteDOJOBMais.pdf" target="_blank">árvores usadas no testes</a> e 
+	  <a href="../../material/ed2/DojoArvoreBMais.zip" target="_blank">esqueleto da implementação</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>25/05/2012</td>
+	  <td>Continuação da implementação: Árvore B+</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>30/05/2012</td>
+	  <td><a href="../../material/ed2/10-ArquivosIndexadosChavesSecundarias.pdf" target="_blank">Arquivos indexados por chaves secundárias</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>01/06/2012</td>
+	  <td>Implementação do trabalho final</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>06/06/2012</td>
+	  <td>Aula de dúvidas</td>
+	  <td>Lista 3</td>
+	</tr>
+	<tr>
+	  <td>08/06/2012</td>
+	  <td>Sem aula (Corpus Christi)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>13/06/2012</td>
+	  <td>Prova 2</td>
+	  <td>Lista 4</td>
+	</tr>
+	<tr>
+	  <td>15/06/2012</td>
+	  <td>Apresentação do Trabalho: G3, G5, G1, G2 (sala 326, bloco E)</td>
+	  <td>Código-fonte e relatório (todos os grupos -- enviar zip por email)</td>
+	</tr>
+	<tr>
+	  <td>20/06/2012</td>
+	  <td>Sem aula</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>22/06/2012</td>
+	  <td>Apresentação do Trabalho: G4, G8, G6, G7 (sala 326, bloco E)<BR/>
+	  Vista de prova de 10-16h (sala 326, bloco E).
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>27/06/2012</td>
+	  <td>Sem aula - <a href="http://www2.dcc.ufmg.br/eventos/amw2012/dokuwiki/doku.php?id=start" target="_blank">AMW</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>29/06/2012</td>
+	  <td>Sem aula - <a href="http://www2.dcc.ufmg.br/eventos/amw2012/dokuwiki/doku.php?id=start" target="_blank">AMW</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/07/2012</td>
+	  <td>VS</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>06/07/2012</td>	
+	  <td>Vista de Prova e Lançamento de Notas</td>	
+	  <td></td>
+	</tr>	
+</table>

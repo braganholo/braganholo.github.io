@@ -1,0 +1,390 @@
+---
+title: GDSE
+in_menu: true
+sort_info: 2
+---
+# Gerência de Dados Semi-Estruturados 
+
+<BR/>
+Horário: quartas e sextas, de 9:00 às 11:00
+
+Local: Sala 104, bloco D (quartas) e Sala 230-A, bloco D (sextas)
+
+Lista: <http://groups.google.com.br/group/gdse-uff-2011-2> <BR/>
+(importante: todos os alunos **devem** se cadastrar nessa lista)
+
+## Avaliação
+
+Média = <BR/>
+(Prova + Participação + 2 x Trabalho + Avaliação de Artigos) / 5
+
+**APROVADO**:<BR/> 
+(Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**: <BR/>
+(Aluno de Graduação) E (Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS o aluno que tirar nota maior ou igual a 6.
+
+**REPROVADO**: caso contrário
+
+## Grupos
+ 
+As atividades da disciplina (exceto a prova e a avaliação de artigos dos colegas) serão feitas individualmente para alunos de doutorado, em dupla para alunos de mestrado e em trio para alunos de graduação. Os grupos devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Apesar das atividades serem em grupo, a avaliação será individual. Entreguem por e-mail (assunto: GDSE - Grupo) o número da matrícula e o nome completo de cada participante do grupo.
+
+## Participação
+
+Um cronograma de leituras de artigos é indicado para viabilizar a consolidação dos conhecimentos referentes à disciplina.
+
+Algumas aulas do curso (ver seção Cronograma) consistem na discussão de artigos lidos na semana. Os pontos a serem discutidos ficará a cargo de grupos previamente definidos. A participação nessa atividade será considerada na composição da Média (item Participação).
+
+Os artigos estão disponíveis online em bibliotecas digitais acessíveis da rede da UFF. Além disso, estão disponíveis também no Google Docs (para ter acesso, você precisa assinar a lista da disciplina).
+
+**1a. Leitura:**
+
+- Papakonstantinou, Yannis; Garcia-Molina, Hector; Widom, Jennifer. [Object Exchange Across Heterogeneous Information Sources](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=380386), In: ICDE 1995.
+
+- McHugh, Jason; Abiteboul, Serge; Goldman, Roy; Quass, Dallas; Widom, Jennifer. [Lore: A Database Management System for Semistructured ](http://portal.acm.org/citation.cfm?id=262770), SIGMOD Record, 26(3), 1997.
+
+**2a. Leitura:**
+
+- Agrawal, 	Rakesh; Ailamaki, Anastasia; Bernstein, Philip; Brewer, Eric; Carey, Michael; Chaudhuri, Surajit; Doan, AnHai; Florescu, Daniela; Franklin, Michael; Garcia-Molina, Hector; Gehrke, Johannes; Gruenwald, Le; Haas, Laura; Halevy; Alon; Hellerstein, Joseph; Ioannidis, Yannis; Korth, Hank; Kossmann, Donald; Madden, Samuel; Magoulas, Roger; Ooi, Beng Chin; O'Reilly, Tim;	Ramakrishnan, Raghu;	Sarawagi, Sunita;	Stonebraker, Michael; Szalay, Alexander; Weikum, Gerhard. [The Claremont report on database research](http://portal.acm.org/citation.cfm?doid=1462571.1462573). SIGMOD Record, 37(3), 2008.
+
+(O Claremont Report foi gerado como resultado de um workshop onde foi discutido o futuro da pesquisa em Banco de Dados. Os slides dos participantes, com suas visões de futuro, [estão disponíveis online](http://db.cs.berkeley.edu/claremont/). Vocês podem usar os slides para entender a posição de cada pesquisador.)
+ 
+- Moro, Mirella; Braganholo, Vanessa; Dorneles, Carina; Duarte, Denio; Galante, Renata; Mello, Ronaldo. [XML: some papers in a haystack](http://portal.acm.org/citation.cfm?id=1815924). SIGMOD Record, 38(2), 2009. 
+
+**3a. Leitura:**
+
+- Fernández, Mary; Kadiyska, Yana; Suciu, Dan; Morishima, Atsuyuki; Tan, Wang-Chiew. [SilkRoute: A framework for publishing relational data in XML](http://portal.acm.org/citation.cfm?id=582413). ACM TODS, 27(4), 2002.
+
+**4a. Leitura:**
+
+- Rahm, Erhard; Bernstein, Philip. [A survey of approaches to automatic schema matching](http://portal.acm.org/citation.cfm?id=767154). The VLDB Journal, 10(4), 2001.
+
+- Doan, AnHai; Halevy, Alon. [Semantic-integration research in the database community: a brief survey](http://www.aaai.org/ojs/index.php/aimagazine/article/download/1801/1699). AI Magazine 26(1), 2005.
+
+**5a. Leitura:** 
+
+- Figueiredo, Guilherme; Braganholo, Vanessa; Mattoso, Marta. [Processing Queries over Distributed XML Databases](http://seer.lcc.ufmg.br/index.php/jidm/article/view/80). JIDM, 1(3), 2010.
+
+**6a. Leitura:**
+
+- Taranov, Ilya; Shcheklein, Ivan; Kalinin, Alexander; Novak, Leonid; Kuznetsov, Sergei; Pastukhov, Roman; Boldakov, Alexander; Turdakov, Denis; Antipin, Konstantin; Fomichev, Andrey; Pleshachkov, Peter; Velikhov, Pavel; Zavaritski, Nikolai; Grinev, Maxim; Grineva, Maria; Lizorkin, Dmitry. [Sedna: Native XML Database Management System (Internals Overview)](http://portal.acm.org/citation.cfm?id=1807282). In: SIGMOD, 2010.
+
+Para cada artigo lido, deve ser feito um resumo. Os resumos devem ser sucintos, não passando de 1 página A4 (fonte 12, margem de 2 cm), contendo o nome do artigo, o nome dos alunos do grupo e o resumo em si. O resumo deve focar no que realmente interessa no artigo e ter princípio, meio e fim (evitar o uso de bullets). Encerre o resumo com 1 parágrafo que emita a sua opinião sobre o artigo (tenha uma visão crítica e identifique os pontos positivos e negativos do artigo).
+
+Cada resumo será pontuado como Entregue (10) ou Não Entregue (0), respeitando a data estipulada (ver seção Cronograma). Os resumos serão lidos por amostragem e os principais problemas detectados serão discutidos com a turma na aula apropriada para apresentação dos artigos, sem revelar os resumos que foram lidos. Essa atividade irá compor a Média (item Participação). Atraso na entrega dos resumos terá multa de 1 ponto por dia.
+
+## Trabalho
+
+Cada grupo deve, durante as primeiras semanas de aula, escolher o tema do seu trabalho. O tema do trabalho deve ser negociado com o professor antes do seu início.
+
+Como resultado, espera-se a escrita de um artigo de 8 a 10 páginas no [formato da SBC](http://www.sbc.org.br/index.php?option=com_jdownloads&Itemid=195&task=view.download&catid=32&cid=38), apresentando a motivação e o objetivo do trabalho, trabalhos relacionados, resultados obtidos e considerações finais. Para trabalhos que tenham implementação (o que é fortemente indicado), será menor a exigência sobre a análise de trabalhos relacionados. Por outro lado, espera-se que sejam fornecidos exemplos de utilização do protótipo implementado. Além disso, também é esperado um detalhamento das dificuldades encontradas e decisões tomadas. Em princípio, esses artigos resultantes do trabalho serão utilizados somente para avaliação na disciplina, mas podem ser posteriormente aprimorados para submissão a fóruns científicos, caso seja de interesse do aluno e do professor. O trabalho deve ser entregue na data estipulada no Cronograma da disciplina.
+
+Sugiro fortemente a leitura das [dicas para escrita de artigos científicos](http://www.ic.unicamp.br/~cmbm/tips/valduriez.pdf). Elas podem ajudar vocês a produzirem um trabalho de qualidade.
+
+A entrega será feita através da submissão do artigo para a "mini-conferência" da disciplina, usando um software de controle de conferências real, o [Easy Chair](http://www.easychair.org). Para submeter seu artigo, [clique aqui](https://www.easychair.org/conferences/?conf=gdse20112). 
+
+O trabalho será apresentado em dois momentos distintos (ver seção Cronograma). O grupo poderá utilizar slides e quadro e cada apresentação deve durar 20 minutos. Na primeira apresentação é esperado que o grupo discuta o contexto do trabalho, objetivo e o andamento atual do trabalho. É esperado que já exista algum resultado concreto. 
+
+A segunda apresentação será a apresentação final, onde os grupos devem mostrar os resultados obtidos no trabalho. Vale notar que nesse momento os trabalhos já foram entregues, e essa apresentação serve como um espaço para que os grupos detalhem as suas experiências na execução do trabalho. 
+
+Trabalhos que não forem entregues no prazo estipulado via EasyChair não serão aceitos, e a nota será ZERO. Atenção: o sistema controla o horário limite de entrega automaticamente. Passado o prazo, o sistema "fecha" e não deixa mais que os trabalhos sejam submetidos. Isso simula exatamente o que acontece em um congresso real. 
+
+## Avaliação de Artigos
+
+Os artigos entregues por cada grupo serão submetidos através do Easy Chair. Na disciplina, simularemos uma conferência real, onde autores submetem artigos e os artigos são avaliados pelo Comitê de Programa da conferência. Os alunos da disciplina farão parte do comitê de programa, e consequentemente receberão artigos dos colegas para avaliar. As avaliações serão consideradas na nota do aluno que fez a avaliação (item Avaliação de Artigos), mas não serão consideradas na nota do grupo que submeteu o artigo (para que as avaliações sejam sérias, sem preocupação em prejudicar a nota do colega).   
+
+Para avaliar os artigos que foram atribuídos a você, [clique aqui](https://www.easychair.org/conferences/?conf=gdse20112). No menu, escolha GDSE 2011-2, e depois em Change Role. Escolha agora o papel de avaliador ao invés de autor. Depois, acesse o menu Reviews, e clique em My Papers. Lá aparecerão os artigos que foram atribuídos para você avaliar.  
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 80, §14). Vale notar que segundo o mesmo regulamento, nenhuma falta será abonada (Art. 80, §15).
+
+## Avaliação de Aprendizagem em Caráter Excepcional
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), não será permitida a Avaliação de Aprendizagem em Caráter Excepcional (i.e., 2ª chamada), com exceção dos casos citados no Art. 87, de acordo com os procedimentos do Art. 88.
+
+## Bibliografia
+
+Abiteboul, Serge e Buneman, Peter. Data On The Web: From Relations To Semistructured Data and XML. Academic Press, 1999. 
+
+Bradley, Neil. The XML Companion. Addison-Wesley. 3a. Edição, 2001. 
+
+Chaudhri, Akmal B.; Rashid, Awais e Zicari, Roberto. XML Data Management: Native XML and XML-Enabled Database Systems. Addison-Wesley Professional, 2003.  
+
+Moro, Mirella e Braganholo, Vanessa. [Desmistificando XML: da pesquisa à prática industrial](http://www.ic.uff.br/~vanessa/papers/moro2009-jai.pdf). Atualização em Informática, 2009. Cap. 5. SBC. p. 231-278. 
+
+Ozu, Nikola; Duckett, Jon; Watt, Andrew , e outros. Professional XML. Peer Information. 2a. Edição, 2001. 
+
+Especificações de XML: [W3C](http://www.w3.org)
+
+Tutoriais online: [W3 Schools](http://www.w3schools.com)
+
+## Ferramentas
+
+<table>
+   <tr>
+      <td><img src="../../material/../../material/images/education_80.gif"/></td>
+      <td>A ferramenta recomendada para uso na disciplina é a <a href="http://www.altova.com/xmlspy.html" target="_blank">XML Spy</a>. No entanto, existem várias outras ferramentas que também podem ser utilizadas. </td>
+    </tr>
+</table>
+
+- [XML Spy](http://www.altova.com/xmlspy.html) - ferramenta completa e líder de mercado. Através de uma <a href="http://www.altova.com/partners_educ.html" target="_blank">parceria</a>, a Altova nos disponibilizou 30 licenças para serem usadas no laboratório da graduação.
+
+- [Exchanger XML Lite](http://www.exchangerxml.com)  - versão gratuita para uso acadêmico. A ferramenta é feita em Java, e tem todas as funcionalidades que precisaremos em aula. 
+
+- [JEdit](http://www.jedit.org/) - é necessário instalar os [plugins](http://plugins.jedit.org/list.php?category=4) para XML, XQuery e XSLT.
+
+- [Validador online de XML Schema](http://www.w3.org/2001/03/webdata/xsv)
+
+* [RXP](http://www.cogsci.ed.ac.uk/~richard/rxp.html): Parser XML feito em C
+
+> Para verificar um documento XML: rxp
+
+> Para validar um documento XML (contra DTD): rxp -v
+
+> Para ver entidades processadas: rxp -bm
+
+> Para verificar namespaces: rxp -N
+
+- Banco de Dados Nativo [Sedna](http://www.modis.ispras.ru/sedna/)
+
+> [Interface Administrativa para o Sedna](http://sednaadmin.great.ufc.br/)
+
+- Banco de Dados Nativo [eXist](http://exist.sourceforge.net/).
+
+- [FOP](http://xml.apache.org/fop) - Processador para XSL:FO
+
+## Listas de Exercícios
+
+[Lista 1](../../material/gdse/listas/Lista1.pdf) - Introdução
+
+[Lista 2](../../material/gdse/listas/Lista2.pdf) - DTD
+
+[Lista 3](../../material/gdse/listas/Lista3.pdf) - XML Schema
+
+[Lista 4](../../material/gdse/listas/Lista4.pdf) - XPath
+
+[Lista 5](../../material/gdse/listas/Lista5.pdf) - XQuery
+
+[Lista 6](../../material/gdse/listas/Lista6.pdf) - APIs SAX e DOM
+
+[Lista 7](../../material/gdse/listas/Lista7.pdf) - XSLT
+
+## Cronograma
+
+<!-- 	  
+	  
+	  <td>Armazenamento de Documentos XML <a href="../../material/gdse/22-ArmazenamentoSGBD.pdf" target="_blank">em SGBD relacional</a> e em <a href="../../material/gdse/06-ArmazenamentoNativo-v2.pdf" target="_blank">SGBD XML Nativo</a></td>
+
+	  <td>Avaliações dos artigos submetida via <a href="https://www.easychair.org/conferences/?conf=gdse20112" target="_blank">EasyChair</a> até 23:55hs</td>
+-->
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;" border="1">
+	<tr style="font-weight: bold;">
+		<td>Data</td>
+		<td>Atividade</td>
+		<td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>10/08/2011</td>	  
+	  <td><a href="../../material/gdse/01-Apresentacao2011.2.pdf" target="_blank">Apresentação da disciplina</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>12/08/2011</td>	  
+	  <td><a href="../../material/gdse/02-Introducao.pdf" target="_blank">Introdução a Dados Semi-Estruturados e XML</a></td> 
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>17/08/2011</td>
+	  <td>Esquemas para XML: <a href="../../material/gdse/03-DTD.pdf" target="_blank">DTD</a><BR/> 
+    <a href="../../material/gdse/receita.zip" target="_blank">Arquivo para exercício (receita.xml)</a></td> 
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>19/08/2011</td>
+	  <td>DTD (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>24/08/2011</td>	  
+	  <td>Esquemas para XML: <a href="../../material/gdse/04-XMLSchema.pdf" target="_blank">XML Schema</a> (parte 1)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/08/2011</td>	  
+	  <td>Discussão Artigos - 1a. e 2a. Leituras</td>	  	  
+	  <td>Resumos</td>
+	</tr>
+	<tr>
+	  <td>31/08/2011</td>	  
+	  <td>Esquemas para XML: <a href="../../material/gdse/05-XMLSchema.pdf" target="_blank">XML Schema</a><BR/> (parte 2)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/09/2011</td>	  
+	  <td><a href="../../material/gdse/07-XPath.pdf" target="_blank">Consultas: XPath</a><BR/>
+Arquivo para exercícios: <a href="../../material/gdse/artigo.zip" target="_blank">artigo</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/09/2011</td>
+	  <td>FERIADO</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/09/2011</td>	  
+	  <td>Consultas: <a href="../../material/gdse/11-XQuery.pdf" target="_blank">XQuery</a><BR/>
+	  <a href="../../material/gdse/xml-xquery.zip" target="_blank">Arquivos para os exercícios de XQuery, e exemplos de uso de coleções</a></td> 
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/09/2011</td>
+	  <td>XQuery (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/09/2011</td>
+	  <td><a href="../../material/gdse/22-ArmazenamentoSGBD.pdf" target="_blank">Armazenamento de Documentos XML em SGBD relacional</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/09/2011</td>
+	  <td>Apresentação do Trabalho (1a. parte)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/09/2011</td>
+	  <td>Armazenamento de Documentos XML em <a href="../../material/gdse/06-ArmazenamentoNativo.pdf" target="_blank">SGBD XML Nativo</a>
+	  Arquivo para os <a href="../../material/gdse/docs-inserir.zip" target="_blank">exercícios</a> 
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/09/2011</td>
+	  <td>Transformações em XML: <a href="../../material/gdse/09-XSLT.pdf" target="_blank">XSLT</a><BR/>
+	  Arquivos para <a href="../../material/gdse/pedido4.zip" target="_blank">exercícios de XSLT</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>30/09/2011</td>
+	  <td>XSLT (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>05/10/2011</td>
+	  <td>Sem aula - <a href="http://www.sbbd-webmedia2011.inf.ufsc.br/sbbd/index.php/pt/" target="_blank">SBBD</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/10/2011</td>
+	  <td>Sem aula - <a href="http://www.sbbd-webmedia2011.inf.ufsc.br/sbbd/index.php/pt/" target="_blank">SBBD</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>12/10/2011</td>
+	  <td>FERIADO</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/10/2011</td>	  
+	  <td>Discussão de Artigos - 3a. e 4a. Leituras</td>	  	  
+	  <td>Resumos</td>	  
+	</tr>
+	<tr>
+	  <td>19/10/2011</td>
+	  <td>Sem aula - Agenda Acadêmica</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/10/2011</td>
+	  <td>Sem aula - Agenda Acadêmica</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/10/2011</td>
+	  <td>PROVA</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/10/2011</td>
+	  <td>FERIADO</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/11/2011</td>
+	  <td>FERIADO</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/11/2011</td>
+	  <td>Vista de Prova</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/11/2011</td>
+	  <td>Discussão de Artigos 5a. e 6a. Leitura + Discussão sobre o processo de avaliação dos artigos</td>
+	  <td>Resumos</td>
+	</tr>
+	<tr>
+	  <td>11/11/2011</td>
+	  <td>API <a href="../../material/gdse/12-SAX.pdf" target="_blank">SAX</a><BR/>
+	  Arquivos para <a href="../../material/gdse/exerciciosSAX.zip" target="_blank">exercícios de SAX</a></td> 
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/11/2011</td>
+	  <td>API SAX (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>18/11/2011</td>
+	  <td>API <a href="../../material/gdse/13-DOM.pdf" target="_blank">DOM</a><BR/>
+	  Arquivos para <a href="../../material/gdse/exerciciosDOM.zip" target="_blank">exercícios de DOM</a></td> 	  
+	  <td>Artigo submetido via <a href="https://www.easychair.org/conferences/?conf=gdse20112" target="_blank">EasyChair</a>, até 23:55hs</td>
+	</tr>
+	<tr>
+	  <td>23/11/2011</td>
+	  <td>Aula</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>25/11/2011</td>
+	  <td>Apresentação do Trabalho</td>
+	  <td>Avaliações dos artigos submetida via <a href="https://www.easychair.org/conferences/?conf=gdse20112" target="_blank">EasyChair</a> até 23:55hs</td>
+	</tr>
+	<tr>
+	  <td>30/11/2011</td>
+	  <td>Sem aula</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/12/2011</td>
+	  <td>Vista de avaliação</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/12/2010</td>
+	  <td>Sem aula</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/12/2011</td>	
+	  <td>VS</td>	
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/12/2011</td>	
+	  <td>Vista de Prova</td>	
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/12/2011</td>	
+	  <td>Entrega das notas</td>	
+	  <td></td>
+	</tr>
+
+</table>

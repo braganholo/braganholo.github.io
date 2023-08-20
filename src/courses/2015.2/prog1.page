@@ -1,0 +1,285 @@
+---
+title: PROG I
+in_menu: true
+sort_info: 2
+---
+# Programação de Computadores I
+
+
+
+<BR/>
+Horário: quartas e sextas de 11h às 13h 
+
+Local: Sala 215
+
+Grupo para avisos da disciplina: usaremos um grupo fechado do Facebook para as discussões da disciplina. Inscrevam-se em <https://www.facebook.com/groups/prog1.2015.2.uff/>. Esse grupo será usado para divulgar avisos gerais e para dúvidas. <BR/>
+
+Importante: todos os alunos **devem** se cadastrar nesse grupo -- o grupo é fechado, então nada que for postado nele aparecerá na sua linha do tempo do Facebook.
+
+## Monitoria
+
+Elhofni G. Lima (SEG 09-11h, TER 16-18h, QUA 09-11h, QUI 09-11h)
+
+Ian B. D. Lanza (SEG 16-18h, TER 16-18h, QUA 16-18h, QUI 14-16h)
+
+## Avaliação
+
+P1 = Prova sem consulta
+
+P2 = Prova sem consulta
+
+Média = (P1 * 2 + P2 * 2 + Participação) / 5
+
+**APROVADO**
+
+(Presença >= 75%) E (*Média* >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Presença >= 75%) E (4 <= *Média* < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Caso contrário
+
+## Grupos
+
+As atividades de Participação serão feitas em grupos de 3 participantes, que devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Entreguem por e-mail (assunto: Prog - Grupo) o número da matrícula e o nome completo de cada participante do grupo.
+
+Ao final do curso, cada membro do grupo será solicitado a indicar, sob o seu ponto de vista, o percentual de participação de cada membro do grupo (inclusive de sí próprio) nas atividades relacionadas à disciplina. Esta informação será utilizada na distribuição das notas. Desta forma, empenhe-se desde o início de forma pró-ativa.
+
+## Participação
+
+Em algumas aulas serão fornecidos exercícios para serem feitos em grupo durante a aula. Ao término, os grupos serão convidados a se voluntariar para apresentar as suas soluções. A participação nessas atividades será considerada na composição da nota de Participação.
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.prograd.uff.br/novo/sites/default/files/001-2015_regulamento_do_curso_de_graduacao.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 96) e não há abono de faltas (Art. 103).
+
+## Bibliografia
+
+Paul Barry, Use a Cabeça! Programação, Editora Alta Books.
+
+Paul Barry, Use a Cabeça! Python, Editora Alta Books.
+
+Furlan, M., Gomes, M., Soares, M., Concilio, R., 2005, Algoritmos e Lógica de Programação, Editora Thomson.
+
+## Ferramentas
+
+O aluno tem liberdade de utilizar a IDE Python de sua preferência. Contudo, nas atividades de sala de aula será utilizado o [PyCharm](https://www.jetbrains.com/pycharm-educational/).
+
+## Listas de Exercícios
+
+Duas listas de exercício são disponibilizadas durante o curso, respectivamente para a matéria da primeira e da segunda prova. Durante a resolução dos exercícios apresentados nas listas, os alunos podem entrar em contato com os monitores para tirar dúvidas. Contudo, espera-se que os alunos façam uso do próprio compilador Python para verificar a corretude das suas respostas.
+
+As listas não precisam ser entregues ao professor. O intuito é servirem como apoio para fixar a matéria dada em sala. Como estímulo, ao menos uma questão de cada prova será baseada na lista de exercícios. Nas aulas de exercícios, os alunos serão convidados a apresentar as suas respostas da lista. Essas apresentações irão compor o item Participação da nota final.
+
+[Lista para a primeira prova](../../material/prog-python/lista1.pdf)
+
+[Lista para a segunda prova](../../material/prog-python/lista2.pdf) 
+
+Obs.: Caso tenha dificuldade de fazer alguma questão, verifique se não é referente a uma matéria que está para ser apresentada nas próximas aulas.
+
+
+## Cronograma
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;" border="1">
+	<tr style="font-weight: bold;">
+		<td>Data</td>
+		<td>Atividade</td>
+		<td>Entrega</td>
+	</tr>
+	<tr>
+	      <td>25/11/2015</td>
+            <td>SEM AULA - Agenda Acadêmica</td>
+            <td></td>
+    </tr>
+	<tr>
+	      <td>27/11/2015</td>
+            <td>SEM AULA - Agenda Acadêmica</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>02/12/2015</td>
+            <td><a href="../../material/prog-python/01-Apresentacao-2015.2.pdf" target="_blank">Apresentação da Disciplina</a></td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>04/12/2015</td>
+            <td><a href="../../material/prog-python/02-Introducao.pdf" target="_blank">Introdução à Programação</a></td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>09/12/2015</td>
+            <td>Exercícios</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>11/12/2015</td>
+            <td><a href="../../material/prog-python/03-Organizacao.pdf" target="_blank">Organização de Programas em Python</a></td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>16/12/2015</td>
+            <td><a href="../../material/prog-python/03-Exercicios.pdf" target="_blank">Exercícios</a></td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>18/12/2015</td>
+            <td><a href="../../material/prog-python/04-OperadoresEstruturasDecisao.pdf" target="_blank">Operadores e Comandos de Decisão</a></td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>23/12/2015</td>
+            <td>RECESSO</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>25/12/2015</td>
+            <td>RECESSO</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>30/12/2015</td>
+            <td>RECESSO</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>01/01/2016</td>
+            <td>RECESSO</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>06/01/2016</td>
+            <td><a href="../../material/prog-python/04-Exercicios.pdf" target="_blank">Exercícios</a></td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>08/01/2016</td>
+            <td><a href="../../material/prog-python/05-Repeticao.pdf" target="_blank">Estruturas de Repetição</a></td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>13/01/2016</td>
+            <td>Exercícios (slides da aula passada)</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>15/01/2016</td>
+            <td><a href="../../material/prog-python/06-Vetores.pdf" target="_blank">Vetores</a></td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>20/01/2016</td>
+            <td><a href="../../material/prog-python/06-Exercicios.pdf" target="_blank">Exercícios sobre vetores</a></td>
+            <td>Exercícios da aula de 15/01 (no Google Classroom)</td>
+    </tr>
+    <tr>
+	      <td>22/01/2016</td>
+            <td><a href="../../material/prog-python/07-Matrizes.pdf" target="_blank">Matrizes</a></td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>27/01/2016</td>
+            <td>SEM AULA - <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=16041" target = "_blank">Dagstuhl</a></td>
+            <td>Exercícios da aula de 22/01 (no Google Classroom)</td>
+    </tr>
+    <tr>
+	      <td>29/01/2016</td>
+            <td>SEM AULA - <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=16041" target = "_blank">Dagstuhl</a></td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>03/02/2016</td>
+            <td>PROVA 1</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>05/02/2016</td>
+            <td><a href="../../material/prog-python/08-Listas.pdf" target="_blank">Listas</a></td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>10/02/2016</td>
+            <td>RECESSO</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>12/02/2016</td>
+            <td>RECESSO</td>
+            <td>Exercícios da Aula de 05/02 (entregar até dia 16/02 no Google Classroom)</td>
+    </tr>
+    <tr>
+	      <td>17/02/2016</td>
+            <td>Vista de Prova</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>19/02/2016</td>
+            <td><a href="../../material/prog-python/09-Subprogramacao.pdf" target="_blank">Subprogramação (funções)</a></td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>24/02/2016</td>
+            <td>Exercícios</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>26/02/2016</td>
+            <td><a href="../../material/prog-python/10-Strings.pdf" target="_blank">Manipulação de Strings</a></td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>02/03/2016</td>
+            <td>Exercícios</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>04/03/2016</td>
+            <td><a href="../../material/prog-python/11-TuplasDicionarios.pdf" target="_blank">Tuplas e Dicionários</a></td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>09/03/2016</td>
+            <td><a href="../../material/prog-python/12-Arquivos.pdf" target="_blank">Arquivos</a></td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>11/03/2016</td>
+            <td>AULA</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>16/03/2016</td>
+            <td>Prova 2</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>18/03/2016</td>
+            <td>Vista de Prova</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>23/03/2016</td>
+            <td>VS ou SEGUNDA CHAMADA</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>25/03/2016</td>
+            <td>RECESSO</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>30/03/2016</td>
+            <td>Vista de Prova</td>
+            <td></td>
+    </tr>
+    <tr>
+	      <td>01/04/2016</td>
+            <td>VS (para quem fez SEGUNDA CHAMADA)</td>
+            <td></td>
+    </tr>
+
+</table>

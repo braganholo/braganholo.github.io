@@ -1,0 +1,343 @@
+---
+title: XML
+in_menu: true
+sort_info: 2
+---
+# Dados Semi-Estruturados e XML
+
+<BR/>
+
+Horário: terças e quintas, de 7:00 às 9:00
+
+Local: LCC 
+
+Lista: <http://groups.google.com.br/group/xml-uff-2010-2> <BR/>
+(importante: todos os alunos **devem** se cadastrar nessa lista)
+
+## Avaliação
+
+Média = (Avaliação1 + Avaliação2 + Avaliação3) / 3
+
+Avaliação1 = Prova sem consulta
+
+Avaliação2 = Prova sem consulta
+
+Avaliação3 = (Participação + 3 x Trabalho) / 4
+
+**APROVADO**: (Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**: (Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+## Grupos
+
+As atividades da Avaliação3 serão feitas em grupos de 4 ou 5 participantes, que devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Entreguem por e-mail (assunto: XML - Grupo) o número da matrícula e o nome completo de cada participante do grupo.
+
+Ao final do curso, cada membro do grupo será solicitado a indicar, sob o seu ponto de vista, o percentual de participação de cada membro do grupo (inclusive de si próprio) no resultado final do trabalho. Esta informação será utilizada na distribuição das notas. Desta forma, se empenhe desde o início de forma pró-ativa.
+
+
+## Participação
+
+Na maioria das aulas serão fornecidos exercícios para serem feitos em grupo durante a aula ou em casa. Ao término, os grupos serão convidados a se voluntariar para apresentar as suas soluções. A participação nessas atividades será considerada na composição da Avaliação3 (item Participação).
+
+## Trabalho
+
+[Especificação do Trabalho.](xml/EspecificacaoTrabalhoFinal.pdf) 
+
+[Classes Java para comunicação.](xml/communication.zip)
+
+<a href="xml/peer.xsd" target="_blank">Esquema para os documentos do trabalho.</a>
+
+Obs.: atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 80, §14). Vale notar que segundo o mesmo regulamento, nenhuma falta será abonada (Art. 80, §15).
+
+## Avaliação de Aprendizagem em Caráter Excepcional
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), não será permitida a Avaliação de Aprendizagem em Caráter Excepcional (i.e., 2ª chamada), com exceção dos casos citados no Art. 87, de acordo com os procedimentos do Art. 88.
+
+## Bibliografia
+
+Abiteboul, Serge e Buneman, Peter. Data On The Web: From Relations To Semistructured Data and XML. Academic Press, 1999. 
+
+Bradley, Neil. The XML Companion. Addison-Wesley. 3a. Edição, 2001. 
+
+Chaudhri, Akmal B.; Rashid, Awais e Zicari, Roberto. XML Data Management: Native XML and XML-Enabled Database Systems. Addison-Wesley Professional, 2003.   
+
+Moro, Mirella e Braganholo, Vanessa. [Desmistificando XML: da pesquisa à prática industrial](http://www.ic.uff.br/~vanessa/papers/moro2009-jai.pdf). Atualização em Informática, 2009. Cap. 5. SBC. p. 231-278. 
+
+Ozu, Nikola; Duckett, Jon; Watt, Andrew , e outros. Professional XML. Peer Information. 2a. Edição, 2001. 
+
+Especificações de XML: [W3C](http://www.w3.org)
+
+Tutoriais online: [W3 Schools](http://www.w3schools.com)
+
+## Ferramentas
+
+<table>
+   <tr>
+      <td><img src="../../material/images/education_80.gif"/></td>
+      <td>A ferramenta recomendada para uso na disciplina é a [XML Spy](http://www.altova.com/xmlspy.html). No entanto, existem várias outras ferramentas que também podem ser utilizadas. </td>
+    </tr>
+</table>
+
+- [XML Spy](http://www.altova.com/xmlspy.html) - ferramenta completa e líder de mercado. Através de uma <a href="http://www.altova.com/partners_educ.html" target="_blank">parceria</a>, a Altova nos disponibilizou 30 licenças para serem usadas no laboratório.
+
+- [Exchanger XML Lite](http://www.exchangerxml.com)  - versão gratuita para uso acadêmico. A ferramenta é feita em Java, e tem todas as funcionalidades que precisaremos em aula. 
+
+- [JEdit](http://www.jedit.org/) - é necessário instalar os [plugins](http://plugins.jedit.org/list.php?category=4) para XML, XQuery e XSLT.
+
+- [Validador online de XML Schema](http://www.w3.org/2001/03/webdata/xsv)
+
+* [RXP](http://www.cogsci.ed.ac.uk/~richard/rxp.html): Parser XML feito em C
+
+> Para verificar um documento XML: rxp
+
+> Para validar um documento XML (contra DTD): rxp -v
+
+> Para ver entidades processadas: rxp -bm
+
+> Para verificar namespaces: rxp -N
+
+- Banco de Dados Nativo [Sedna](http://www.modis.ispras.ru/sedna/)
+
+> [Interface Administrativa para o Sedna](http://sednaadmin.great.ufc.br/)
+
+- Banco de Dados Nativo [eXist](http://exist.sourceforge.net/).
+
+- [FOP](http://xml.apache.org/fop) - Processador para XSL:FO
+
+## Listas de Exercícios
+
+[Lista 1](../../material/gdse/listas/Lista1.pdf) - Introdução
+
+[Lista 2](../../material/gdse/listas/Lista2.pdf) - DTD
+
+[Lista 3](../../material/gdse/listas/Lista3.pdf) - XML Schema
+
+[Lista 4](../../material/gdse/listas/Lista4.pdf) - XPath
+
+[Lista 5](../../material/gdse/listas/Lista5.pdf) - XQuery
+
+[Lista 6](../../material/gdse/listas/Lista6.pdf) - APIs SAX e DOM
+
+[Lista 7](../../material/gdse/listas/Lista7.pdf) - XSLT
+
+## Cronograma
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;" border="1">
+	<tr style="font-weight: bold;">
+		<td>Data</td>
+		<td>Atividade</td>
+		<td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>10/08/2010</td>
+	  <td><a href="../../material/gdse/01-Apresentacao.pdf" target="_blank">Apresentação da disciplina</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>12/08/2010</td>
+	  <td><a href="../../material/gdse/02-Introducao.pdf" target="_blank">Introdução a XML</a></td> 
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>17/08/2010</td>
+	  <td>Namespaces (material junto com o da aula passada)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>19/08/2010</td>
+	  <td><a href="../../material/gdse/03-DTD.pdf" target="_blank">Esquemas para XML: DTD</a><BR/>
+	  <a href="../../material/gdse/receita.zip" target="_blank">Aquivo para exercício (receita.xml)</a>
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>24/08/2010</td>
+	  <td>DTD (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/08/2010</td>
+	  <td><a href="../../material/gdse/04-XMLSchema.pdf" target="_blank">Esquemas para XML: XML Schema</a><BR/> (parte 1)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>31/08/2010</td>
+	  <td><a href="../../material/gdse/05-XMLSchema.pdf" target="_blank">Esquemas para XML: XML Schema</a><BR/> (parte 2)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/09/2010</td>
+	  <td><a href="../../material/gdse/07-XPath.pdf" target="_blank">Consultas: XPath</a><BR/>
+	  Arquivo para exercícios: <a href="../../material/gdse/artigo.zip" target="_blank">artigo</a>
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/09/2010</td>
+	  <td>FERIADO</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/09/2010</td>
+	  <td>Consultas: XPath (continuação) e <a href="../../material/gdse/11-XQuery.pdf" target="_blank">XQuery</a><BR/>
+	  Arquivos para exercícios de XQuery: <a href="../../material/gdse/xml-xquery.zip" target="_blank"><i>auction</i></a>
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/09/2010</td>
+	  <td>Apresentação do trabalho (Parte 1)</td> 
+	  <td>Relatório Parte 1</td>
+	</tr>
+	<tr>
+	  <td>16/09/2010</td>
+	  <td>Aula de Dúvidas	  
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/09/2010</td>
+	  <td><b>PROVA 1 - sala 239, bloco D</b></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/09/2010</td>
+	  <td>Consultas: XQuery (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/09/2010</td>
+	  <td>API <a href="../../material/gdse/12-SAX.pdf" target="_blank">SAX</a><BR/>
+	  Arquivos para <a href="../../material/gdse/exerciciosSAX.zip" target="_blank">exercícios de SAX</a>
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>30/09/2010</td>
+	  <td>API SAX (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>05/10/2010</td>
+	  <td>Não haverá aula -- <a href="http://www.ufmg.br/swib/?cat=7" target="_blank">SBBD</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/10/2010</td>
+	  <td>Não haverá aula -- <a href="http://www.ufmg.br/swib/?cat=7" target="_blank">SBBD</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>12/10/2010</td>
+	  <td>FERIADO</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/10/2010</td>
+	  <td>API <a href="../../material/gdse/13-DOM.pdf" target="_blank">DOM</a><BR/>
+	  Arquivos para <a href="../../material/gdse/exerciciosDOM.zip" target="_blank">exercícios de DOM</a>
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>19/10/2010</td>
+	  <td>API DOM (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/10/2010</td>
+	  <td>Transformações em XML: <a href="../../material/gdse/09-XSLT.pdf" target="_blank">XSLT</a><BR/>
+	  Arquivos para <a href="../../material/gdse/pedido4.zip" target="_blank">exercícios de XSLT</a>
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/10/2010</td>
+	  <td>XSLT (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/10/2010</td>
+	  <td>Apresentação (DEMO) do Trabalho (Parte 2)</td>
+	  <td>Relatório Parte 2</td>
+	</tr>
+	<tr>
+	  <td>02/11/2010</td>
+	  <td>FERIADO</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/11/2010</td>
+	  <td>XSLT (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/11/2010</td>
+	  <td>Não haverá aula - Agenda Acadêmica</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11/11/2010</td>
+	  <td>Não haverá aula - Agenda Acadêmica</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/11/2010</td>
+	  <td><a href="../../material/gdse/22-ArmazenamentoSGBD.pdf" target="_blank">Armazenamento em SGBDs Objeto-Relacionais</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>18/11/2010</td>
+	  <td><a href="../../material/gdse/06-ArmazenamentoNativo.pdf" target="_blank">Armazenamento Nativo</a><BR/>
+	  Arquivos para <a href="../../material/gdse/docs-inserir.zip" target="_blank">exercícios com o Sedna</a>
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/11/2010</td>	
+	  <td>Aula</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>25/11/2010</td>
+	  <td>Apresentação do Trabalho (Parte 3)</td>
+	  <td>Relatório Final</td>
+	</tr>
+	<tr>
+	  <td>30/11/2010</td>
+	  <td>Apresentação do Trabalho (Parte 3)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/12/2010</td>
+	  <td>PROVA 2 - auditório - Bloco D - sala 330</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/12/2010</td>
+	  <td>Vista de Prova</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/12/2010</td>
+	  <td>VS - Sala 350A (Seminários) - Bloco E</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/12/2010</td>
+	  <td>Vista de Prova</td>
+	  <td></td>
+	</tr>	
+	<tr>
+	  <td>16/12/2010</td>
+	  <td>Lançamento de Notas</td>
+	  <td></td>
+	</tr>	
+</table>
+[SBBD]:http://www.ufmg.br/swib/?cat=7

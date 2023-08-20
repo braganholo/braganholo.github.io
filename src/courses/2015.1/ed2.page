@@ -1,0 +1,314 @@
+---
+title: ED2
+in_menu: true
+sort_info: 1
+   
+---
+# Estruturas de Dados II
+
+<BR/>
+
+Horário: quartas e sextas, de 7h às 9h
+
+Local: Sala 206
+
+Grupo da disciplina: usaremos um grupo fechado do Facebook para as discussões da disciplina. Inscrevam-se em <https://www.facebook.com/groups/ed2.2015.1/>. Esse grupo será usado também para divulgar avisos gerais. <BR/>
+(importante: todos os alunos **devem** se cadastrar nesse grupo -- o grupo é fechado, então nada que for postado nele aparecerá na sua linha do tempo do Facebook)
+
+
+## Monitoria
+
+Monitor: Lucas B. P. de Oliveira (TER 16-18h, QUA 16-18h, QUI 09-13h)
+
+## Avaliação
+
+A avaliação da disciplina é composta de duas provas (P1 e P2) e um trabalho (T). A média será calculada da seguinte forma: 
+
+P1 = Prova sem consulta
+
+P2 = Prova sem consulta
+
+T = (Participação + 2 x Trabalho) / 3
+
+Média das Provas = (P1 + P2) / 2
+
+Caso Média das Provas >= 4
+
+> Média = (P1 + P2 + T) / 3
+
+Caso contrário:
+
+> Média = Média das Provas
+
+Obs.: Vale notar que o uso da nota *T* não é opcional para quem fica com *Média das Provas* >= 4. Então, caso a nota *T* seja baixa, a *Média* será afetada mesmo que a *Média das Provas* seja alta.
+
+**APROVADO**
+
+(Presença >= 75%) E (*Média* >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Presença >= 75%) E (4 <= *Média* < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Caso contrário
+
+### Participação
+
+O item PARTICIPAÇÃO é incorporado à nota do trabalho. Cada exercício passado em sala vale um ponto de participação. Todos os grupos que entregarem o exercício na data correta ganham o ponto. Ao final, será feita uma proporção. O grupo que tem mais pontos fica com 10 em Participação. Os demais ganham nota proporcional. 
+
+### Grupos
+
+Os Trabalhos e exercícios da disciplina serão feitos em grupos de 4 a 5 participantes, que devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Entreguem por e-mail (assunto: ED2-Grupo) o número da matrícula e o nome completo de cada participante do grupo.
+
+Ao final do curso, cada membro do grupo será solicitado a indicar, sob o seu ponto de vista, o percentual de participação de cada membro do grupo (inclusive de sí próprio) nas atividades relacionadas ao trabalho e aos exercícios. Esta informação será utilizada na distribuição das notas. Desta forma, empenhe-se desde o início de forma pró-ativa.
+
+## Trabalho
+
+Implementar um gerenciador de dados que seja capaz de fazer as seguintes tarefas: 
+
+1. Permitir que o usuário especifique a estrutura das tabelas que deseja armazenar (nome da tabela, conjunto de atributos e tipo de cada atributo). Em gerenciadores de dados, essas informações normalmente ficam armazenadas numa estrutura chamada catálogo. 
+2. Permitir que o usuário insira registros nas tabelas (usuário escolhe a tabela e o sistema pergunta valores para os atributos da tabela
+3. Permitir que o usuário faça consultas sobre os registros de uma determinada tabela. Usuário escolhe o nome da tabela e um ou mais atributos (não necessariamente os atributos chave da tabela). O usuário passa as condições de seleção de cada um dos atributos (exemplo: codigo > 30 e data = "05/10/2010"). 
+4. Permitir que o usuário exclua registros de uma tabela. A seleção dos registros a serem excluídos será feita da mesma forma explicada no item 3.
+5. Permitir que o usuário modifique o valor de um determinado atributo de uma determinada tabela. O usuário escolhe a tabela, o atributo e os critérios de seleção da tupla a ser modificada, fornecendo o valor da chave.
+
+O trabalho deve ser implementado com **tabelas hash com encadeamento exterior**. O catálogo pode utilizar outra forma de armazenamento, à escolha do grupo. 
+
+**Relatório**: o relatório a ser entregue deve descrever a implementação, dificuldades encontradas e deve ter um manual de uso do sistema.  
+
+**Código fonte**: deve ser entregue, juntamente com instruções de instalação. 
+
+O trabalho será apresentado em dois momentos distintos (ver seção Cronograma). Na primeira apresentação é esperado que o grupo mostre o andamento atual do trabalho. É esperado que já exista algum resultado concreto. Pelo menos o catálogo já deve estar implementado e funcionando. Em outras palavras, o item 1 acima deve estar pronto e funcionando. 
+
+A segunda apresentação será a apresentação final, onde os grupos devem mostrar os resultados obtidos no trabalho. 
+
+Ambas as apresentações serão feitas na forma de uma demostração do trabalho em funcionamento. Alunos devem estar preparados para responder sobre detalhes do código. 
+
+**ATENÇÃO:** No dia da apresentação final, o gerenciador de dados já deve estar com os seguintes [dados cadastrados](../../material/ed2/dadosIniciais.dat) em uma tabela chamada PESSOA, com os atributos COD (inteiro), NOME (string de tamanho 10) e IDADE (inteiro). 
+
+O atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.prograd.uff.br/novo/sites/default/files/001-2015_regulamento_do_curso_de_graduacao.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 96) e não há abono de faltas (Art. 103).
+
+## Bibliografia
+
+Ferraz, I. N. Programação com Arquivos. Editora Manole Ltda. Barueri, 2003. 
+
+Szwarcfiter, J., Markenzon, L. Estruturas de Dados e Seus Algoritmos. Editora LTC, 3a. edição, 2010.
+
+Santos, Clesio S. e Azeredo, Paulo A. Tabelas: Organização e Pesquisa. Série de Livros Didáticos, Número 10. Ed. Sagra Luzzatto, 2001.
+
+Smith, Peter D. e Barnes, G. Michael. Files & Databases: An Introduction. Addison Wesley Series in Computer Science,1987.
+
+## Listas de Exercícios
+
+[Lista 1](../../material/ed2/listas/Lista1.pdf) - Arquivos Sequenciais
+
+[Lista 2](../../material/ed2/listas/Lista2.pdf) - Tabelas Hash
+
+[Lista 3](../../material/ed2/listas/Lista3.pdf) - Árvores B, B+, Tries 
+
+[Lista 4](../../material/ed2/listas/Lista4.pdf) - Indexação por chaves secundárias
+
+## Cronograma
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;" border="1">
+	<tr style="font-weight: bold;">
+		<td>Data</td>
+		<td>Atividade</td>
+		<td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>11/03/2015</td>
+          <td>Apresentação da disciplina</td>
+          <td></td>
+        </tr>
+        <tr>
+	  <td>13/03/2015</td>
+        <td><a href="../../material/ed2/02-Arquivos.pdf" target="_blank">Conceito de Arquivos</a>
+        <BR/>Leitura: <a href="http://www.isqa.unomaha.edu/haworth/isqa3300/fs001.htm" target="_blank">Why File Structures?</a>
+        <BR/><a href="../../material/ed2/02-tutorialArquivos.zip" target="_blank">Tutorial sobre manipulação de arquivos</a>
+        </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>18/03/2015</td>
+      <td>Conceito de Arquivos (continuação)</td>
+	  <td></td>
+        </tr>
+        <tr>
+	  <td>20/03/2015</td>
+        <td><a href="../../material/ed2/05-Intercalacao.pdf" target="_blank">Intercalação</a><BR/>
+                <a href="../../material/ed2/DojoArvoreVencedores.zip" target="_blank">Esqueleto da Implementação</a>
+        </td>
+	  <td></td>
+	</tr>
+        <tr>
+	  <td>25/03/2015</td>
+        <td><a href="../../material/ed2/06-ClassificacaoExterna.pdf" target="_blank">Geração de Partições Classificadas</a><BR/>
+                <a href="../../material/ed2/DojoGeracaoParticoes.zip" target="_blank">Esqueleto da Implementação</a></td>
+	  <td></td>
+        </tr>
+        <tr>
+	  <td>27/03/2015</td>
+        <td><a href="../../material/ed2/07-Intercalacao.pdf" target="_blank">Intercalação</a><BR/>
+                <a href="../../material/ed2/DojoIntercalacao.zip" target="_blank">Esqueleto da Implementação</a></td>
+	  <td></td>
+        </tr>
+	<tr>
+	  <td>01/04/2015</td>
+        <td>Implementação da Intercalação Ótima</td>
+	  <td></td>
+        </tr>
+        <tr>
+	  <td>03/04/2015</td>
+        <td>FERIADO</td>
+	  <td></td>
+        </tr>
+        <tr>
+	  <td>08/04/2015</td>
+        <td>Apresentação Parte 1 do Trabalho</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>10/04/2015</td>
+        <td><a href="../../material/ed2/08-AcessoDireto.pdf" target="_blank">Arquivos de Acesso Direto: hashing</a><BR/>
+          <a href="../../material/ed2/08-TutorialArquivosAcessoRandomico.zip" target="_blank">Tutorial sobre manipulação de arquivos de acesso randômico</a></td>
+	  <td></td>
+        </tr> 
+        <tr>
+	  <td>15/04/2015</td>
+        <td>Encadeamento Exterior<BR/>
+                <a href="../../material/ed2/DojoHash.zip" target="_blank">Esqueleto da Implementação</a></td>
+	  <td></td>
+        </tr>
+        <tr>
+	  <td>17/04/2015</td>
+        <td>Implementação de Hash com Encadeamento Exterior</td>
+	  <td></td>
+        </tr>
+        <tr>
+	  <td>22/04/2015</td>
+        <td>Encadeamento Interior, Endereçamento Aberto e Tabelas Extensíveis</td>
+	  <td></td>
+        </tr>
+        <tr>
+	  <td>24/04/2015</td>
+      <td><a href="../../material/ed2/DojoHashInterior.zip" target="_blank">Implementação de Hash com Encadeamento Interior</a></td>
+	  <td></td>
+        </tr>
+        <tr>
+	  <td>29/04/2015</td>
+      <td>Implementação de Hash com Encadeamento Interior</td>
+	  <td></td>
+        </tr>
+        <tr>
+	  <td>01/05/2015</td>
+      <td>FERIADO</td>
+	  <td></td>
+        </tr>
+        <tr>
+	  <td>06/05/2015</td>
+      <td>PROVA 1</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>08/05/2015</td>
+      <td><a href="../../material/ed2/09-ArquivosIndexados.pdf" target="_blank">Arquivos Indexados: Árvore B</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>13/05/2015</td>
+        <td><a href="../../material/ed2/DojoArvoreB.zip" target="_blank">Implementação de Árvore B</a><BR/>
+        <a href="../../material/ed2/ArvoresTesteDOJOB.pdf" target="_blank">Árvores de Teste</a></td>
+	  <td></td>
+        </tr>
+        <tr>
+	  <td>15/05/2015</td>
+      <td>Vista de Prova</td>
+	  <td></td>
+        </tr>  
+        <tr>
+	  <td>20/05/2015</td>
+      <td>Arquivos Indexados: Árvore B+<BR/>
+          <a href="../../material/ed2/DojoArvoreBMais.zip" target="_blank">Implementação de Árvore B+</a><BR/>
+          <a href="../../material/ed2/ArvoresTesteDOJOBMais.pdf" target="_blank">Árvores de Teste</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>22/05/2015</td>
+      <td>Implementação de Árvore B+ (continuação)</td>
+	  <td></td>
+	</tr>	
+        <tr>
+	  <td>27/05/2015</td>
+      <td>AULA</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>29/05/2015</td>
+      <td>SEM AULA - <a href="http://www.sigmod2015.org/" target="_blank">SIGMOD</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>03/06/2015</td>
+      <td>SEM AULA - <a href="http://www.sigmod2015.org/" target="_blank">SIGMOD</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>05/06/2015</td>
+      <td>FERIADO</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>10/06/2015</td>
+      <td>SEM AULA (força maior)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>12/06/2015</td>
+        <td><a href="../../material/ed2/10-ArquivosIndexadosChavesSecundarias.pdf" target="_blank">Arquivos indexados por chaves secundárias</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>17/06/2015</td>
+        <td>Apresentação do Trabalho - grupos G2, G5, G1 (sala 512)</td>
+	  <td>Código Fonte e Relatório</td>
+	</tr>
+	<tr>
+	  <td>19/06/2015</td>
+        <td>Apresentação do Trabalho - grupos G3, G7, G4 (sala 512)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>24/06/2015</td>
+      <td>AULA</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/06/2015</td>
+      <td>PROVA 2</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>01/07/2015</td>
+      <td>Vista de Prova</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>03/07/2015</td>
+      <td>VS</td>
+	  <td></td>
+	</tr>	
+	<tr>
+	  <td>08/07/2015</td>
+      <td>Vista de VS</td>
+	  <td></td>
+	</tr>
+</table>

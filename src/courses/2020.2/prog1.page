@@ -1,0 +1,111 @@
+---
+title: PROG
+in_menu: true
+sort_info: 2
+---
+# Programação de Computadores
+
+<BR/>
+Horário: terças e quintas de 14:00 às 16:00 (veja cronograma no final desta página)
+
+Sala: [Google Meet](https://meet.google.com/) informado no [Google Classroom](http://classroom.google.com/).  
+
+Todos os alunos **devem** estar inscritos na nossa sala de aula virtual do [Google Classroom](http://classroom.google.com/). Caso você não esteja inscrito, entre em contato comigo.
+
+
+## Monitoria
+
+Monitor: Gustavo Dos Santos Souza.  
+Local: [Google Classroom](http://classroom.google.com/).
+
+## Ementa
+
+* Conceitos básicos de programação: algoritmos e estruturas de dados.
+* Comandos e estruturas de controle.
+* Sub-programação.
+* Metodologia de desenvolvimento de programação ou subprograma.
+
+## Dinâmica do curso
+
+A dinâmica adotada para este curso é conhecida como [Aula Invertida](https://pt.wikipedia.org/wiki/Aula_Invertida), onde os alunos assistem a aulas assíncronas (i.e., gravadas), no horário que for mais conveniente para eles, e as aulas síncronas (i.e., ao vivo) ocorrem com o objetivo de tirar dúvidas. Essa dinâmica está alinhada com a recomendação da Resolução 197/2020, Art. 10, § 6º, de ter de 30% a 50% de atividades síncronas e as demais assíncronas.
+
+As **aulas assíncronas** serão disponibilizadas em vídeo no [Google Classroom](http://classroom.google.com/). Os alunos devem assistir as aulas segundo o cronograma apresentado no final desta página e fazer os exercícios propostos disponibilizados no [Google Classroom](http://classroom.google.com/). 
+
+Além das aulas assíncronas, reservamos as **quintas-feiras, das 14h às 16h, para aulas síncronas, visando tirar dúvidas dos alunos**. Essas aulas síncronas serão via [Google Meet](https://meet.google.com/) informado no [Google Classroom](http://classroom.google.com/). É importante que os alunos assistam a aula de terça-feira e façam os exercícios propostos no Google Classroom antes da aula síncrona de quinta-feira, já que o propósito dessas aulas síncronas é tirar dúvidas. Além disso, os alunos que preferirem podem ainda postar as suas dúvidas no [Google Classroom](http://classroom.google.com/) para serem respondidas assincronamente.
+
+## Gravação
+
+As aulas síncronas serão gravadas e disponibilizadas para os alunos (Art. 10, § 4º, da resolução 197/2020), visando permitir que quem não pôde assistir de forma síncrona tenha acesso ao que foi apresentado e discutido. Além disso, esse material pode ser utilizado pelos demais alunos durante seus estudos durante o curso. Caso algum aluno não queria que sua imagem ou voz seja gravada, mantenha a câmera desligada e opte pelo uso do chat ao invés do microfone. Essas gravações não podem ser disponibilizadas fora do escopo desse curso sem que haja autorização de todas as partes envolvidas (Art. 56 da resolução 197/2020).
+
+## Avaliação
+
+Adotaremos avaliação continuada do aprendizado, composta por testes individuais semanais assíncronos. Os testes individuais semanais assíncronos começarão a ser aplicados um mês após o início do semestre letivo (Art. 17 da resolução 197/2020) e contarão com um prazo de 48 horas para realização (Art. 34, item II, da resolução 197/2020). É muito importante que os alunos sejam honestos para responder utilizando somente os seus conhecimentos, sem consultar informações externas ou outras pessoas. Para essas avaliações podem ser utilizados mecanismos de detecção de plágio, tanto entre as respostas dos alunos quanto em relação a Internet. 
+
+Como as avaliações são assíncronas, não será oferecida avaliação de segunda chamada (Art. 34, item VI, § 1º, da resolução 197/2020). Como as avaliações são continuadas, não será oferecida verificação suplementar (Art. 99, § 2º, do Regulamento dos Cursos de Graduação).
+
+A nota final dos alunos será calculada de acordo com a seguinte fórmula:
+
+*Nota Final* = Média aritmética das notas dos testes semanais assíncronos
+
+O aluno será aprovado se obtiver *Nota Final* maior ou igual a 6.
+
+## Presença
+
+Não será cobrada presença (Art. 43, item I da resolução 197/2020). 
+
+## Bibliografia
+
+Paul Barry, Use a Cabeça! Programação, Editora Alta Books.
+
+Paul Barry, Use a Cabeça! Python, Editora Alta Books.
+
+Furlan, M., Gomes, M., Soares, M., Concilio, R., 2005, Algoritmos e Lógica de Programação, Editora Thomson.
+
+[Tutorial oficial Python 3](https://docs.python.org/pt-br/3/tutorial/index.html) (não é tão bom quanto os anteriores para alguém que ainda não sabe nada de programação, mas é muito útil como um livro de referência).
+
+Além desses livros, há alguns cursos a distância de introdução à programação em Python que podem ser úteis, gentilmente cedidos pelos respectivos professores:
+
+[Disciplina de "Introdução à Ciência da Computação com Python" do IME/USP](https://www.youtube.com/playlist?list=PLcoJJSvnDgcKpOi_UeneTNTIVOigRQwcn).
+
+[Curso de Tecnologia em Sistemas de Computação do consórcio CEDERJ](https://www.cecierj.edu.br/videoaulas/) (ver disciplinas de "Projeto e Desenvolvimento de Algoritmos", que foca na essência da programação, sem se prender a uma linguagem de programação específica, e a disciplina de "Fundamentos de Programação", que foca na linguagem Python).
+
+## Ferramentas
+
+* [Interpretador Python](https://www.python.org/downloads/)
+* [PyCharm](https://www.jetbrains.com/pycharm-educational/)
+* Existem apps para tablets e celulares que permitem programar em Python. Faça a busca na loja de aplicativos do seu aparelho. Sugestões: [QPython](http://www.qpython.com/) (para Android) e [Python 3.4](https://itunes.apple.com/us/app/python-3-4-for-ios/id583476348?mt=8) (para IOS).
+* Interpretador Python online (para quem não quer ou não pode instalar um aplicativo no celular ou no computador): basta abrir [esse link](https://repl.it/languages/python3) no browser do seu celular ou computador.
+
+O aluno tem liberdade de utilizar a IDE Python de sua preferência. Contudo, nas aulas desse curso será utilizado o [PyCharm](https://www.jetbrains.com/pycharm-educational/).
+
+## Cronograma
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+|Data|Atividade
+|--
+| 02/02/2021 | Aula assíncrona (consultar Google Classroom)
+| 04/02/2021 | Aula síncrona: [apresentação da disciplina](/material/prog1/Aula1-Apresentacao2020-2.pdf) + dúvidas (14-16h)
+| 09/02/2021 | Aula assíncrona: [Histórico](https://youtu.be/DtQY0ggP1-E) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula02.pdf) e [Introdução à Programação](https://youtu.be/X6XOoLw5QMU) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula03.pdf)
+| 11/02/2021 | Aula síncrona de dúvidas (14-16h)
+| 16/02/2021 | CARNAVAL
+| 18/02/2021 | CARNAVAL
+| 23/02/2021 | Aula assíncrona: [Organização de Programas em Python](https://youtu.be/-4hj9DIebyE) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula04.pdf)
+| 25/02/2021 | Aula síncrona de dúvidas (14-16h)
+| 02/03/2021 | Aula assíncrona: [Operadores](https://youtu.be/gF4ygMN4RPQ) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula05.pdf) e [Estruturas de Decisão](https://youtu.be/a7cUgpdNgZk) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula06.pdf)
+| 04/03/2021 | Aula síncrona de dúvidas (14-16h)
+| 09/03/2021 | Aula assíncrona: [Estruturas de Repetição](https://youtu.be/iPcGXoXQFPw) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula07.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
+| 11/03/2021 | Aula síncrona de dúvidas (14-16h)
+| 16/03/2021 | Aula assíncrona: [Strings](https://youtu.be/GPRPPnnIoVQ) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula08.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
+| 18/03/2021 | Aula síncrona de dúvidas (14-16h)
+| 23/03/2021 | Aula assíncrona: [Vetores](https://youtu.be/5k06RtunM64) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula09.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
+| 25/03/2021 | Aula síncrona de dúvidas (14-16h)
+| 30/03/2021 | Aula assíncrona: [Manipulação de Listas](https://youtu.be/NrlaO-rVs5A) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula10.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
+| 01/04/2021 | Sem Aula (Ponto Facultativo)
+| 06/04/2021 | **Avaliação** no [Run.Codes](https://run.codes/)
+| 08/04/2021 | Aula síncrona de dúvidas (14-16h)
+| 13/04/2021 | Aula assíncrona: [Matrizes](https://youtu.be/Zp4Dn4qISvo) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula11.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
+| 15/04/2021 | Aula síncrona de dúvidas (14-16h)
+| 20/04/2021 | Aula assíncrona: [Subprogramação](https://youtu.be/KTACSfJCSdM) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula12.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
+| 22/04/2021 | Aula síncrona de dúvidas (14-16h)
+| 27/04/2021 | **Avaliação**
+| 29/04/2021 | Aula síncrona de dúvidas (14-16h)

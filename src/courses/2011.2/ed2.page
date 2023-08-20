@@ -1,0 +1,325 @@
+---
+title: ED2
+in_menu: true
+sort_info: 1
+   
+---
+# Estruturas de Dados II
+
+<BR/>
+
+Horário: quartas e sextas, de 07:00h às 09:00h
+
+Local: Sala 237 (quartas) e Sala 239 (sextas)
+
+Lista: <http://groups.google.com.br/group/ed2-uff-2011-2> <BR/>
+(importante: todos os alunos **devem** se cadastrar nessa lista)
+
+## Monitoria
+
+Monitor: Carlos Henrique <henriquezplay@hotmail.com>
+
+Horário de Atendimento: SEG 11-13h, TER 08-09h, QUA 11-13h, QUI 08-09h, SEX 09-11h
+
+## Avaliação
+
+Média = (2 x Prova1 + 2 x Prova2 + Participação + 2 x Trabalho) / 7
+
+**APROVADO**: (Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**: (Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+## Grupos
+
+As atividades da disciplina (exceto as provas) serão feitas em grupos de 5 participantes, que devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Entreguem por e-mail (assunto: ED2 - Grupo) o número da matrícula e o nome completo de cada participante do grupo.
+
+Ao final do curso, cada membro do grupo será solicitado a indicar, sob o seu ponto de vista, o percentual de participação de cada membro do grupo (inclusive de si próprio) no resultado final dos trabalhos. Esta informação será utilizada na distribuição das notas. Desta forma, se empenhe desde o início de forma pró-ativa.
+
+
+## Participação
+
+Na maioria das aulas serão fornecidos exercícios para serem feitos em grupo durante a aula ou em casa. Os grupos serão convidados a se voluntariar para apresentar as suas soluções. A participação nessas atividades será considerada na composição da média final (item Participação). A nota de participação é calculada da seguinte forma: cada apresentação feita por um grupo vale 1 ponto. Uma tarefa só pode ser apresentada por um único grupo. Nas apresentações será sempre dada prioridade para os grupos que têm menos pontos. Ao final do semestre, o grupo que tiver mais pontos terá nota 10. A nota dos demais grupos será calculada proporcionalmente. Notem que existe também um "grupo invisível". Se nenhum grupo se voluntariar para apresentar uma determinada tarefa, o grupo invisível ganha mais um ponto. A pontuação do grupo invisível é calculada da seguinte forma: número de pontos do grupo que tem mais pontos somado ao número de tarefas que não foram apresentadas por nenhum grupo. Isso significa que se ninguém entregar alguma tarefa, nenhum grupo ficará com 10 na nota de participação, pois a partir deste momento o grupo que tem mais pontos é o grupo invisível, e a pontuação dele sempre cresce. 
+
+A entrega das listas de exercícios também valem ponto de participação para o grupo. A diferença é que cada lista entregue no prazo, e com respostas corretas, vale um ponto, independente de outro grupo também ter entregue a lista. Listas entregues fora do prazo, ou com respostas incorretas, não ganham ponto.
+
+Exemplo: suponha que o grupo X tem 5 pontos, e o grupo Y tem 2 pontos. Todas as tarefas foram apresentadas, então o grupo invisível também tem 5 pontos. A nota do grupo X é 10, e a do grupo Y é 4. Numa outra situação, suponha que o grupo X tem 5 pontos, e o grupo Y tem 2 pontos. No entanto, 2 tarefas não foram apresentadas. Desta forma, o grupo invisível tem 7 pontos (= 5 + 2). A nota do grupo X é 7,1 e a do grupo Y é 2,9. 
+
+## Trabalho
+
+Implementar um sistema de controle de empregados e seus dependentes. O sistema deve ser capaz de realizar as seguintes tarefas: 
+
+1. Permitir que o usuário cadastre empregados. Cada empregado tem os seguintes atributos: código, nome, idade, salário.
+2. Permitir que o usuário cadastre dependentes dos empregados. Cada dependente tem os seguintes atributos: código, nome, idade, código do empregado de quem ele é dependente. A tela de cadastro, no entanto, não deve pedir para o usuário informar o código do empregado, e sim o nome. O sistema deve encontrar seu código automaticamente. 
+3. Permitir que o usuário faça consultas sobre os dados do sistema (ver detalhes abaixo).   
+4. Permitir que o usuário exclua registros de uma tabela. A seleção dos registros a serem excluídos será feita da mesma forma explicada no item 3.
+5. Permitir que o usuário modifique o valor de um determinado atributo de uma determinada tabela. O usuário escolhe a tabela, o atributo e os critérios de seleção da tupla a ser modificada, fornecendo o valor da chave.
+
+As seguintes consultas são obrigatórias: 
+
+1. Encontrar um empregado que tenha um determinado nome (exemplo: nome=JOANA)
+2. Encontrar um empregado que tenha idade maior que um determinado valor (exemplo: idade > 20)
+3. Encontrar um empregado que tenha mais do que um determinado número de dependentes (exemplo: empregado com mais de 2 dependentes)
+4. Encontrar os nomes dos dependentes de um determinado empregado
+5. Encontrar um dependente que tenha um determinado nome
+6. Encontrar um dependente que tenha idade menor do que um determinado valor (exemplo: idade < 5)
+
+As consultas devem ser parametrizadas, ou seja, o usuário informa o valor que quer usar como parâmetro em cada tipo de consulta. 
+Além das consultas acima, o sistema deve também permitir outros 5 tipos de consulta, no mínimo.
+
+
+O trabalho deve ser implementado com **tabelas hash**. O catálogo pode utilizar outra forma de armazenamento, à escolha do grupo. 
+
+**Relatório**: o relatório a ser entregue deve descrever a implementação, dificuldades encontradas e deve ter um manual de uso do sistema.  
+
+**Código fonte**: deve ser entregue, juntamente com instruções de instalação. 
+
+O trabalho será entregue em duas etapas (ver seção Cronograma). Na primeira entrega é esperado que já exista algum resultado concreto. Pelo menos a interface já deve estar pronta e funcionando. 
+
+A segunda etapa consista de entrega e apresentação do trabalho completo, onde os grupos devem mostrar os resultados obtidos no trabalho. 
+
+A apresentação será feitas na forma de uma demostração do trabalho em funcionamento. Alunos devem estar preparados para responder sobre detalhes do código. 
+
+O atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+## Auto-Avaliação
+
+Ao final da disciplina, cada componente do grupo deverá me enviar, de forma anônima, o percentual de participação de cada membro do grupo no trabalho e nas atividades realizadas durante o curso em grupo (listas de exercícios, tarefas de aula, DOJOs, etc). Os componentes que não enviarem assumem que o que foi informado pelos colegas está correto. Estes percentuais serão consolidados e aplicados sobre as notas de participação e sobre a nota do trabalho. Desta forma, dois componente de um mesmo grupo podem ficar com notas diferentes no trabalho e na participação. 
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 80, §14). Vale notar que segundo o mesmo regulamento, nenhuma falta será abonada (Art. 80, §15).
+
+## Avaliação de Aprendizagem em Caráter Excepcional
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), não será permitida a Avaliação de Aprendizagem em Caráter Excepcional (i.e., 2ª chamada), com exceção dos casos citados no Art. 87, de acordo com os procedimentos do Art. 88.
+
+## Bibliografia
+
+Ferraz, I. N. Programação com Arquivos. Editora Manole Ltda. Barueri, 2003. 
+
+Szwarcfiter, J., Markenzon, L. Estruturas de Dados e Seus Algoritmos. Editora LTC, 3a. edição, 2010.
+
+Santos, Clesio S. e Azeredo, Paulo A. Tabelas: Organização e Pesquisa. Série de Livros Didáticos, Número 10. Ed. Sagra Luzzatto, 2001.
+
+Smith, Peter D. e Barnes, G. Michael. Files & Databases: An Introduction. Addison Wesley Series in Computer Science,1987.
+
+## Listas de Exercícios
+
+Veja as datas de entrega das listas no cronograma da disciplina.
+
+[Lista 1](../../material/ed2/listas/Lista1.pdf) - Arquivos Sequenciais
+
+[Lista 2](../../material/ed2/listas/Lista2.pdf) - Tabelas Hash
+
+[Lista 3](../../material/ed2/listas/Lista3.pdf) - Árvores B, B+, Tries 
+
+[Lista 4](../../material/ed2/listas/Lista4.pdf) - Indexação por chaves secundárias
+
+## Cronograma
+
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;" border="1">
+	<tr style="font-weight: bold;">
+		<td>Data</td>
+		<td>Atividade</td>
+		<td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>10/08/2011</td>	  
+	  <td><a href="../../material/ed2/01-Apresentacao2011.2.pdf" target="_blank">Apresentação da disciplina</a><BR/>
+	  Leitura: <a href="http://www.isqa.unomaha.edu/haworth/isqa3300/fs001.htm" target="_blank">Why File Structures?</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>12/08/2011</td>	  
+	  <td><a href="../../material/ed2/02-Arquivos.pdf" target="_blank">Conceito de Arquivos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>17/08/2011</td>
+	  <td><a href="../../material/ed2/02-tutorialArquivos.zip" target="_blank">Tutorial sobre manipulação de arquivos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>19/08/2011</td>
+	  <td><a href="../../material/ed2/03-ArquivosSequenciais.pdf" target="_blank">Arquivos Sequenciais</a><BR/>
+	  <a href="../../material/ed2/04-AtualizacaoLote.pdf" target="_blank">Atualização em Lote</a><BR/>
+	  Material de Apoio: Tutorial <a href="http://netbeans.org/kb/docs/java/junit-intro_pt_BR.html" target="_blank">JUnit</a>. Atenção: usem JUnit 4
+	  </td> 	  
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>24/08/2011</td>	  
+	  <td>DOJO Balance Line</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/08/2011</td>	  
+	  <td>DOJO:</td>	  	  
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>31/08/2011</td>	  
+	  <td><a href="../../material/ed2/05-Intercalacao.pdf" target="_blank">Intercalação de Arquivos Sequenciais</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/09/2011</td>	  
+	  <td><a href="../../material/ed2/06-ClassificacaoExterna.pdf" target="_blank">Classificação Externa: geração de partições classificadas</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/09/2011</td>
+	  <td>FERIADO</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/09/2011</td>	  
+	  <td><a href="../../material/ed2/07-Intercalacao.pdf" target="_blank">Classificação Externa: intercalação</a></td>
+	  <td>Lista 1</td>
+	</tr>
+	<tr>
+	  <td>14/09/2011</td>
+	  <td>DOJO</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/09/2011</td>
+	  <td><a href="../../material/ed2/08-AcessoDireto.pdf" target="_blank">Arquivos de Acesso Direto: hashing</a><BR/>
+	  <a href="../../material/ed2/08-tutorialArquivosAcessoRandomico.zip" target="_blank">Tutorial sobre manipulação de arquivos de acesso randômico</a>
+	  </td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/09/2011</td>
+	  <td>Não houve aula</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/09/2011</td>
+	  <td>Hashing (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/09/2011</td>
+	  <td>Hashing (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>30/09/2011</td>
+	  <td>PROVA 1</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>05/10/2011</td>
+	  <td>Sem aula - <a href="http://www.sbbd-webmedia2011.inf.ufsc.br/sbbd/index.php/pt/" target="_blank">SBBD</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/10/2011</td>
+	  <td>Sem aula - <a href="http://www.sbbd-webmedia2011.inf.ufsc.br/sbbd/index.php/pt/" target="_blank">SBBD</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>12/10/2011</td>
+	  <td>FERIADO</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/10/2011</td>	  
+	  <td>Vista de Prova (sala 326 - Bloco E)</td>	  	  
+	  <td>Lista 2 + Código-fonte da 1a parte do Trabalho</td>	  
+	</tr>
+	<tr>
+	  <td>19/10/2011</td>
+	  <td>Sem aula - Agenda Acadêmica</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/10/2011</td>
+	  <td>Sem aula - Agenda Acadêmica</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/10/2011</td>
+	  <td>Aula prática</td>	  
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/10/2011</td>
+	  <td>FERIADO</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/11/2011</td>
+	  <td>FERIADO</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/11/2011</td>
+	  <td>Aula prática (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/11/2011</td>
+	  <td><a href="../../material/ed2/09-ArquivosIndexados.pdf" target="_blank">Arquivos Indexados: Árvore B</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11/11/2011</td>
+	  <td>(continuação) Arquivos Indexados (Árvore B+)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/11/2011</td>
+	  <td>Aula prática</td>
+	  <td>Lista 3</td>
+	</tr>
+	<tr>
+	  <td>18/11/2011</td>
+	  <td>Aula prática (continuação)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/11/2011</td>
+	  <td><a href="../../material/ed2/10-ArquivosIndexadosChavesSecundarias.pdf" target="_blank">Arquivos Indexados por chaves secundárias</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>25/11/2011</td>
+	  <td>PROVA 2</td>
+	  <td>Lista 4</td>
+	</tr>
+	<tr>
+	  <td>30/11/2011</td>
+	  <td>Apresentação do Trabalho: G6, G8, G5, G4</td>
+	  <td>Código-fonte e relatório</td>
+	</tr>
+	<tr>
+	  <td>02/12/2011</td>
+	  <td>Apresentação do Trabalho: G3, G1, G9, G2</td>
+	  <td>Código-fonte e relatório</td>
+	</tr>
+	<tr>
+	  <td>07/12/2010</td>
+	  <td>Vista de Prova</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/12/2011</td>	
+	  <td>Sem aula</td>	
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/12/2011</td>	
+	  <td>VS - sala 233 do bloco D, aplicada pelo Prof. Leonardo Murta. Levar carteira de identidade, que será exigida para a realização da prova</td>	
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/12/2011</td>	
+	  <td>Vista de Prova + Entrega das notas</td>	
+	  <td></td>
+	</tr>
+</table>

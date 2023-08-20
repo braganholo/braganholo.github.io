@@ -1,0 +1,116 @@
+---
+title: Run.Codes 
+in_menu: false
+sort_info: 1
+---
+# Uso do Run.Codes
+
+Essa página contém dicas de uso do Run.Codes para alunos das disciplinas de Programação de Computadores (programas em linguagem Python) e Estruturas de Dados e Seus Algoritmos (programas em linguagem C). 
+
+## Funcionamento do Run.Codes
+
+<BR/>
+O Run.Codes funciona comparando a saída gerada pelo seu programa com a saída esperada para uma determinada entrada. Para cada entrada diferente, é especificado um caso de teste que contém a entrada e a saída esperada para aquela entrada. Por exemplo, em um programa que calcula o valor de uma venda em dólar, que recebe como entrada o valor da compra e o valor da cotação do dólar, podemos ter os seguintes casos de teste: 
+
+- Caso 1: 
+
+Valor da Compra = 10.00 <BR/>
+Cotação do Dólar = 5.00 <BR/>
+Saída esperada = 50.00 
+
+- Caso 2: 
+
+Valor da Compra = 20.50 <BR/>
+Cotação do Dólar = 1.00 <BR/>
+Saída esperada = 20.50  
+
+Um programa em Python que funciona para esses dois casos de teste é o seguinte: 
+
+
+    #le os dados de entrada
+    valor_compra = input().strip()
+    cotacao = input().strip()
+    valor_total = valor_compra * cotação
+    #imprime o conteúdo da variável valor_total com duas casas decimais apenas
+    print(f'\{valor_total:.2f}') 
+
+
+
+# Dicas
+
+<BR/>
+
+## Programas em Linguagem Python 
+
+<BR/>
+- O run.codes somente considera um programa como correto se a saída for **exatamente igual** à esperada.
+
+- **Não coloque mensagem nos comandos input()**, pois o Run.Codes considera que essa mensagem faz parte da saída do programa. Dessa forma, a saída não será igual à saída esperada pelo caso de teste, e o Run.Codes considerará que o programa está incorreto. 
+
+- **Use input().strip()** para fazer a leitura de entrada, para evitar que espaços ou caracteres de controle antes ou depois do texto influenciem os resultados.
+
+- Certifique-se de que suas expressões booleanas estão completas. Por exemplo:
+
+{: style="border-collapse: collapse; width: 100%; text-align: left;" border="1"}
+|Ao invés de| Faça |
+|---|---|
+| if op == "+" or "-":| if op == "+" or op == "-":| 
+| if op != "+" and "-":| if op != "+" and op != "-":| 
+
+<BR/>
+
+## Programas em Linguagem C
+
+<BR/>
+
+- **Não use arquivos .h**. Ao invés disso, coloque todas as definições de tipo no arquivo .c e faça include do arquivo .c caso necessário. Para compilar o código no [CLion](https://www.jetbrains.com/clion/), certifique-se de que no arquivo CMakeLists.txt você adicione somente o arquivo principal (e não os que foram incluídos como .c nesse arquivo principal), caso contrário o compilador acusará erro de definição de função duplicada. 
+
+O exemplo abaixo ilustra um projeto chamado intercalacao, definido no CLion. O arquivo CMakeLists.txt tem o seguinte conteúdo: 
+
+
+	cmake_minimum_required(VERSION 3.10)
+	project(intercalacao)
+	set(CMAKE_CXX_STANDARD 11)
+	include_directories(.)
+	add_executable(intercalacao
+        		intercalacao.c)
+
+O arquivo intercalacao.c, por sua vez, faz include de outros dois arquivos: cliente.c e nomes.c, que não foram incluídos no comando add_executable do CMakeLists.txt. 
+
+	#include "nomes.c"
+	#include "cliente.c"
+ 
+Dessa forma as definições de tipos e funções dos arquivos cliente.c e nomes.c não serão incluídas em duplicidade, e o projeto será compilado sem maiores problemas no CLion. 
+
+- Certifique-se de que todas as variáveis que você declarou estão sendo usadas. Caso alguma não esteja, remova a declaração do código. O [CLion](https://www.jetbrains.com/clion/) dá dica sobre isso, pintando a variável não usada de uma cor diferente do restante do código. 
+
+- Certifique-se de que **funções que não são void sempre retornam algo** (cuidado especial para quem coloca returns em pontos do meio do código (dentro de um if, pode exemplo). 
+
+- Pode ocorrer do código compilar perfeitamente na máquina de vocês, mas dar erro de compilação no Run.Codes. O compilador deles é bem sensível e costuma apontar alguns warnings como erros. Nesse caso, **fiquem atentos à mensagem de erro que o Run.Codes fornece**. Ela dá dicas de qual pode ser o problema. Faça a correção e submeta seu código novamente. 
+
+- **Mantenha seu código o mais simples possível**. Veja alguns exemplos abaixo. 
+
+{: style="border-collapse: collapse; width: 100%; text-align: left;" border="1"}
+|Ao invés de| Faça |
+|---|---|
+|x += 1; | x = x + 1;| 
+|int x = 1; |int x; <BR/>x = 1;|
+| TNoA *raiza, *ant=raiz;| TNoA *raiza, *ant; <BR/> raiza = raiz; <BR/>ant = raiz;|
+
+### Dicas para compilar seu programa em C e evitar erros no RunCodes
+
+Compile seu programa usando as flags **-Wall** e **-Werror**. Isso vai fazer com que o compilador aponte erros que o RunCodes vai apontar, então fica mais fácil corrigir os problemas ANTES de submeter seu código no RunCodes. 
+
+
+No CLion, abra seu projeto e na barra inferior, clique em Terminal. Ali, digite o comando de compilação **gcc -Wall -Werror <nome_arquivo.c>** 
+
+Caso você prefira compilar usando linha de comando, basta adicionar as flags na hora de chamar o compilador. Por exemplo, para compilar um programa que está armazenado no arquivo listas.c, execute o seguinte comando (no terminal do Mac ou Linux, ou no Prompt de Comando do Windows: 
+
+```
+$ gcc -Wall -Werror listas.c 
+```
+
+
+
+
+

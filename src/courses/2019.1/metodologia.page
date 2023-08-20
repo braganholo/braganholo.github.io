@@ -1,0 +1,56 @@
+---
+title: METODOLOGIA 
+in_menu: true
+sort_info: 1
+---
+# Metodologia de Pesquisa em Computação
+
+<BR/>
+
+O Curso de Metodologia foi ministrado no contexto da Escola de Verão do PGC na semana de 18 a 22 de Março de 2019.
+
+Neste curso são apresentadas as noções básicas sobre metodologias aplicadas à pesquisa científica em computação, juntamente com ferramentas de apoio. O curso está dividido nos seguintes módulos:
+
+* Método Científico
+* Redação de Artigos
+* Visualização e avaliação quantitativa de resultados experimentais da pesquisa
+* Aplicação de Métodos Qualitativos em Computação
+* Revisão de Literatura
+* Utilização de Word e Zotero para o gerência de referências
+* Introdução ao Latex com Overleaf
+* Versionamento e compartilhamento de software com o Git
+
+
+## Professores Responsáveis 
+
+Esse curso é ministrado a várias mãos. Os professores responsáveis são os seguintes: 
+
+* Vanessa Braganholo (coordenadora)
+* Flávia Bernardini
+* [Leonardo Murta](http://www.ic.uff.br/~leomurta)
+* Luciana Salgado  
+
+## Material das Aulas 
+
+### Aula 1 
+
+* [Método Científico e Redação de Artigos](/material/metodologia/AULA-01.pdf)
+
+### Aula 2
+
+* [Visualização e Avaliação Quantitativa de Resultados](/material/metodologia/aula-02.zip)
+
+### Aula 3
+
+* Métodos Qualitativos de Avaliação 
+* Leitão, C.F. e Prates, R.O. (2017) [A Aplicação de Métodos Qualitativos em Computação](http://csbc2017.mackenzie.br/public/files/all/livro-jai.pdf ). In Flávia C. Delicato , Paulo F. Pires e Ismar Frango Silveira (Eds.) Jornadas de Atualização em Informática 2017. Porto Alegre. - Sociedade Brasileira de Computação - SBC. pp. 43-90
+
+### Aula 4
+
+* [Revisão da Literatura](/material/metodologia/literatura.zip)
+* Utilização de Word e [Zotero](https://www.zotero.org/) para gerência de referências bibliográficas
+* Introdução ao Latex com [Overleaf](https://www.overleaf.com/) 
+
+### Aula 5
+
+* [Versionamento e compartilhamento de software com o Git](/material/metodologia/git.pdf)

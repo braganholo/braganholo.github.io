@@ -1,0 +1,22 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cmdparse (3.0.7)
+    kramdown (2.4.0)
+      rexml
+    rexml (3.2.6)
+    systemu (2.6.5)
+    webgen (1.7.2)
+      cmdparse (~> 3.0, >= 3.0.1)
+      kramdown (~> 2.3)
+      systemu (~> 2.5)
+
+PLATFORMS
+  arm64-darwin-21
+  x86_64-linux
+
+DEPENDENCIES
+  webgen
+
+BUNDLED WITH
+   2.2.3

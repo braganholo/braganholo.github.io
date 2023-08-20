@@ -1,0 +1,74 @@
+---
+title: XML Fragmentation Approaches
+in_menu: false
+---
+## Impact of the XML Fragmentation Approaches
+
+Here we show the number of citations of each of the XML Fragmentation papers, according to Publish or Perish. To calculate the number of citations, we used the name of the last author as a query in Publish or Perish (the queries were run on March 9th, 2012). Then, in the list of publications it provides, we looked for the paper title and extracted the total number of citations, and the number of citations per year. The numbers are shown in the table below, which is chronologically ordered.
+
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;" border="1">
+	<tr style="font-weight: bold;">		
+		<td>Approach</td>
+		<td>Total # of Citations</td>
+		<td># Citations per Year</td>					
+	</tr>
+	<tr>
+	  <td>Bremer and Gertz (2003)</td>
+    <td>73</td>	
+    <td>7.30</td>
+  </tr>
+  <tr>
+    <td>Ma and Schewe (2003)</td>
+    <td>42</td>
+    <td>4.20</td>
+  </tr>
+  <tr>
+    <td>Bose et al. (2004)</td>
+    <td>36</td>
+    <td>4.00</td>
+  </tr>
+  <tr>
+    <td>Andrade et al. (2006)</td>
+    <td>32</td>
+    <td>4.57</td>
+  </tr>
+  <tr>
+    <td>Kido, Amagasa and  Kitagawa (2006)</td>
+    <td>20</td>
+    <td>2.86</td>
+  </tr>
+  <tr>
+    <td>Bonifati and Cuzzocrea (2007)</td>
+    <td>9</td>
+    <td>1.50</td>
+  </tr>
+  <tr>
+    <td>Kling, Ozsu and Daudjee (2010)</td>
+    <td>7</td>	
+    <td>2.33</td>
+  </tr>
+  <tr>
+    <td>Kling, Ozsu and Daudjee (2011)</td>
+    <td>0</td>	
+    <td>0.00</td>
+  </tr>
+  <tr>
+    <td>Rodrigues, Braganholo and Mattoso (2011)</td>
+    <td>2</td>
+    <td>1.00</td>
+  </tr>
+</table>
+<BR/>
+
+##References
+
+- Bremer, J.-M., Gertz, M.: On Distributing XML Repositories. WebDB. pp. 73-78. , San Diego, United States (2003).
+- Ma, H., Schewe, D.: Fragmentation of XML Documents. Simpósio Brasileiro de Banco de Dados (SBBD). pp. 200-214. , Manaus, AM, Brasil (2003).
+- Bose, S., Fegaras, L., Levine, D., Chaluvadi, V.: A Query Algebra for Fragmented XML Stream Data. In: Lausen, G. and Suciu, D. (eds.) International Symposium on Database Programming Languages (DBPL). pp. 195-215. Springer Berlin Heidelberg, Berlin, Heidelberg (2004).
+- Andrade, A., Ruberg, G., Baião, F., Braganholo, V., Mattoso, M.: Efficiently Processing XML Queries over Fragmented Repositories with PartiX. International Workshop on Database Technologies for Handling XML Information on the Web (DATAX). pp. 150-163. , Munich, Germany (2006).
+- Kido, K., Amagasa, T., Kitagawa, H.: Processing XPath Queries in PC-Clusters Using XML Data Partitioning. International Conference on Data Engineering Workshops. pp. 114-119. , Atlanta, GA, USA (2006).
+- Bonifati, A., Cuzzocrea, A.: Efficient Fragmentation of Large XML Documents. International Conference on Database and Expert Systems Applications (DEXA). pp. 539-550. Springer-Verlag, Berlin, Heidelberg (2007).
+- Kling, P., Ozsu, M.T., Daudjee, K.: Generating efficient execution plans for vertically partitioned XML databases. PVLDB. 4, 1-11 (2010).
+- Kling, P., Özsu, M., Daudjee, K.: Scaling XML query processing: distribution, localization and pruning. Distributed and Parallel Databases. 29, 445-490 (2011).
+- Rodrigues, C., Braganholo, V., Mattoso, M.: Virtual Partitioning ad-hoc Queries over Distributed XML Databases. Journal of Information and Data Management. 2, 495-510 (2011).

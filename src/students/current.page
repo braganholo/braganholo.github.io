@@ -1,0 +1,36 @@
+---
+title: Current Students
+in_menu: true
+sort_info: 1
+---
+
+<style>
+li {
+	width: 500px;
+	height: 120px;
+	display: inline-block;
+}
+</style>
+
+## PhD Students
+
+* |![Picture](pictures/MariaLuiza.png)|Maria Luiza Furtuozo Falci<br/>March, 2023<br/>CAPES Scholarship
+* |![Picture](pictures/CamilaAcaciodePaiva.jpg)|Camila Acácio de Paiva<br/>March, 2021<br/>CNPq DAI Scholarship
+* |![Picture](pictures/ClaytonEscouperdasChagas.jpg)|Clayton Escouper das Chagas<br/>August, 2020<br/>Brazilian Army
+* |![Picture](pictures/BrunoErbisti.png)|Bruno Erbisti Garcia<br/>March, 2019<br/>IBGE
+
+## MS Students
+
+* |![Picture](pictures/DanielPrett.jpg)|Daniel Prett Campanha<br/>August, 2023<br/>
+* |![Picture](pictures/question.jpg)|João Pedro López da Cruz<br/>March, 2023<br/>
+* |![Picture](pictures/ArthurPaiva.png)|Arthur de Oliveira Paiva<br/>March, 2023<br/>
+* |![Picture](pictures/RaquelMaximinodeBarrosSantos.jpg)|Raquel Maximino de Barros Santos<br/>August, 2020<br/>
+
+## Undergrad Students
+
+* |![Picture](pictures/question.jpg)|Gabriela Barbosa Freitas<br/>July, 2021
+* |![Picture](pictures/question.jpg)|Luiza Rodrigues<br/>July, 2021
+
+<!-- ## Undergrad Students (Scientific Initiation) -->
+
+

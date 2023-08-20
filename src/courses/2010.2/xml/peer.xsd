@@ -1,0 +1,78 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<!-- Elementos Globais, que podem ser raiz de algum documento XML que segue este esquema -->
+	<xsd:element name="discover" type="tDiscover"/>
+	<xsd:element name="response-discover" type="tResponseDiscover"/>
+	<xsd:element name="task" type="tTask"/>
+	<xsd:element name="task-result" type="tTaskResult"/>
+	
+	<!-- Tipos que são usados por vários documentos -->
+	<xsd:simpleType name="tGroup">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="G1"/>
+			<xsd:enumeration value="G2"/>			
+			<xsd:enumeration value="G3"/>			
+			<xsd:enumeration value="G4"/>			
+			<xsd:enumeration value="G5"/>			
+			<xsd:enumeration value="G6"/>			
+			</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- Tipos para os documentos cuja raiz é discover -->
+	<xsd:complexType name="tDiscover">
+		<xsd:sequence>			
+		</xsd:sequence>
+		<xsd:attribute name="sender" type="tGroup"/>
+		<xsd:attribute name="ip" type="xsd:string"/>
+		<xsd:attribute name="port" type="xsd:integer"/>
+		<xsd:attribute name="destination" type="tGroup"/>
+		<xsd:attribute name="message-id" type="xsd:integer"/>
+	</xsd:complexType>
+	
+	<!-- Tipos para os documentos cuja raiz é response-discover -->
+	<xsd:complexType name="tResponseDiscover">
+		<xsd:sequence>
+			<xsd:element name="peer" type="tPeer" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+		<xsd:attribute name="sender" type="tGroup"/>
+		<xsd:attribute name="destination" type="tGroup"/>
+		<xsd:attribute name="message-id" type="xsd:integer"/>
+		<xsd:attribute name="response-to" type="xsd:integer"/>
+	</xsd:complexType>
+	
+	<xsd:complexType name="tPeer">
+		<xsd:sequence>
+			<xsd:element name="name" type="tGroup"/>
+			<xsd:element name="ip" type="xsd:string"/>
+			<xsd:element name="port" type="xsd:integer"/>
+		</xsd:sequence>			
+	</xsd:complexType>
+	
+	<!-- Tipos para os documentos cuja raiz é task -->
+	<xsd:complexType name="tTask">
+		<xsd:sequence>
+			<xsd:element name="numbers" type="tNumbers"/>
+		</xsd:sequence>
+		<xsd:attribute name="sender" type="tGroup"/>
+		<xsd:attribute name="destination" type="tGroup"/>
+		<xsd:attribute name="message-id" type="xsd:integer"/>
+	</xsd:complexType>
+	
+	<xsd:complexType name="tNumbers">
+		<xsd:sequence>
+			<xsd:element name="n" type="xsd:integer" maxOccurs="unbounded"/>
+		</xsd:sequence>
+		<xsd:attribute name="count" type="xsd:integer"/>
+	</xsd:complexType>
+	
+	<!-- Tipos para os documentos cuja raiz é task-result -->
+	<xsd:complexType name="tTaskResult">
+		<xsd:sequence>			
+			<xsd:element name="numbers" type="tNumbers"/>
+		</xsd:sequence>
+		<xsd:attribute name="sender" type="tGroup"/>
+		<xsd:attribute name="destination" type="tGroup"/>
+		<xsd:attribute name="message-id" type="xsd:integer"/>
+		<xsd:attribute name="response-to" type="xsd:integer"/>
+	</xsd:complexType>	
+	
+</xsd:schema>

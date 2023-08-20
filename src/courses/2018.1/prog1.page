@@ -1,0 +1,122 @@
+---
+title: PROG I
+in_menu: true
+sort_info: 2
+---
+# Programação de Computadores I
+
+<BR/>
+Horário: quartas e sextas de 11h às 13h 
+
+Local: Sala 206 / Lab 306
+
+Local para avisos e entrega de trabalhos da disciplina: usaremos o [Google Classroom](http://classroom.google.com/). É necessário ter uma conta no ID UFF. A sala de aula no Google Classroom será usada também para divulgar avisos gerais e para dúvidas. <BR/>
+
+Importante: todos os alunos **devem** se inscrever no Google Classroom (os alunos para os quais eu possuía o endereço de email do ID UFF receberam convite -- nesse caso basta aceitar o convite). Para se inscrever, clique no símbolo de "+" no canto superior direito da página, e selecione a opção "Participar da Turma". O código de inscrição na turma está na lista de presença. 
+
+## Monitoria
+
+Jackson - TER 07:00-09:00; QUI 07:00-09:00; SEX 16:00-20:00
+
+João Victor - SEG 11:00-13:00; TER 14:00-18:00; SEX 14:00-16:00 
+
+## Avaliação
+
+P1 = Prova sem consulta
+
+P2 = Prova sem consulta
+
+Média = (P1 + P2) / 2
+
+**APROVADO**
+
+(Presença >= 75%) E (*Média* >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Presença >= 75%) E (4 <= *Média* < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Caso contrário
+
+## Exercícios no Google Classroom
+
+Diversos exercícios serão disponibilizadas durante o curso. Todos terão data de entrega marcada no Gloogle Classroom. Durante a resolução dos exercícios, os alunos podem usar comentários de uma tarefa específica para tirar dúvidas no [Google Classroom](http://classroom.google.com). Espera-se que os alunos façam uso do interpretador Python para verificar a corretude das suas respostas. Alunos que entregarem os exercícios no prazo e corretos podem ser aprovados direto caso tenham ficado com média entre 5,5 e 5,9. Da mesma forma, terão direto à VS caso tenham ficado com média entre 3,5 e 3,9.
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.uff.br/sites/default/files/001-2015_regulamento_do_curso_de_graduacao_0.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 96) e não há abono de faltas sem documentação (Art. 103).
+
+## Bibliografia
+
+Paul Barry, Use a Cabeça! Programação, Editora Alta Books.
+
+Paul Barry, Use a Cabeça! Python, Editora Alta Books.
+
+Furlan, M., Gomes, M., Soares, M., Concilio, R., 2005, Algoritmos e Lógica de Programação, Editora Thomson.
+
+## Ferramentas
+
+* [Interpretador Python](https://www.python.org/downloads/)
+* [PyCharm](https://www.jetbrains.com/pycharm-educational/)
+* Existem apps para tablets e celulares que permitem programar em Python. Faça a busca na loja de aplicativos do seu aparelho. Sugestões: [QPython](http://www.qpython.com/) (para Android) e [Python 3.4](https://itunes.apple.com/us/app/python-3-4-for-ios/id583476348?mt=8) (para IOS).
+
+O aluno tem liberdade de utilizar a IDE Python de sua preferência. Contudo, nas atividades de sala de aula será utilizado o [PyCharm](https://www.jetbrains.com/pycharm-educational/).
+
+## Cronograma
+
+<!-- 
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+|Data|Atividade
+|---
+|23/08/2017|[Introdução à Programação](/material/prog-python/02-Introducao.pdf)
+|25/08/2017|[Organização de Programas em Python](/material/prog-python/03-Organizacao.pdf)
+|06/09/2017|[Operadores Aritméticos e de Decisão](/material/prog-python/04-OperadoresEstruturasDecisao.pdf)
+|27/09/2017|[Estruturas de Repetição](/material/prog-python/05-Repeticao.pdf)
+|04/10/2017|[Vetores](/material/prog-python/06-Vetores-v3.pdf)
+|11/10/2017|[Matrizes](/material/prog-python/07-Matrizes.pdf)
+|08/11/2017|[Subprogramação](/material/prog-python/09-Subprogramacao-v3.pdf)
+|10/11/2017|[Subprogramação com Vetores](/material/prog-python/09-Subprogramacao-Vetores.pdf)
+|17/11/2017|[Manipulação de Strings](/material/prog-python/10-Strings.pdf)
+|24/11/2017|[Arquivos](/material/prog-python/12-Arquivos.pdf)
+-->
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+|Data|Atividade|Local
+|--
+|14/03/2018|[Apresentação da Disciplina](/material/prog-python/01-Apresentacao-2018.1.pdf)| 
+|16/03/2018|[Introdução à Programação](/material/prog-python/02-Introducao.pdf)| 
+|21/03/2018|Introdução à Programação (continuação)| 
+|23/03/2018|[Organização de Programas em Python](/material/prog-python/03-Organizacao.pdf)| Lab 306
+|28/03/2018|Exercícios| Lab 306
+|30/03/2018|FERIADO
+|04/04/2018|[Operadores Aritméticos e de Decisão](/material/prog-python/04-OperadoresEstruturasDecisao.pdf)
+|06/04/2018|Exercícios | Lab 306
+|11/04/2018|[Estruturas de Repetição](/material/prog-python/05-Repeticao.pdf)
+|13/04/2018|Exercícios | Lab 306
+|18/04/2018|[Strings](/material/prog-python/10-Strings-v2.pdf)
+|20/04/2018|Exercícios | Lab 306
+|25/04/2018|[Exercícios de Revisão](/material/prog-python/lista1.pdf) | Lab 306
+|27/04/2018|PROVA 1
+|02/05/2018|[Vetores](/material/prog-python/06-Vetores-v3.pdf)
+|04/05/2018|Exercícios | Lab 306
+|09/05/2018|[Matrizes](/material/prog-python/07-Matrizes.pdf)
+|11/05/2018|Exercícios | Lab 306
+|16/05/2018|[Subprogramação](/material/prog-python/09-Subprogramacao-v3.pdf)
+|18/05/2018|Exercícios | Lab 306
+|23/05/2018|VISTA DE PROVA
+|25/05/2018|Exercícios | Lab 306
+|30/05/2018|SEM AULA -- UFF fechada
+|01/06/2018|FERIADO
+|06/06/2018|[Arquivos](/material/prog-python/12-Arquivos.pdf)
+|08/06/2018|Exercícios | Lab 306
+|13/06/2018|Aula de Dúvidas | Lab 304
+|15/06/2018|PROVA 2
+|20/06/2018|SEGUNDA CHAMADA
+|22/06/2018|SEM AULA
+|27/06/2018|VISTA DE PROVA
+|29/06/2018|VS
+|04/07/2018|VISTA DE PROVA

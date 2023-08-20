@@ -1,0 +1,189 @@
+---
+title: ED 
+in_menu: true
+sort_info: 1
+---
+# Estruturas de Dados
+
+<BR/>
+Horário: terças e quintas de 7:00 às 9:00
+
+Local: sala 213
+
+Sala de aula virtual da disciplina: usaremos o [Google Classroom](http://classroom.google.com/) para as discussões e entrega de tarefas e trabalhos da disciplina. É necessário ter uma conta no ID UFF. O código para inscrição na sala de aula do Google Classroom está na lista de chamada. A sala de aula no Google Classroom será usada também para divulgar avisos gerais e para dúvidas. <BR/>
+
+Importante: todos os alunos **devem** se inscrever no Google Classroom (os alunos para os quais eu possuo o endereço de email do ID UFF receberam convite -- nesse caso basta aceitar o convite). Para se inscrever, clique no símbolo de "+" no canto superior direito da página, e selecione a opção "Participar da Turma". O código de inscrição na turma está na lista de presença. 
+
+## Monitoria
+
+Leonardo Machado da Silva - TER 07-09h; QUA 07-09h; QUI 07-09h; SEX 07-09h.
+
+## Ementa
+
+- Árvores binárias, binárias de busca e AVL;
+- Grafos;
+- Arquivos; 
+- Ordenação externa de arquivos (geração de partições classificadas e intercalação de partições);
+- Árvores B e B+ (em memória principal e secundária);
+- Tabelas hash (ou de dispersão) (em memória principal e secundária);
+- Listas de prioridade (ou heaps) (em memória principal e secundária); 
+
+## Avaliação
+
+A avaliação da disciplina é composta de duas provas (P1 e P2) e de um trabalho de implementação (T). A média será calculada da seguinte forma: 
+
+P1 = Prova sem consulta
+
+P2 = Prova sem consulta
+
+T = Trabalho
+
+Média = ((P1 * 2) + (P2 * 2) + T ) / 5
+
+**APROVADO**:<BR/> 
+(Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**: <BR/>
+(Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS o aluno que tirar nota maior ou igual a 6.
+
+**REPROVADO**: caso contrário
+
+## Exercícios no Google Classroom
+
+Diversos exercícios serão disponibilizadas durante o curso. Todos terão data de entrega marcada no Google Classroom. Durante a resolução dos exercícios, os alunos podem usar comentários de uma tarefa específica para tirar dúvidas no [Google Classroom](http://classroom.google.com). Espera-se que os alunos façam uso do compilador C para verificar a corretude das suas respostas. Alunos que entregarem os exercícios **no prazo e corretos** podem ser aprovados direto caso tenham ficado com média entre 5,5 e 5,9. Da mesma forma, terão direto à VS caso tenham ficado com média entre 3,5 e 3,9. 
+
+## Trios
+
+O Trabalho e os exercícios da disciplina serão feitos em trios. Os trios são flexíveis e podem mudar a cada exercício. Observar apenas o limite máximo de 3 participantes. 
+
+IMPORTANTE: os exercícios devem ser entregues por todos os membros do trio, SEMPRE. O nome do arquivo zip deve ser a concatenação do nome do trio, separados por um traço (-). Exemplo: suponha o seguinte trio Fábio Santos, João Felipe da Silva, e Maria Silva. O nome do arquivo zip a ser entregue em cada tarefa é FabioSantos-JoaoFelipedaSilva-MariaSilva.zip. Note que os nomes são ordenados alfabeticamente.   
+
+## Trabalho
+
+O trabalho consistirá gerenciamento de um catálogo de filmes de um aplicativo de straming de
+vídeo, como o Netflix, usando uma Árvore B. Seu programa deve receber como entrada os
+seguintes parâmetros: 
+
+* a ordem da árvore B (d); e
+* o caminho para um arquivo contendo um catálogo inicial, seguindo o formato especificado pela professora ([veja exemplo de catálogo inicial](/material/ed/2018-2/filmes.txt)).
+
+O catálogo inicial deve ser salvo num arquivo usando a estrutura de uma Árvore B. 
+
+Seu programa deve ser capaz de distinguir entre as informações principais consideradas chaves primárias (nesse caso, o título do
+filme, acrescido do ano de lançamento da obra) e as informações subordinadas (nome do diretor, gênero do filme (ficção, terror,
+romance, etc), tempo total de duração do filme, em minutos). A Árvore B deve ser armazenada em disco.
+
+**TAMANHOS e TIPOS DE DADOS:**
+
+* Título do Filme: STRING(80)
+* Ano de lançamento: INTEIRO
+* Nome do diretor: STRING(50)
+* Gênero: STRING(30)
+* Duração em minutos: INTEIRO
+
+As seguintes operações devem ser implementadas nesse trabalho:
+
+* Inserção e remoção de nós da árvore B (ou seja, inserção e remoção de filmes);
+* Busca das informações subordinadas, dada a chave primária;
+* Alteração SOMENTE das informações subordinadas, dada a chave primária;
+* Busca de todos os filmes de um determinado diretor; e
+* Remoção de todos os filmes de uma determinada categoria.
+
+Informações importantes:
+
+* [Exemplo de formato](/material/ed/2018-2/filmes.txt) de arquivo de entrada (que deve ser seguido pelo
+seu programa);
+* Grupo de três discentes (não é permitido trabalhos individuais);
+* Data limite de entrega: 03/12/18 às 23:59h, via [Google Classroom](http://classroom.google.com/).
+
+## Listas de Exercícios 
+
+As listas de exercícios abaixo são sugeridas para auxiliar no estudo e fixação da matéria. 
+
+* [Árvores Binárias](/material/ed/lista-arvore-binaria.pdf)
+* [Árvores Binárias de Busca](/material/ed/lista-arvore-binaria-busca.pdf)
+* [AVL](/material/ed/lista-avl.pdf) 
+* [Grafos](/material/ed/lista-grafos.pdf)
+* [Árvores B e B+](/material/ed/lista-arvores-b-bmais.pdf)
+* [Tabelas Hash](/material/ed/lista-hash.pdf)
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.uff.br/sites/default/files/001-2015_regulamento_do_curso_de_graduacao_0.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 96) e não há abono de faltas sem documentação (Art. 103).
+
+## Bibliografia
+
+Ferraz, I. N. Programação com Arquivos. Editora Manole Ltda. Barueri, 2003. 
+
+Szwarcfiter, J., Markenzon, L. Estruturas de Dados e Seus Algoritmos. Editora LTC, 3a. edição, 2010.
+
+Cormen, T.H., Leiserson, C.E., Rivest, R.L., Introduction to algorithms, McGraw-Hill, 2009.
+
+Celes, W., Cerqueira, R., Rangel, J.L. Introdução a Estruturas de Dados, Campus, 1a
+Edição, 2004.
+
+Kernighan, B.W.,Ritchie, D.M. C: a linguagem de programação (Padrão ANSI), Campus, Segunda
+Edição, 1990.
+
+### Bibliografia Complementar
+
+Tenenbaum, A.M., Langsam, Y., Augenstein, M.J. Estruturas de Dados Usando C, Pearson, Primeira Edição, 1995.
+
+Ramakrishnan, R. Database Management Systems, McGraw Hill, Third Edition, 2003.
+
+## Ferramentas
+
+Para programação em C, recomendo o [CLion](https://www.jetbrains.com/clion/?fromMenu). É possível solicitar uma licença grátis para estudante no site da [Jetbrains](https://www.jetbrains.com/student/).
+
+Para ajudar na identificação de memory leak, vocês podem usar as seguintes ferramentas: 
+
+* [Dr. Memory](http://drmemory.org/docs/index.html) (funciona em todas as plataformas)
+
+* [Valgrind](http://valgrind.org/) (específico para Linux)
+
+## Cronograma
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+|Data|Atividade
+|--
+|14/08/2018| Apresentação da Disciplina
+|16/08/2018| [Revisão de C](/material/ed/02-RevisaoC.pdf) <BR/>[Esqueleto do código de manipulação de listas encadeadas](/material/ed/listas.zip)
+|21/08/2018| [Árvores e Árvores Binárias](/material/ed/03-ArvoresBinarias.pdf) <BR/>[Implementação de Árvore Binária](/material/ed/arvore-binaria.zip)
+|23/08/2018| [Árvores Binárias de Busca](/material/ed/04-ArvoresBinariasBusca.pdf)
+|28/08/2018| SEM AULA - [VLDB](http://vldb2018.lncc.br/index.html)
+|30/08/2018| SEM AULA - [VLDB](http://vldb2018.lncc.br/index.html)
+|04/09/2018| [Árvores AVL](/material/ed/05-ArvoresAVL.pdf)
+|06/09/2018| Continuação de Árvore AVL e Exercícios no Laboratório
+|11/09/2018| [Grafos](/material/ed/06-Grafos.pdf)
+|13/09/2018| Exercícios no Laboratório
+|18/09/2018| [Arquivos](/material/ed/07-Arquivos.pdf)<BR/>[Tutorial de Acesso a Arquivos em C](/material/ed/tutorial-arquivos.zip)
+|20/09/2018| [Ordenação de Arquivos](/material/ed/08-Ordenacao.pdf)<BR/>[Insertion Sort em Memória e em Disco para Ordenar Arquivos](/material/ed/insertion-sort.zip)
+|25/09/2018| Ordenação Externa de Arquivos: [Geração de Partições Classificadas](/material/ed/09-GeracaoParticoes.pdf)<BR/>[Implementação de Classificação Interna](/material/ed/geracao-particoes.zip)
+|27/09/2018| Exercícios no Laboratório
+|02/10/2018| SEM AULA - Concurso para Professor UFF
+|04/10/2018| SEM AULA - Concurso para Professor UFF
+|09/10/2018| **PROVA 1**
+|11/10/2018| Ordenação Externa de Arquivos: [Intercalação de Partições Classificadas](/material/ed/10-Intercalacao.pdf)<BR/>[Implementação de Intercalação](/material/ed/intercalacao.zip)
+|16/10/2018| SEM AULA - Agenda Acadêmica
+|18/10/2018| SEM AULA - Agenda Acadêmica
+|23/10/2018| **VISTA DE PROVA**  
+|25/10/2018| [Árvore B](/material/ed/11-ArvoreB.pdf)<BR/>[Implementação de Busca e Inserção em Árvore B em memória](/material/ed/arvore-b.zip)
+|30/10/2018| Exercícios no Laboratório
+|01/11/2018| [Árvore B+](/material/ed/12-ArvoreBMais.pdf)
+|06/11/2018| Exercícios no Laboratório
+|08/11/2018| [Tabelas Hash](/material/ed/13-TabelasHash.pdf). Tratamento de colisão por encadeamento exterior. <BR/>[Implementação Básica de Tabela Hash em memória](/material/ed/hash-basico.c) (Essa implementação não trata colisões)<BR/>[Implementação de Tabela Hash em memória com tratamento de colisões por Encadeamento Exterior](/material/ed/hash-encadeamento-exterior.c)
+|13/11/2018| Exercícios no Laboratório
+|15/11/2018| FERIADO
+|20/11/2018| FERIADO
+|22/11/2018| Continuação de Tabelas Hash. Tratamento de colisão por encadeamento interior e Endereçamento Aberto. <BR/>[Implementação de Tabela Hash em memória com tratamento de colisões por Encadeamento Interior](/material/ed/hash-encadeamento-interior.c)<BR/>[Implementação de Tabela Hash em memória com tratamento de colisões por Endereçamento Aberto](/material/ed/hash-enderecamento-aberto.c)  
+|27/11/2018| Exercícios no Laboratório
+|29/11/2018| Aula no Laboratório, dedicada ao trabalho final 
+|04/12/2018| [Heap](/material/ed/14-Heap.pdf)<BR/>[Implementação em memória](/material/ed/heap.c)<BR/>[Implementação em disco](/material/ed/heap-disco.c)<BR/>**ENTREGA TRABALHO dia 03/12 às 23:59h** (Via Google Classroom)
+|06/12/2018| **PROVA 2**
+|11/12/2018| **SEGUNDA CHAMADA** 
+|13/12/2018| VISTA DE PROVA
+|18/12/2018| **VS**
+|20/12/2018| VISTA DE PROVA
+

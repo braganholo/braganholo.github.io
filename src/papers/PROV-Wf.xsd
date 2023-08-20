@@ -1,0 +1,346 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:prov-wf="http://www.uff.br/prov-wf" targetNamespace="http://www.uff.br/prov-wf" elementFormDefault="qualified" attributeFormDefault="unqualified">
+
+    <xs:element name="ProvWf">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="workflow" type="prov-wf:Workflow" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element name="executeWorkflow" type="prov-wf:ExecuteWorkflow" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element name="relation" type="prov-wf:Relation" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element name="file" type="prov-wf:File" maxOccurs="unbounded"/>
+                <xs:element name="program" type="prov-wf:Program" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element name="wActivityProgram" type="prov-wf:WActivityProgram" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element name="executeActivityFile" type="prov-wf:ExecuteActivityFile" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element name="executeActivityValue" type="prov-wf:ExecuteActivityValue" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element name="executeActivityRelation" type="prov-wf:ExecuteActivityRelation" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element name="scientist" type="prov-wf:Scientist" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+		
+        <!--===========================	Keys	============================-->
+        <xs:key name="workflow_key">
+            <xs:selector xpath="ProvWf/workflow"/>
+            <xs:field xpath="@id"/>
+        </xs:key>
+
+        <xs:key name="executeWorkflow_key">
+            <xs:selector xpath="ProvWf/executeWorkflow"/>
+            <xs:field xpath="@id"/>
+        </xs:key>
+
+        <xs:key name="file_key">
+            <xs:selector xpath="ProvWf/file"/>
+            <xs:field xpath="@id"/>
+        </xs:key>
+
+        <xs:key name="machine_key">
+            <xs:selector xpath="ProvWf/machine"/>
+            <xs:field xpath="@id"/>
+        </xs:key>
+
+        <xs:key name="scientist_key">
+            <xs:selector xpath="ProvWf/scientist"/>
+            <xs:field xpath="@id"/>
+        </xs:key>
+
+        <xs:key name="program_key">
+            <xs:selector xpath="ProvWf/program"/>
+            <xs:field xpath="@id"/>
+        </xs:key>
+
+        <xs:key name="wActivity_key">
+            <xs:selector xpath="ProvWf/wActivity"/>
+            <xs:field xpath="@id"/>
+        </xs:key>
+
+        <xs:key name="fileType_key">
+            <xs:selector xpath="ProvWf/fileType"/>
+            <xs:field xpath="@id"/>
+        </xs:key>
+
+        <xs:key name="relationSchema_key">
+            <xs:selector xpath="ProvWf/relationSchema"/>
+            <xs:field xpath="@id"/>
+        </xs:key>
+
+        <xs:key name="executeActivity_key">
+            <xs:selector xpath="ProvWf/executeActivity"/>
+            <xs:field xpath="@id"/>
+        </xs:key>
+
+        <xs:key name="field_key">
+            <xs:selector xpath="ProvWf/field"/>
+            <xs:field xpath="@id"/>
+        </xs:key>
+
+        <xs:key name="value_key">
+            <xs:selector xpath="ProvWf/value"/>
+            <xs:field xpath="@id"/>
+        </xs:key>
+
+        <!--===========================	KeyRefs	============================-->
+        <xs:keyref name="workflow_machine_ref" refer="prov-wf:machine_key">
+            <xs:selector xpath="ProvWf/workflow"/>
+            <xs:field xpath="mch_id"/>
+        </xs:keyref>
+
+        <xs:keyref name="workflow_wasStartedBy_ref" refer="prov-wf:workflow_key">
+            <xs:selector xpath="ProvWf/executeWorkflow"/>
+            <xs:field xpath="@wkf_id_wasStartedBy"/>
+        </xs:keyref>
+        <xs:keyref name="workflow_wasEndedBy_ref" refer="prov-wf:workflow_key">
+            <xs:selector xpath="ProvWf/executeWorkflow"/>
+            <xs:field xpath="@wkf_id_wasEndedBy"/>
+        </xs:keyref>
+        <xs:keyref name="workflow_used_ref" refer="prov-wf:workflow_key">
+            <xs:selector xpath="ProvWf/executeWorkflow"/>
+            <xs:field xpath="@wkf_id_used"/>
+        </xs:keyref>
+
+        <xs:keyref name="relation_relationSchema_ref" refer="prov-wf:relationSchema_key">
+            <xs:selector xpath="ProvWf/relation"/>
+            <xs:field xpath="@rels_id"/>
+        </xs:keyref>
+
+        <xs:keyref name="file_fileType_ref" refer="prov-wf:fileType_key">
+            <xs:selector xpath="ProvWf/file"/>
+            <xs:field xpath="ft_id"/>
+        </xs:keyref>
+
+        <xs:keyref name="wActivityProgram_Activity_ref" refer="prov-wf:wActivity_key">
+            <xs:selector xpath="ProvWf/wActivityProgram"/>
+            <xs:field xpath="@act_id"/>
+        </xs:keyref>
+        <xs:keyref name="wActivityProgram_Program_ref" refer="prov-wf:program_key">
+            <xs:selector xpath="ProvWf/wActivityProgram"/>
+            <xs:field xpath="@prg_id"/>
+        </xs:keyref>
+
+        <xs:keyref name="executeActivityFile_ref" refer="prov-wf:executeActivity_key">
+            <xs:selector xpath="ProvWf/executeActivityFile"/>
+            <xs:field xpath="@ea_id"/>
+        </xs:keyref>
+        <xs:keyref name="fileExecuteActivity_ref" refer="prov-wf:file_key">
+            <xs:selector xpath="ProvWf/executeActivityFile"/>
+            <xs:field xpath="@fl_id"/>
+        </xs:keyref>
+
+        <xs:keyref name="executeActivityValue_ref" refer="prov-wf:executeActivity_key">
+            <xs:selector xpath="ProvWf/executeActivityValue"/>
+            <xs:field xpath="@ea_id"/>
+        </xs:keyref>
+        <xs:keyref name="valueExecuteActivity_ref" refer="prov-wf:value_key">
+            <xs:selector xpath="ProvWf/executeActivityValue"/>
+            <xs:field xpath="@val_id"/>
+        </xs:keyref>
+
+        <xs:keyref name="wActivity_used_ref" refer="prov-wf:wActivity_key">
+            <xs:selector xpath="ProvWf/executeActivity"/>
+            <xs:field xpath="@act_id_used"/>
+        </xs:keyref>
+        <xs:keyref name="wActivity_wasEndedBy_ref" refer="prov-wf:wActivity_key">
+            <xs:selector xpath="ProvWf/executeActivity"/>
+            <xs:field xpath="@act_id_wasEndedBy"/>
+        </xs:keyref>
+        <xs:keyref name="wActivity_wasStartedBy_ref" refer="prov-wf:wActivity_key">
+            <xs:selector xpath="ProvWf/executeActivity"/>
+            <xs:field xpath="@act_id_wasStartedBy"/>
+        </xs:keyref>
+        <xs:keyref name="executeActivity_program_ref" refer="prov-wf:program_key">
+            <xs:selector xpath="ProvWf/executeActivity"/>
+            <xs:field xpath="prg_id"/>
+        </xs:keyref>
+
+        <xs:keyref name="machine_scientist_ref" refer="prov-wf:scientist_key">
+            <xs:selector xpath="ProvWf/machine"/>
+            <xs:field xpath="sc_id"/>
+        </xs:keyref>
+
+        <xs:keyref name="value_field_ref" refer="prov-wf:field_key">
+            <xs:selector xpath="ProvWf/value"/>
+            <xs:field xpath="@fld_id"/>
+        </xs:keyref>
+
+        <xs:keyref name="executeActivityRelation_ref" refer="prov-wf:executeActivity_key">
+            <xs:selector xpath="ProvWf/executeActivityRelation"/>
+            <xs:field xpath="@ea_id"/>
+        </xs:keyref>
+        <xs:keyref name="relationExecuteActivity_ref" refer="prov-wf:value_key">
+            <xs:selector xpath="ProvWf/executeActivityRelation"/>
+            <xs:field xpath="@rel_id"/>
+        </xs:keyref>
+
+    </xs:element>
+    <!--==============================	Workflow	==============================-->
+    <xs:complexType name="Workflow">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="description" type="xs:string" minOccurs="0"/>
+            <xs:element name="location" type="xs:string" minOccurs="0"/>
+            <xs:element name="mch_id" type="xs:integer" minOccurs="0"/>
+            <xs:element name="wActivity" type="prov-wf:WActivity" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="fileType" type="prov-wf:FileType" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+    </xs:complexType>
+    <!--==============================	WActivity	==============================-->
+    <xs:complexType name="WActivity">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="description" type="xs:string" minOccurs="0"/>
+            <xs:element name="location" type="xs:string" minOccurs="0"/>
+            <xs:element name="type" type="xs:string" minOccurs="0"/>
+            <xs:element name="startTime" type="xs:string" minOccurs="0"/>
+            <xs:element name="endTime" type="xs:string" minOccurs="0"/>
+            <xs:element name="relationSchema" type="prov-wf:RelationSchema" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+        <xs:attribute name="wkf_id" type="xs:integer" use="required"/>
+    </xs:complexType>
+    <!--==============================	ExecuteWorkflow	==============================-->
+    <xs:complexType name="ExecuteWorkflow">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string" minOccurs="0"/>
+            <xs:element name="description" type="xs:string" minOccurs="0"/>
+            <xs:element name="startTime" type="xs:string" minOccurs="0"/>
+            <xs:element name="endTime" type="xs:string" minOccurs="0"/>
+            <xs:element name="machine" type="prov-wf:Machine" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="executeActivity" type="prov-wf:ExecuteActivity" minOccurs="0" maxOccurs="unbounded">
+            </xs:element>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+        <xs:attribute name="wkf_id_wasStartedBy" type="xs:integer"/>
+        <xs:attribute name="wkf_id_wasEndedBy" type="xs:integer"/>
+        <xs:attribute name="wkf_id_used" type="xs:integer"/>
+    </xs:complexType>
+    <!--==============================	WActivityProgram	==============================-->
+    <xs:complexType name="WActivityProgram">
+        <xs:attribute name="act_id" type="xs:integer" use="required"/>
+        <xs:attribute name="prg_id" type="xs:integer" use="required"/>
+    </xs:complexType>
+    <!--==============================	ExecuteActivityFile	==============================-->
+    <xs:complexType name="ExecuteActivityFile">
+        <xs:attribute name="ea_id" type="xs:integer" use="required"/>
+        <xs:attribute name="fl_id" type="xs:integer" use="required"/>
+    </xs:complexType>
+    <!--==============================	ExecuteActivityValue	==============================-->
+    <xs:complexType name="ExecuteActivityValue">
+        <xs:attribute name="ea_id" type="xs:integer" use="required"/>
+        <xs:attribute name="val_id" type="xs:integer" use="required"/>
+    </xs:complexType>
+    <!--==============================	ExecuteActivityRelation	==============================-->
+    <xs:complexType name="ExecuteActivityRelation">
+        <xs:attribute name="ea_id" type="xs:integer" use="required"/>
+        <xs:attribute name="rel_id" type="xs:integer" use="required"/>
+    </xs:complexType>
+    <!--==============================	FileType	==============================-->
+    <xs:complexType name="FileType">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="location" type="xs:string" minOccurs="0"/>
+            <xs:element name="size" type="xs:string" minOccurs="0"/>
+            <xs:element name="data" type="xs:string" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+        <xs:attribute name="wkf_id" type="xs:integer" use="required"/>
+    </xs:complexType>
+    <!--==============================	RelationSchema	==============================-->
+    <xs:complexType name="RelationSchema">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="field" type="prov-wf:Field" minOccurs="0" maxOccurs="unbounded">
+
+            </xs:element>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+        <xs:attribute name="act_id" type="xs:integer" use="required"/>
+    </xs:complexType>
+    <!--==================================	Field		==================================-->
+    <xs:complexType name="Field">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="type" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+        <xs:attribute name="rels_id" type="xs:integer"/>
+    </xs:complexType>
+    <!--==================================	File	==================================-->
+    <xs:complexType name="File">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="size" type="xs:string" minOccurs="0"/>
+            <xs:element name="location" type="xs:string" minOccurs="0"/>
+            <xs:element name="data" type="xs:string" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+        <xs:attribute name="ea_id" type="xs:integer" use="required"/>
+    </xs:complexType>
+    <!--==================================	Relation	==================================-->
+    <xs:complexType name="Relation">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="type" type="xs:string" minOccurs="0"/>
+            <xs:element name="value" type="prov-wf:Value" minOccurs="0" maxOccurs="unbounded">
+
+            </xs:element>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+        <xs:attribute name="rels_id" type="xs:integer"/>
+    </xs:complexType>
+    <!--==================================	Value	==================================-->
+    <xs:complexType name="Value">
+        <xs:sequence>
+            <xs:element name="numval" type="xs:string" minOccurs="0"/>
+            <xs:element name="textval" type="xs:string" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+        <xs:attribute name="fld_id" type="xs:integer" />
+        <xs:attribute name="ea_id" type="xs:integer" />
+        <xs:attribute name="rel_id" type="xs:integer"/>
+    </xs:complexType>
+    <!--==============================	ExecuteActivity		==============================-->
+    <xs:complexType name="ExecuteActivity">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string" minOccurs="0"/>
+            <xs:element name="status" type="xs:string" minOccurs="0"/>
+            <xs:element name="location" type="xs:string" minOccurs="0"/>
+            <xs:element name="startTime" type="xs:string" minOccurs="0"/>
+            <xs:element name="endTime" type="xs:string" minOccurs="0"/>
+            <xs:element name="prg_id" type="xs:integer" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+        <xs:attribute name="wkf_id" type="xs:integer" />
+        <xs:attribute name="ew_id" type="xs:integer" />
+        <xs:attribute name="act_id_wasStartedBy" type="xs:integer"/>
+        <xs:attribute name="act_id_wasEndedBy" type="xs:integer"/>
+        <xs:attribute name="act_id_used" type="xs:integer"/>
+    </xs:complexType>
+    <!--==============================	Scientist		==============================-->
+    <xs:complexType name="Scientist">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="email" type="xs:string" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+    </xs:complexType>
+    <!--==================================	Machine	==================================-->
+    <xs:complexType name="Machine">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="description" type="xs:string" minOccurs="0"/>
+            <xs:element name="location" type="xs:string" minOccurs="0"/>
+            <xs:element name="type" type="xs:string" minOccurs="0"/>
+            <xs:element name="img_id" type="xs:string" minOccurs="0"/>			
+            <xs:element name="sc_id" type="xs:integer" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+        <xs:attribute name="wkf_id" type="xs:integer" />
+        <xs:attribute name="ew_id" type="xs:integer" />
+    </xs:complexType>
+    <!--==================================	Program	==================================-->
+    <xs:complexType name="Program">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+    </xs:complexType>
+</xs:schema>

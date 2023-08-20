@@ -1,0 +1,216 @@
+---
+title: PROG I
+in_menu: true
+sort_info: 1
+---
+# Programação de Computadores I
+
+<BR/>
+Horário: quartas e sextas de 11h às 13h 
+
+Local: Sala 202, Lab 306
+
+Local para avisos e entrega de trabalhos da disciplina: usaremos o [Google Classroom](http://classroom.google.com/). É necessário ter uma conta no ID UFF. A sala de aula no Google Classroom será usada também para divulgar avisos gerais e para dúvidas. <BR/>
+
+Importante: todos os alunos **devem** se inscrever no Google Classroom. Para se inscrever, clique no símbolo de "+" no canto superior direito da página, e selecione a opção "Participar da Turma". O código de inscrição na turma será fornecido no primeiro dia de aula. 
+
+## Monitoria
+
+Lucas Santana Bichalho da Costa: SEG 11h-13h; SEG 16h-18h; QUA 11-13h; QUA 16h-18h
+
+Mariana Werneck Roque Lopes: SEG 11h-13h; SEG 16-18h; SEX 09-13h 
+
+## Avaliação
+
+P1 = Prova sem consulta
+
+P2 = Prova sem consulta
+
+Média = (P1 + P2) / 2
+
+**APROVADO**
+
+(Presença >= 75%) E (*Média* >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Presença >= 75%) E (4 <= *Média* < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Caso contrário
+
+## Exercícios no Google Classroom
+
+Diversos exercícios serão disponibilizadas durante o curso. Todos terão data de entrega marcada no Gloogle Classroom. Durante a resolução dos exercícios, os alunos podem usar comentários de uma tarefa específica para tirar dúvidas no [Google Classroom](http://classroom.google.com). Espera-se que os alunos façam uso do interpretador Python para verificar a corretude das suas respostas. Alunos que entregarem os exercícios no prazo e corretos podem ser aprovados direto caso tenham ficado com média entre 5,5 e 5,9. Da mesma forma, terão direto à VS caso tenham ficado com média entre 3,5 e 3,9.
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.uff.br/sites/default/files/001-2015_regulamento_do_curso_de_graduacao_0.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 96) e não há abono de faltas sem documentação (Art. 103).
+
+## Bibliografia
+
+Paul Barry, Use a Cabeça! Programação, Editora Alta Books.
+
+Paul Barry, Use a Cabeça! Python, Editora Alta Books.
+
+Furlan, M., Gomes, M., Soares, M., Concilio, R., 2005, Algoritmos e Lógica de Programação, Editora Thomson.
+
+## Ferramentas
+
+* [Interpretador Python](https://www.python.org/downloads/)
+* [PyCharm](https://www.jetbrains.com/pycharm-educational/)
+* Existem apps para tablets e celulares que permitem programar em Python. Faça a busca na loja de aplicativos do seu aparelho.
+
+O aluno tem liberdade de utilizar a IDE Python de sua preferência. Contudo, nas atividades de sala de aula será utilizado o [PyCharm](https://www.jetbrains.com/pycharm-educational/).
+
+## Cronograma
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;" border="1">
+	<tr style="font-weight: bold;">
+		<td>Data</td>
+		<td>Atividade</td>
+	</tr>
+    <tr>
+        <td>22/03/2017</td>
+        <td><a href="../../material/prog-python/01-Apresentacao-2017.1.pdf" target="_blank">Apresentação da Disciplina</a></td>
+    </tr>
+    <tr>
+	    <td>24/03/2017</td>
+        <td><a href="../../material/prog-python/02-Introducao.pdf" target="_blank">Introdução à Programação</a></td>
+    </tr>
+    <tr>
+	    <td>29/03/2017</td>
+        <td>Introdução à Programação (continuação)</td>
+    </tr>
+    <tr>
+	    <td>31/03/2017</td>
+        <td><a href="../../material/prog-python/03-Organizacao.pdf" target="_blank">Organização de Programas em Python</a></td>
+    </tr>
+    <tr>
+	    <td>05/04/2017</td>
+        <td>Exercícios (disponíveis no <a href="http://classroom.google.com/" target="_blank">Google Classroom</a>)</td>
+    </tr>
+    <tr>
+	    <td>07/04/2017</td>
+        <td><a href="../../material/prog-python/04-OperadoresEstruturasDecisao.pdf" target="_blank">Operadores e Estruturas de Decisão</a></td>
+    </tr>
+    <tr>
+	    <td>12/04/2017</td>
+        <td>Exercícios (disponíveis no <a href="http://classroom.google.com/" target="_blank">Google Classroom</a>)</td>
+    </tr>
+    <tr>
+	    <td>14/04/2017</td>
+        <td>FERIADO</td>
+    </tr>
+    <tr>
+	    <td>19/04/2017</td>
+        <td><a href="../../material/prog-python/05-Repeticao.pdf" target="_blank">Estruturas de Repetição</a></td>
+    </tr>
+    <tr>
+	    <td>21/04/2017</td>
+        <td>FERIADO</td>
+    </tr>
+    <tr>
+	    <td>26/04/2017</td>
+        <td>Exercícios (disponíveis no <a href="http://classroom.google.com/" target="_blank">Google Classroom</a>)</td>
+    </tr>
+    <tr>
+	    <td>28/04/2017</td>
+        <td>SEM AULA (prédio fechado)</td>
+    </tr>
+    <tr>
+	    <td>03/05/2017</td>
+        <td><a href="../../material/prog-python/09-Subprogramacao-v2.pdf" target="_blank">Subprogramação</a></td>
+    </tr>
+    <tr>
+	    <td>05/05/2017</td>
+        <td>Exercícios (disponíveis no <a href="http://classroom.google.com/" target="_blank">Google Classroom</a>)</td>
+    </tr>
+    <tr>
+	    <td>10/05/2017</td>
+        <td>Aula de Dúvidas</td>
+    </tr>
+    <tr>
+	    <td>12/05/2017</td>
+        <td>PROVA 1</td>
+    </tr>
+    <tr>
+	    <td>17/05/2017</td>
+        <td><a href="../../material/prog-python/06-Vetores-v2.pdf" target="_blank">Vetores</a></td>
+    </tr>
+    <tr>
+	    <td>19/05/2017</td>
+        <td>Exercícios (disponíveis no <a href="http://classroom.google.com/" target="_blank">Google Classroom</a>)</td>
+    </tr>
+    <tr>
+	    <td>24/05/2017</td>
+        <td><a href="../../material/prog-python/07-Matrizes.pdf" target="_blank">Matrizes</a></td>
+    </tr>
+    <tr>
+	    <td>26/05/2017</td>
+        <td>Exercícios (disponíveis no <a href="http://classroom.google.com/" target="_blank">Google Classroom</a>)</td>
+    </tr>
+    <tr>
+	    <td>31/05/2017</td>
+        <td><a href="../../material/prog-python/10-Strings.pdf" target="_blank">Strings</a></td>
+    </tr>
+    <tr>
+	    <td>02/06/2017</td>
+        <td>VISTA DE PROVA</td>
+    </tr>
+    <tr>
+	    <td>07/06/2017</td>
+        <td>Exercícios (disponíveis no <a href="http://classroom.google.com/" target="_blank">Google Classroom</a>)</td>
+    </tr>
+    <tr>
+	    <td>09/06/2017</td>
+        <td><a href="../../material/prog-python/12-Arquivos.pdf" target="_blank">Arquivos</a></td>
+    </tr>
+    <tr>
+	    <td>14/06/2017</td>
+        <td>Exercícios (disponíveis no <a href="http://classroom.google.com/" target="_blank">Google Classroom</a>)</td>
+    </tr>
+    <tr>
+	    <td>16/06/2017</td>
+        <td>SEM AULA</td>
+    </tr>
+    <tr>
+	    <td>21/06/2017</td>
+        <td>PROVA 2</td>
+    </tr>
+    <tr>
+	    <td>23/06/2017</td>
+        <td>SEGUNDA CHAMADA</td>
+    </tr>
+    <tr>
+	    <td>28/06/2017</td>
+        <td>SEM AULA</td>
+    </tr>
+    <tr>
+	    <td>30/06/2017</td>
+        <td>VISTA DE P2 E DE SEGUNDA CHAMADA</td>
+    </tr>
+    <tr>
+	    <td>05/07/2017</td>
+        <td>SEM AULA - <a href="http://csbc2017.mackenzie.br/" target="_blank">CBSC</a></td>
+    </tr>
+    <tr>
+	    <td>07/07/2017</td>
+        <td>SEM AULA - <a href="http://csbc2017.mackenzie.br/" target="_blank">CBSC</a></td>
+    </tr>
+    <tr>
+	    <td>12/07/2017</td>
+        <td>VS</td>
+    </tr>
+    <tr>
+	    <td>14/07/2017</td>
+        <td>SEM AULA</td>
+    </tr>
+    <tr>
+	    <td>19/07/2017</td>
+        <td>VISTA DE VS</td>
+    </tr>
+</table>
