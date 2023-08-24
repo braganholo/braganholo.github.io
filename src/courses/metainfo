@@ -7,133 +7,137 @@
   title: 2010.2
   proxy_path: ed2.html
   in_menu: true
-  sort_info: 22
+  sort_info: 23
 
 2011.1/:
   title: 2011.1
   proxy_path: ed2.html
   in_menu: true
-  sort_info: 21
+  sort_info: 22
 
 2011.2/:
   title: 2011.2
   proxy_path: ed2.html
   in_menu: true
-  sort_info: 20
+  sort_info: 21
 
 2012.1/:
   title: 2012.1
   proxy_path: ed2.html
   in_menu: true
-  sort_info: 19
+  sort_info: 20
 
 2012.2/:
   title: 2012.2
   proxy_path: gdse.html
   in_menu: true
-  sort_info: 18
+  sort_info: 19
 
 2013.1/:
   title: 2013.1
   proxy_path: gdse.html
   in_menu: true
-  sort_info: 17
+  sort_info: 18
  
 2014.1/:
   title: 2014.1
   proxy_path: ed2-cc.html
   in_menu: true
-  sort_info: 16
+  sort_info: 17
 
 2014.2/:
   title: 2014.2
   proxy_path: ed2.html
   in_menu: true
-  sort_info: 15
+  sort_info: 16
 
 2015.1/:
   title: 2015.1
   proxy_path: ed2.html
   in_menu: true
-  sort_info: 14
+  sort_info: 15
 
 2015.2/:
   title: 2015.2
   proxy_path: ed2.html
   in_menu: true
-  sort_info: 13
+  sort_info: 14
 
 2016.1/:
   title: 2016.1
   proxy_path: ed2.html
   in_menu: true
-  sort_info: 12
+  sort_info: 13
 
 2016.2/:
   title: 2016.2
   proxy_path: prog1.html
   in_menu: true
-  sort_info: 11
+  sort_info: 12
 
 2017.1/:
   title: 2017.1
   proxy_path: escience.html
   in_menu: true
-  sort_info: 10
+  sort_info: 11
 
 2017.2/:
   title: 2017.2
   proxy_path: ed2.html
   in_menu: true
-  sort_info: 9
+  sort_info: 10
 
 2018.1/:
   title: 2018.1
   proxy_path: escience.html
   in_menu: true
-  sort_info: 8
+  sort_info: 9
 
 2018.2/:
   title: 2018.2
   proxy_path: ed.html
   in_menu: true
-  sort_info: 7
+  sort_info: 8
 
 2019.1/:
   title: 2019.1
   proxy_path: ed.html
   in_menu: true
-  sort_info: 6
+  sort_info: 7
 
 2020.2/:
   title: 2020.2
   proxy_path: ed.html
   in_menu: true
-  sort_info: 5
+  sort_info: 6
 
 2021.1/:
   title: 2021.1
   proxy_path: ed.html
   in_menu: true
-  sort_info: 4
+  sort_info: 5
 
 2022.1/:
   title: 2022.1
   proxy_path: ed.html
   in_menu: true
-  sort_info: 3
+  sort_info: 4
 
 2022.2/:
   title: 2022.2
   proxy_path: ed.html
   in_menu: true
-  sort_info: 2
+  sort_info: 3
 
 2023.1/:
   title: 2023.1
   proxy_path: ed.html
   in_menu: true
+  sort_info: 2
+
+2023.2/:
+  title: 2023.2
+  proxy_path: ed.html
+  in_menu: true
   sort_info: 1
-
-
 

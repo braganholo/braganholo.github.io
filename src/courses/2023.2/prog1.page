@@ -1,0 +1,157 @@
+---
+title: PROG
+in_menu: true
+sort_info: 2
+---
+# Programação de Computadores
+
+<BR/>
+Horário: segundas e quartas de 16h às 18h 
+
+Local: a ser definido 
+
+Sala de aula virtual da disciplina: usaremos o [Google Classroom](http://classroom.google.com/) para as discussões e avisos. A sala de aula no Google Classroom será usada também para divulgar avisos gerais e para dúvidas. <BR/>
+
+<!-- ## Tutoria
+
+O tutor Rodrigo (aluno de pós graduação) estará no lab 304 toda quarta-feira, de 16-18h para quem quiser praticar exercícios em Python. Sugiro fortemente que vocês compareçam a partir do dia 29/08 (nessa data vocês já terão aprendido coisas suficientes para começar a fazer exercícios em Python).
+
+--> 
+
+## Monitoria
+
+A ser definido 
+
+## Ementa
+
+- Algoritmos e Lógica de Programação
+- Introdução ao Ambiente de Desenvolvimento Python
+- Tipos de Dados
+- Operadores
+- Comandos e Estruturas de Controle;
+- Agregados Homogêneos: Vetores e Matrizes; 
+- Agregados Heterogêneos; 
+- Subprogramação e Escopo de Variáveis
+
+## Avaliação
+
+P1 = Prova sem consulta
+
+P2 = Prova sem consulta
+
+Média = (P1 + P2) / 2
+
+**APROVADO**
+
+(Presença >= 75%) E (*Média* >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Presença >= 75%) E (4 <= *Média* < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Caso contrário
+
+## Exercícios no BeeCrowd
+
+Diversos exercícios serão disponibilizadas durante o curso. Todos terão data de entrega marcada no [BeeCrowd](https://www.beecrowd.com.br/judge/pt/login) -- ver código da turma no [Google Classroom](http://classroom.google.com/). Alunos que entregarem os exercícios no prazo e corretos podem ser aprovados direto caso tenham ficado com média entre 5,5 e 5,9. Da mesma forma, terão direto à VS caso tenham ficado com média entre 3,5 e 3,9.
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.uff.br/sites/default/files/001-2015_regulamento_do_curso_de_graduacao_0.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 96) e não há abono de faltas sem documentação (Art. 103).
+
+## Bibliografia
+
+Paul Barry, Use a Cabeça! Programação, Editora Alta Books.
+
+Paul Barry, Use a Cabeça! Python, Editora Alta Books.
+
+Furlan, M., Gomes, M., Soares, M., Concilio, R., 2005, Algoritmos e Lógica de Programação, Editora Thomson.
+
+## Ferramentas
+
+* [Interpretador Python](https://www.python.org/downloads/)
+* [PyCharm](https://www.jetbrains.com/pycharm-educational/)
+* Interpretadores Online: 
+    * [Replit](https://replit.com/)
+    * [Online Python](https://www.online-python.com/) 
+    * [Google Colaboratory](https://colab.research.google.com/)
+* Existem apps para tablets e celulares que permitem programar em Python. Faça a busca na loja de aplicativos do seu aparelho. Sugestões: [QPython](http://www.qpython.com/) (para Android) e [Python 3.4](https://itunes.apple.com/us/app/python-3-4-for-ios/id583476348?mt=8) (para IOS).
+
+O aluno tem liberdade de utilizar a IDE Python de sua preferência. Contudo, nas atividades de sala de aula será utilizado o [PyCharm](https://www.jetbrains.com/pycharm-educational/).
+
+## Cronograma
+
+<!-- 
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+|Data|Atividade
+|--
+| 15/06/2021 | Aula síncrona: [apresentação da disciplina](/material/prog1/Aula1-Apresentacao2021-1.pdf) 
+| 17/06/2021 | Aula assíncrona: [Histórico](https://youtu.be/DtQY0ggP1-E) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula02.pdf)
+| 22/06/2021 | Aula síncrona de dúvidas (9-11h)
+| 24/06/2021 | [Introdução à Programação](https://youtu.be/X6XOoLw5QMU) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula03.pdf)
+| 29/06/2021 | Aula síncrona de dúvidas (9-11h)
+| 01/07/2021 | Aula assíncrona: [Organização de Programas em Python](https://youtu.be/-4hj9DIebyE) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula04.pdf)
+| 06/07/2021 | Aula síncrona de dúvidas (9-11h)
+| 08/07/2021 | Aula assíncrona: [Operadores](https://youtu.be/gF4ygMN4RPQ) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula05.pdf) 
+| 13/07/2021 | Aula síncrona de dúvidas (9-11h)
+| 15/07/2021 | [Estruturas de Decisão](https://youtu.be/a7cUgpdNgZk) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula06.pdf)
+| 20/07/2021 | Aula síncrona de dúvidas (9-11h)
+| 22/07/2021 | Aula assíncrona: [Estruturas de Repetição](https://youtu.be/iPcGXoXQFPw) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula07.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
+| 27/07/2021 | Aula síncrona de dúvidas (9-11h)
+| 29/07/2021 | Aula assíncrona: [Manipulação de Strings](https://youtu.be/GPRPPnnIoVQ) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula08.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
+| 03/08/2021 | Aula síncrona de dúvidas (9-11h)
+| 05/08/2021 | Aula assíncrona: [Vetores](https://youtu.be/5k06RtunM64) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula09.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
+| 10/08/2021 | Aula síncrona de dúvidas (9-11h)
+| 12/08/2021 | Aula assíncrona: [Manipulação de Listas](https://youtu.be/NrlaO-rVs5A) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula10.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
+| 17/08/2021 | Aula síncrona de dúvidas (9-11h)
+| 19/08/2021 | **Avaliação** no [Run.Codes](https://run.codes/)
+| 24/08/2021 | Aula síncrona de dúvidas (9-11h)
+| 26/08/2021 | Aula assíncrona: [Matrizes](https://youtu.be/Zp4Dn4qISvo) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula11.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
+| 31/08/2021 | Aula síncrona de dúvidas (9-11h)
+| 02/09/2021 | Aula assíncrona: [Subprogramação](https://youtu.be/KTACSfJCSdM) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula12.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
+| 07/09/2021 | Sem aula - FERIADO
+| 09/09/2021 | **Avaliação** no [Run.Codes](https://run.codes/)
+| 14/09/2021 | Aula síncrona de dúvidas (9-11h)
+| 16/09/2021 | **Avaliação** no [Run.Codes](https://run.codes/)
+-->
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+|Data|Atividade
+|--
+|28/08/2023| AULA
+|30/08/2023| AULA
+|04/09/2023| AULA
+|06/09/2023| AULA
+|11/09/2023| AULA
+|13/09/2023| AULA
+|18/09/2023| AULA
+|20/09/2023| AULA
+|25/09/2023| AULA
+|27/09/2023| AULA
+|02/10/2023| AULA
+|04/10/2023| AULA
+|09/10/2023| AULA
+|11/10/2023| **PROVA 1**
+|16/10/2023| AULA
+|18/10/2023| AULA
+|23/10/2023| AULA
+|25/10/2023| AULA
+|30/10/2023| AULA
+|01/11/2023| AULA
+|06/11/2023| AULA
+|08/11/2023| AULA
+|13/11/2023| AULA
+|15/11/2023| **FERIADO**
+|20/11/2023| **FERIADO**
+|22/11/2023| AULA
+|27/11/2023| AULA
+|29/11/2023| **PROVA 2**
+|04/12/2023| **SEGUNDA CHAMADA**
+|06/12/2023| AULA
+|11/12/2023| AULA
+|13/12/2023| **VS**
+|18/12/2023| VISTA DE VS
