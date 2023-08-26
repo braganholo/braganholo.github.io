@@ -8,8 +8,6 @@ sort_info: 2
 <BR/>
 Horário: segundas e quartas de 16h às 18h 
 
-Local: a ser definido 
-
 Sala de aula virtual da disciplina: usaremos o [Google Classroom](http://classroom.google.com/) para as discussões e avisos. A sala de aula no Google Classroom será usada também para divulgar avisos gerais e para dúvidas. <BR/>
 
 <!-- ## Tutoria
@@ -39,15 +37,15 @@ P1 = Prova sem consulta
 
 P2 = Prova sem consulta
 
-Média = (P1 + P2) / 2
+$$Média = \frac{P1 + P2}{2}$$
 
 **APROVADO**
 
-(Presença >= 75%) E (*Média* >= 6)
+$$Presença \geq 75/% E Média \geq 6$$
 
 **VERIFICAÇÃO SUPLEMENTAR**
 
-(Presença >= 75%) E (4 <= *Média* < 6)
+$$Presença \geq 75/%  4 \leq Média < 6$$
 
 Será aprovado na VS se tirar nota maior ou igual a 6.
 
