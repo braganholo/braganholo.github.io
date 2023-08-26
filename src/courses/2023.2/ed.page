@@ -34,14 +34,14 @@ P2 = Prova sem consulta
 
 T = Média das notas dos trabalhos de implementação -- todos com correção via [RunCodes](https://run.codes/) 
 
-$$ Média = \frac{(P1 \times 2) + (P2 \times 2) + T )}{5} $$
+$$ Média = \frac{(P1 \times 2) + (P2 \times 2) + T }{5} $$
 
 
 **APROVADO**:<BR/> 
-$$Presença \geq 75% \& Média \geq 6$$ 
+$$Presença \geq 75% E Média \geq 6$$ 
 
 **VERIFICAÇÃO SUPLEMENTAR**: <BR/>
-$$Presença \geq 75% \& 4 \leq Média < 6$$
+$$Presença \geq 75% E 4 \leq Média < 6$$
 
 Será aprovado na VS o aluno que tirar nota maior ou igual a 6.
 
