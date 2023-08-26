@@ -8,8 +8,6 @@ sort_info: 2
 <BR/>
 Horário: quartas e sextas de 7:00 às 9:00
 
-Local: Sala a definir
-
 Sala de aula virtual da disciplina: usaremos o [Google Classroom](http://classroom.google.com/) para as discussões e avisos. A sala de aula no Google Classroom será usada também para divulgar avisos gerais e para dúvidas. <BR/>
 
 ## Monitoria
@@ -36,14 +34,14 @@ P2 = Prova sem consulta
 
 T = Média das notas dos trabalhos de implementação -- todos com correção via [RunCodes](https://run.codes/) 
 
-Média = ((P1 * 2) + (P2 * 2) + T ) / 5
+$$ Média = \frac{(P1 \times 2) + (P2 \times 2) + T )}{5} $$
 
 
 **APROVADO**:<BR/> 
-(Presença >= 75%) E (Média >= 6) 
+$$Presença \geq 75% \& Média \geq 6$$ 
 
 **VERIFICAÇÃO SUPLEMENTAR**: <BR/>
-(Presença >= 75%) E (4 <= Média < 6)
+$$Presença \geq 75% \& 4 \leq Média < 6$$
 
 Será aprovado na VS o aluno que tirar nota maior ou igual a 6.
 
