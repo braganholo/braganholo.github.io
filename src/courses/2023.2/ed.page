@@ -26,6 +26,8 @@ Horários e local de atendimento: consulte a [página da monitoria](http://www.i
 - Tabelas hash (ou de dispersão) (em memória principal e secundária);
 - Listas de prioridade (ou heaps) (em memória principal e secundária); 
 
+## Avaliação
+
 A avaliação da disciplina é composta de duas provas (P1 e P2) e de um conjunto de trabalhos de implementação (T). A média será calculada da seguinte forma: 
 
 P1 = Prova sem consulta
@@ -45,19 +47,8 @@ $$Presença \geq 75\% ~ E ~ 4 \leq Média < 6$$
 
 Será aprovado na VS o aluno que tirar nota maior ou igual a 6.
 
-**REPROVADO**: caso contrário
+**REPROVADO**: caso contrário 
 
-<!-- ## Exercícios no Google Classroom
-
-Diversos exercícios serão disponibilizadas durante o curso. Todos terão data de entrega marcada no Google Classroom. Durante a resolução dos exercícios, os alunos podem usar comentários de uma tarefa específica para tirar dúvidas no [Google Classroom](http://classroom.google.com). Espera-se que os alunos façam uso do compilador C para verificar a corretude das suas respostas. Alunos que entregarem os exercícios **no prazo e corretos** podem ser aprovados direto caso tenham ficado com média entre 5,5 e 5,9. Da mesma forma, terão direto à VS caso tenham ficado com média entre 3,5 e 3,9. 
-
-## Duplas
-
-O Trabalho e os exercícios da disciplina serão feitos em duplas. As duplas são flexíveis e podem mudar a cada exercício. Observar apenas o limite máximo de 2 participantes. 
-
-IMPORTANTE: os exercícios devem ser entregues por todos os membros da dupla, SEMPRE. O nome do arquivo zip deve ser a concatenação do nome da dupla, separados por um traço (-). Exemplo: suponha a seguinte dupla Fábio Santos e João Felipe da Silva. O nome do arquivo zip a ser entregue em cada tarefa é FabioSantos-JoaoFelipedaSilva.zip. Note que os nomes são ordenados alfabeticamente.   
-
---> 
 ## Trabalhos de Implementação
 
 Haverá um conjunto de implementações a serem entregues via [GitHub Classroom](https://classroom.github.com/classrooms/). As entregas possuem data marcada e entregas atrasadas não serão aceitas. Esse item compõe a média final da disciplina, e a nota desse item será calculada pela média aritmética dos trabalhos passados ao longo do semestre. Exercícios marcados como [TREINO] no GitHub Classroom não contam para compor a média. Apenas exercícios marcados como [AVALIAÇÃO] no GitHub Classroom contam para compor a média desse item.  
