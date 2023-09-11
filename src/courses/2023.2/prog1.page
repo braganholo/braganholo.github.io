@@ -104,20 +104,16 @@ nome = input()
 
 
 ```
-
 a = 10
   
 print('A =', a) 
-
 ```
 
 imprime na tela 
 
 
 ```
-
 A = 10
-
 ```
 
 
