@@ -102,8 +102,7 @@ nome = input()
 
 
 ```
-a = 10
-
+a = 10 <BR/>
 print("A =", a) 
 ```
 
