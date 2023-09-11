@@ -81,6 +81,26 @@ Furlan, M., Gomes, M., Soares, M., Concilio, R., 2005, Algoritmos e Lógica de P
 
 O aluno tem liberdade de utilizar a IDE Python de sua preferência. Contudo, nas atividades de sala de aula será utilizado o [PyCharm](https://www.jetbrains.com/pycharm-educational/).
 
+## Dicas para uso do BeeCrowd
+
+O [BeeCrowd](https://www.beecrowd.com.br/judge/pt/login) funciona testando a saída esperada do problema com a saída gerada pelo seu programa. Se o conteúdo estiver correto, ele diz que está correto, mas se tem algum erro de apresentação (um espaço a mais, que seja), ele diz que houve *Presentation Error*. Esse tipo de erro não será considerado por mim como erro (para mim, o que importa é o conteúdo da resposta e não a apresentação), mas, se você quiser corrigir os erros de apresentação do seu programa, aqui vão algumas dicas: 
+
+* Não coloque mensagem no comando de *input*
+* Se usar o print para imprimir uma mensagem e o valor de uma variável, lembre-se de que o interpretador Python adiciona um espaço em branco automaticamente entre a mensagem e o valor da variável. Por exemplo, o comando: 
+
+```
+a = 10  
+print("A =", a) 
+```
+
+imprime na tela 
+
+```
+A = 10
+```
+
+Note que há um espaço após a igualdade que foi adicionado automaticamente pelo interpretador Python. 
+
 ## Cronograma
 
 <!-- 
