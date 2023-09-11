@@ -103,8 +103,7 @@ nome = input()
 
 ```
 a = 10
-
-print('A =', a) 
+print("A =", a) 
 ```
 
 imprime na tela: 
