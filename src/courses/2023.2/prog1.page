@@ -89,16 +89,20 @@ O [BeeCrowd](https://www.beecrowd.com.br/judge/pt/login) funciona testando a sa�
 * Se usar o print para imprimir uma mensagem e o valor de uma variável, lembre-se de que o interpretador Python adiciona um espaço em branco automaticamente entre a mensagem e o valor da variável. Por exemplo, o comando: 
 
 ```
+
 a = 10
   
 print('A =', a) 
+
 ```
 
 imprime na tela 
 
 
 ```
+
     A = 10
+
 ```
 
 
