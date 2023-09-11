@@ -105,14 +105,14 @@ nome = input()
 a = 10
 
 print('A =', a) 
-``` 
+```
 
 imprime na tela: 
 
 
-``` 
+```
 A = 10
-``` 
+```
 
 
 Note que na saída gerada pelo programa, há um espaço, após a igualdade, que foi adicionado automaticamente pelo interpretador Python. 
