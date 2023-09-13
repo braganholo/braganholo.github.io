@@ -175,8 +175,8 @@ Para ajudar na identificação de memory leak, vocês podem usar as seguintes fe
 |01/09/2023| [Revisão de C](/material/ed/02-RevisaoC.pdf)
 |06/09/2023| Aula no Laboratório
 |08/09/2023| **SEM AULA - FERIADO**
-|13/09/2023| [Árvores e Árvores Binárias](/material/ed/03-ArvoresBinarias.pdf) <BR/>[Implementação de Árvore Binária](/material/ed/arvore-binaria.zip) 
-|15/09/2023| AULA
+|13/09/2023| [Árvores e Árvores Binárias](/material/ed/03-ArvoresBinarias.pdf) <BR/>[Implementação de Árvore Binária](/material/ed/arvore-binaria.zip) <BR/><BR/>Material de Apoio: [Revisão de Pilhas e Filas em C](/material/ed/02-Revisao-Pilhas-Filas.pdf)
+|15/09/2023| [Árvores Binárias de Busca](/material/ed/04-ArvoresBinariasBusca.pdf) <BR/>[Implementação de Busca e Inserção em Árvore Binária de Busca](/material/ed/busca-insercao-abb.c) 
 |20/09/2023| AULA
 |22/09/2023| AULA
 |27/09/2023| AULA
