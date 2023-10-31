@@ -183,14 +183,13 @@ Para ajudar na identificação de memory leak, vocês podem usar as seguintes fe
 |29/09/2023| Aula no Laboratório
 |04/10/2023| [Arquivos](/material/ed/07-Arquivos.pdf)<BR/>[Tutorial de Acesso a Arquivos em C](/material/ed/tutorial-arquivos.zip)   
 |06/10/2023| Aula no Laboratório
-|11/10/2023| [Ordenação de Arquivos](/material/ed/08-Ordenacao.pdf)<BR/>[Insertion Sort em Memória e em Disco para Ordenar Arquivos](/material/ed/insertion-sort.zip) <BR/>
-Ordenação Externa de Arquivos: [Geração de Partições Classificadas](/material/ed/09-GeracaoParticoes.pdf)<BR/>[Implementação de Classificação Interna](/material/ed/geracao-particoes.zip)
+|11/10/2023| [Ordenação de Arquivos](/material/ed/08-Ordenacao.pdf)<BR/>[Insertion Sort em Memória e em Disco para Ordenar Arquivos](/material/ed/insertion-sort.zip) <BR/>Ordenação Externa de Arquivos: [Geração de Partições Classificadas](/material/ed/09-GeracaoParticoes.pdf)<BR/>[Implementação de Classificação Interna](/material/ed/geracao-particoes.zip)
 |13/10/2023| **SEM AULA - FERIADO**
 |18/10/2023| **SEM AULA - AGENDA ACADÊMICA**
 |20/10/2023| **SEM AULA - AGENDA ACADÊMICA**
 |25/10/2023| **PROVA 1**
 |27/10/2023| Ordenação Externa de Arquivos: [Intercalação de Partições Classificadas](/material/ed/10-Intercalacao.pdf)<BR/>[Implementação de Intercalação](/material/ed/intercalacao.zip)
-|01/11/2023| AULA
+|01/11/2023| [Árvore B](/material/ed/11-ArvoreB.pdf)<BR/>[Implementação de Busca e Inserção em Árvore B em memória](/material/ed/arvore-b.zip)
 |03/11/2023| **SEM AULA - FERIADO**
 |08/11/2023| AULA
 |10/11/2023| AULA
