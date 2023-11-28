@@ -197,7 +197,7 @@ Para ajudar na identificação de memory leak, vocês podem usar as seguintes fe
 |17/11/2023| AULA CANCELADA por problemas de saúde: assistir a [vídeo aula](https://youtu.be/BaTG9xNPCK8?si=Df701AwJ7o0mGJGF) e acompanhar os slides sobre [Árvore B+](/material/ed/12-ArvoreBMais.pdf)
 |22/11/2023| [Tabelas Hashi](/material/ed/13-TabelasHash.pdf). [Tratamento de colisão por encadeamento exterior](/material/ed/13-TabelasHash-Encadeamento-Exterior.pdf). <BR/>[Implementação Básica de Tabela Hash em memória](/material/ed/hash-basico.c) (Essa implementação não trata colisões)<BR/>[Implementação de Tabela Hash em memória com tratamento de colisões por Encadeamento Exterior](/material/ed/hash-encadeamento-exterior.c)
 |24/11/2023| Aula no Laboratório + Vista de Prova
-|29/11/2023| AULA
+|29/11/2023| [Heap](/material/ed/14-Heap.pdf)<BR/>[Implementação em memória](/material/ed/heap.c)<BR/>[Implementação em disco](/material/ed/heap-disco.c)
 |01/12/2023| AULA
 |06/12/2023| **PROVA 2**
 |08/12/2023| **SEGUNDA CHAMADA**
