@@ -198,9 +198,9 @@ Para ajudar na identificação de memory leak, vocês podem usar as seguintes fe
 |22/11/2023| [Tabelas Hashi](/material/ed/13-TabelasHash.pdf). [Tratamento de colisão por encadeamento exterior](/material/ed/13-TabelasHash-Encadeamento-Exterior.pdf). <BR/>[Implementação Básica de Tabela Hash em memória](/material/ed/hash-basico.c) (Essa implementação não trata colisões)<BR/>[Implementação de Tabela Hash em memória com tratamento de colisões por Encadeamento Exterior](/material/ed/hash-encadeamento-exterior.c)
 |24/11/2023| Aula no Laboratório + Vista de Prova
 |29/11/2023| [Heap](/material/ed/14-Heap.pdf)<BR/>[Implementação em memória](/material/ed/heap.c)<BR/>[Implementação em disco](/material/ed/heap-disco.c)
-|01/12/2023| AULA
+|01/12/2023| Aula de dúvidas
 |06/12/2023| **PROVA 2**
 |08/12/2023| **SEGUNDA CHAMADA**
-|13/12/2023| AULA
+|13/12/2023| VISTA DE P2 e SEGUNDA CHAMADA
 |15/12/2023| **VS**
-|20/12/2023| AULA
+|20/12/2023| VISTA DE VS
