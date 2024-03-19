@@ -106,7 +106,11 @@ Projeto de Banco de Dados. Carlos Alberto Heuser, 2004, 5a. edição, Porto Aleg
 
 ### Diagramas ER
 
-- Usaremos a ferramental online [BR Modelo](https://www.brmodeloweb.com/lang/pt-br/index.html)
+- Usaremos a ferramenta online [BR Modelo](https://www.brmodeloweb.com/lang/pt-br/index.html)
+
+### Álgebra Relacional 
+
+- Usaremos a ferramenta online [RelaX](https://dbis-uibk.github.io/relax/landing)
 
 ### MariaDB
 
