@@ -104,15 +104,16 @@ Projeto de Banco de Dados. Carlos Alberto Heuser, 2004, 5a. edição, Porto Aleg
 
 ## Ferramentas
 
+### Diagramas ER
+
+- Usaremos a ferramental online [BR Modelo](https://www.brmodeloweb.com/lang/pt-br/index.html)
+
 ### MariaDB
 
-Para consultas SQL, usaremos o banco de dados [MariaBD](https://mariadb.org/). 
+- Para consultas SQL, usaremos o banco de dados [MariaBD](https://mariadb.org/). 
+- Também é possível usar o [MariaDB Online](https://sqliteonline.com/). Nesse site também é possível usar outros SGBDs (SQLite, PostgreSQL e MS SQL) 
+- [Tutorial sobre o MariaDB](https://www.mariadbtutorial.com/)
 
-### [MariaDB Online](https://sqliteonline.com/)
-
-Nesse site também é possível usar outros SGBDs (SQLite, PostgreSQL e MS SQL) 
-
-### [Tutorial sobre o MariaDB](https://www.mariadbtutorial.com/)
 
 ## Cronograma
 
