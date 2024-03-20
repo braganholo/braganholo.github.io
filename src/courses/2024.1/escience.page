@@ -57,7 +57,7 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 
 - Freire, J., Koop, D., Santos, E., Silva, C. [Provenance for Computational Tasks: A Survey](https://vgc.poly.edu/~juliana/pub/freire-cise2008.pdf). Computing in Science & Engineering, 2008.
 : &nbsp;
-: APRESENTADOR: --
+: APRESENTADOR: Bruno
 : DEBATEDOR: --
 
 - Ferramenta: [Prov-Viewer](https://github.com/gems-uff/prov-viewer). Há um artigo que explica a ferramenta Prov-Viewer: Kohwalter, T., Oliveira, T., Freire, J., Clua, E., Murta, L. [Prov Viewer: A Graph-Based Visualization Tool for Interactive Exploration of Provenance Data](https://link.springer.com/chapter/10.1007/978-3-319-40593-3_6). In: IPAW, 2016.
@@ -72,7 +72,7 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 
 - Silva, C., Freire, J., Callahan, S. [Provenance for Visualizations Reproducibility and Beyond](https://ieeexplore.ieee.org/document/4293741). Computing in Science & Engineering, 2007.
 : &nbsp; 
-: APRESENTADOR: --
+: APRESENTADOR: Júlia
 : DEBATEDOR: --
 
 - Ferramenta: [VisTrails](https://www.vistrails.org/index.php/Main_Page)
@@ -109,7 +109,7 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 - McPhillips, T. et al.. [YesWorkflow: A User-Oriented, Language-Independent Tool for Recovering Workflow Information from Scripts](http://ijdc.net/index.php/ijdc/article/view/10.1.298). International Journal of Digital Curation, v. 10(1), 2015. 
 : &nbsp;
 : APRESENTADOR: --
-: DEBATEDOR: --
+: DEBATEDOR: Júlia
 
 - Hu, J., Joung, J., Jacobs, M., Gajos, K., Seltzer, M. [Improving Data Scientist Efficiency with Provenance](https://dl.acm.org/doi/10.1145/3377811.3380366). In: ICSE, 2020.
 : &nbsp;
@@ -129,8 +129,8 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 
 - Nuzzo, R. [How scientists fool themselves - and how they can stop](http://www.nature.com/news/how-scientists-fool-themselves-and-how-they-can-stop-1.18517). Nature, October, 2015.
 : &nbsp;
-: APRESENTADOR: -- 
-: DEBATEDOR: --
+: APRESENTADOR: Bruno
+: DEBATEDOR: Júlia
 
 - Peng, R. [Reproducible research in computational science](http://science.sciencemag.org/content/334/6060/1226.full). Science, 2011.
 : &nbsp;
@@ -142,7 +142,7 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 - Chirigati, F., Rampin, R., Shasha, D., Freire, J. [ReproZip: Computational Reproducibility With Ease](https://vgc.poly.edu/~fchirigati/papers/reprozip-sigmod206.pdf). In: SIGMOD, 2016. 
 : &nbsp;
 : APRESENTADOR: --
-: DEBATEDOR: --
+: DEBATEDOR: Bruno
 
 - Ferramenta 1: [Reprozip](https://www.reprozip.org/) 
 : &nbsp;
@@ -152,8 +152,8 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 
 - Pimentel, J.F., Murta, L., Braganholo, V., Freire, J. [A large-scale study about quality and reproducibility of jupyter notebooks](https://ieeexplore.ieee.org/document/8816763). In MSR 2019: 507-517
 : &nbsp;
-: APRESENTADOR: --
-: DEBATEDOR: --
+: APRESENTADOR: Júlia
+: DEBATEDOR: Bruno
 
 - Ferramenta: [Julynter](https://github.com/dew-uff/julynter)
 : &nbsp;
