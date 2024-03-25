@@ -89,12 +89,12 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 - Murta, L., Braganholo, V., Chirigati, F., Koop, D., Freire, J. [noWorkflow: Capturing and Analyzing Provenance of Scripts](https://github.com/gems-uff/noworkflow/raw/master/docs/ipaw2014.pdf). In: IPAW, 2014.
 : &nbsp;
 : APRESENTADOR: Camila
-: DEBATEDOR: --
+: DEBATEDOR: Ana Caroline
 
 - Namaki, M., Floratou, A., Psallidas, F., Krishnan, S., Agrawal, A., Wu, Y., Zhu, Y., Weimer, M. [Vamsa: Automated Provenance Tracking in Data Science Scripts](https://dl.acm.org/doi/abs/10.1145/3394486.3403205). In: SIGKDD, 2020. 
 : &nbsp;
-: APRESENTADOR: --
-: DEBATEDOR: --
+: APRESENTADOR: Ana Caroline
+: DEBATEDOR: Edel
 
 - Ferramenta: [noWorkflow](http://gems-uff.github.io/noworkflow/)
 : &nbsp;
@@ -108,13 +108,13 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 
 - McPhillips, T. et al.. [YesWorkflow: A User-Oriented, Language-Independent Tool for Recovering Workflow Information from Scripts](http://ijdc.net/index.php/ijdc/article/view/10.1.298). International Journal of Digital Curation, v. 10(1), 2015. 
 : &nbsp;
-: APRESENTADOR: --
+: APRESENTADOR: Ana Caroline
 : DEBATEDOR: Júlia
 
 - Hu, J., Joung, J., Jacobs, M., Gajos, K., Seltzer, M. [Improving Data Scientist Efficiency with Provenance](https://dl.acm.org/doi/10.1145/3377811.3380366). In: ICSE, 2020.
 : &nbsp;
 : APRESENTADOR: Camila
-: DEBATEDOR: --
+: DEBATEDOR: Ana Caroline
 
 
 - Ferramenta: [YesWorkflow](https://github.com/yesworkflow-org/yw-prototypes)
@@ -134,14 +134,14 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 
 - Peng, R. [Reproducible research in computational science](http://science.sciencemag.org/content/334/6060/1226.full). Science, 2011.
 : &nbsp;
-: APRESENTADOR: --
-: DEBATEDOR: --
+: APRESENTADOR: Edel
+: DEBATEDOR: Edel
 
 <a name="L6">**6a. Leitura:**</a>
 
 - Chirigati, F., Rampin, R., Shasha, D., Freire, J. [ReproZip: Computational Reproducibility With Ease](https://vgc.poly.edu/~fchirigati/papers/reprozip-sigmod206.pdf). In: SIGMOD, 2016. 
 : &nbsp;
-: APRESENTADOR: --
+: APRESENTADOR: Edel
 : DEBATEDOR: Bruno
 
 - Ferramenta 1: [Reprozip](https://www.reprozip.org/) 
@@ -264,7 +264,7 @@ grau 0,0 (zero).
 |--
 |19/03/2024| [Apresentação da Disciplina](/material/escience/01-Apresentacao-2024-1.pdf)
 |21/03/2024| [Método Científico e Experimentos Científicos](/material/escience/02-ScientificMethod.pdf)|
-|26/03/2024| AULA
+|26/03/2024| Método Científico e Experimentos Científicos (continuação)
 |28/03/2024| AULA
 |02/04/2024| **1a. Leitura**
 |04/04/2024| AULA
