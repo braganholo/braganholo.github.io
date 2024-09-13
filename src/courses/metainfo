@@ -147,4 +147,9 @@
   in_menu: true
   sort_info: 76
 
+2024.2/:
+  title: 2024.2
+  proxy_path: bd-cc.html
+  in_menu: true
+  sort_info: 75
 
