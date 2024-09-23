@@ -31,25 +31,26 @@ Horários de atendimento: a ser definido
 
 ## Avaliação
 
-A avaliação da disciplina é composta de duas provas (P1 e P2) e de um conjunto de trabalhos (T). A média será calculada da seguinte forma: 
+A avaliação da disciplina é composta de duas provas ($$P_1$$ e $$P_2$$) e de um conjunto de trabalhos ($$T$$). A média será calculada da seguinte forma: 
 
-P1 = Prova sem consulta
+$$P_1$$ = Prova sem consulta
 
-P2 = Prova sem consulta
+$$P_2$$ = Prova sem consulta
 
-T = Média das notas dos trabalhos 
+$$T$$ = Média das notas dos trabalhos 
 
-Média = ((P1 * 2) + (P2 * 2) + T ) / 5
+$$ Media = \frac{2 \times \text{P_1} + 2 \times \text{P_2} + \text{T}}{5} $$
 
 **APROVADO**:<BR/> 
-(Presença >= 75%) E (Média >= 6)
+$$ Presença \geq 75\% \land Média \geq 6 $$
 
 **VERIFICAÇÃO SUPLEMENTAR**: <BR/>
-(Presença >= 75%) E (4 <= Média < 6)
+$$ Presença \geq 75\% \land 4 \leq Média < 6 $$
 
 Será aprovado na VS o aluno que tirar nota maior ou igual a 6.
 
-**REPROVADO**: caso contrário
+Obs.: Nenhum aluno poderá sair da sala nos primeiros 30 minutos de prova. Depois de 30 minutos, quem termina a prova poderá sair. No entanto, depois que o primeiro aluno sair, nenhum aluno poderá entrar. Organize-se para ser pontual!
+
 
 <!-- ## Exercícios no Google Classroom
 
