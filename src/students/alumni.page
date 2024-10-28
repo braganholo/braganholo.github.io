@@ -6,7 +6,7 @@ sort_info: 2
 
 <style>
 li {
-	width: 500px;
+	width: 350px;
 	height: 120px;
 	display: inline-block;
 }
