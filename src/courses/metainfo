@@ -153,3 +153,9 @@
   in_menu: true
   sort_info: 75
 
+2025.1/:
+  title: 2025.1
+  proxy_path: bd.html
+  in_menu: true
+  sort_info: 74
+
