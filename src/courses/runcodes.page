@@ -102,7 +102,11 @@ Dessa forma as definições de tipos e funções dos arquivos cliente.c e nomes.
 Compile seu programa usando as flags **-Wall** e **-Werror**. Isso vai fazer com que o compilador aponte erros que o RunCodes vai apontar, então fica mais fácil corrigir os problemas ANTES de submeter seu código no RunCodes. 
 
 
-No CLion, abra seu projeto e na barra inferior, clique em Terminal. Ali, digite o comando de compilação **gcc -Wall -Werror <nome_arquivo.c>** 
+No CLion, abra seu projeto e na barra inferior, clique em Terminal. Ali, digite o comando de compilação:
+
+```
+gcc -Wall -Werror <nome_arquivo.c>
+```
 
 Caso você prefira compilar usando linha de comando, basta adicionar as flags na hora de chamar o compilador. Por exemplo, para compilar um programa que está armazenado no arquivo listas.c, execute o seguinte comando (no terminal do Mac ou Linux, ou no Prompt de Comando do Windows: 
 
