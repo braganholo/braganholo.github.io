@@ -59,7 +59,7 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 
 - Freire, J., Koop, D., Santos, E., Silva, C. [Provenance for Computational Tasks: A Survey](https://vgc.poly.edu/~juliana/pub/freire-cise2008.pdf). Computing in Science & Engineering, 2008.
 : &nbsp;
-: APRESENTADOR:
+: APRESENTADOR: Owoola
 : DEBATEDOR:
 
 - Ferramenta: [Prov-Viewer](https://github.com/gems-uff/prov-viewer). Há um artigo que explica a ferramenta Prov-Viewer: Kohwalter, T., Oliveira, T., Freire, J., Clua, E., Murta, L. [Prov Viewer: A Graph-Based Visualization Tool for Interactive Exploration of Provenance Data](https://link.springer.com/chapter/10.1007/978-3-319-40593-3_6). In: IPAW, 2016.
@@ -74,7 +74,7 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 
 - Silva, C., Freire, J., Callahan, S. [Provenance for Visualizations Reproducibility and Beyond](https://ieeexplore.ieee.org/document/4293741). Computing in Science & Engineering, 2007.
 : &nbsp; 
-: APRESENTADOR:
+: APRESENTADOR: Owoola
 : DEBATEDOR:
 
 - Ferramenta: [VisTrails](https://www.vistrails.org/index.php/Main_Page)
@@ -100,7 +100,7 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 
 - Ferramenta: [noWorkflow](http://gems-uff.github.io/noworkflow/)
 : &nbsp;
-: DEMONSTRADOR:
+: DEMONSTRADOR: Felipe 
 
 - Ferramenta: [Sumatra](https://pythonhosted.org/Sumatra/)
 : &nbsp;
@@ -116,7 +116,7 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 - Hu, J., Joung, J., Jacobs, M., Gajos, K., Seltzer, M. [Improving Data Scientist Efficiency with Provenance](https://dl.acm.org/doi/10.1145/3377811.3380366). In: ICSE, 2020.
 : &nbsp;
 : APRESENTADOR:
-: DEBATEDOR: 
+: DEBATEDOR: Matheus
 
 
 - Ferramenta: [YesWorkflow](https://github.com/yesworkflow-org/yw-prototypes)
@@ -131,26 +131,26 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 
 - Samuel, S., König-Ries, B. [Understanding experiments and research practices for reproducibility: na exploratory study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8067906/). PeerJ, April, 2021.
 : &nbsp;
-: APRESENTADOR:
-: DEBATEDOR:
+: APRESENTADOR: Bruno
+: DEBATEDOR: Owoola 
 
 <a name="L6">**6a. Leitura:**</a>
 
 - Chirigati, F., Rampin, R., Shasha, D., Freire, J. [ReproZip: Computational Reproducibility With Ease](https://vgc.poly.edu/~fchirigati/papers/reprozip-sigmod206.pdf). In: SIGMOD, 2016. 
 : &nbsp;
-: APRESENTADOR:
-: DEBATEDOR:
+: APRESENTADOR: Matheus
+: DEBATEDOR: Bruno
 
 - Ferramenta 1: [Reprozip](https://www.reprozip.org/) 
 : &nbsp;
-: DEMONSTRADOR:
+: DEMONSTRADOR: João Victor Lagos
 
 <a name="L7">**7a. Leitura:**</a>
 
 - Pimentel, J.F., Murta, L., Braganholo, V., Freire, J. [A large-scale study about quality and reproducibility of jupyter notebooks](https://ieeexplore.ieee.org/document/8816763). In MSR 2019: 507-517
 : &nbsp;
-: APRESENTADOR:
-: DEBATEDOR:
+: APRESENTADOR: Bruno
+: DEBATEDOR: Matheus
 
 - Ferramenta: [Julynter](https://github.com/dew-uff/julynter)
 : &nbsp;
@@ -160,8 +160,8 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 
 - Huang, R., Ravi, S., He, M., Tian, B., Lerner, S., Coblenz, M. [How Scientists Use Jupyter Notebooks: Goals, Quality Attributes, and Opportunities](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a768/251mHC1k61W). In ICSE 2025: 768-768
 : &nbsp;
-: APRESENTADOR:
-: DEBATEDOR:
+: APRESENTADOR: Matheus
+: DEBATEDOR: Bruno
 
 - Ferramenta: [ReproduceMeGit](https://github.com/fusion-jena/ReproduceMeGit). Há um artigo que explica a ferramenta ReproduçãoeMeGit: Samuel, S., König-Ries, B. [ReproduceMeGit: A Visualization Tool for Analyzing Reproducibility of Jupyter Notebooks](https://www.researchgate.net/publication/353083181_ReproduceMeGit_A_Visualization_Tool_for_Analyzing_Reproducibility_of_Jupyter_Notebooks). In: IPAW, 2021.
 : &nbsp;
