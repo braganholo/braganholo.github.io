@@ -60,42 +60,42 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 - Freire, J., Koop, D., Santos, E., Silva, C. [Provenance for Computational Tasks: A Survey](https://vgc.poly.edu/~juliana/pub/freire-cise2008.pdf). Computing in Science & Engineering, 2008.
 : &nbsp;
 : APRESENTADOR: Owoola
-: DEBATEDOR:
+: DEBATEDOR: EM ABERTO
 
 - Ferramenta: [Prov-Viewer](https://github.com/gems-uff/prov-viewer). Há um artigo que explica a ferramenta Prov-Viewer: Kohwalter, T., Oliveira, T., Freire, J., Clua, E., Murta, L. [Prov Viewer: A Graph-Based Visualization Tool for Interactive Exploration of Provenance Data](https://link.springer.com/chapter/10.1007/978-3-319-40593-3_6). In: IPAW, 2016.
 : &nbsp;
-: DEMONSTRADOR: 
+: DEMONSTRADOR: EM ABERTO
 
 - Ferramenta: [ProvToolbox](https://lucmoreau.github.io/ProvToolbox/)
 : &nbsp;
-: DEMONSTRADOR: 
+: DEMONSTRADOR: EM ABERTO
 
 <a name="L2">**2a. Leitura:**</a>
 
 - Silva, C., Freire, J., Callahan, S. [Provenance for Visualizations Reproducibility and Beyond](https://ieeexplore.ieee.org/document/4293741). Computing in Science & Engineering, 2007.
 : &nbsp; 
 : APRESENTADOR: Owoola
-: DEBATEDOR:
+: DEBATEDOR: EM ABERTO
 
 - Ferramenta: [VisTrails](https://www.vistrails.org/index.php/Main_Page)
 : &nbsp;
-: DEMONSTRADOR: 
+: DEMONSTRADOR: EM ABERTO
 
 - Ferramenta: [Kepler](https://kepler-project.org/users/downloads.html)
 : &nbsp;
-: DEMONSTRADOR: 
+: DEMONSTRADOR: EM ABERTO
 
 
 <a name="L3">**3a. Leitura:**</a>
 
 - Murta, L., Braganholo, V., Chirigati, F., Koop, D., Freire, J. [noWorkflow: Capturing and Analyzing Provenance of Scripts](https://github.com/gems-uff/noworkflow/raw/master/docs/ipaw2014.pdf). In: IPAW, 2014.
 : &nbsp;
-: APRESENTADOR:
-: DEBATEDOR: 
+: APRESENTADOR: EM ABERTO
+: DEBATEDOR: EM ABERTO
 
 - Namaki, M., Floratou, A., Psallidas, F., Krishnan, S., Agrawal, A., Wu, Y., Zhu, Y., Weimer, M. [Vamsa: Automated Provenance Tracking in Data Science Scripts](https://dl.acm.org/doi/abs/10.1145/3394486.3403205). In: SIGKDD, 2020. 
 : &nbsp;
-: APRESENTADOR: 
+: APRESENTADOR: EM ABERTO
 : DEBATEDOR: Owoola 
 
 - Ferramenta: [noWorkflow](http://gems-uff.github.io/noworkflow/)
@@ -104,28 +104,28 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 
 - Ferramenta: [Sumatra](https://pythonhosted.org/Sumatra/)
 : &nbsp;
-: DEMONSTRADOR: 
+: DEMONSTRADOR: EM ABERTO
 
 <a name="L4">**4a. Leitura:**</a>
 
 - McPhillips, T. et al.. [YesWorkflow: A User-Oriented, Language-Independent Tool for Recovering Workflow Information from Scripts](http://ijdc.net/index.php/ijdc/article/view/10.1.298). International Journal of Digital Curation, v. 10(1), 2015. 
 : &nbsp;
-: APRESENTADOR: 
-: DEBATEDOR: 
+: APRESENTADOR: EM ABERTO
+: DEBATEDOR: EM ABERTO
 
 - Hu, J., Joung, J., Jacobs, M., Gajos, K., Seltzer, M. [Improving Data Scientist Efficiency with Provenance](https://dl.acm.org/doi/10.1145/3377811.3380366). In: ICSE, 2020.
 : &nbsp;
-: APRESENTADOR:
+: APRESENTADOR: EM ABERTO
 : DEBATEDOR: Matheus
 
 
 - Ferramenta: [YesWorkflow](https://github.com/yesworkflow-org/yw-prototypes)
 : &nbsp;
-: DEMONSTRADOR:
+: DEMONSTRADOR: EM ABERTO
 
 - Ferramenta: [ProvBuild](https://github.com/jingmeihu/ProvBuild)
 : &nbsp;
-: DEMONSTRADOR:
+: DEMONSTRADOR: EM ABERTO
 
 <a name="L5">**5a. Leitura:**</a>
 
@@ -165,7 +165,7 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 
 - Ferramenta: [ReproduceMeGit](https://github.com/fusion-jena/ReproduceMeGit). Há um artigo que explica a ferramenta ReproduçãoeMeGit: Samuel, S., König-Ries, B. [ReproduceMeGit: A Visualization Tool for Analyzing Reproducibility of Jupyter Notebooks](https://www.researchgate.net/publication/353083181_ReproduceMeGit_A_Visualization_Tool_for_Analyzing_Reproducibility_of_Jupyter_Notebooks). In: IPAW, 2021.
 : &nbsp;
-: DEMONSTRADOR:
+: DEMONSTRADOR: EM ABERTO
 
 ## Trabalho
 
