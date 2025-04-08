@@ -17,8 +17,7 @@ Media = (4 x Trabalho + 2 x Seminários + Avaliação de Artigos) / 7
 
 **APROVADO**:<BR/> 
 (Aluno de Pós) E (Presença >= 75%) E (Média >= 6)<BR/>
-(Aluno de Graduação) E (Média >= 6)
-
+(Aluno de Graduação) E (Presença >= 75%) E (Média >= 6)
 
 **VERIFICAÇÃO SUPLEMENTAR**: <BR/>
 <!--(Aluno de Graduação) E (Presença >= 75%) E (4 <= Média < 6) -->
