@@ -135,6 +135,7 @@
   in_menu: true
   sort_info: 78
 
+
 2023.2/:
   title: 2023.2
   proxy_path: ed.html
@@ -159,3 +160,8 @@
   in_menu: true
   sort_info: 74
 
+2025.2/:
+  title: 2025.2
+  proxy_path: bd.html
+  in_menu: true
+  sort_info: 73
