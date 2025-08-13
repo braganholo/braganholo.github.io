@@ -29,18 +29,18 @@ A avaliação da disciplina é composta de duas provas ($$P_1$$ e $$P_2$$) e de 
 
 $$ Média = \frac{2 \times P_1 + 2 \times P_2 + \text{T}}{5} $$
 
+Obs.: Nenhum aluno poderá sair da sala nos primeiros 30 minutos de prova. Depois de 30 minutos, quem termina a prova poderá sair. No entanto, depois que o primeiro aluno sair, nenhum aluno poderá entrar. Organize-se para ser pontual!
+
 **APROVADO**:<BR/> 
 $$ Presença \geq 75\% \land Média \geq 6 $$
 
 **VERIFICAÇÃO SUPLEMENTAR**: <BR/>
 $$ Presença \geq 75\% \land 4 \leq Média < 6 $$
 
-
 Será aprovado na VS o aluno que tirar nota maior ou igual a 6.
 
-Obs.: Nenhum aluno poderá sair da sala nos primeiros 30 minutos de prova. Depois de 30 minutos, quem termina a prova poderá sair. No entanto, depois que o primeiro aluno sair, nenhum aluno poderá entrar. Organize-se para ser pontual!
 
-<!-- ## Exercícios no Google Classroom
+## Exercícios no Google Classroom e no CodeBench
 
 Diversos exercícios serão disponibilizadas durante o curso. Todos terão data de entrega marcada no Google Classroom. Durante a resolução dos exercícios, os alunos podem usar comentários de uma tarefa específica para tirar dúvidas no [Google Classroom](http://classroom.google.com). Alunos que entregarem os exercícios **no prazo e corretos** podem ser aprovados direto caso tenham ficado com média entre 5,5 e 5,9. Da mesma forma, terão direto à VS caso tenham ficado com média entre 3,5 e 3,9. 
 

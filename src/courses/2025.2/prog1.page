@@ -39,6 +39,8 @@ P2 = Prova sem consulta
 
 $$Média = \frac{P1 + P2}{2}$$
 
+Obs.: Nenhum aluno poderá sair da sala nos primeiros 30 minutos de prova. Depois de 30 minutos, quem termina a prova poderá sair. No entanto, depois que o primeiro aluno sair, nenhum aluno poderá entrar. Organize-se para ser pontual!
+
 **APROVADO**
 
 $$Presença \geq 75\% ~ E ~ Média \geq 6$$
@@ -49,9 +51,7 @@ $$Presença \geq 75\% ~ 4 ~ \leq Média < 6$$
 
 Será aprovado na VS se tirar nota maior ou igual a 6.
 
-**REPROVADO**
 
-Caso contrário
 
 ## Exercícios no BeeCrowd
 
