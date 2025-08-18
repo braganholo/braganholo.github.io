@@ -129,40 +129,45 @@ Note que na saída gerada pelo programa, há um espaço, após a igualdade, que 
 {: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
 |Data|Atividade
 |--
-| 15/06/2021 | Aula síncrona: [apresentação da disciplina](/material/prog1/Aula1-Apresentacao2021-1.pdf) 
-| 17/06/2021 | Aula assíncrona: [Histórico](https://youtu.be/DtQY0ggP1-E) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula02.pdf)
-| 22/06/2021 | Aula síncrona de dúvidas (9-11h)
-| 24/06/2021 | [Introdução à Programação](https://youtu.be/X6XOoLw5QMU) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula03.pdf)
-| 29/06/2021 | Aula síncrona de dúvidas (9-11h)
-| 01/07/2021 | Aula assíncrona: [Organização de Programas em Python](https://youtu.be/-4hj9DIebyE) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula04.pdf)
-| 06/07/2021 | Aula síncrona de dúvidas (9-11h)
-| 08/07/2021 | Aula assíncrona: [Operadores](https://youtu.be/gF4ygMN4RPQ) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula05.pdf) 
-| 13/07/2021 | Aula síncrona de dúvidas (9-11h)
-| 15/07/2021 | [Estruturas de Decisão](https://youtu.be/a7cUgpdNgZk) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula06.pdf)
-| 20/07/2021 | Aula síncrona de dúvidas (9-11h)
-| 22/07/2021 | Aula assíncrona: [Estruturas de Repetição](https://youtu.be/iPcGXoXQFPw) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula07.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
-| 27/07/2021 | Aula síncrona de dúvidas (9-11h)
-| 29/07/2021 | Aula assíncrona: [Manipulação de Strings](https://youtu.be/GPRPPnnIoVQ) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula08.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
-| 03/08/2021 | Aula síncrona de dúvidas (9-11h)
-| 05/08/2021 | Aula assíncrona: [Vetores](https://youtu.be/5k06RtunM64) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula09.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
-| 10/08/2021 | Aula síncrona de dúvidas (9-11h)
-| 12/08/2021 | Aula assíncrona: [Manipulação de Listas](https://youtu.be/NrlaO-rVs5A) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula10.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
-| 17/08/2021 | Aula síncrona de dúvidas (9-11h)
-| 19/08/2021 | **Avaliação** no [Run.Codes](https://run.codes/)
-| 24/08/2021 | Aula síncrona de dúvidas (9-11h)
-| 26/08/2021 | Aula assíncrona: [Matrizes](https://youtu.be/Zp4Dn4qISvo) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula11.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
-| 31/08/2021 | Aula síncrona de dúvidas (9-11h)
-| 02/09/2021 | Aula assíncrona: [Subprogramação](https://youtu.be/KTACSfJCSdM) [(slides)](http://www.ic.uff.br/~leomurta/courses/prog/aula12.pdf) + **Avaliação** no [Run.Codes](https://run.codes/)
-| 07/09/2021 | Sem aula - FERIADO
-| 09/09/2021 | **Avaliação** no [Run.Codes](https://run.codes/)
-| 14/09/2021 | Aula síncrona de dúvidas (9-11h)
-| 16/09/2021 | **Avaliação** no [Run.Codes](https://run.codes/)
+|28/08/2023| [Apresentação da disciplina](/material/prog1/01-Apresentacao-2023-2.pdf)<BR/>[Histórico](/material/prog1/02-Historico.pdf)
+|30/08/2023| [Introdução à Programação](/material/prog1/03-Introducao.pdf)
+|04/09/2023| **SEM AULA**
+|06/09/2023| [Organização de Programas Python](/material/prog1/04-Organizacao.pdf) (**slides atualizados em 25/09**)
+|11/09/2023| Aula no Laboratório
+|13/09/2023| [Operadores](/material/prog1/05-Operadores.pdf)<BR/>[Exercícios](/material/prog1/05-Exercicios.pdf) 
+|18/09/2023| Aula no Laboratório
+|20/09/2023| [Estruturas de Decisão](/material/prog1/06-Decisao.pdf)
+|25/09/2023| Aula no Laboratório
+|27/09/2023| [Estruturas de Repetição](/material/prog1/07-Repeticao.pdf)
+|02/10/2023| Aula no Laboratório
+|04/10/2023| [Manipulação de Strings](/material/prog1/08-Strings.pdf)
+|09/10/2023| Revisão para a Prova
+|11/10/2023| **PROVA 1**
+|16/10/2023| **SEM AULA - AGENDA ACADÊMICA**
+|18/10/2023| **SEM AULA - AGENDA ACADÊMICA**
+|23/10/2023| [Vetores](/material/prog1/09-Vetores.pdf)
+|25/10/2023| VISTA DE PROVA (Presença Opcional)
+|30/10/2023| Aula no Laboratório
+|01/11/2023| [Manipulação de Listas](/material/prog1/10-Listas.pdf)
+|06/11/2023| Aula no Laboratório
+|08/11/2023| [Matrizes](/material/prog1/11-Matrizes.pdf)
+|13/11/2023| AULA CANCELADA por motivos de saúde - fazer os exercícios do BeeCrowd sobre matrizes
+|15/11/2023| **SEM AULA - FERIADO**
+|20/11/2023| **SEM AULA - FERIADO**
+|22/11/2023| [Subprogramação](/material/prog1/12-Subprogramacao.pdf)
+|27/11/2023| Aula no Laboratório
+|29/11/2023| **PROVA 2**
+|04/12/2023| **SEGUNDA CHAMADA**
+|06/12/2023| **SEM AULA**
+|11/12/2023| VISTA DE P2 e SEGUNDA CHAMADA (sala 521)
+|13/12/2023| **VS**
+|18/12/2023| VISTA DE VS (sala 521)
 -->
 
 {: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
 |Data|Atividade
 |--
-|19/08/2025| AULA
+|19/08/2025| Apresentação da disciplina](/material/prog1/Aula1-Apresentacao2025.2.pdf)
 |21/08/2025| AULA
 |26/08/2025| AULA
 |28/08/2025| AULA
