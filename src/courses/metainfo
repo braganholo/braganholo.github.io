@@ -165,3 +165,9 @@
   proxy_path: bd.html
   in_menu: true
   sort_info: 73
+
+2026.1/:
+  title: 2026.1
+  proxy_path: eda.html
+  in_menu: true
+  sort_info: 72
