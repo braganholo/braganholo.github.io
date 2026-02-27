@@ -34,7 +34,7 @@ P1 = Prova sem consulta
 
 P2 = Prova sem consulta
 
-T = Média das notas dos trabalhos de implementação -- todos com correção via [RunCodes](https://run.codes/) 
+T = Média das notas dos trabalhos de implementação -- todos com correção via [GitHub Classroom](https://classroom.github.com/classrooms/)
 
 $$ Média = \frac{(P1 \times 2) + (P2 \times 2) + T }{5} $$
 
