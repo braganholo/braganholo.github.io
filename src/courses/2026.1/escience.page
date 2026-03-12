@@ -68,14 +68,17 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 : &nbsp;
 : APRESENTADOR: --
 : DEBATEDOR: --
+: &nbsp;
 
 - Ferramenta: [noWorkflow](http://gems-uff.github.io/noworkflow/)
 : &nbsp;
 : DEMONSTRADOR: --
+: &nbsp;
 
 - Ferramenta: [YesWorkflow](https://github.com/yesworkflow-org/yw-prototypes)
 : &nbsp;
 : DEMONSTRADOR: --
+: &nbsp;
 
 <a name="L2">**2a. Leitura:**</a>
 
@@ -83,21 +86,23 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 : &nbsp;
 : APRESENTADOR: --
 : DEBATEDOR: --
+: &nbsp;
 
 - Namaki, M., Floratou, A., Psallidas, F., Krishnan, S., Agrawal, A., Wu, Y., Zhu, Y., Weimer, M. [Vamsa: Automated Provenance Tracking in Data Science Scripts](https://dl.acm.org/doi/abs/10.1145/3394486.3403205). In: SIGKDD, 2020. 
 : &nbsp;
 : APRESENTADOR: --
 : DEBATEDOR: --
-
+: &nbsp;
 
 - Ferramenta: [Sumatra](https://pythonhosted.org/Sumatra/)
 : &nbsp;
 : DEMONSTRADOR: --
+: &nbsp;
 
 - Ferramenta: [VisTrails](https://www.vistrails.org/index.php/Main_Page)
 : &nbsp;
 : DEMONSTRADOR: --
-
+: &nbsp;
 
 <a name="L3">**3a. Leitura:**</a>
 
@@ -105,19 +110,23 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 : &nbsp;
 : APRESENTADOR: --
 : DEBATEDOR: --
+: &nbsp;
 
 - Schlegel, M., Sattler, K-U. [Capturing end-to-end provenance for machine learning pipelines](https://www.sciencedirect.com/science/article/pii/S0306437924001534). Information Systems, v. 132, 2025.
 : &nbsp;
 : APRESENTADOR: --
 : DEBATEDOR: --
+: &nbsp;
 
 - Ferramenta: [DLProv](https://github.com/dbpina/dlprov)
 : &nbsp;
 : DEMONSTRADOR: --
+: &nbsp;
 
 - Ferramenta: [MLFlow2Prov](https://github.com/mariusschlegel/mlflow2prov)
 : &nbsp;
 : DEMONSTRADOR: --
+: &nbsp;
 
 <a name="L4">**4a. Leitura:**</a>
 
@@ -125,14 +134,17 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 : &nbsp;
 : APRESENTADOR: --
 : DEBATEDOR: --
+: &nbsp;
 
 - Ferramenta: [ProvBuild](https://github.com/jingmeihu/ProvBuild)
 : &nbsp;
 : DEMONSTRADOR: --
+: &nbsp;
 
 - Ferramenta: [Prov-Viewer](https://github.com/gems-uff/prov-viewer). Há um artigo que explica a ferramenta Prov-Viewer: Kohwalter, T., Oliveira, T., Freire, J., Clua, E., Murta, L. [Prov Viewer: A Graph-Based Visualization Tool for Interactive Exploration of Provenance Data](https://link.springer.com/chapter/10.1007/978-3-319-40593-3_6). In: IPAW, 2016.
 : &nbsp;
 : DEMONSTRADOR: --
+: &nbsp;
 
 <a name="L5">**5a. Leitura:**</a>
 
@@ -140,14 +152,17 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 : &nbsp;
 : APRESENTADOR: --
 : DEBATEDOR: -- 
+: &nbsp;
 
 - Ferramenta: [ReproduceMeGit](https://github.com/fusion-jena/ReproduceMeGit). Há um artigo que explica a ferramenta ReproduçãoeMeGit: Samuel, S., König-Ries, B. [ReproduceMeGit: A Visualization Tool for Analyzing Reproducibility of Jupyter Notebooks](https://www.researchgate.net/publication/353083181_ReproduceMeGit_A_Visualization_Tool_for_Analyzing_Reproducibility_of_Jupyter_Notebooks). In: IPAW, 2021.
 : &nbsp;
 : DEMONSTRADOR: --
+: &nbsp;
 
 - Ferramenta: [ProvToolbox](https://lucmoreau.github.io/ProvToolbox/)
 : &nbsp;
 : DEMONSTRADOR: --
+: &nbsp;
 
 <a name="L6">**6a. Leitura:**</a>
 
@@ -155,10 +170,12 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 : &nbsp;
 : APRESENTADOR: --
 : DEBATEDOR: --
+: &nbsp;
 
 - Ferramenta: [Reprozip](https://www.reprozip.org/) 
 : &nbsp;
 : DEMONSTRADOR: --
+: &nbsp;
 
 <a name="L7">**7a. Leitura:**</a>
 
@@ -166,10 +183,12 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 : &nbsp;
 : APRESENTADOR: --
 : DEBATEDOR: --
+: &nbsp;
 
 - Ferramenta: [Julynter](https://github.com/dew-uff/julynter)
 : &nbsp;
 : DEMONSTRADOR: --
+: &nbsp;
 
 <a name="L7">**8a. Leitura:**</a>
 
@@ -177,10 +196,12 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 : &nbsp;
 : APRESENTADOR: --
 : DEBATEDOR: --
+: &nbsp;
 
 - Ferramenta: [Loops](https://github.com/jku-vds-lab/loops/)
 : &nbsp;
 : DEMONSTRADOR: --
+: &nbsp;
 
 ## Trabalho
 
