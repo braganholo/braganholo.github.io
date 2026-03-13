@@ -7,8 +7,8 @@ sort_info: 2
 
 <BR/>
 
-Grupo da disciplina: usaremos o [Google Classroom](https://classroom.google.com/) para as discussões da disciplina. Essa turma no Google Classroom será usada também para divulgar avisos gerais. <BR/>
-IMPORTANTE: todos os alunos já receberam convite para ingressar na turma do Google Classroom,  caso você não tenha recebido, entre em contato com a professora.
+Grupo da disciplina: usaremos o [Google Classroom](https://classroom.google.com/) para as discussões. Essa turma no Google Classroom também será usada para divulgar avisos gerais. <BR/>
+IMPORTANTE: todos os alunos já receberam convite para ingressar na turma do Google Classroom;  caso você não tenha recebido, entre em contato com a professora.
 
 ## Avaliação
 
@@ -16,9 +16,7 @@ IMPORTANTE: todos os alunos já receberam convite para ingressar na turma do Goo
 (Aluno de Graduação) Média = (2 x Trabalho + Seminários) / 3
 
 **APROVADO**:<BR/> 
-(Aluno de Pós) E (Presença >= 75%) E (Média >= 6)<BR/>
-(Aluno de Graduação) E (Presença >= 75%) E (Média >= 6)
-
+(Presença >= 75%) E (Média >= 6)
 
 **VERIFICAÇÃO SUPLEMENTAR**: <BR/>
 (Aluno de Graduação) E (Presença >= 75%) E (4 <= Média < 6)
@@ -30,7 +28,7 @@ Será aprovado na VS o aluno que tirar nota maior ou igual a 6.
 
 ## Grupos
  
-As atividades relativas aos Trabalhos e Seminários da disciplina (apresentação e debate de artigos) serão feitas individualmente para alunos de doutorado, em dupla para alunos de mestrado, e em trios para alunos de graduação. Os grupos devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Apesar das atividades serem em grupo, a avaliação será individual. Coloquem um comentário no post do Classroom com os nomes dos componentes do seu grupo. Para critérios de avaliação, alunos avulsos são considerados da mesma forma que alunos de mestrado. 
+As atividades relativas aos Trabalhos e Seminários da disciplina (apresentação e debate de artigos) serão feitas individualmente para alunos de doutorado, em dupla para alunos de mestrado, e em trios para alunos de graduação. Os grupos devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Apesar das atividades serem em grupo, a avaliação será individual. Coloquem um comentário no post do Classroom com os nomes dos componentes do seu grupo. Para fins de avaliação, alunos avulsos são considerados da mesma forma que os alunos de mestrado. 
 
 ## Seminários
 
@@ -42,19 +40,19 @@ Algumas aulas do curso (ver seção Cronograma) consistem na apresentação e di
 
 A apresentação pode e deve incluir material extra, que não seja do artigo lido. 
 
-Os debates devem levantar questões de discussão com a turma, tentando ligar o conteúdo do artigo com o conteúdo da disciplina. O grupo debatedor deve trazer questionamentos e instigar a participação da turma na discussão. A avaliação desse item levará em consideração a profundidade das questões levantadas, qualidade das discussões, e intensidade de interação de cada aluno nas discussões. 
+Os debates devem levantar questões de discussão com a turma, tentando ligar o conteúdo do artigo ao conteúdo da disciplina. O grupo debatedor deve apresentar questionamentos e incentivar a participação da turma na discussão. A avaliação desse item levará em consideração a profundidade das questões levantadas, a qualidade das discussões, e a intensidade de interação de cada aluno nas discussões. 
 
-Haverá também aulas práticas com tarefas a serem entregues, e as notas dessas tarefas também serão computadas no item Seminários. 
+Haverá também aulas práticas com tarefas a serem entregues, e as notas dessas tarefas serão computadas no item Seminários. 
 
 ### Alunos de Graduação 
 
-Alunos de graduação, ao invés de atuarem como debatedores e apresentadores de artigos, atuarão como demonstradores de ferramentas se relacionam com o tema da leitura do dia. A função do grupo demonstrador é entregar um manual passo a passo de instalação da ferramenta (via atividade no Google Classroom). Além disso, o grupo demonstrador deve fazer uma demonstração da ferramenta durante a aula, usando para isso um exemplo de uso que deve ser explicado passo a passo. O grupo deve explicar a relação entre a ferramenta e o conteúdo da disciplina (aulas e seminários). Em alguns casos, a ferramenta exige versões específicas de sistema operacional ou outros softwares. Nesse caso, recomendo o uso de uma máquina Virtual.  
+Alunos de graduação, em vez de atuarem como debatedores e apresentadores de artigos, atuarão como demonstradores de ferramentas que se relacionam com o tema da leitura do dia. A função do grupo demonstrador é entregar um manual passo a passo de instalação da ferramenta (por meio de uma atividade no Google Classroom). Além disso, o grupo demonstrador deve realizar uma demonstração da ferramenta durante a aula, utilizando um exemplo a ser explicado passo a passo. O grupo deve explicar a relação entre a ferramenta e o conteúdo da disciplina (aulas e seminários). Em alguns casos, a ferramenta exige versões específicas de sistema operacional ou outros softwares. Nesse caso, recomendo o uso de uma máquina virtual.  
 
-Haverá também aulas práticas com tarefas a serem entregues, e as notas dessas tarefas também serão computadas no item Seminários. 
+Haverá também aulas práticas com tarefas a serem entregues, e as notas dessas tarefas serão computadas no item Seminários. 
 
 ## Leituras
 
-Os PDFs de todas as leituras estão disponíveis no Google Classroom da disciplina, caso não seja possível encontrá-los gratuitamente nos links fornecidos abaixo. Note que vários desses links só permitem que vc obtenha o PDF do artigo se você estiver dentro da rede da UFF. 
+Os PDFs de todas as leituras podem ser disponibilizados pela professora no Google Classroom caso não seja possível obtê-los gratuitamente pelos links fornecidos abaixo (nesse caso, entre em contato). Note que vários desses links só permitem que você obtenha o PDF do artigo se estiver na rede da UFF. 
 
 <a name="L1">**1a. Leitura:**</a> 
 
@@ -154,7 +152,7 @@ Os PDFs de todas as leituras estão disponíveis no Google Classroom da discipli
 : DEBATEDOR: -- 
 : &nbsp;
 
-- Ferramenta: [ReproduceMeGit](https://github.com/fusion-jena/ReproduceMeGit). Há um artigo que explica a ferramenta ReproduçãoeMeGit: Samuel, S., König-Ries, B. [ReproduceMeGit: A Visualization Tool for Analyzing Reproducibility of Jupyter Notebooks](https://www.researchgate.net/publication/353083181_ReproduceMeGit_A_Visualization_Tool_for_Analyzing_Reproducibility_of_Jupyter_Notebooks). In: IPAW, 2021.
+- Ferramenta: [ReproduceMeGit](https://github.com/fusion-jena/ReproduceMeGit). Há um artigo que explica a ferramenta ReproduceMeGit: Samuel, S., König-Ries, B. [ReproduceMeGit: A Visualization Tool for Analyzing Reproducibility of Jupyter Notebooks](https://www.researchgate.net/publication/353083181_ReproduceMeGit_A_Visualization_Tool_for_Analyzing_Reproducibility_of_Jupyter_Notebooks). In: IPAW, 2021.
 : &nbsp;
 : DEMONSTRADOR: --
 : &nbsp;
@@ -209,27 +207,27 @@ Cada grupo deve, durante as primeiras semanas de aula, escolher o tema do seu tr
 
 ### Alunos de Pós
 
-Como resultado do trabalho, espera-se a escrita de um artigo de 5 páginas no [formato da ACM](https://www.acm.org/publications/proceedings-template), apresentando a motivação e o objetivo do trabalho, trabalhos relacionados, resultados obtidos e considerações finais. Para trabalhos que tenham implementação (o que é fortemente recomendado), será menor a exigência sobre a análise de trabalhos relacionados. Por outro lado, espera-se que sejam fornecidos exemplos de utilização do protótipo implementado. Além disso, também é esperado um detalhamento das dificuldades encontradas e decisões tomadas. Em princípio, os artigos resultantes do trabalho serão utilizados somente para avaliação na disciplina, mas podem ser posteriormente aprimorados para submissão a fóruns científicos, caso seja de interesse do aluno e da professora. O trabalho deve ser entregue na data estipulada no Cronograma da disciplina.
+Como resultado do trabalho, espera-se a escrita de um artigo de 5 páginas no [formato da ACM](https://www.acm.org/publications/proceedings-template), apresentando a motivação e o objetivo do trabalho, trabalhos relacionados, resultados obtidos e considerações finais. Para trabalhos que tenham implementação (o que é fortemente recomendado), a exigência de análise de trabalhos relacionados será menor. Por outro lado, espera-se que sejam fornecidos exemplos de utilização do protótipo implementado. Além disso, espera-se um detalhamento das dificuldades encontradas e das decisões tomadas. Em princípio, os artigos resultantes do trabalho serão utilizados somente para avaliação na disciplina, mas podem ser posteriormente aprimorados para submissão a fóruns científicos, caso seja de interesse do aluno e da professora. O trabalho deve ser entregue na data estipulada no Cronograma da disciplina.
 
-Sugiro fortemente a leitura das [dicas para escrita de artigos científicos](http://www.ic.unicamp.br/~cmbm/tips/valduriez.pdf). Elas podem ajudar vocês a produzirem um trabalho de qualidade.
+Sugiro fortemente a leitura das [dicas para escrita de artigos científicos](http://www.ic.unicamp.br/~cmbm/tips/valduriez.pdf). Elas podem ajudar vocês a produzir um trabalho de qualidade.
 
 A entrega será feita através da submissão do artigo para a "mini-conferência" da disciplina, usando um software de controle de conferências real, o [Easy Chair](http://www.easychair.org). Para submeter seu artigo, [clique aqui](https://easychair.org/conferences/?conf=escienceuff20261).
 
-O trabalho será apresentado em três momentos distintos (ver seção Cronograma). O grupo poderá utilizar slides e quadro. Na primeira apresentação é esperado que o grupo discuta o contexto do trabalho, objetivo e o andamento atual do trabalho. Na segunda apresentação, é esperado que já exista algum resultado concreto. A terceira apresentação será a apresentação final, onde os grupos devem mostrar os resultados obtidos no trabalho. Encare essa apresentação como a apresentação de um artigo em conferência. Ela deve ter começo, meio e fim. Inclua: motivação, problema, objetivo, proposta de solução, resultados, conclusões.
+O trabalho será apresentado em três momentos distintos (ver seção Cronograma). O grupo poderá utilizar slides e quadro. Na primeira apresentação, é esperado que o grupo discuta o contexto do trabalho, o objetivo e o andamento atual do trabalho. Na segunda apresentação, espera-se que já haja algum resultado concreto. A terceira apresentação será a apresentação final, onde os grupos devem mostrar os resultados obtidos no trabalho. Encare essa apresentação como a de um artigo em conferência. Ela deve ter começo, meio e fim. Inclua: motivação, problema, objetivo, proposta de solução, resultados, conclusões.
 
 Trabalhos que não forem entregues e apresentados no prazo estipulado ficarão com nota ZERO.  
 
 ### Alunos de Graduação 
 
-O trabalho para alunos de graduação consistirá na implementação de algo relacionado aos temas da disciplina. É possível fazer análise de dados, infraestrutura de proveniência, automatizar um experimento científico com coleta de proveniência, entre outros. O tema deve ser combinado com a professora. 
+O trabalho para alunos de graduação consistirá na implementação de algo relacionado aos temas da disciplina. É possível realizar análise de dados, implementar infraestrutura de proveniência e automatizar um experimento científico com coleta de proveniência, entre outros. O tema deve ser combinado com a professora. 
 
-NÃO haverá entrega de artigo escrito sobre o trabalho. A entrega consistirá no link do repositório do GitHub contendo a implementação, e a apresentação final do trabalho será uma demonstração da implementação funcionando. 
+NÃO haverá entrega de artigo escrito sobre o trabalho. A entrega consistirá no link do repositório do GitHub com a implementação, e a apresentação final do trabalho será uma demonstração da implementação em funcionamento. 
 
 ## Avaliação de Artigos (apenas para alunos de Pós)
 
-Os artigos entregues por cada grupo serão [submetidos através do Easy Chair](https://easychair.org). Na disciplina, simularemos uma conferência real, onde autores submetem artigos e os artigos são avaliados pelo Comitê de Programa da conferência. Os alunos da disciplina farão parte do comitê de programa, e consequentemente receberão artigos dos colegas para avaliar. As avaliações serão consideradas na nota do aluno que fez a avaliação (item Avaliação de Artigos), mas não serão consideradas na nota do grupo que submeteu o artigo (para que as avaliações sejam sérias, sem preocupação em prejudicar a nota do colega). As avaliações são individuais e anônimas (apenas eu saberei quem avaliou qual artigo).   
+Os artigos entregues por cada grupo serão [submetidos através do EasyChair](https://easychair.org). Na disciplina, simularemos uma conferência real, onde autores submetem artigos e os artigos são avaliados pelo Comitê de Programa da conferência. Os alunos da disciplina farão parte do comitê de programa e, consequentemente, receberão artigos dos colegas para avaliar. As avaliações serão consideradas na nota do aluno que as fez (item Avaliação de Artigos), mas não serão consideradas na nota do grupo que submeteu o artigo (para que as avaliações sejam sérias, sem preocupação em prejudicar a nota do colega). As avaliações são individuais e anônimas (apenas eu saberei quem avaliou qual artigo).   
 
-Para avaliar os artigos que foram atribuídos a você, faça login no [EasyChair](https://easychair.org/conferences/?conf=escienceuff20261). Escolha entrar com o papel de **reviewer** ao invés de **author**. Depois, acesse o menu Reviews, e clique em My Papers. Lá aparecerão os artigos que foram atribuídos para você avaliar.  
+Para avaliar os artigos que foram atribuídos a você, faça login no [EasyChair](https://easychair.org/conferences/?conf=escienceuff20261). Escolha entrar com o papel de **reviewer** em vez de **author**. Depois, acesse o menu Reviews, e clique em My Papers. Lá aparecerão os artigos que foram atribuídos para você avaliar.  
 
 ## Presença
 
@@ -239,9 +237,7 @@ De acordo com o [Regulamento dos Cursos de Graduação](http://www.uff.br/sites/
 
 ### Regulamento da Pós-Graduação  em relação a faltas
 
-De acordo com o [Regulamento do PGC](http://www.ic.uff.br/images/documentos/pos_graduacao/regras_e_procedimentos/regulamentos/RegPGNovo.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 20). Caso essa freqüência não
-seja atingida, o aluno será considerado reprovado na disciplina e lhe será atribuído o
-grau 0,0 (zero). 
+De acordo com o [Regulamento do PGC](http://www.ic.uff.br/images/documentos/pos_graduacao/regras_e_procedimentos/regulamentos/RegPGNovo.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 20). Caso essa frequência não seja atingida, o aluno será considerado reprovado na disciplina e lhe será atribuído o grau 0,0 (zero). 
 
 ## Cartilha sobre Plágio Acadêmico 
 
@@ -260,9 +256,9 @@ A UFF disponibilizar uma [cartilha sobre uso de IA generativa](https://gtia.uff.
 
 - HERSCHEL, M.; DIESTELKAMPER, R.; LAHMAR, H. [A survey on provenance: What for? What form? What from?](https://link.springer.com/article/10.1007/s00778-017-0486-1). The VLDB Journal, 2017. 
 
-- MARINHO, A. ; MURTA, L. ; WERNER, C. ; BRAGANHOLO, V. ; CRUZ, S. ; OGASAARA, E. ; MATTOSO, M. [ProvManager: a provenance management system for scientific workflows](http://onlinelibrary.wiley.com/doi/10.1002/cpe.1870/abstract). Concurrency and Computation, v. 24, p. 1513-1530, 2012.
+- MARINHO, A.; MURTA, L.; WERNER, C.; BRAGANHOLO, V.; CRUZ, S.; OGASAARA, E.; MATTOSO, M. [ProvManager: a provenance management system for scientific workflows](http://onlinelibrary.wiley.com/doi/10.1002/cpe.1870/abstract). Concurrency and Computation, v. 24, p. 1513-1530, 2012.
 
-- MATTOSO, M. L. Q. ; WERNER, C. M. L. ; TRAVASSOS, G. H. ; BRAGANHOLO, V. ; MURTA, L. G. P. ; OGASAWARA, E. ; OLIVEIRA, D. ; CRUZ, S. ; MARTINHO, W. . [Towards Supporting the Life Cycle of Large Scale Scientific Experiments](http://www.inderscienceonline.com/doi/abs/10.1504/IJBPIM.2010.033176). International Journal of Business Process Integration and Management (Print), v. 5, p. 79-92, 2010
+- MATTOSO, M. L. Q.; WERNER, C. M. L.; TRAVASSOS, G. H.; BRAGANHOLO, V.; MURTA, L. G. P.; OGASAWARA, E.; OLIVEIRA, D.; CRUZ, S.; MARTINHO, W. [Towards Supporting the Life Cycle of Large Scale Scientific Experiments](http://www.inderscienceonline.com/doi/abs/10.1504/IJBPIM.2010.033176). International Journal of Business Process Integration and Management (Print), v. 5, p. 79-92, 2010
 
 - MISSIER, P., DEY, S., BELHAJJME, K., CUEVAS-VICENTTIN, V., LUDASCHER, B.: [D-PROV: Extending the PROV Provenance Model with Workflow Structure](https://www.usenix.org/conference/tapp13/technical-sessions/presentation/missier). In: TaPP (2013). 
 
