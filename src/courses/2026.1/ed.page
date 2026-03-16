@@ -97,17 +97,32 @@ Ramakrishnan, R. Database Management Systems, McGraw Hill, Third Edition, 2003.
 
 ### IDE
 
-Para programação em C, recomendo o [CLion](https://www.jetbrains.com/clion/?fromMenu). É possível solicitar uma licença grátis para estudante no site da [Jetbrains](https://www.jetbrains.com/student/).
+Você pode usar a IDE que preferir para programar em C. Boas opções são: 
 
-O [Visual Studio Code](https://code.visualstudio.com/download) também é uma excelente opção. 
+- [VS Code](https://code.visualstudio.com/download) 
+
+- [CLion](https://www.jetbrains.com/clion/?fromMenu). É possível solicitar uma licença grátis para estudante no site da [Jetbrains](https://www.jetbrains.com/student/).
+
+Seja qual IDE você escolher, certifique-se de desabilitar a IA, de modo que você consiga programar sem ajuda. 
+
+- Para saber como fazer isso no VS Code, veja o item ["Disable AI features for a workspace" no final desse link](https://code.visualstudio.com/docs/copilot/setup)
+
 
 ### Compilador C
 
 O CLion exige um compilador externo. Recomendo o GCC. 
 
-* Para Windows, o há uma implementação do GCC chamada [MinGW](https://sourceforge.net/projects/mingw/)
+* Para Windows, há uma implementação do GCC chamada [MinGW](https://sourceforge.net/projects/mingw/)
 
 * Para Linux e Mac, o GCC pode ser instalado usando o gerenciador de pacotes do seu sistema operacional (normalmente o apt-get para Linux e [homebrew](https://brew.sh/) para Mac). 
+
+Para compilar seu programa via terminal no linux, compile usando o gcc e depois execute o programa. Abaixo está um exemplo que compila o arquivo lista-encadeada.c e executa o programa correspondente.
+
+
+```
+$ gcc -o lista-encadeada lista-encadeada.c
+$ ./lista-encadeada
+```
 
 ### Visualização de conteúdo de memória
 
@@ -117,7 +132,7 @@ Se você gosta de ver o que está ocorrendo na memória durante a execução do 
 
 Para ajudar na identificação de memory leak, vocês podem usar as seguintes ferramentas: 
 
-* [Dr. Memory](http://drmemory.org/docs/index.html) (funciona em todas as plataformas)
+* [Dr. Memory](https://drmemory.org/) (funciona em todas as plataformas)
 
 * [Valgrind](http://valgrind.org/) (específico para Linux)
 
