@@ -82,8 +82,8 @@ Os PDFs de todas as leituras podem ser disponibilizados pela professora no Googl
 
 - Rupprecht, L., Davis, J., Arnold, C., Gur, Y., Bhagwat, D. [Improving Reproducibility of Data Science Pipelines through Transparent Provenance Capture](https://vldb.org/pvldb/vol13/p3354-rupprecht.pdf). PVLDB v.13(12), 2020.
 : &nbsp;
-: APRESENTADOR: --
-: DEBATEDOR: --
+: APRESENTADOR: M1
+: DEBATEDOR: D1
 : &nbsp;
 
 - Namaki, M., Floratou, A., Psallidas, F., Krishnan, S., Agrawal, A., Wu, Y., Zhu, Y., Weimer, M. [Vamsa: Automated Provenance Tracking in Data Science Scripts](https://dl.acm.org/doi/abs/10.1145/3394486.3403205). In: SIGKDD, 2020. 
@@ -113,7 +113,7 @@ Os PDFs de todas as leituras podem ser disponibilizados pela professora no Googl
 - Schlegel, M., Sattler, K-U. [Capturing end-to-end provenance for machine learning pipelines](https://www.sciencedirect.com/science/article/pii/S0306437924001534). Information Systems, v. 132, 2025.
 : &nbsp;
 : APRESENTADOR: --
-: DEBATEDOR: --
+: DEBATEDOR: D4
 : &nbsp;
 
 - Ferramenta: [DLProv](https://github.com/dbpina/dlprov)
@@ -130,8 +130,8 @@ Os PDFs de todas as leituras podem ser disponibilizados pela professora no Googl
 
 - Hu, J., Joung, J., Jacobs, M., Gajos, K., Seltzer, M. [Improving Data Scientist Efficiency with Provenance](https://dl.acm.org/doi/10.1145/3377811.3380366). In: ICSE, 2020.
 : &nbsp;
-: APRESENTADOR: --
-: DEBATEDOR: --
+: APRESENTADOR: D4
+: DEBATEDOR: D3
 : &nbsp;
 
 - Ferramenta: [ProvBuild](https://github.com/jingmeihu/ProvBuild)
@@ -149,7 +149,7 @@ Os PDFs de todas as leituras podem ser disponibilizados pela professora no Googl
 - Samuel, S., König-Ries, B. [Understanding experiments and research practices for reproducibility: na exploratory study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8067906/). PeerJ, April, 2021.
 : &nbsp;
 : APRESENTADOR: --
-: DEBATEDOR: -- 
+: DEBATEDOR: M1 
 : &nbsp;
 
 - Ferramenta: [ReproduceMeGit](https://github.com/fusion-jena/ReproduceMeGit). Há um artigo que explica a ferramenta ReproduceMeGit: Samuel, S., König-Ries, B. [ReproduceMeGit: A Visualization Tool for Analyzing Reproducibility of Jupyter Notebooks](https://www.researchgate.net/publication/353083181_ReproduceMeGit_A_Visualization_Tool_for_Analyzing_Reproducibility_of_Jupyter_Notebooks). In: IPAW, 2021.
@@ -179,7 +179,7 @@ Os PDFs de todas as leituras podem ser disponibilizados pela professora no Googl
 
 - Pimentel, J.F., Murta, L., Braganholo, V., Freire, J. [A large-scale study about quality and reproducibility of Jupyter notebooks](https://ieeexplore.ieee.org/document/8816763). In MSR 2019: 507-517
 : &nbsp;
-: APRESENTADOR: --
+: APRESENTADOR: D2
 : DEBATEDOR: --
 : &nbsp;
 
@@ -192,7 +192,7 @@ Os PDFs de todas as leituras podem ser disponibilizados pela professora no Googl
 
 - Huang, R., Ravi, S., He, M., Tian, B., Lerner, S., Coblenz, M. [How Scientists Use Jupyter Notebooks: Goals, Quality Attributes, and Opportunities](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a768/251mHC1k61W). In ICSE 2025: 768-768
 : &nbsp;
-: APRESENTADOR: --
+: APRESENTADOR: D3
 : DEBATEDOR: --
 : &nbsp;
 
@@ -314,17 +314,15 @@ A UFF disponibilizar uma [cartilha sobre uso de IA generativa](https://gtia.uff.
 {: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
 |Data|Atividade
 |--
-|10/03/2026| [Apresentação da Disciplina]((/material/escience/01-Apresentacao-2026-1.pdf))
-|12/03/2026| AULA
-|17/03/2026| AULA
-|19/03/2026| AULA
+|17/03/2026| [Apresentação da Disciplina]((/material/escience/01-Apresentacao-2026-1.pdf))
+|19/03/2026| [Método Científico e Experimentos Científicos](/material/escience/02-ScientificMethod.pdf)
 |24/03/2026| **SEM AULA - [EDBT](https://edbticdt2026.github.io/)**
 |26/03/2026| **SEM AULA - [EDBT](https://edbticdt2026.github.io/)**
 |31/03/2026| AULA
 |02/04/2026| AULA
-|07/04/2026| **1a. Leitura**
-|09/04/2026| **2a. Leitura**
-|14/04/2026| AULA
+|07/04/2026| AULA 
+|09/04/2026| **1a. Leitura**
+|14/04/2026| **2a. Leitura**
 |16/04/2026| **3a. Leitura**
 |21/04/2026| **FERIADO**
 |23/04/2026| **FERIADO**
