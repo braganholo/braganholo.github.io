@@ -10,7 +10,7 @@ courses/:
   sort_info: 3
 
 students/:
-  title: Students
+  title: People
   proxy_path: current.html
   in_menu: true
   sort_info: 4
