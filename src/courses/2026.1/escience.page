@@ -82,14 +82,14 @@ Os PDFs de todas as leituras podem ser disponibilizados pela professora no Googl
 
 - Rupprecht, L., Davis, J., Arnold, C., Gur, Y., Bhagwat, D. [Improving Reproducibility of Data Science Pipelines through Transparent Provenance Capture](https://vldb.org/pvldb/vol13/p3354-rupprecht.pdf). PVLDB v.13(12), 2020.
 : &nbsp;
-: APRESENTADOR: --
+: APRESENTADOR: M6
 : DEBATEDOR: D1
 : &nbsp;
 
 - Namaki, M., Floratou, A., Psallidas, F., Krishnan, S., Agrawal, A., Wu, Y., Zhu, Y., Weimer, M. [Vamsa: Automated Provenance Tracking in Data Science Scripts](https://dl.acm.org/doi/abs/10.1145/3394486.3403205). In: SIGKDD, 2020. 
 : &nbsp;
 : APRESENTADOR: --
-: DEBATEDOR: --
+: DEBATEDOR: M6
 : &nbsp;
 
 - Ferramenta: [Sumatra](https://pythonhosted.org/Sumatra/)
