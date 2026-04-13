@@ -56,27 +56,8 @@ Os PDFs de todas as leituras podem ser disponibilizados pela professora no Googl
 
 <a name="L1">**1a. Leitura:**</a> 
 
-- Murta, L., Braganholo, V., Chirigati, F., Koop, D., Freire, J. [noWorkflow: Capturing and Analyzing Provenance of Scripts](https://github.com/gems-uff/noworkflow/raw/master/docs/ipaw2014.pdf). In: IPAW, 2014.
-: &nbsp;
-: APRESENTADOR: M2
-: DEBATEDOR: --
-: &nbsp;
+CANCELADA. Os artigos dessa leitura foram movidos para outras datas. 
 
-- McPhillips, T. et al.. [YesWorkflow: A User-Oriented, Language-Independent Tool for Recovering Workflow Information from Scripts](http://ijdc.net/index.php/ijdc/article/view/10.1.298). International Journal of Digital Curation, v. 10(1), 2015. 
-: &nbsp;
-: APRESENTADOR: M1
-: DEBATEDOR: M2
-: &nbsp;
-
-- Ferramenta: [noWorkflow](http://gems-uff.github.io/noworkflow/)
-: &nbsp;
-: DEMONSTRADOR: G4
-: &nbsp;
-
-- Ferramenta: [YesWorkflow](https://github.com/yesworkflow-org/yw-prototypes)
-: &nbsp;
-: DEMONSTRADOR: G1
-: &nbsp;
 
 <a name="L2">**2a. Leitura:**</a>
 
@@ -84,6 +65,12 @@ Os PDFs de todas as leituras podem ser disponibilizados pela professora no Googl
 : &nbsp;
 : APRESENTADOR: M6
 : DEBATEDOR: D1
+: &nbsp;
+
+- Murta, L., Braganholo, V., Chirigati, F., Koop, D., Freire, J. [noWorkflow: Capturing and Analyzing Provenance of Scripts](https://github.com/gems-uff/noworkflow/raw/master/docs/ipaw2014.pdf). In: IPAW, 2014.
+: &nbsp;
+: APRESENTADOR: M2
+: DEBATEDOR: --
 : &nbsp;
 
 - Namaki, M., Floratou, A., Psallidas, F., Krishnan, S., Agrawal, A., Wu, Y., Zhu, Y., Weimer, M. [Vamsa: Automated Provenance Tracking in Data Science Scripts](https://dl.acm.org/doi/abs/10.1145/3394486.3403205). In: SIGKDD, 2020. 
@@ -100,6 +87,11 @@ Os PDFs de todas as leituras podem ser disponibilizados pela professora no Googl
 - Ferramenta: [VisTrails](https://www.vistrails.org/index.php/Main_Page)
 : &nbsp;
 : DEMONSTRADOR: --
+: &nbsp;
+
+- Ferramenta: [noWorkflow](http://gems-uff.github.io/noworkflow/)
+: &nbsp;
+: DEMONSTRADOR: G4
 : &nbsp;
 
 <a name="L3">**3a. Leitura:**</a>
@@ -152,6 +144,12 @@ Os PDFs de todas as leituras podem ser disponibilizados pela professora no Googl
 : DEBATEDOR: M1 
 : &nbsp;
 
+- McPhillips, T. et al.. [YesWorkflow: A User-Oriented, Language-Independent Tool for Recovering Workflow Information from Scripts](http://ijdc.net/index.php/ijdc/article/view/10.1.298). International Journal of Digital Curation, v. 10(1), 2015. 
+: &nbsp;
+: APRESENTADOR: M1
+: DEBATEDOR: M2
+: &nbsp;
+
 - Ferramenta: [ReproduceMeGit](https://github.com/fusion-jena/ReproduceMeGit). Há um artigo que explica a ferramenta ReproduceMeGit: Samuel, S., König-Ries, B. [ReproduceMeGit: A Visualization Tool for Analyzing Reproducibility of Jupyter Notebooks](https://www.researchgate.net/publication/353083181_ReproduceMeGit_A_Visualization_Tool_for_Analyzing_Reproducibility_of_Jupyter_Notebooks). In: IPAW, 2021.
 : &nbsp;
 : DEMONSTRADOR: G3
@@ -160,6 +158,11 @@ Os PDFs de todas as leituras podem ser disponibilizados pela professora no Googl
 - Ferramenta: [ProvToolbox](https://lucmoreau.github.io/ProvToolbox/)
 : &nbsp;
 : DEMONSTRADOR: --
+: &nbsp;
+
+- Ferramenta: [YesWorkflow](https://github.com/yesworkflow-org/yw-prototypes)
+: &nbsp;
+: DEMONSTRADOR: G1
 : &nbsp;
 
 <a name="L6">**6a. Leitura:**</a>
