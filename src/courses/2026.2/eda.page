@@ -1,0 +1,219 @@
+---
+title: EDA 
+in_menu: true
+sort_info: 2
+---
+# Estruturas de Dados
+
+<BR/>
+Horário: terças e quintas de 11:00 às 13:00
+
+Sala de aula virtual da disciplina: usaremos o [Google Classroom](http://classroom.google.com/) para as discussões e avisos. A sala de aula no Google Classroom será usada também para divulgar avisos gerais e para dúvidas. <BR/>
+
+## Monitoria
+
+Monitor: Luiz Eduardo Pereira de Oliveira e Eric Maia Dias
+
+Horários e local de atendimento: consulte a [página da monitoria](http://profs.ic.uff.br/~troy/Tutoring/editais.html) e selecione o ano no menu.
+
+## Ementa
+
+- Árvores binárias, binárias de busca e AVL;
+- Grafos;
+- Arquivos; 
+- Ordenação externa de arquivos;
+- Árvores B e B+ (em memória principal e secundária);
+- Tabelas hash (ou de dispersão) (em memória principal e secundária);
+- Listas de prioridade (ou heaps) (em memória principal e secundária); 
+
+## Avaliação
+
+A avaliação da disciplina é composta de duas provas (P1 e P2). A média será calculada da seguinte forma: 
+
+$$ Média = \frac{(P1 + P2)}{2} $$
+
+Obs.: Nenhum aluno poderá sair da sala nos primeiros 30 minutos de prova. Depois de 30 minutos, quem termina a prova poderá sair. No entanto, depois que o primeiro aluno sair, nenhum aluno poderá entrar. Organize-se para ser pontual!
+
+
+**APROVADO**:<BR/> 
+$$Presença \geq 75\% ~ E ~ Média \geq 6$$ 
+
+**VERIFICAÇÃO SUPLEMENTAR**: <BR/>
+$$Presença \geq 75\% ~ E ~ 4 \leq Média < 6$$
+
+Será aprovado na VS o aluno que tirar nota maior ou igual a 6.
+
+**REPROVADO**: caso contrário 
+
+## Exercícios
+
+Diversos exercícios serão disponibilizadas durante o curso. Todos terão data de entrega marcada no Google Classroom. Durante a resolução dos exercícios, os alunos podem usar comentários de uma tarefa específica para tirar dúvidas no [Google Classroom](http://classroom.google.com). Espera-se que os alunos façam uso do compilador C para verificar a corretude das suas respostas. Alunos que entregarem todos os exercícios **no prazo e corretos** podem ser aprovados direto caso tenham ficado com média entre 5,5 e 5,9. Da mesma forma, terão direto à VS caso tenham ficado com média entre 3,5 e 3,9. 
+
+
+<!-- ## Listas de Exercícios 
+
+As listas de exercícios abaixo são sugeridas para auxiliar no estudo e fixação da matéria. 
+
+* [Árvores Binárias](/material/ed/lista-arvore-binaria.pdf)
+* [Árvores Binárias de Busca](/material/ed/lista-arvore-binaria-busca.pdf)
+* [AVL](/material/ed/lista-avl.pdf) 
+* [Grafos](/material/ed/lista-grafos.pdf)
+* [Árvores B e B+](/material/ed/lista-arvores-b-bmais.pdf)
+* [Tabelas Hash](/material/ed/lista-hash.pdf)
+
+--> 
+
+## Video-aulas no Youtube
+
+As aulas da disciplina estão disponíveis no Youtube. Acesse a [playlist](https://youtube.com/playlist?list=PLYqZErLVzMfGDF0M2p-ZKKq0xDdGWuvqI) no meu [canal](https://www.youtube.com/channel/UCB0eF44ArWMdinU7ygks5SA). Se você perdeu alguma aula ou quer revisar algum conteúdo, esses vídeos podem ajudar. 
+
+## Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.uff.br/sites/default/files/001-2015_regulamento_do_curso_de_graduacao_0.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 96) e não há abono de faltas sem documentação (Art. 103).
+
+## Bibliografia
+
+Szwarcfiter, J., Markenzon, L. Estruturas de Dados e Seus Algoritmos. Editora LTC, 3a. edição, 2010.
+
+Cormen, T.H., Leiserson, C.E., Rivest, R.L., Introduction to algorithms, McGraw-Hill, 2009.
+
+Celes, W., Cerqueira, R., Rangel, J.L. Introdução a Estruturas de Dados, Campus, 1a
+Edição, 2004.
+
+Kernighan, B.W.,Ritchie, D.M. C: a linguagem de programação (Padrão ANSI), Campus, Segunda
+Edição, 1990.
+
+### Bibliografia Complementar
+
+Tenenbaum, A.M., Langsam, Y., Augenstein, M.J. Estruturas de Dados Usando C, Pearson, Primeira Edição, 1995.
+
+Ramakrishnan, R. Database Management Systems, McGraw Hill, Third Edition, 2003.
+
+## Ferramentas
+
+### IDE
+
+Você pode usar a IDE que preferir para programar em C. Boas opções são: 
+
+- [VS Code](https://code.visualstudio.com/download) 
+
+- [CLion](https://www.jetbrains.com/clion/?fromMenu). É possível solicitar uma licença grátis para estudante no site da [Jetbrains](https://www.jetbrains.com/student/).
+
+Seja qual IDE você escolher, certifique-se de desabilitar a IA, de modo que você consiga programar sem ajuda. 
+
+- Para saber como fazer isso no VS Code, veja o item ["Disable AI features for a workspace" no final desse link](https://code.visualstudio.com/docs/copilot/setup)
+
+
+### Compilador C
+
+O CLion exige um compilador externo. Recomendo o GCC. 
+
+* Para Windows, há uma implementação do GCC chamada [MinGW](https://sourceforge.net/projects/mingw/)
+
+* Para Linux e Mac, o GCC pode ser instalado usando o gerenciador de pacotes do seu sistema operacional (normalmente o apt-get para Linux e [homebrew](https://brew.sh/) para Mac). 
+
+Para compilar seu programa via terminal no linux, compile usando o gcc e depois execute o programa. Abaixo está um exemplo que compila o arquivo lista-encadeada.c e executa o programa correspondente.
+
+
+```
+$ gcc -o lista-encadeada lista-encadeada.c
+$ ./lista-encadeada
+```
+
+### Visualização de conteúdo de memória
+
+Se você gosta de ver o que está ocorrendo na memória durante a execução do programa, recomendo o [Python Tutor](https://pythontutor.com/). Ele tem visualizadores para Python, C, C++, JavaScript e Ruby. Use o [C Tutor](https://pythontutor.com/c.html) para te ajudar a entender o que está ocorrendo na memória durante a execução do seu programa!  
+
+### Memory Leak 
+
+Para ajudar na identificação de memory leak, vocês podem usar as seguintes ferramentas: 
+
+* [Dr. Memory](https://drmemory.org/) (funciona em todas as plataformas)
+
+* [Valgrind](http://valgrind.org/) (específico para Linux)
+
+### AVL
+
+* Use [esse site](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html) para simular inserções e remoções em árvores AVL de forma visual. 
+
+## Cronograma
+
+<!-- {: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+|Data|Atividade
+|--
+|10/03/2026| Apresentação da Disciplina
+|12/03/2026| [Revisão de C](/material/ed/02-RevisaoC.pdf)
+|17/03/2026| Aula no Laboratório
+|19/03/2026| [Árvores e Árvores Binárias](/material/ed/03-ArvoresBinarias.pdf) <BR/>[Implementação de Árvore Binária](/material/ed/arvore-binaria.zip) <BR/>Material de Apoio: [Revisão de Pilhas e Filas em C](/material/ed/02-Revisao-Pilhas-Filas.pdf)<BR/> [Código em C de manipulação de pilhas usando vetores](/material/ed/pilhas-vetores.zip) 
+|24/03/2026| **SEM AULA - [EDBT](https://edbticdt2026.github.io/)**
+|26/03/2026| **SEM AULA - [EDBT](https://edbticdt2026.github.io/)**
+|31/03/2026| [Árvores Binárias de Busca](/material/ed/04-ArvoresBinariasBusca.pdf) <BR/>[Implementação de Busca e Inserção em Árvore Binária de Busca](/material/ed/busca-insercao-abb.c) 
+|02/04/2026| Exercícios (em casa)
+|07/04/2026| [Árvores AVL](/material/ed/05-ArvoresAVL.pdf) 
+|09/04/2026| AULA CANCELADA
+|14/04/2026| [Grafos](/material/ed/06-Grafos.pdf) 
+|16/04/2026| Aula no Laboratório
+|21/04/2026| **FERIADO**
+|23/04/2026| **FERIADO**
+|28/04/2026| [Arquivos](/material/ed/07-Arquivos.pdf)<BR/>[Tutorial de Acesso a Arquivos em C](/material/ed/tutorial-arquivos.zip) <BR/> [Ordenação de Arquivos](/material/ed/08-Ordenacao.pdf)<BR/>[Insertion Sort em Memória e em Disco para Ordenar Arquivos](/material/ed/insertion-sort.zip)   
+|30/04/2026| Ordenação Externa de Arquivos: [Geração de Partições Classificadas](/material/ed/09-GeracaoParticoes.pdf)<BR/>[Implementação de Classificação Interna](/material/ed/geracao-particoes.zip)
+|05/05/2026| **PROVA 1**
+|07/05/2026| Ordenação Externa de Arquivos: [Intercalação de Partições Classificadas](/material/ed/10-Intercalacao.pdf)<BR/>[Implementação de Intercalação](/material/ed/intercalacao.zip)
+|12/05/2026| [Árvore B](/material/ed/11-ArvoreB.pdf)<BR/>[Implementação de Busca e Inserção em Árvore B em memória](/material/ed/arvore-b.zip)
+|14/05/2026| Árvore B (continuação)
+|19/05/2026| [Árvore B+](/material/ed/12-ArvoreBMais.pdf)
+|21/05/2026| Aula no Laboratório
+|26/05/2026| [Tabelas Hash](/material/ed/13-TabelasHash-Intro.pdf). [Tratamento de colisão por encadeamento exterior](/material/ed/13-TabelasHash-Encadeamento-Exterior.pdf). <BR/>[Implementação Básica de Tabela Hash em memória](/material/ed/hash-basico.c) (Essa implementação não trata colisões)<BR/>[Implementação de Tabela Hash em memória com tratamento de colisões por Encadeamento Exterior](/material/ed/hash-encadeamento-exterior.c)
+|28/05/2026| AULA CANCELADA (exercício para casa)
+|02/06/2026| [Heap](/material/ed/14-Heap.pdf)<BR/>[Implementação em memória](/material/ed/heap.c)<BR/>[Implementação em disco](/material/ed/heap-disco.c)
+|04/06/2026| **FERIADO**
+|09/06/2026| **VISTA DA P1**
+|11/06/2026| Aula de Dúvidas
+|16/06/2026| **PROVA 2**
+|18/06/2026| **SEGUNDA CHAMADA**
+|23/06/2026| SEM AULA
+|25/06/2026| **VISTA DA P2 e da SEGUNDA CHAMADA**
+|30/06/2026| **VS**
+|02/07/2026| SEM AULA
+|07/07/2026| **VISTA DA VS**
+-->
+<!-- {: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+|Data|Atividade
+|--
+|04/08/2026| AULA
+|06/08/2026| AULA
+|11/08/2026| AULA
+|13/08/2026| AULA
+|18/08/2026| **SEM AULA**
+|20/08/2026| AULA
+|25/08/2026| AULA
+|27/08/2026| AULA
+|01/09/2026| AULA
+|03/09/2026| AULA
+|08/09/2026| AULA
+|10/09/2026| AULA
+|15/09/2026| AULA
+|17/09/2026| **PROVA 1**
+|22/09/2026| AULA
+|24/09/2026| AULA
+|29/09/2026| AULA
+|01/10/2026| AULA
+|06/10/2026| AULA
+|08/10/2026| AULA
+|13/10/2026| AULA
+|15/10/2026| **FERIADO**
+|20/10/2026| AULA
+|22/10/2026| AULA
+|27/10/2026| AULA
+|29/10/2026| AULA
+|03/11/2026| AULA
+|05/11/2026| AULA
+|10/11/2026| AULA
+|12/11/2026| AULA
+|17/11/2026| **PROVA 2**
+|19/11/2026| **SEGUNDA CHAMADA**
+|24/11/2026| **SEM AULA**
+|26/11/2026| **VISTA DE P2 e SEGUNDA CHAMADA**
+|01/12/2026| **VS**
+|03/12/2026| **SEM AULA**
+|08/12/2026| **VISTA DE VS**

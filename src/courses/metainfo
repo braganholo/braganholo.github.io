@@ -171,3 +171,9 @@
   proxy_path: ed.html
   in_menu: true
   sort_info: 72
+
+2026.2/:
+  title: 2026.2
+  proxy_path: db.html
+  in_menu: true
+  sort_info: 71
