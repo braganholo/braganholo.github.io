@@ -37,7 +37,10 @@
         <h1>Vanessa Braganholo</h1>
       </div>
 
-      <img id="frontphoto" src="{relocatable: images/front.jpg}" width = "760" alt="" />
+      <div id="frontphoto">
+        <img class="landscape" src="{relocatable: images/banner.jpg}" width="760" height="153" alt="" />
+        <img class="portrait" src="{relocatable: images/profile.jpg}" width="110" height="110" alt="Vanessa Braganholo" />
+      </div>
 
       <div id="leftside">
         <h2 class="hide">Menu:</h2>
