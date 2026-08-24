@@ -186,8 +186,8 @@ Para ajudar na identificação de memory leak, vocês podem usar as seguintes fe
 |11/08/2026| Aula no Laboratório. <BR/> Material de Apoio: [Revisão de Pilhas e Filas em C](/material/ed/02-Revisao-Pilhas-Filas.pdf)<BR/> [Código em C de manipulação de pilhas usando vetores](/material/ed/pilhas-vetores.zip)
 |13/08/2026| [Árvores e Árvores Binárias](/material/ed/03-ArvoresBinarias.pdf) <BR/>[Implementação de Árvore Binária](/material/ed/arvore-binaria.zip) <BR/>
 |18/08/2026| **SEM AULA**
-|20/08/2026| AULA
-|25/08/2026| AULA
+|20/08/2026| Exercícios no Laboratório
+|25/08/2026| [Árvores Binárias de Busca](/material/ed/04-ArvoresBinariasBusca.pdf) <BR/>[Implementação de Busca e Inserção em Árvore Binária de Busca](/material/ed/busca-insercao-abb.c) 
 |27/08/2026| AULA
 |01/09/2026| AULA
 |03/09/2026| AULA
