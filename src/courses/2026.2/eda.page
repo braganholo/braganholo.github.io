@@ -196,11 +196,11 @@ Para ajudar na identificação de memory leak, vocês podem usar as seguintes fe
 |15/09/2026| Exercícios de Revisão no Laboratório
 |17/09/2026| **PROVA 1**
 |22/09/2026| Exercícios no Laboratório 
-|24/09/2026| [Árvore B](/material/ed/11-ArvoreB.pdf)<BR/>[Implementação de Busca e Inserção em Árvore B em memória](/material/ed/arvore-b.zip)
+|24/09/2026| [Árvore B](/material/ed/11-ArvoreB.pdf)<BR/>[Implementação de Busca, Inserção e Remoção em Árvore B em memória principal](/material/ed/arvore-b.zip) -- essa implementação gera o passo a passo das operações de inserção e remoção de forma visual numa página HTML. 
 |29/09/2026| Árvore B (continuação)
-|01/10/2026| Exercícios no Laboratório
-|06/10/2026| Exercícios no Laboratório
-|08/10/2026| AULA
+|01/10/2026| Exercícios no Laboratório - Árvore B em memória principal
+|06/10/2026| Exercícios no Laboratório - Árvore B em disco
+|08/10/2026| Árvore B+](/material/ed/12-ArvoreBMais.pdf)
 |13/10/2026| AULA
 |15/10/2026| **FERIADO**
 |20/10/2026| AULA
