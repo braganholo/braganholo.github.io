@@ -204,7 +204,7 @@ Para ajudar na identificação de memory leak, vocês podem usar as seguintes fe
 |13/10/2026| Exercícios no Laboratório - Árvore B+ em disco
 |15/10/2026| **FERIADO**
 |20/10/2026| VISTA DA P1
-|22/10/2026| AULA
+|22/10/2026| Tabelas Hash](/material/ed/13-TabelasHash-Intro.pdf). [Tratamento de colisão por encadeamento exterior](/material/ed/13-TabelasHash-Encadeamento-Exterior.pdf). <BR/>[Implementação Básica de Tabela Hash em memória](/material/ed/hash-basico.c) (Essa implementação não trata colisões)<BR/>[Implementação de Tabela Hash em memória com tratamento de colisões por Encadeamento Exterior](/material/ed/hash-encadeamento-exterior.c)
 |27/10/2026| **SEM AULA - AGENDA ACADÊMICA**
 |29/10/2026| **SEM AULA - AGENDA ACADÊMICA**
 |03/11/2026| AULA
