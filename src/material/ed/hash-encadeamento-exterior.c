@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdio.h>
 #include <stdlib.h>
 
 #define TAM 101
@@ -75,31 +74,6 @@ void libera(Hash *tab, int m) {
         }
 }
 
-float exclui(Hash *tab, int m, int mat) {
-    int h = hash(mat, m);
-    if (tab[h] == NULL) {
-        return -1;
-    }
-    TAluno *p = tab[h];
-    TAluno *ant = NULL;
-    float cr = -1;
-    while ((p != NULL) && (p->matricula != mat)) {
-        ant = p;
-        p = p->prox;
-    }
-    if (p == NULL) {
-        return cr;
-    }
-    if (ant == NULL) {
-        tab[h] = p->prox;
-    } else {
-        ant->prox = p->prox;
-    }
-    cr = p->cr;
-    free(p);
-    return cr;
-}
-
 void imprime(Hash *tab, int m) {
     for (int i = 0; i < m; i++) {
         printf("%d: ", i);
@@ -123,7 +97,7 @@ int main(void) {
 
     if ((n <= 1) || (m <= 1)) return 0;
 
-    Hash *tab[m];
+    Hash tab[m];
     inicializa(tab, m);
 
     int i, mat;
@@ -136,18 +110,7 @@ int main(void) {
         imprime(tab, m);
     }
 
-
     char resp;
-    do {
-        printf("Digite a matricula a ser excluida... ");
-        scanf("%d", &mat);
-        cr = exclui(tab, m, mat);
-        if (cr != -1) printf("%d\t%.2f foi excluido\n", mat, cr);
-        imprime(tab, m);
-        printf("Quer continuar? ");
-        scanf(" %c", &resp);
-    } while ((resp != 'N') && (resp != 'n'));
-
     do {
         printf("Digite a matricula a ser procurada... ");
         scanf("%d", &mat);
