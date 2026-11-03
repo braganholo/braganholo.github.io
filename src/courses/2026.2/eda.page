@@ -207,8 +207,8 @@ Para ajudar na identificação de memory leak, vocês podem usar as seguintes fe
 |22/10/2026| [Tabelas Hash](/material/ed/13-TabelasHash-Intro.pdf) + [Tratamento de colisão por encadeamento exterior](/material/ed/13-TabelasHash-Encadeamento-Exterior.pdf). <BR/>[Implementação Básica de Tabela Hash em memória, sem tratamento de colisões](/material/ed/hash-basico.c)<BR/>[Implementação de Tabela Hash em memória com tratamento de colisões por Encadeamento Exterior](/material/ed/hash-encadeamento-exterior.c)
 |27/10/2026| **SEM AULA - AGENDA ACADÊMICA**
 |29/10/2026| **SEM AULA - AGENDA ACADÊMICA**
-|03/11/2026| AULA
-|05/11/2026| AULA
+|03/11/2026| Exercícios no Laboratório (Tabela Hash em Memória Principal)
+|05/11/2026| Exercícios no Laboratório (Tabela Hash em Disco)
 |10/11/2026| AULA
 |12/11/2026| AULA
 |17/11/2026| **PROVA 2**
