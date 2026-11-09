@@ -149,7 +149,7 @@ end
 
 by_status = pubs.group_by { |p| (p['rights'] || {})['status'] }
 puts "Rights status: " + by_status.map { |k, v| "#{k}=#{v.size}" }.join(', ')
-need = pubs.select { |p| (p['rights'] || {})['status'] == 'allowed' && !p['oa_url'] && !p['local_pdf'] }
+need = pubs.select { |p| (p['rights'] || {})['status'] == 'allowed' && !p['oa_url'] && !p['local_pdf'] && !p['no_pdf'] }
 unless need.empty?
   puts "\nAllowed but no PDF yet (#{need.size}):"
   need.each { |p| puts "  #{p['id']} [#{p['rights']['version_needed']}] #{p['title'][0, 70]}" }

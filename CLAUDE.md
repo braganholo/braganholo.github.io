@@ -35,6 +35,7 @@ Página em inglês.
     doi: sem "https://doi.org/"
     oa_url: cópia pública (open access) — quando existe, é o único link de PDF exibido
     local_pdf: nome do arquivo em src/papers/ — só é exibido se rights.status == allowed
+    no_pdf: (opcional) motivo para não ter PDF mesmo sendo permitido (ex.: decisão da Vanessa); tira o item do relatório de pendências
     rights:
       publisher, policy (resumo da regra), source (URL da política), checked (data da checagem)
       status: open_access | allowed | to_confirm | not_allowed | pending

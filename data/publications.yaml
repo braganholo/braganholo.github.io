@@ -1405,6 +1405,7 @@
   doi: "10.4018/ijossp.2012100102"
   oa_url: null
   local_pdf: null
+  no_pdf: "Author's choice (2026-11-09): DOI only."
   rights:
     publisher: "IGI Global"
     status: "allowed"
@@ -1692,7 +1693,7 @@
   details: "23: 2326-2337"
   doi: "10.1002/cpe.1786"
   oa_url: null
-  local_pdf: null
+  local_pdf: coutinho2011-ccpe.pdf
   rights:
     publisher: "Wiley"
     status: "allowed"
