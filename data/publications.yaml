@@ -2,29 +2,29 @@
 # Edit this file, then run:  ruby tools/build_publications.rb
 # See CLAUDE.md for field meanings and the update procedure.
 
-- id: oliveira2026-jidm
+- id: jandre2026-jidm
   lattes: A2   # position in Lattes export of 2026-11-09
   type: journal
   status: accepted
   year: 2026
   authors:
-    - "E. J. Oliveira"
-    - "A. Paiva"
-    - "J. F. N. Pimentel"
-    - "B. Diirr"
+    - "Eduardo Jandre"
+    - "Arthur Paiva"
+    - "João Felipe Nicolaci Pimentel"
+    - "Bruna Diirr"
     - "Vanessa Braganholo"
   title: "Enabling Collaboration in Scientific Experiments"
   venue: "Journal of Information and Data Management - JIDM"
   details: null
   doi: null
   oa_url: null
-  local_pdf: null
+  local_pdf: jandre2026-jidm.pdf
   rights:
     publisher: "SBC"
-    status: "pending"
-    version_needed: null
-    policy: "Accepted; JIDM is open access (SBC OpenLib). Add DOI/link once published."
-    source: "https://journals-sol.sbc.org.br/index.php/jidm"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "CC BY 4.0; authors retain copyright and full publishing rights, so the accepted manuscript may be posted before publication (with an accepted-manuscript note). Once published, set oa_url to the SOL PDF (local copy is then hidden)."
+    source: "https://journals-sol.sbc.org.br/index.php/jidm/about/submissions"
     checked: "2026-11-09"
 
 - id: almeida2026-jidm
@@ -33,23 +33,23 @@
   status: accepted
   year: 2026
   authors:
-    - "J. M. Almeida"
-    - "D. Pina"
-    - "R. P. Santos"
+    - "Jessica Monçôres de Almeida"
+    - "Débora Pina"
+    - "Rodrigo Pereira dos Santos"
     - "Vanessa Braganholo"
-    - "D. Oliveira"
+    - "Daniel de Oliveira"
   title: "Provenance as the Backbone of Systems-of-Systems Data Governance"
   venue: "Journal of Information and Data Management - JIDM"
   details: null
   doi: null
   oa_url: null
-  local_pdf: null
+  local_pdf: almeida2026-jidm.pdf
   rights:
     publisher: "SBC"
-    status: "pending"
-    version_needed: null
-    policy: "Accepted; JIDM is open access (SBC OpenLib). Add DOI/link once published."
-    source: "https://journals-sol.sbc.org.br/index.php/jidm"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "CC BY 4.0; authors retain copyright and full publishing rights, so the accepted manuscript may be posted before publication (with an accepted-manuscript note). Once published, set oa_url to the SOL PDF (local copy is then hidden)."
+    source: "https://journals-sol.sbc.org.br/index.php/jidm/about/submissions"
     checked: "2026-11-09"
 
 - id: blanco2026-sbbd
