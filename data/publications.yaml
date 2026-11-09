@@ -1,0 +1,3225 @@
+# Publication list for publications.page (source of truth).
+# Edit this file, then run:  ruby tools/build_publications.rb
+# See CLAUDE.md for field meanings and the update procedure.
+
+- id: oliveira2026-jidm
+  lattes: A2   # position in Lattes export of 2026-11-09
+  type: journal
+  status: accepted
+  year: 2026
+  authors:
+    - "E. J. Oliveira"
+    - "A. Paiva"
+    - "J. F. N. Pimentel"
+    - "B. Diirr"
+    - "Vanessa Braganholo"
+  title: "Enabling Collaboration in Scientific Experiments"
+  venue: "Journal of Information and Data Management - JIDM"
+  details: null
+  doi: null
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "pending"
+    version_needed: null
+    policy: "Accepted; JIDM is open access (SBC OpenLib). Add DOI/link once published."
+    source: "https://journals-sol.sbc.org.br/index.php/jidm"
+    checked: "2026-11-09"
+
+- id: almeida2026-jidm
+  lattes: A1   # position in Lattes export of 2026-11-09
+  type: journal
+  status: accepted
+  year: 2026
+  authors:
+    - "J. M. Almeida"
+    - "D. Pina"
+    - "R. P. Santos"
+    - "Vanessa Braganholo"
+    - "D. Oliveira"
+  title: "Provenance as the Backbone of Systems-of-Systems Data Governance"
+  venue: "Journal of Information and Data Management - JIDM"
+  details: null
+  doi: null
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "pending"
+    version_needed: null
+    policy: "Accepted; JIDM is open access (SBC OpenLib). Add DOI/link once published."
+    source: "https://journals-sol.sbc.org.br/index.php/jidm"
+    checked: "2026-11-09"
+
+- id: blanco2026-sbbd
+  lattes: C2   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2026
+  authors:
+    - "Elena Blanco"
+    - "Josué Santos"
+    - "Maristela Holanda"
+    - "Vanessa Braganholo"
+    - "Marcos Bedo"
+    - "Daniel de Oliveira"
+  title: "Rumo a Duas Décadas de Publicações em Banco de Dados: Uma Análise dos Artigos do JIDM"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "1-7"
+  doi: "10.5753/sbbd.2026.249459"
+  oa_url: "https://sol.sbc.org.br/index.php/sbbd/article/download/44030/43793"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: poubel2026-wtcia
+  lattes: C1   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2026
+  authors:
+    - "Rodrigo L. Poubel"
+    - "Luiz Eduardo Oliveira"
+    - "Rodrigo Gaudio"
+    - "Flavia Pastura"
+    - "Ronald Sampaio"
+    - "Ladan Machado"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+    - "Aura Conci"
+  title: "The InfraJoint Protocol for Infrared Thermography of the Hands and Wrists in the Assessment of Inflammatory Arthropathies"
+  venue: "Workshop de Termografia Computacional e IA para Aplicações Médicas"
+  details: "1-12"
+  doi: "10.5753/sbcas_estendido.2026.26491"
+  oa_url: "https://sol.sbc.org.br/index.php/sbcas_estendido/article/download/43859/43622"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: paiva2025-emse
+  lattes: J1   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2025
+  authors:
+    - "Camila A. Paiva"
+    - "Raquel Maximino"
+    - "Frederico Paiva"
+    - "Rafael Accetta Vieira"
+    - "Nicole Espanha"
+    - "João Felipe Pimentel"
+    - "Igor Wiese"
+    - "Marco Aurélio Gerosa"
+    - "Igor Steinmacher"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+  title: "Analyzing the adoption of database management systems throughout the history of open source projects"
+  venue: "Empirical Software Engineering"
+  details: "30: 71:1-71:59"
+  doi: "10.1007/s10664-025-10627-z"
+  oa_url: "https://arxiv.org/pdf/2605.06817"
+  local_pdf: null
+  rights:
+    publisher: "Springer"
+    status: "open_access"
+    version_needed: null
+    policy: "Public copy available; link it."
+    source: null
+    checked: "2026-11-09"
+
+- id: almeida2025-sbbd
+  lattes: C3   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2025
+  authors:
+    - "Jéssica Monçôres de Almeida"
+    - "Vanessa Braganholo"
+    - "Daniel de Oliveira"
+  title: "Governança de Dados em Sistemas de Sistemas: Uma Abordagem Orientada à Dados de Proveniência"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "182-195"
+  doi: "10.5753/sbbd.2025.247059"
+  oa_url: "https://sol.sbc.org.br/index.php/sbbd/article/download/37237/37020"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: falci2025-sbbd
+  lattes: C4   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2025
+  authors:
+    - "Maria Luiza Falci"
+    - "Débora Pina"
+    - "Liliane Kunstmann"
+    - "Vanessa Braganholo"
+    - "Daniel de Oliveira"
+  title: "Tudo em Todo Lugar ao Mesmo Tempo: Rastreabilidade de Dados em Cidades Inteligentes por meio de Proveniência"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "371-384"
+  doi: "10.5753/sbbd.2025.247252"
+  oa_url: "https://sol.sbc.org.br/index.php/sbbd/article/download/37251/37034"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: erbisti2024-jbcs
+  lattes: J3   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2024
+  authors:
+    - "Bruno Erbisti"
+    - "David Kohan Marzagão"
+    - "Vanessa Braganholo"
+  title: "An extension to Kendall's Tau metric to evaluate dissimilarities between data series"
+  venue: "Journal of the Brazilian Computer Society"
+  details: "30: 1-11"
+  doi: "10.5753/jbcs.2024.2803"
+  oa_url: "https://journals-sol.sbc.org.br/index.php/jbcs/article/download/2803/2952"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: marquez2024-anor
+  lattes: J5   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2024
+  authors:
+    - "Carlos Rafael Herrera Márquez"
+    - "Vanessa Braganholo"
+    - "Celso Carneiro Ribeiro"
+  title: "An open-source framework for solving shop scheduling problems in manufacturing environments"
+  venue: "Annals of Operations Research"
+  details: "351: 1155-1183"
+  doi: "10.1007/s10479-024-05995-6"
+  oa_url: null
+  local_pdf: "marquez2024-anor.pdf"
+  rights:
+    publisher: "Springer"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website immediately on acceptance, with acknowledgement + DOI link. Publisher PDF not allowed."
+    source: "https://www.springernature.com/gp/open-science/policies/journal-policies"
+    checked: "2026-11-09"
+
+- id: alencar2024-eswa
+  lattes: J2   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2024
+  authors:
+    - "Victor Alencar"
+    - "Troy Costa Kohwalter"
+    - "Vanessa Braganholo"
+    - "J. R. Silva Junior"
+    - "Leonardo Murta"
+  title: "Prov-Dominoes: An approach for knowledge discovery from provenance data"
+  venue: "Expert Systems with Applications"
+  details: "245: 123030"
+  doi: "10.1016/j.eswa.2023.123030"
+  oa_url: null
+  local_pdf: "alencar2024-eswa.pdf"
+  rights:
+    publisher: "Elsevier"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website immediately, with CC BY-NC-ND license and link to DOI. Publisher PDF not allowed."
+    source: "https://www.elsevier.com/about/policies-and-standards/sharing"
+    checked: "2026-11-09"
+
+- id: braganholo2024-sigmodrec
+  lattes: J4   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2024
+  authors:
+    - "Vanessa Braganholo"
+    - "Martin Hentschel"
+  title: "Reminiscences on Influential Papers"
+  venue: "SIGMOD Record"
+  details: "53: 36-37"
+  doi: "10.1145/3712311.3712317"
+  oa_url: "https://dl.acm.org/doi/pdf/10.1145/3712311.3712317"
+  local_pdf: null
+  rights:
+    publisher: "ACM"
+    status: "open_access"
+    version_needed: null
+    policy: "ACM Digital Library is fully open access since Jan 2026 (Basic edition); link the DL copy."
+    source: "https://www.acm.org/publications/openaccess"
+    checked: "2026-11-09"
+
+- id: meliou2023-sigmodrec
+  lattes: J6   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2023
+  authors:
+    - "Alexandra Meliou"
+    - "Sourav Saha Bhowmick"
+    - "Karl Aberer"
+    - "Divy Agrawal"
+    - "Angela Bonifati"
+    - "Vanessa Braganholo"
+    - "Floris Geerts"
+    - "Wolfgang Lehner"
+    - "Divesh Srivastava"
+  title: "Peer-Reviewing Processes and Incentives: Data Management Community Survey Results"
+  venue: "SIGMOD Record"
+  details: "54: 41-46"
+  doi: "10.1145/3641832.3641844"
+  oa_url: "https://dl.acm.org/doi/pdf/10.1145/3641832.3641844"
+  local_pdf: null
+  rights:
+    publisher: "ACM"
+    status: "open_access"
+    version_needed: null
+    policy: "ACM Digital Library is fully open access since Jan 2026 (Basic edition); link the DL copy."
+    source: "https://www.acm.org/publications/openaccess"
+    checked: "2026-11-09"
+
+- id: lemos2022-jidm
+  lattes: J7   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2022
+  authors:
+    - "Vitor Gama Lemos"
+    - "João Felipe Pimentel"
+    - "Bruno Erbisti"
+    - "Vanessa Braganholo"
+  title: "P+RProv: Prospective+Retrospective Provenance Graphs of Python Scripts"
+  venue: "Journal of Information and Data Management - JIDM"
+  details: "13: 455-475"
+  doi: "10.5753/jidm.2022.2059"
+  oa_url: "https://sol.sbc.org.br/journals/index.php/jidm/article/download/2059/2048"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: falci2021-jidm
+  lattes: J9   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2021
+  authors:
+    - "Maria Luiza Falci"
+    - "Andréa Magalhães"
+    - "Aline Paes"
+    - "Vanessa Braganholo"
+    - "Daniel de Oliveira"
+  title: "Multimodal Provenance-based Analysis of Collaboration in Business Processes"
+  venue: "Journal of Information and Data Management - JIDM"
+  details: "12: 415-427"
+  doi: "10.5753/jidm.2021.1923"
+  oa_url: "https://sol.sbc.org.br/journals/index.php/jidm/article/download/1923/1851"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: pimentel2021-emse
+  lattes: J8   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2021
+  authors:
+    - "João Felipe Pimentel"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+    - "Juliana Freire"
+  title: "Understanding and improving the quality and reproducibility of Jupyter notebooks"
+  venue: "Empirical Software Engineering"
+  details: "26: 65"
+  doi: "10.1007/s10664-021-09961-9"
+  oa_url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8106381/"
+  local_pdf: null
+  rights:
+    publisher: "Springer"
+    status: "open_access"
+    version_needed: null
+    policy: "Public copy available; link it."
+    source: null
+    checked: "2026-11-09"
+
+- id: oliveira2020-sigmodrec
+  lattes: J10   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2020
+  authors:
+    - "E. J. Oliveira"
+    - "Bruna Diirr"
+    - "Vanessa Braganholo"
+  title: "Provenance in Collaborative in Silico Scientific Research: a Survey"
+  venue: "SIGMOD Record"
+  details: "49: 36-51"
+  doi: "10.1145/3442322.3442329"
+  oa_url: "https://dl.acm.org/doi/pdf/10.1145/3442322.3442329"
+  local_pdf: null
+  rights:
+    publisher: "ACM"
+    status: "open_access"
+    version_needed: null
+    policy: "ACM Digital Library is fully open access since Jan 2026 (Basic edition); link the DL copy."
+    source: "https://www.acm.org/publications/openaccess"
+    checked: "2026-11-09"
+
+- id: oliveira2020-is
+  lattes: J11   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2020
+  authors:
+    - "Alessandreia Marta de Oliveira"
+    - "Troy Costa Kohwalter"
+    - "Marcos Kalinowski"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+  title: "XChange: A semantic diff approach for XML documents"
+  venue: "Information Systems"
+  details: "94: 101610"
+  doi: "10.1016/j.is.2020.101610"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "Elsevier"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website immediately, with CC BY-NC-ND license and link to DOI. Publisher PDF not allowed."
+    source: "https://www.elsevier.com/about/policies-and-standards/sharing"
+    checked: "2026-11-09"
+
+- id: campagna2020-sbbd
+  lattes: C5   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2020
+  authors:
+    - "Daniel Prett Campagna"
+    - "Altigran Soares da Silva"
+    - "Vanessa Braganholo"
+  title: "Achieving GDPR Compliance through Provenance: An Extended Model"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "1-12"
+  doi: "10.5753/sbbd.2020.13621"
+  oa_url: "https://sol.sbc.org.br/index.php/sbbd/article/download/13621/13469"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: falci2020-sbbd
+  lattes: C6   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2020
+  authors:
+    - "Maria Luiza Falci"
+    - "Andréa Magalhães"
+    - "Vanessa Braganholo"
+    - "Aline Paes"
+    - "Daniel de Oliveira"
+  title: "Análise de Colaboração em Processos de Negócio por meio de SGBDs de Grafos e Dados de Proveniência Multimodais"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "1-6"
+  doi: "10.5753/sbbd.2020.13636"
+  oa_url: "https://sol.sbc.org.br/index.php/sbbd/article/download/13636/13484"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: pimentel2019-csur
+  lattes: J12   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2019
+  authors:
+    - "João Felipe Pimentel"
+    - "Juliana Freire"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+  title: "A Survey on Collecting, Managing, and Analyzing Provenance from Scripts"
+  venue: "ACM Computing Surveys"
+  details: "52: 1-38"
+  doi: "10.1145/3311955"
+  oa_url: "https://dl.acm.org/doi/pdf/10.1145/3311955"
+  local_pdf: null
+  rights:
+    publisher: "ACM"
+    status: "open_access"
+    version_needed: null
+    policy: "ACM Digital Library is fully open access since Jan 2026 (Basic edition); link the DL copy."
+    source: "https://www.acm.org/publications/openaccess"
+    checked: "2026-11-09"
+
+- id: santos2019-ipm
+  lattes: J13   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2019
+  authors:
+    - "Fábio Gomes dos Santos"
+    - "Leonardo Martins Machado"
+    - "Rafael Pinheiro"
+    - "Aline Paes"
+    - "Vanessa Braganholo"
+  title: "Querying XML documents using Prolog engines: When is this a good idea?"
+  venue: "Information Processing & Management"
+  details: "56: 1753-1770"
+  doi: "10.1016/j.ipm.2019.05.011"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "Elsevier"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website immediately, with CC BY-NC-ND license and link to DOI. Publisher PDF not allowed."
+    source: "https://www.elsevier.com/about/policies-and-standards/sharing"
+    checked: "2026-11-09"
+
+- id: araujo2019-iwssip
+  lattes: C9   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2019
+  authors:
+    - "Adriel Santos Araujo"
+    - "Juan Lucas Vieira"
+    - "E. J. Oliveira"
+    - "Aura Conci"
+    - "Diego Gimenez Passos"
+    - "Vanessa Braganholo"
+    - "J. Viterbo Filho"
+  title: "A Framework for Monitoring Patients with Alzheimer's and Other Dementias"
+  venue: "IWSSIP - International Conference on Systems, Signals and Image Processing"
+  details: "175-180"
+  doi: "10.1109/iwssip.2019.8787250"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "IEEE"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website with IEEE copyright notice and DOI link. Publisher PDF not allowed."
+    source: "https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/"
+    checked: "2026-11-09"
+
+- id: pimentel2019-msr
+  lattes: C7   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2019
+  authors:
+    - "João Felipe Pimentel"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+    - "Juliana Freire"
+  title: "A Large-scale Study about Quality and Reproducibility of Jupyter Notebooks"
+  venue: "International Conference on Mining Software Repositories (MSR)"
+  details: "1-11"
+  doi: "10.1109/msr.2019.00077"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "IEEE"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website with IEEE copyright notice and DOI link. Publisher PDF not allowed."
+    source: "https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/"
+    checked: "2026-11-09"
+
+- id: oliveira2019-sbsc
+  lattes: C8   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2019
+  authors:
+    - "E. J. Oliveira"
+    - "Bruna Diirr"
+    - "Vanessa Braganholo"
+  title: "Uma abordagem para viabilizar experimentos in silico colaborativos"
+  venue: "Simpósio Brasileiro de Sistemas Colaborativos (SBSC)"
+  details: "1-6"
+  doi: "10.5753/sbsc.2019.7798"
+  oa_url: "https://sol.sbc.org.br/index.php/sbsc/article/download/7798/7672"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: oliveira2018-is
+  lattes: J15   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2018
+  authors:
+    - "Alessandreia Marta de Oliveira"
+    - "Gabriel Tessarolli"
+    - "Gleiph Ghiotto"
+    - "Bruno Pinto"
+    - "Fernando Campello"
+    - "Matheus Marques"
+    - "Carlos Oliveira"
+    - "Igor Rodrigues"
+    - "Marcos Kalinowski"
+    - "Uéverton S. Souza"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+  title: "An efficient similarity-based approach for comparing XML documents"
+  venue: "Information Systems"
+  details: "78: 40-57"
+  doi: "10.1016/j.is.2018.07.001"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "Elsevier"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website immediately, with CC BY-NC-ND license and link to DOI. Publisher PDF not allowed."
+    source: "https://www.elsevier.com/about/policies-and-standards/sharing"
+    checked: "2026-11-09"
+
+- id: oliveira2018-csur
+  lattes: J14   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2018
+  authors:
+    - "Wellington Moreira de Oliveira"
+    - "Daniel de Oliveira"
+    - "Vanessa Braganholo"
+  title: "Provenance Analytics for Workflow-Based Computational Experiments"
+  venue: "ACM Computing Surveys"
+  details: "51: 1-25"
+  doi: "10.1145/3184900"
+  oa_url: "https://dl.acm.org/doi/pdf/10.1145/3184900"
+  local_pdf: null
+  rights:
+    publisher: "ACM"
+    status: "open_access"
+    version_needed: null
+    policy: "ACM Digital Library is fully open access since Jan 2026 (Basic edition); link the DL copy."
+    source: "https://www.acm.org/publications/openaccess"
+    checked: "2026-11-09"
+
+- id: curty2018-vem
+  lattes: C12   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2018
+  authors:
+    - "F. Curty"
+    - "Troy Costa Kohwalter"
+    - "Vanessa Braganholo"
+    - "Leonardo Murta"
+  title: "An Infrastructure for Software Release Analysis through Provenance Graphs"
+  venue: "Workshop de Visualização, Manutenção e Evolução de Software (VEM)"
+  details: "1-8"
+  doi: "10.48550/arxiv.1809.10265"
+  oa_url: "https://arxiv.org/pdf/1809.10265"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Public copy available; link it."
+    source: null
+    checked: "2026-11-09"
+
+- id: fuentes2018-sbbd
+  lattes: C11   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2018
+  authors:
+    - "Alain D. Fuentes"
+    - "Ana Carolina Almeida"
+    - "Rogério Luís de C. Costa"
+    - "Vanessa Braganholo"
+    - "Sérgio Lifschitz"
+  title: "Database Tuning with Partial Indexes"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "1-12"
+  doi: "10.5753/sbbd.2018.22229"
+  oa_url: "https://sol.sbc.org.br/index.php/sbbd/article/download/22229/22053"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: pimentel2018-ipaw
+  lattes: C10   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2018
+  authors:
+    - "João Felipe Pimentel"
+    - "Paolo Missier"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+  title: "Versioned-PROV: A PROV extension to support mutable data entities"
+  venue: "International Provenance and Annotation Workshop (IPAW)"
+  details: "1-12"
+  doi: "10.1007/978-3-319-98379-0_7"
+  oa_url: "https://doi.org/10.25405/ncl.34364550"
+  local_pdf: null
+  rights:
+    publisher: "Springer"
+    status: "open_access"
+    version_needed: null
+    policy: "Public copy available; link it."
+    source: null
+    checked: "2026-11-09"
+
+- id: marinho2017-fgcs
+  lattes: J16   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2017
+  authors:
+    - "Anderson Marinho"
+    - "Daniel de Oliveira"
+    - "Eduardo Ogasawara"
+    - "Vitor de Castro Silva"
+    - "Kary Ocaña"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+    - "Marta Mattoso"
+  title: "Deriving scientific workflows from algebraic experiment lines: A practical approach"
+  venue: "Future Generation Computer Systems"
+  details: "68: 111-127"
+  doi: "10.1016/j.future.2016.08.016"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "Elsevier"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website immediately, with CC BY-NC-ND license and link to DOI. Publisher PDF not allowed."
+    source: "https://www.elsevier.com/about/policies-and-standards/sharing"
+    checked: "2026-11-09"
+
+- id: rubim2017-jbcs
+  lattes: J17   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2017
+  authors:
+    - "Ivison C. Rubim"
+    - "Vanessa Braganholo"
+  title: "Detecting referential inconsistencies in electronic CV datasets"
+  venue: "Journal of the Brazilian Computer Society"
+  details: "23: 1-11"
+  doi: "10.1186/s13173-017-0052-0"
+  oa_url: "https://doi.org/10.1186/s13173-017-0052-0"
+  local_pdf: null
+  rights:
+    publisher: "SBC/Springer"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: neves2017-toit
+  lattes: J18   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2017
+  authors:
+    - "Vitor C. Neves"
+    - "Daniel de Oliveira"
+    - "Kary Ocaña"
+    - "Vanessa Braganholo"
+    - "Leonardo Murta"
+  title: "Managing Provenance of Implicit Data Flows in Scientific Experiments"
+  venue: "ACM Transactions on Internet Technology"
+  details: "17: 1-22"
+  doi: "10.1145/3053372"
+  oa_url: "https://dl.acm.org/doi/pdf/10.1145/3053372"
+  local_pdf: null
+  rights:
+    publisher: "ACM"
+    status: "open_access"
+    version_needed: null
+    policy: "ACM Digital Library is fully open access since Jan 2026 (Basic edition); link the DL copy."
+    source: "https://www.acm.org/publications/openaccess"
+    checked: "2026-11-09"
+
+- id: oliveira2017-jidm
+  lattes: J19   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2017
+  authors:
+    - "Wellington Moreira de Oliveira"
+    - "Kary Ocaña"
+    - "Daniel de Oliveira"
+    - "Vanessa Braganholo"
+  title: "Querying Provenance along with Domain Data Using Prolog"
+  venue: "Journal of Information and Data Management - JIDM"
+  details: "8: 3-18"
+  doi: "10.5753/jidm.2017.1603"
+  oa_url: "https://journals-sol.sbc.org.br/index.php/jidm/article/download/1603/1423"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: pimentel2017-pvldb
+  lattes: J20   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2017
+  authors:
+    - "João Felipe Pimentel"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+    - "Juliana Freire"
+  title: "noWorkflow"
+  venue: "Proceedings of the VLDB Endowment"
+  details: "10: 1841-1844"
+  doi: "10.14778/3137765.3137789"
+  oa_url: "https://www.vldb.org/pvldb/vol10/p1841-pimentel.pdf"
+  local_pdf: null
+  rights:
+    publisher: "VLDB Endowment"
+    status: "open_access"
+    version_needed: null
+    policy: "Public copy available; link it."
+    source: null
+    checked: "2026-11-09"
+
+- id: silva2017-sbbd
+  lattes: C14   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2017
+  authors:
+    - "Frank W. R. da Silva"
+    - "Victor Teixeira de Almeida"
+    - "Vanessa Braganholo"
+  title: "Explorando arquiteturas multi-core para processamento eficiente de consultas em sistemas de gerência de Big Data"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "1-12"
+  doi: "10.5753/sbbd.2017.171397"
+  oa_url: "https://sol.sbc.org.br/index.php/sbbd/article/download/24274/24097"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: silva2017-wtdbd
+  lattes: C15   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2017
+  authors:
+    - "F. W. R. Silva"
+    - "V. T. Almeida"
+    - "Vanessa Braganholo"
+  title: "Processamento eficiente de consultas sobre grandes volumes de dados usando arquiteturas multi-core"
+  venue: "Workshop de Teses e Dissertações do Simpósio Brasileiro de Bancos de Dados (WTDBD)"
+  details: "1-7"
+  doi: null
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: nogueira2017-bresci
+  lattes: C13   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2017
+  authors:
+    - "Fabrício Nogueira"
+    - "Kary Ocaña"
+    - "Vitor M. M. da Silva"
+    - "Vanessa Braganholo"
+    - "Daniel de Oliveira"
+  title: "Uma Estratégia para Versionamento dos Dados de Workflows Científicos Executados em Nuvem"
+  venue: "Brazilian e-Science Workshop (BreSci)"
+  details: "1-8"
+  doi: "10.5753/bresci.2017.9920"
+  oa_url: "https://sol.sbc.org.br/index.php/bresci/article/download/9920/9806"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: ribeiro2016-sbcars
+  lattes: C21   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2016
+  authors:
+    - "Wallace Ribeiro"
+    - "Vanessa Braganholo"
+    - "Leonardo Murta"
+  title: "A Study About the Life Cycle of Code Anomalies"
+  venue: "Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS)"
+  details: "71-80"
+  doi: "10.1109/sbcars.2016.22"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "IEEE"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website with IEEE copyright notice and DOI link. Publisher PDF not allowed."
+    source: "https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/"
+    checked: "2026-11-09"
+
+- id: oliveira2016-ipaw
+  lattes: C17   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2016
+  authors:
+    - "Wellington Moreira de Oliveira"
+    - "Paolo Missier"
+    - "Kary Ocaña"
+    - "Daniel de Oliveira"
+    - "Vanessa Braganholo"
+  title: "Analyzing Provenance across Heterogeneous Provenance Graphs"
+  venue: "International Provenance and Annotation Workshop (IPAW)"
+  details: "LNCS 9672, 57-70"
+  doi: "10.1007/978-3-319-40593-3_5"
+  oa_url: "https://doi.org/10.25405/ncl.34276704"
+  local_pdf: null
+  rights:
+    publisher: "Springer"
+    status: "open_access"
+    version_needed: null
+    policy: "Public copy available; link it."
+    source: null
+    checked: "2026-11-09"
+
+- id: oliveira2016-bresci
+  lattes: C20   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2016
+  authors:
+    - "Wellington Moreira de Oliveira"
+    - "Paolo Missier"
+    - "Daniel de Oliveira"
+    - "Vanessa Braganholo"
+  title: "Comparing Provenance Data Models for Scientific Workflows: an Analysis of PROV-Wf and ProvOne"
+  venue: "Brazilian e-Science Workshop (BreSci)"
+  details: "1-8"
+  doi: "10.5753/bresci.2016.9972"
+  oa_url: "https://sol.sbc.org.br/index.php/bresci/article/download/9972/9857"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: pimentel2016-ipawb
+  lattes: C18   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2016
+  authors:
+    - "João Felipe Pimentel"
+    - "Juliana Freire"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+  title: "Fine-grained Provenance Collection over Scripts Through Program Slicing"
+  venue: "International Provenance and Annotation Workshop (IPAW)"
+  details: "LNCS 9672, 199-203"
+  doi: "10.1007/978-3-319-40593-3_21"
+  oa_url: null
+  local_pdf: "pimentel2016b-ipaw.pdf"
+  rights:
+    publisher: "Springer"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Proceedings paper: accepted manuscript only, public release 12 months after publication (embargo expired), with \"This is an Accepted Manuscript...\" notice + DOI link."
+    source: "https://www.springernature.com/gp/open-science/policies/book-policies"
+    checked: "2026-11-09"
+
+- id: tallarida2016-sbbd
+  lattes: C22   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2016
+  authors:
+    - "Gustavo Tallarida"
+    - "Kary Ocaña"
+    - "Aline Paes"
+    - "Vanessa Braganholo"
+    - "Daniel de Oliveira"
+  title: "Gerência de Incerteza em Bancos de Dados de Proveniência de Workflows de Bioinformática"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "1-6"
+  doi: "10.5753/sbbd.2016.24325"
+  oa_url: "https://sol.sbc.org.br/index.php/sbbd/article/download/24325/24148"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: pimentel2016-ipaw
+  lattes: C16   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2016
+  authors:
+    - "João Felipe Pimentel"
+    - "Juliana Freire"
+    - "Vanessa Braganholo"
+    - "Leonardo Murta"
+  title: "Tracking and Analyzing the Evolution of Provenance from Scripts"
+  venue: "International Provenance and Annotation Workshop (IPAW)"
+  details: "LNCS 9672, 16-28"
+  doi: "10.1007/978-3-319-40593-3_2"
+  oa_url: null
+  local_pdf: "pimentel2016a-ipaw.pdf"
+  rights:
+    publisher: "Springer"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Proceedings paper: accepted manuscript only, public release 12 months after publication (embargo expired), with \"This is an Accepted Manuscript...\" notice + DOI link."
+    source: "https://www.springernature.com/gp/open-science/policies/book-policies"
+    checked: "2026-11-09"
+
+- id: pimentel2016-ipawc
+  lattes: C19   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2016
+  authors:
+    - "João Felipe Pimentel"
+    - "Saumen Dey"
+    - "Timothy McPhillips"
+    - "Khalid Belhajjame"
+    - "David Koop"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+    - "Bertram Ludäscher"
+  title: "Yin & Yang: Demonstrating Complementary Provenance from noWorkflow & YesWorkflow"
+  venue: "International Provenance and Annotation Workshop (IPAW)"
+  details: "LNCS 9672, 161-165"
+  doi: "10.1007/978-3-319-40593-3_13"
+  oa_url: null
+  local_pdf: "pimentel2016c-ipaw.pdf"
+  rights:
+    publisher: "Springer"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Proceedings paper: accepted manuscript only, public release 12 months after publication (embargo expired), with \"This is an Accepted Manuscript...\" notice + DOI link."
+    source: "https://www.springernature.com/gp/open-science/policies/book-policies"
+    checked: "2026-11-09"
+
+- id: oliveira2015-jbcs
+  lattes: J21   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2015
+  authors:
+    - "F. Oliveira"
+    - "Vanessa Braganholo"
+    - "Leonardo Murta"
+    - "Marta Mattoso"
+  title: "Improving workflow design by mining reusable tasks"
+  venue: "Journal of the Brazilian Computer Society"
+  details: "21: 1-16"
+  doi: "10.1186/s13173-015-0035-y"
+  oa_url: "https://journal-bcs.springeropen.com/track/pdf/10.1186/s13173-015-0035-y"
+  local_pdf: null
+  rights:
+    publisher: "SBC/Springer"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: pimentel2015-tapp
+  lattes: C23   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2015
+  authors:
+    - "João Felipe Pimentel"
+    - "Vanessa Braganholo"
+    - "Leonardo Murta"
+    - "Juliana Freire"
+  title: "Collecting and Analyzing Provenance on Interactive Notebooks: when IPython meets noWorkflow"
+  venue: "USENIX Workshop on the Theory and Practice of Provenance (TaPP)"
+  details: "1-6"
+  doi: null
+  oa_url: "https://www.usenix.org/conference/tapp15/workshop-program/presentation/pimentel"
+  local_pdf: null
+  rights:
+    publisher: "USENIX"
+    status: "open_access"
+    version_needed: null
+    policy: "Public copy available; link it."
+    source: null
+    checked: "2026-11-09"
+
+- id: braganholo2014-sigmodrec
+  lattes: J22   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2014
+  authors:
+    - "Vanessa Braganholo"
+    - "Marta Mattoso"
+  title: "A Survey on XML Fragmentation"
+  venue: "SIGMOD Record"
+  details: "43: 24-35"
+  doi: "10.1145/2694428.2694434"
+  oa_url: "https://dl.acm.org/doi/pdf/10.1145/2694428.2694434"
+  local_pdf: null
+  rights:
+    publisher: "ACM"
+    status: "open_access"
+    version_needed: null
+    policy: "ACM Digital Library is fully open access since Jan 2026 (Basic edition); link the DL copy."
+    source: "https://www.acm.org/publications/openaccess"
+    checked: "2026-11-09"
+
+- id: campello2014-sbbd
+  lattes: C27   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2014
+  authors:
+    - "Fernando Campello"
+    - "Bruno Pinto"
+    - "Gabriel Tessarolli"
+    - "Alessandreia Marta de Oliveira"
+    - "Carlos Roberto Carvalho Oliveira"
+    - "Márcio Tadeu Oliveira Júnior"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+  title: "A similarity-based approach to match elements across versions of XML documents"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "17-26"
+  doi: null
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: oliveira2014-sbbd
+  lattes: C26   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2014
+  authors:
+    - "Wellington Moreira de Oliveira"
+    - "Vitor C. Neves"
+    - "Kary Ocaña"
+    - "Leonardo Murta"
+    - "Daniel de Oliveira"
+    - "Vanessa Braganholo"
+  title: "Captura e Consulta a Dados de Proveniência Retrospectiva Implícita Intra-Atividade"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "35-44"
+  doi: null
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: miranda2014-sbsc
+  lattes: C28   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2014
+  authors:
+    - "G. C. V. Miranda"
+    - "J. A. B. V. Souza"
+    - "Vanessa Braganholo"
+    - "D. Oliveira"
+  title: "CollabCumulus: Uma Ferramenta de Apoio à Análise Colaborativa de Proveniência em Workflows Científicos"
+  venue: "Simpósio Brasileiro de Sistemas Colaborativos (SBSC)"
+  details: "1-8"
+  doi: null
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: oliveira2014-sac
+  lattes: C24   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2014
+  authors:
+    - "Alessandreia Marta de Oliveira"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+  title: "Towards Semantic Diff of XML Documents"
+  venue: "ACM Symposium on Applied Computing (SAC)"
+  details: "833-838"
+  doi: "10.1145/2554850.2554893"
+  oa_url: "https://dl.acm.org/doi/pdf/10.1145/2554850.2554893"
+  local_pdf: null
+  rights:
+    publisher: "ACM"
+    status: "open_access"
+    version_needed: null
+    policy: "ACM Digital Library is fully open access since Jan 2026 (Basic edition); link the DL copy."
+    source: "https://www.acm.org/publications/openaccess"
+    checked: "2026-11-09"
+
+- id: murta2014-ipaw
+  lattes: C25   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2014
+  authors:
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+    - "Fernando Chirigati"
+    - "David Koop"
+    - "Juliana Freire"
+  title: "noWorkflow: Capturing and Analyzing Provenance of Scripts"
+  venue: "International Provenance and Annotation Workshop (IPAW)"
+  details: "LNCS 8628, 71-83"
+  doi: "10.1007/978-3-319-16462-5_6"
+  oa_url: null
+  local_pdf: "murta2014-ipaw.pdf"
+  rights:
+    publisher: "Springer"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Proceedings paper: accepted manuscript only, public release 12 months after publication (embargo expired), with \"This is an Accepted Manuscript...\" notice + DOI link."
+    source: "https://www.springernature.com/gp/open-science/policies/book-policies"
+    checked: "2026-11-09"
+
+- id: silva2013-jidm
+  lattes: J23   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2013
+  authors:
+    - "Tatiane Lima da Silva"
+    - "Fernanda Baião"
+    - "Jonice de Oliveira Sampaio"
+    - "Marta Mattoso"
+    - "Vanessa Braganholo"
+  title: "Towards Recommendations for Horizontal XML Fragmentation"
+  venue: "Journal of Information and Data Management - JIDM"
+  details: "4: 27-36"
+  doi: "10.5753/jidm.2013.1467"
+  oa_url: "https://journals-sol.sbc.org.br/index.php/jidm/article/download/1467/1154"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: neves2013-se-cse
+  lattes: C31   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2013
+  authors:
+    - "Vitor C. Neves"
+    - "Vanessa Braganholo"
+    - "Leonardo Murta"
+  title: "Implicit provenance gathering through configuration management"
+  venue: "International Workshop on Software Engineering for Computational Science and Engineering (SE-CSE)"
+  details: "92-95"
+  doi: "10.1109/SECSE.2013.6615105"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "IEEE"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website with IEEE copyright notice and DOI link. Publisher PDF not allowed."
+    source: "https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/"
+    checked: "2026-11-09"
+
+- id: bivar2013-bresci
+  lattes: C29   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2013
+  authors:
+    - "B. Bivar"
+    - "L. Santos"
+    - "T. Kohwalter"
+    - "A. Marinho"
+    - "M. L. Q. Mattoso"
+    - "Vanessa Braganholo"
+  title: "Uma Comparação entre os Modelos de Proveniência OPM e PROV"
+  venue: "Brazilian e-Science Workshop"
+  details: "1-8"
+  doi: null
+  oa_url: null
+  local_pdf: "bivar2013-eScience.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: martins2013-sbbd
+  lattes: C30   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2013
+  authors:
+    - "G. Martins"
+    - "C. Larcher Junior"
+    - "A. M. Oliveira"
+    - "L. G. P. Murta"
+    - "Vanessa Braganholo"
+  title: "XChange: Compreensão de Mudanças em Documentos XML"
+  venue: "Sessão de Demos do Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: null
+  doi: null
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: braganholo2012-ijossp
+  lattes: J26   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2012
+  authors:
+    - "Vanessa Braganholo"
+    - "Bernardo Miranda"
+    - "Marta Mattoso"
+  title: "Open Source Web Portals"
+  venue: "International Journal of Open Source Software and Processes"
+  details: "4: 16-32"
+  doi: "10.4018/ijossp.2012100102"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "IGI Global"
+    status: "allowed"
+    version_needed: "published"
+    policy: "Final typeset PDF of own chapter/article may be posted on personal website with link to the IGI page (IGI Fair Use Policy) - to re-verify, page was not reachable on check date."
+    source: "https://www.igi-global.com/policies/content-reuse"
+    checked: "2026-11-09"
+
+- id: marinho2012-ccpe
+  lattes: J25   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2012
+  authors:
+    - "Anderson Marinho"
+    - "Leonardo Murta"
+    - "Cláudia Maria Lima Werner"
+    - "Vanessa Braganholo"
+    - "Sérgio Manuel Serra da Cruz"
+    - "Eduardo Ogasawara"
+    - "Marta Mattoso"
+  title: "ProvManager: a provenance management system for scientific workflows"
+  venue: "Concurrency and Computation: Practice and Experience"
+  details: "24: 1513-1530"
+  doi: "10.1002/cpe.1870"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "Wiley"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted version on personal website after 12-month embargo (expired), with Wiley notice on first page. Publisher PDF not allowed."
+    source: "https://authors.wiley.com/author-resources/Journal-Authors/licensing/self-archiving.html"
+    checked: "2026-11-09"
+
+- id: lima2012-jidm
+  lattes: J24   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2012
+  authors:
+    - "Diego Laurentino Lima"
+    - "Carla Amor Divino Moreira Delgado"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+  title: "Towards Querying Implicit Knowledge in XML Documents"
+  venue: "Journal of Information and Data Management - JIDM"
+  details: "3: 51-60"
+  doi: "10.5753/jidm.2012.1433"
+  oa_url: "https://journals-sol.sbc.org.br/index.php/jidm/article/download/1433/1071"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: santos2012-sbbd
+  lattes: C37   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2012
+  authors:
+    - "Fábio Gomes dos Santos"
+    - "Rafael de Araújo M. Pinheiro"
+    - "Vanessa Braganholo"
+  title: "Processamento de Consultas XML usando Máquinas de Inferência"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "129-136"
+  doi: null
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: pinheiro2012-wtdbd
+  lattes: C34   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2012
+  authors:
+    - "R. Pinheiro"
+    - "Vanessa Braganholo"
+  title: "Processamento de Consultas XQuery usando Prolog"
+  venue: "Workshop de Teses e Dissertações em Banco de Dados (WTDBD)"
+  details: "13-18"
+  doi: null
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: silva2012-sbbd
+  lattes: C36   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2012
+  authors:
+    - "Tatiane Lima da Silva"
+    - "Fernanda Baião"
+    - "Jonice de Oliveira Sampaio"
+    - "Marta Mattoso"
+    - "Vanessa Braganholo"
+  title: "Recomendações para Fragmentação Horizontal de Bases de Dados XML"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "145-152"
+  doi: null
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: carmo2012-wei
+  lattes: C32   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2012
+  authors:
+    - "D. H. Carmo"
+    - "Vanessa Braganholo"
+  title: "Um Estudo sobre o Uso Didático de DOJOs de Programação"
+  venue: "Workshop sobre Educação em Computação (WEI)"
+  details: "1-10"
+  doi: null
+  oa_url: null
+  local_pdf: "carmo2012-wei.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: delgado2012-wei
+  lattes: C33   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2012
+  authors:
+    - "C. Delgado"
+    - "R. Toledo"
+    - "Vanessa Braganholo"
+  title: "Uso de Dojos no Ensino Superior de Computação"
+  venue: "Workshop sobre Educação em Computação (WEI)"
+  details: "1-10"
+  doi: null
+  oa_url: null
+  local_pdf: "delgado2012-wei.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: oliveira2012-sbbd
+  lattes: C35   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2012
+  authors:
+    - "Alessandreia Marta de Oliveira"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+  title: "Uso de Inferência na Compreensão das Modificações em Documentos Semiestruturados"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "65-72"
+  doi: null
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: escalfoni2011-eswa
+  lattes: J27   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2011
+  authors:
+    - "Rafael Escalfoni"
+    - "Vanessa Braganholo"
+    - "Marcos R. S. Borges"
+  title: "A method for capturing innovation features using group storytelling"
+  venue: "Expert Systems with Applications"
+  details: "38: 1148-1159"
+  doi: "10.1016/j.eswa.2010.05.008"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "Elsevier"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website immediately, with CC BY-NC-ND license and link to DOI. Publisher PDF not allowed."
+    source: "https://www.elsevier.com/about/policies-and-standards/sharing"
+    checked: "2026-11-09"
+
+- id: mattoso2011-jidm
+  lattes: J32   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2011
+  authors:
+    - "Marta Mattoso"
+    - "Vanessa Braganholo"
+    - "Alexandre A. B. Lima"
+    - "Leonardo Murta"
+  title: "Distributed Database Research at COPPE/UFRJ"
+  venue: "Journal of Information and Data Management - JIDM"
+  details: "2: 123-138"
+  doi: "10.5753/jidm.2011.1397"
+  oa_url: "https://journals-sol.sbc.org.br/index.php/jidm/article/download/1397/997"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: carvalho2011-jidm
+  lattes: J31   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2011
+  authors:
+    - "Miguel Gabriel Prazeres Carvalho"
+    - "Linair Maria Campos"
+    - "Vanessa Braganholo"
+    - "María Luiza Machado Campos"
+    - "Maria Luiza de Almeida Campos"
+  title: "Extracting new relations to improve ontology reuse"
+  venue: "Journal of Information and Data Management - JIDM"
+  details: "2: 541-556"
+  doi: "10.5753/jidm.2011.1426"
+  oa_url: "https://journals-sol.sbc.org.br/index.php/jidm/article/download/1426/1060"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: coutinho2011-ccpe
+  lattes: J29   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2011
+  authors:
+    - "Fábio Coutinho"
+    - "Eduardo Ogasawara"
+    - "Daniel de Oliveira"
+    - "Vanessa Braganholo"
+    - "Alexandre A. B. Lima"
+    - "Alberto M. R. Dávila"
+    - "Marta Mattoso"
+  title: "Many Task Computing for Orthologous Genes Identification in Protozoan Genomes using Hydra"
+  venue: "Concurrency and Computation: Practice and Experience"
+  details: "23: 2326-2337"
+  doi: "10.1002/cpe.1786"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "Wiley"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted version on personal website after 12-month embargo (expired), with Wiley notice on first page. Publisher PDF not allowed."
+    source: "https://authors.wiley.com/author-resources/Journal-Authors/licensing/self-archiving.html"
+    checked: "2026-11-09"
+
+- id: silva2011-jcis
+  lattes: J28   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2011
+  authors:
+    - "V. Silva"
+    - "F. Chirigati"
+    - "K. Maia"
+    - "E. Ogasawara"
+    - "D. Oliveira"
+    - "Vanessa Braganholo"
+    - "L. G. P. Murta"
+    - "M. L. Q. Mattoso"
+  title: "Similarity-based Workflow Clustering"
+  venue: "Journal of Computational Interdisciplinary Sciences"
+  details: "2: 23-35"
+  doi: "10.6062/jcis.2011.02.01.0029"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "SBMAC"
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: rodrigues2011-jidm
+  lattes: J30   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2011
+  authors:
+    - "Carla Rodrigues"
+    - "Vanessa Braganholo"
+    - "Marta Mattoso"
+  title: "Virtual Partitioning ad-hoc Queries over Distributed XML databases"
+  venue: "Journal of Information and Data Management - JIDM"
+  details: "2: 495-510"
+  doi: "10.5753/jidm.2011.1423"
+  oa_url: "https://journals-sol.sbc.org.br/index.php/jidm/article/download/1423/1048"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: marinho2011-tapp
+  lattes: C38   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2011
+  authors:
+    - "Anderson Marinho"
+    - "C. M. L. Werner"
+    - "M. L. Q. Mattoso"
+    - "Vanessa Braganholo"
+    - "Leonardo Murta"
+  title: "Challenges in managing implicit and abstract provenance data: experiences with ProvManager"
+  venue: "USENIX Workshop on the Theory and Practice of Provenance (TaPP)"
+  details: "1-6"
+  doi: null
+  oa_url: "https://www.usenix.org/legacy/events/tapp11/tech/final_files/Marinho.pdf"
+  local_pdf: null
+  rights:
+    publisher: "USENIX"
+    status: "open_access"
+    version_needed: null
+    policy: "Public copy available; link it."
+    source: null
+    checked: "2026-11-09"
+
+- id: lima2011-sbbd
+  lattes: C39   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2011
+  authors:
+    - "Diego Laurentino Lima"
+    - "Carla Amor Divino Moreira Delgado"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+  title: "Consultando Documentos XML Utilizando Inferência"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "16-1-16-8"
+  doi: null
+  oa_url: null
+  local_pdf: "lima2011-sbbd.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: ferraz2010-jws
+  lattes: J33   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2010
+  authors:
+    - "Cláudio Ananias Ferraz"
+    - "Vanessa Braganholo"
+    - "Marta Mattoso"
+  title: "ARAXA: Storing and managing Active XML documents"
+  venue: "Journal of Web Semantics"
+  details: "8: 209-224"
+  doi: "10.1016/j.websem.2010.03.001"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "Elsevier"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website immediately, with CC BY-NC-ND license and link to DOI. Publisher PDF not allowed."
+    source: "https://www.elsevier.com/about/policies-and-standards/sharing"
+    checked: "2026-11-09"
+
+- id: oliveira2010-rita
+  lattes: J36   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2010
+  authors:
+    - "Alexandre Oliveira"
+    - "Alessandreia Marta de Oliveira"
+    - "Vanessa Braganholo"
+    - "Leonardo Murta"
+  title: "Gerenciando Alterações em Documentos XML"
+  venue: "Revista de Informática Teórica e Aplicada - RITA"
+  details: "17: 325-348"
+  doi: "10.22456/2175-2745.7522"
+  oa_url: "https://seer.ufrgs.br/rita/article/download/rita_v17_n3_p325/11274"
+  local_pdf: null
+  rights:
+    publisher: "UFRGS"
+    status: "open_access"
+    version_needed: null
+    policy: "Public copy available; link it."
+    source: null
+    checked: "2026-11-09"
+
+- id: figueiredo2010-jidm
+  lattes: J35   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2010
+  authors:
+    - "Guilherme Figueiredo"
+    - "Vanessa Braganholo"
+    - "Marta Mattoso"
+  title: "Processing Queries over Distributed XML Databases"
+  venue: "Journal of Information and Data Management - JIDM"
+  details: "1: 455-470"
+  doi: "10.5753/jidm.2010.1288"
+  oa_url: "https://journals-sol.sbc.org.br/index.php/jidm/article/download/1288/170"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: mattoso2010-ijbpim
+  lattes: J34   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2010
+  authors:
+    - "Marta Mattoso"
+    - "Cláudia Maria Lima Werner"
+    - "Guilherme Horta Travassos"
+    - "Vanessa Braganholo"
+    - "L. G. P. Murta"
+    - "E. Ogasawara"
+    - "D. Oliveira"
+    - "S. Cruz"
+    - "W. Martinho"
+  title: "Towards Supporting the Life Cycle of Large Scale Scientific Experiments"
+  venue: "International Journal of Business Process Integration and Management"
+  details: "5: 79-92"
+  doi: "10.1504/ijbpim.2010.033176"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "Inderscience"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript after 12-month embargo (expired); personal-website posting listed by Sherpa, to confirm on Inderscience page. Publisher PDF not allowed. Existing file mattoso2010-ijbpim.pdf is the PUBLISHER version and must not be linked; accepted manuscript needed."
+    source: "https://www.inderscience.com/mobile/inauthors/index.php?pid=74"
+    checked: "2026-11-09"
+
+- id: ogasawara2010-vecpar
+  lattes: C40   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2010
+  authors:
+    - "Eduardo Ogasawara"
+    - "Jonas Dias"
+    - "Daniel de Oliveira"
+    - "Carla Rodrigues"
+    - "Carlos Pivotto"
+    - "R. Antas"
+    - "Vanessa Braganholo"
+    - "Patrick Valduriez"
+    - "Marta Mattoso"
+  title: "A P2P Approach to Many Tasks Computing for Scientific Workflows"
+  venue: "International Meeting on High Performance Computing for Computational Science (VECPAR)"
+  details: "LNCS 6449, 327-339"
+  doi: "10.1007/978-3-642-19328-6_31"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "Springer"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Proceedings paper: accepted manuscript only, public release 12 months after publication (embargo expired), with \"This is an Accepted Manuscript...\" notice + DOI link."
+    source: "https://www.springernature.com/gp/open-science/policies/book-policies"
+    checked: "2026-11-09"
+
+- id: coutinho2010-ecmls
+  lattes: C41   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2010
+  authors:
+    - "Fábio Coutinho"
+    - "Eduardo Ogasawara"
+    - "Daniel de Oliveira"
+    - "Vanessa Braganholo"
+    - "Alexandre A. B. Lima"
+    - "Alberto M. R. Dávila"
+    - "Marta Mattoso"
+  title: "Data Parallelism in Bioinformatics Workflows Using Hydra"
+  venue: "Workshop on Emerging Computational Methods for the Life Sciences (ECMLS @ HPDC)"
+  details: "507-515"
+  doi: "10.1145/1851476.1851550"
+  oa_url: "https://dl.acm.org/doi/pdf/10.1145/1851476.1851550"
+  local_pdf: null
+  rights:
+    publisher: "ACM"
+    status: "open_access"
+    version_needed: null
+    policy: "ACM Digital Library is fully open access since Jan 2026 (Basic edition); link the DL copy."
+    source: "https://www.acm.org/publications/openaccess"
+    checked: "2026-11-09"
+
+- id: freitas2010-wim
+  lattes: C43   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2010
+  authors:
+    - "J. V. Freitas"
+    - "Vanessa Braganholo"
+    - "M. L. M. Campos"
+  title: "Data Warehousing e Raciocínio Baseado em Casos no suporte à Tomada de Decisão no Atendimento Pré-Hospitalar"
+  venue: "Workshop de Informática Médica (WIM)"
+  details: "1-10"
+  doi: null
+  oa_url: null
+  local_pdf: "freitas2010-wim.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: carvalho2010-ontobras
+  lattes: C47   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2010
+  authors:
+    - "M. Carvalho"
+    - "Vanessa Braganholo"
+    - "M. L. M. Campos"
+    - "M. L. A. Campos"
+  title: "Enriquecimento de Ontologias: uma Abordagem para Extração de Conhecimento do Campo Definição"
+  venue: "Seminário de Pesquisa em Ontologia do Brasil (ONTOBRAS)"
+  details: "1-10"
+  doi: null
+  oa_url: null
+  local_pdf: "carvalho2010-ontobras.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: marinho2010-ipaw
+  lattes: C46   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2010
+  authors:
+    - "Anderson Marinho"
+    - "Leonardo Murta"
+    - "Cláudia Maria Lima Werner"
+    - "Vanessa Braganholo"
+    - "Eduardo Ogasawara"
+    - "Sérgio Manuel Serra da Cruz"
+    - "Marta Mattoso"
+  title: "Integrating Provenance Data from Distributed Workflow Systems with ProvManager"
+  venue: "International Provenance and Annotation Workshop (IPAW)"
+  details: "1-4"
+  doi: "10.1007/978-3-642-17819-1_35"
+  oa_url: "https://link.springer.com/content/pdf/10.1007%2F978-3-642-17819-1_35.pdf"
+  local_pdf: null
+  rights:
+    publisher: "Springer"
+    status: "open_access"
+    version_needed: null
+    policy: "Public copy available; link it."
+    source: null
+    checked: "2026-11-09"
+
+- id: marinho2010-cis
+  lattes: C50   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2010
+  authors:
+    - "A. Marinho"
+    - "L. G. P. Murta"
+    - "C. M. L. Werner"
+    - "Vanessa Braganholo"
+    - "S. Cruz"
+    - "E. Ogasawara"
+    - "M. L. Q. Mattoso"
+  title: "Managing Provenance in Scientific Workflows with ProvManager"
+  venue: "Challenges in eScience Workshop (CIS)"
+  details: "1-6"
+  doi: null
+  oa_url: null
+  local_pdf: "marinho2010-cis.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: silva2010-wtdbd
+  lattes: C49   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2010
+  authors:
+    - "T. L. Silva"
+    - "M. L. Q. Mattoso"
+    - "Vanessa Braganholo"
+  title: "Metodologia para projeto de fragmentação de dados XML sobre bases distribuídas"
+  venue: "Workshop de Teses e Dissertações em Banco de Dados (WTDBD)"
+  details: "1-6"
+  doi: null
+  oa_url: null
+  local_pdf: "silva2010-wtdbd.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: dias2010-wp2p
+  lattes: C44   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2010
+  authors:
+    - "Jonas Dias"
+    - "Carla Rodrigues"
+    - "Eduardo Ogasawara"
+    - "Daniel de Oliveira"
+    - "Vanessa Braganholo"
+    - "Esther Pacitti"
+    - "Marta Mattoso"
+  title: "SciMulator: Um Ambiente de Simulação de Workflows Científicos em Redes P2P"
+  venue: "Workshop de Redes Dinâmicas e Sistemas Peer-to-Peer (WP2P)"
+  details: "1-12"
+  doi: null
+  oa_url: "https://hal-lirmm.ccsd.cnrs.fr/lirmm-00641030"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Public copy available; link it."
+    source: null
+    checked: "2026-11-09"
+
+- id: silva2010-bresci
+  lattes: C42   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2010
+  authors:
+    - "V. Silva"
+    - "F. Chirigati"
+    - "K. Maia"
+    - "E. Ogasawara"
+    - "D. Oliveira"
+    - "Vanessa Braganholo"
+    - "L. G. P. Murta"
+    - "M. L. Q. Mattoso"
+  title: "SimiFlow: Uma Arquitetura para Agrupamento de Workflows por Similaridade"
+  venue: "Brazilian e-Science Workshop"
+  details: "33-40"
+  doi: null
+  oa_url: null
+  local_pdf: "silva2010-escience.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: carvalho2010-sbsi
+  lattes: C45   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2010
+  authors:
+    - "Miguel Carvalho"
+    - "Ruben Albuquerque"
+    - "Marcos R. S. Borges"
+    - "Vanessa Braganholo"
+  title: "TellStory-Analyzer: Um mecanismo para aprimorar a externalização do conhecimento"
+  venue: "Simpósio Brasileiro de Sistemas de Informação (SBSI)"
+  details: "1-12"
+  doi: "10.5753/sbsi.2010.14716"
+  oa_url: "https://sol.sbc.org.br/index.php/sbsi/article/download/14716/14561"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Freely available at SBC OpenLib (SOL); link the public copy."
+    source: "https://sol.sbc.org.br"
+    checked: "2026-11-09"
+
+- id: costa2010-wtdbd
+  lattes: C48   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2010
+  authors:
+    - "P. Costa"
+    - "Vanessa Braganholo"
+  title: "Uma nova abordagem para consulta a dados de proveniência"
+  venue: "Workshop de Teses e Dissertações em Banco de Dados (WTDBD)"
+  details: "1-6"
+  doi: null
+  oa_url: null
+  local_pdf: "costa2010-wtdbd.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: laporti2009-compind
+  lattes: J37   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2009
+  authors:
+    - "Viviane Laporti"
+    - "Marcos R. S. Borges"
+    - "Vanessa Braganholo"
+  title: "Athena: A collaborative approach to requirements elicitation"
+  venue: "Computers in Industry"
+  details: "60: 367-380"
+  doi: "10.1016/j.compind.2009.02.011"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "Elsevier"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website immediately, with CC BY-NC-ND license and link to DOI. Publisher PDF not allowed."
+    source: "https://www.elsevier.com/about/policies-and-standards/sharing"
+    checked: "2026-11-09"
+
+- id: moro2009-sigmodrec
+  lattes: J38   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2009
+  authors:
+    - "M. M. Moro"
+    - "Vanessa Braganholo"
+    - "C. Dorneles"
+    - "D. Duarte"
+    - "R. Galante"
+    - "R. Mello"
+  title: "XML: some papers in a haystack"
+  venue: "SIGMOD Record"
+  details: "38: 29-34"
+  doi: "10.1145/1815918.1815924"
+  oa_url: "https://dl.acm.org/doi/pdf/10.1145/1815918.1815924"
+  local_pdf: null
+  rights:
+    publisher: "ACM"
+    status: "open_access"
+    version_needed: null
+    policy: "ACM Digital Library is fully open access since Jan 2026 (Basic edition); link the DL copy."
+    source: "https://www.acm.org/publications/openaccess"
+    checked: "2026-11-09"
+
+- id: escalfoni2009-cscwd
+  lattes: C63   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2009
+  authors:
+    - "Rafael Escalfoni"
+    - "Vanessa Braganholo"
+    - "Marcos R. S. Borges"
+  title: "Applying Group Storytelling to Capture Innovation Features"
+  venue: "International Conference on Computer Supported Cooperative Work in Design (CSCWD)"
+  details: "209-214"
+  doi: "10.1109/cscwd.2009.4968060"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "IEEE"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website with IEEE copyright notice and DOI link. Publisher PDF not allowed."
+    source: "https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/"
+    checked: "2026-11-09"
+
+- id: goncalves2009-bresci
+  lattes: C55   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2009
+  authors:
+    - "F. B. Goncalves"
+    - "C. E. T. Oliveira"
+    - "Vanessa Braganholo"
+  title: "Compartilhamento de Dados e Recursos Computacionais de Armazenamento em Redes P2P Sociais"
+  venue: "Brazilian e-Science Workshop"
+  details: "1-8"
+  doi: null
+  oa_url: null
+  local_pdf: "goncalves2009-science.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: rodrigues2009-sbbd
+  lattes: C59   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2009
+  authors:
+    - "C. A. S. Rodrigues"
+    - "J. F. Almeida"
+    - "Vanessa Braganholo"
+    - "M. L. Q. Mattoso"
+  title: "Consulta a Bases XML distribuídas em P2P"
+  venue: "Sessão de Pôsteres do Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "1-4"
+  doi: null
+  oa_url: null
+  local_pdf: "rodrigues2009-sbbd-posteres.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: mattoso2009-semish
+  lattes: C52   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2009
+  authors:
+    - "M. L. Q. Mattoso"
+    - "C. M. L. Werner"
+    - "G. H. Travassos"
+    - "Vanessa Braganholo"
+    - "L. G. P. Murta"
+    - "E. Ogasawara"
+    - "F. Oliveira"
+    - "W. Martinho"
+  title: "Desafios no Apoio à Composição de Experimentos Científicos em Larga Escala"
+  venue: "Seminário Integrado de Software e Hardware (SEMISH)"
+  details: "307-321"
+  doi: null
+  oa_url: null
+  local_pdf: "mattoso2009-semish.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: ogasawara2009-mtags
+  lattes: C60   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2009
+  authors:
+    - "Eduardo Ogasawara"
+    - "Daniel de Oliveira"
+    - "Fernando Chirigati"
+    - "Carlos Eduardo Barbosa"
+    - "Renato Nascimento Elias"
+    - "Vanessa Braganholo"
+    - "Álvaro L. G. A. Coutinho"
+    - "Marta Mattoso"
+  title: "Exploring Many Task Computing in Scientific Workflows"
+  venue: "Workshop on Many-Task Computing on Grids and Supercomputers (MTAGS)"
+  details: "1-10"
+  doi: "10.1145/1646468.1646470"
+  oa_url: "https://dl.acm.org/doi/pdf/10.1145/1646468.1646470"
+  local_pdf: null
+  rights:
+    publisher: "ACM"
+    status: "open_access"
+    version_needed: null
+    policy: "ACM Digital Library is fully open access since Jan 2026 (Basic edition); link the DL copy."
+    source: "https://www.acm.org/publications/openaccess"
+    checked: "2026-11-09"
+
+- id: santos2009-cilamce
+  lattes: C61   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2009
+  authors:
+    - "I. H. F. Santos"
+    - "Vanessa Braganholo"
+    - "M. L. Q. Mattoso"
+    - "B. P. Jacob"
+    - "C. Albrecht"
+  title: "Integrating the Galileo Applications for Simulation of Offshore Systems via the GXML Unified Format"
+  venue: "Congresso Ibero-Latino-Americano de Métodos Computacionais em Engenharia (CILAMCE)"
+  details: "1-15"
+  doi: null
+  oa_url: null
+  local_pdf: "santos2009-cilamce.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: carvalho2009-sbbd
+  lattes: C54   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2009
+  authors:
+    - "M. Carvalho"
+    - "R. P. Albuquerque"
+    - "M. Borges"
+    - "Vanessa Braganholo"
+  title: "PPGI-SGPC Sistema Para Gestão da Produção Científica"
+  venue: "Sessão de Demos do Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "1-6"
+  doi: null
+  oa_url: null
+  local_pdf: "carvalho2009-sbbd-demos.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: campos2009-ontobras
+  lattes: C58   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2009
+  authors:
+    - "M. L. M. Campos"
+    - "M. L. A. Campos"
+    - "M. C. R. Cavalcanti"
+    - "L. M. Campos"
+    - "J. C. P. Silva"
+    - "Vanessa Braganholo"
+    - "A. Dávila"
+  title: "Pesquisa em Ontologias no Grupo de Engenharia do Conhecimento (GRECO)"
+  venue: "Seminário de Pesquisa em Ontologia do Brasil (ONTOBRAS)"
+  details: "1-5"
+  doi: null
+  oa_url: null
+  local_pdf: "campos2009-ontobras.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: mattoso2009-colibri
+  lattes: C53   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2009
+  authors:
+    - "M. L. Q. Mattoso"
+    - "E. Pacitti"
+    - "P. Valduriez"
+    - "Vanessa Braganholo"
+    - "A. Lima"
+  title: "SARAVÁ: data sharing for online communities in P2P"
+  venue: "Colibri: Colóquio em Informática: Brasil / INRIA, Cooperações, Avanços e Desafios"
+  details: "2573-2577"
+  doi: null
+  oa_url: "https://inria.hal.science/inria-00416494"
+  local_pdf: null
+  rights:
+    publisher: "SBC"
+    status: "open_access"
+    version_needed: null
+    policy: "Public copy available; link it."
+    source: null
+    checked: "2026-11-09"
+
+- id: guerra2009-cilamce
+  lattes: C62   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2009
+  authors:
+    - "G. Guerra"
+    - "R. Elias"
+    - "A. L. G. A. Coutinho"
+    - "Vanessa Braganholo"
+    - "D. Oliveira"
+    - "E. Ogasawara"
+    - "M. L. Q. Mattoso"
+  title: "Scientific Workflow Management System applied to uncertainty quantification in Large Eddy Simulation"
+  venue: "Congresso Ibero-Latino-Americano de Métodos Computacionais em Engenharia (CILAMCE)"
+  details: "1-15"
+  doi: null
+  oa_url: null
+  local_pdf: "guerra2009-cilamce.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: escalfoni2009-sbsc
+  lattes: C57   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2009
+  authors:
+    - "R. E. Escalfoni"
+    - "D. Machado"
+    - "Vanessa Braganholo"
+    - "M. Borges"
+  title: "Uma Abordagem Colaborativa para a Identificação de Fatores que Influenciam a Inovação"
+  venue: "Simpósio Brasileiro de Sistemas Colaborativos (SBSC)"
+  details: "1-9"
+  doi: null
+  oa_url: null
+  local_pdf: "escalfoni2009-sbsc.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: elias2009-parcfd
+  lattes: C51   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2009
+  authors:
+    - "R. Elias"
+    - "Vanessa Braganholo"
+    - "J. Clarke"
+    - "M. L. Q. Mattoso"
+    - "A. L. G. A. Coutinho"
+  title: "Using XML with Large Parallel Datasets: Is There Any Hope?"
+  venue: "Parallel Computational Fluid Dynamics (ParCFD)"
+  details: "1-5"
+  doi: null
+  oa_url: null
+  local_pdf: "elias2009-parcfd.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: jatoba2009-sbsc
+  lattes: C56   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2009
+  authors:
+    - "A. Jatoba"
+    - "N. Albernaz"
+    - "S. Vrabl"
+    - "Vanessa Braganholo"
+  title: "Wiki para Deficientes Visuais: Explorando Novas Possibilidades de Colaboração"
+  venue: "Simpósio Brasileiro de Sistemas Colaborativos (SBSC)"
+  details: "1-8"
+  doi: null
+  oa_url: null
+  local_pdf: "jatoba2009-sbsc.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: moro2009-jai
+  lattes: B1   # position in Lattes export of 2026-11-09
+  type: chapter
+  status: published
+  year: 2009
+  authors:
+    - "M. M. Moro"
+    - "Vanessa Braganholo"
+  title: "Desmistificando XML: da Pesquisa à Prática Industrial"
+  venue: "Atualização em Informática 2009"
+  details: "231-278"
+  doi: null
+  oa_url: null
+  local_pdf: "moro2009-jai.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: elias2008-ontobras
+  lattes: C65   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2008
+  authors:
+    - "A. B. Elias"
+    - "Vanessa Braganholo"
+    - "M. L. M. Campos"
+  title: "Explorando Relações Semânticas para Expansão de Consultas em Acervos Específicos de domínio"
+  venue: "Seminário de Pesquisa em Ontologia no Brasil (ONTOBRAS)"
+  details: "1-6"
+  doi: null
+  oa_url: null
+  local_pdf: "elias2008-semonto.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: mattoso2008-semish
+  lattes: C64   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2008
+  authors:
+    - "M. L. Q. Mattoso"
+    - "C. M. L. Werner"
+    - "G. H. Travassos"
+    - "Vanessa Braganholo"
+    - "L. G. P. Murta"
+  title: "Gerenciando Experimentos Científicos em Larga Escala"
+  venue: "Seminário Integrado de Software e Hardware (SEMISH)"
+  details: "121-135"
+  doi: null
+  oa_url: null
+  local_pdf: "mattoso2008-semish.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: laporti2007-cscwd
+  lattes: C66   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2007
+  authors:
+    - "Viviane Laporti"
+    - "Marcos R. S. Borges"
+    - "Vanessa Braganholo"
+  title: "A Collaborative Approach to Requirements Elicitation"
+  venue: "International Conference on Computer Supported Cooperative Work in Design (CSCWD)"
+  details: "734-739"
+  doi: "10.1109/cscwd.2007.4281527"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "IEEE"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website with IEEE copyright notice and DOI link. Publisher PDF not allowed."
+    source: "https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/"
+    checked: "2026-11-09"
+
+- id: ferraz2007-sbbd
+  lattes: C67   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2007
+  authors:
+    - "Cláudio Ananias Ferraz"
+    - "Vanessa Braganholo"
+    - "Marta Mattoso"
+  title: "Storing AXML Documents with ARAXA"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "255-269"
+  doi: null
+  oa_url: null
+  local_pdf: "ferraz2007-sbbd.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: figueiredo2007-sbbd
+  lattes: C68   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2007
+  authors:
+    - "G. C. Figueiredo"
+    - "Vanessa Braganholo"
+    - "M. L. Q. Mattoso"
+  title: "Um Mediador para o Processamento de Consultas sobre Bases XML Distribuídas"
+  venue: "Sessão de Demos do Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "21-26"
+  doi: null
+  oa_url: null
+  local_pdf: "figueiredo2007-sbbd-demos.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: braganholo2007-handbook
+  lattes: B2   # position in Lattes export of 2026-11-09
+  type: chapter
+  status: published
+  year: 2007
+  authors:
+    - "Vanessa Braganholo"
+    - "Bernardo Miranda"
+    - "Marta Mattoso"
+  title: "Open Source Web Portals"
+  venue: "Handbook of Research on Open Source Software: Technological, Economic, and Social Perspectives"
+  details: "211-226"
+  doi: "10.4018/978-1-59140-999-1.ch017"
+  oa_url: null
+  local_pdf: "braganholo2007-opensource.pdf"
+  rights:
+    publisher: "IGI Global"
+    status: "allowed"
+    version_needed: "published"
+    policy: "Final typeset PDF of own chapter/article may be posted on personal website with link to the IGI page (IGI Fair Use Policy) - to re-verify, page was not reachable on check date."
+    source: "https://www.igi-global.com/policies/content-reuse"
+    checked: "2026-11-09"
+
+- id: braganholo2006-tods
+  lattes: J39   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2006
+  authors:
+    - "Vanessa Braganholo"
+    - "S. B. Davidson"
+    - "C. A. Heuser"
+  title: "PATAXÓ: a framework to allow updates through XML views"
+  venue: "ACM Transactions on Database Systems"
+  details: "31: 839-886"
+  doi: "10.1145/1166074.1166078"
+  oa_url: "https://dl.acm.org/doi/pdf/10.1145/1166074.1166078"
+  local_pdf: null
+  rights:
+    publisher: "ACM"
+    status: "open_access"
+    version_needed: null
+    policy: "ACM Digital Library is fully open access since Jan 2026 (Basic edition); link the DL copy."
+    source: "https://www.acm.org/publications/openaccess"
+    checked: "2026-11-09"
+
+- id: vargas2006-datax
+  lattes: C70   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2006
+  authors:
+    - "A. P. Vargas"
+    - "Vanessa Braganholo"
+    - "C. A. Heuser"
+  title: "Conflict Resolution and Delta Detection in Updates through XML views"
+  venue: "EDBT Workshop on Database Technologies for Handling XML Information on the Web (DATAX)"
+  details: "LNCS 4254, 192-205"
+  doi: "10.1007/11896548_18"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "Springer"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Proceedings paper: accepted manuscript only, public release 12 months after publication (embargo expired), with \"This is an Accepted Manuscript...\" notice + DOI link."
+    source: "https://www.springernature.com/gp/open-science/policies/book-policies"
+    checked: "2026-11-09"
+
+- id: andrade2006-datax
+  lattes: C69   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2006
+  authors:
+    - "Alexandre Gois De Andrade"
+    - "Gabriela Ruberg"
+    - "Fernanda Baião"
+    - "Vanessa Braganholo"
+    - "Marta Mattoso"
+  title: "Efficiently Processing XML Queries over Fragmented Repositories with PartiX"
+  venue: "EDBT Workshop on Database Technologies for Handling XML Information on the Web (DATAX)"
+  details: "LNCS 4254, 150-163"
+  doi: "10.1007/11896548_15"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "Springer"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Proceedings paper: accepted manuscript only, public release 12 months after publication (embargo expired), with \"This is an Accepted Manuscript...\" notice + DOI link."
+    source: "https://www.springernature.com/gp/open-science/policies/book-policies"
+    checked: "2026-11-09"
+
+- id: ruberg2006-hpdgrid
+  lattes: C71   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2006
+  authors:
+    - "Nicolaas Ruberg"
+    - "Nelson Kotowski"
+    - "Amanda S. de Mattos"
+    - "Luciana Matos"
+    - "Melissa Machado"
+    - "Daniel de Oliveira"
+    - "Rafael Studart Monclar"
+    - "Cláudio Ananias Ferraz"
+    - "Talitta Sanchotene"
+    - "Vanessa Braganholo"
+  title: "Experiencing Data Grids"
+  venue: "International Workshop on High-Performance Data Management in Grid Environments (HPDGrid @ VECPAR)"
+  details: "LNCS 4395, 707-718"
+  doi: "10.1007/978-3-540-71351-7_56"
+  oa_url: null
+  local_pdf: "ruberg2006-hpdgrid.pdf"
+  rights:
+    publisher: "Springer"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Proceedings paper: accepted manuscript only, public release 12 months after publication (embargo expired), with \"This is an Accepted Manuscript...\" notice + DOI link."
+    source: "https://www.springernature.com/gp/open-science/policies/book-policies"
+    checked: "2026-11-09"
+
+- id: ferraz2006-wtdbd
+  lattes: C72   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2006
+  authors:
+    - "C. Ferraz"
+    - "Vanessa Braganholo"
+    - "M. L. Q. Mattoso"
+  title: "Uma Abordagem para o Armazenamento de Documentos XML Ativos"
+  venue: "Workshop de Teses e Dissertações em Banco de Dados (WTDBD)"
+  details: "38-42"
+  doi: null
+  oa_url: null
+  local_pdf: "ferraz2006-wtdbd.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: moro2005-ieeepot
+  lattes: J40   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2005
+  authors:
+    - "Mirella Moura Moro"
+    - "Vanessa Braganholo"
+    - "Andre Costi Nacul"
+    - "Miguel Rodrigues Fornari"
+  title: "The Successful Grad Student"
+  venue: "IEEE Potentials"
+  details: "24(3): 11-13,45"
+  doi: "10.1109/mp.2005.1502498"
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "IEEE"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website with IEEE copyright notice and DOI link. Publisher PDF not allowed. Existing file IEEE-Pot-2005.pdf is the PUBLISHER version and must not be linked; accepted manuscript needed."
+    source: "https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/"
+    checked: "2026-11-09"
+
+- id: braganholo2005-wsl
+  lattes: C75   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2005
+  authors:
+    - "Vanessa Braganholo"
+    - "M. L. Q. Mattoso"
+  title: "A comparison of Free Software Web Portals"
+  venue: "Workshop de Software Livre (WSL)"
+  details: "169-176"
+  doi: null
+  oa_url: null
+  local_pdf: "braganholo2005-wsl.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: figueiredo2005-wtdbd
+  lattes: C77   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2005
+  authors:
+    - "G. C. Figueiredo"
+    - "Vanessa Braganholo"
+    - "M. L. Q. Mattoso"
+  title: "Consultas sobre visões XML de Bases Relacionais Distribuídas"
+  venue: "Workshop de Teses e Dissertações em Banco de Dados (WTDBD)"
+  details: null
+  doi: null
+  oa_url: null
+  local_pdf: "figueiredo2005-wtdbd.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: mattoso2005-sbbd
+  lattes: C78   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2005
+  authors:
+    - "M. L. Q. Mattoso"
+    - "G. Zimbrão"
+    - "A. Lima"
+    - "F. Baião"
+    - "Vanessa Braganholo"
+    - "A. Aveleda"
+    - "B. Miranda"
+    - "B. K. Almentero"
+    - "M. N. Costa"
+  title: "ParGRES: Middleware para Processamento Paralelo de Consultas OLAP em Clusters de Banco de Dados"
+  venue: "Sessão de Demos do Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "19-24"
+  doi: null
+  oa_url: null
+  local_pdf: "mattoso2005-sbbd-demos.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: mattoso2005-wsl
+  lattes: C74   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2005
+  authors:
+    - "M. L. Q. Mattoso"
+    - "G. Zimbrão"
+    - "A. Lima"
+    - "F. Baião"
+    - "Vanessa Braganholo"
+    - "A. Aveleda"
+    - "B. Miranda"
+    - "B. K. Almentero"
+    - "M. N. Costa"
+  title: "ParGRES: uma camada de processamento paralelo de consultas sobre o PostgreSQL"
+  venue: "Workshop de Software Livre (WSL)"
+  details: "259-264"
+  doi: null
+  oa_url: null
+  local_pdf: "mattoso2005-wsl.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: vargas2005-wtdbd
+  lattes: C76   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2005
+  authors:
+    - "A. P. Vargas"
+    - "C. A. Heuser"
+    - "Vanessa Braganholo"
+  title: "Suporte a transações longas em atualizações através de visões XML"
+  venue: "Workshop de Teses e Dissertações em Banco de Dados (WTDBD)"
+  details: null
+  doi: null
+  oa_url: null
+  local_pdf: "vargas2005-wtdbd.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: braganholo2005-ctd
+  lattes: C73   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2005
+  authors:
+    - "Vanessa Braganholo"
+    - "S. B. Davidson"
+    - "C. A. Heuser"
+  title: "Updating relations through XML views"
+  venue: "Concurso de Teses e Dissertações da SBC (CTD)"
+  details: "95-103"
+  doi: null
+  oa_url: null
+  local_pdf: "braganholo2005-ctd.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: moro2004-rita
+  lattes: J41   # position in Lattes export of 2026-11-09
+  type: journal
+  status: published
+  year: 2004
+  authors:
+    - "Mirella Moura Moro"
+    - "Vanessa Braganholo"
+    - "Andre Costi Nacul"
+    - "Miguel Rodrigues Fornari"
+  title: "Rumo ao título de Doutor/Mestre"
+  venue: "Revista de Informática Teórica e Aplicada - RITA"
+  details: "10(2): 99-112"
+  doi: null
+  oa_url: null
+  local_pdf: "moro2004-rita.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: braganholo2004-vldb
+  lattes: C79   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2004
+  authors:
+    - "Vanessa Braganholo"
+    - "S. B. Davidson"
+    - "C. A. Heuser"
+  title: "From XML View Updates to Relational View Updates: old solutions to a new problem"
+  venue: "International Conference on Very Large Data Bases (VLDB)"
+  details: "276-287"
+  doi: "10.1016/B978-012088469-8/50027-9"
+  oa_url: null
+  local_pdf: "vldb2004.pdf"
+  rights:
+    publisher: "VLDB Endowment"
+    status: "allowed"
+    version_needed: "published"
+    policy: "Proceedings carry the VLDB notice \"Permission to copy without fee all or part of this material is granted provided that the copies are not made or distributed for direct commercial advantage...\"; local copy keeps that notice. Public URL at vldb.org could not be verified (blocks scripts)."
+    source: null
+    checked: "2026-11-09"
+
+- id: braganholo2004-wtdbd
+  lattes: C80   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2004
+  authors:
+    - "Vanessa Braganholo"
+    - "C. A. Heuser"
+    - "A. I. Reis"
+  title: "Redigindo artigos de Ciência da Computação: uma visão geral para alunos de mestrado e doutorado"
+  venue: "Workshop de Teses e Dissertações em Banco de Dados (WTDBD)"
+  details: null
+  doi: null
+  oa_url: null
+  local_pdf: "braganholo2004-wtdbd.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: braganholo2003-webdb
+  lattes: C81   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2003
+  authors:
+    - "Vanessa Braganholo"
+    - "Susan B. Davidson"
+    - "Carlos Alberto Heuser"
+  title: "On the updatability of XML views over relational databases"
+  venue: "International Workshop on the Web and Databases (WebDB)"
+  details: "31-36"
+  doi: null
+  oa_url: null
+  local_pdf: "braganholo2003-webdb.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: braganholo2003-sbbd
+  lattes: C82   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2003
+  authors:
+    - "Vanessa Braganholo"
+    - "Susan B. Davidson"
+    - "Carlos Alberto Heuser"
+  title: "UXQuery: Building updatable XML Views over Relational Databases"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD)"
+  details: "26-40"
+  doi: null
+  oa_url: null
+  local_pdf: "braganholo2003-sbbd.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: braganholo2002-wtdbd
+  lattes: C83   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2002
+  authors:
+    - "Vanessa Braganholo"
+    - "C. A. Heuser"
+  title: "Updating Relational Databases through XML Views"
+  venue: "Workshop de Teses e Dissertações em Banco de Dados (WTDBD)"
+  details: null
+  doi: null
+  oa_url: null
+  local_pdf: "braganholo2002-wtdbd.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: braganholo2001-iiwas
+  lattes: C85   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2001
+  authors:
+    - "Vanessa Braganholo"
+    - "C. A. Heuser"
+    - "C. Vittori"
+  title: "Updating Relational Databases through XML Views"
+  venue: "International Conference on Information Integration and Web-based Applications and Services (iiWAS)"
+  details: "85-94"
+  doi: null
+  oa_url: null
+  local_pdf: "braganholo2001-iiwas.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: braganholo2001-ideas
+  lattes: C84   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2001
+  authors:
+    - "Vanessa Braganholo"
+    - "C. A. Heuser"
+  title: "XML Schema, RDF(S) e UML: uma comparação"
+  venue: "Workshop Iberoamericano de Ingeniería de Requisitos y Ambientes de Software (IDEAS)"
+  details: "78-90"
+  doi: null
+  oa_url: null
+  local_pdf: "braganholo2001-ideas.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
+
+- id: mello2000-sbbd
+  lattes: C86   # position in Lattes export of 2026-11-09
+  type: conference
+  status: published
+  year: 2000
+  authors:
+    - "R. Mello"
+    - "C. Dorneles"
+    - "A. Kade"
+    - "Vanessa Braganholo"
+    - "C. A. Heuser"
+  title: "Dados Semi-Estruturados"
+  venue: "Simpósio Brasileiro de Banco de Dados (SBBD) - Tutorial"
+  details: "475-511"
+  doi: null
+  oa_url: null
+  local_pdf: "tutorial.pdf"
+  rights:
+    publisher: null
+    status: "to_confirm"
+    version_needed: "any"
+    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
+    source: null
+    checked: "2026-11-09"
