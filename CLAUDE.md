@@ -97,6 +97,25 @@ numa pasta temporária e rodar
 - Conferir: comparar o texto (`pdftotext`) com o PDF que ela forneceu e checar as cores na prévia.
 - Salvar como `src/papers/<id>.pdf` e preencher `local_pdf`.
 
+Quando o manuscrito aceito já existe em PDF limpo (ex.: gerado do Word), não é
+preciso recompilar: carimbar o aviso com `pdfpages` + `eso-pic` (`\AddToShipoutPictureFG*`
+antes de `\includepdf[pages=-]{aam.pdf}`), conferindo que o aviso não cobre o título.
+Antes, comparar o texto palavra a palavra com o PDF publicado para confirmar que é a versão aceita.
+Diferenças de copidesque/prova são esperadas (o manuscrito aceito não as inclui); avisar a Vanessa só do que for conteúdo.
+
+Armadilhas:
+- PDFs "finais" nas pastas camera-ready às vezes já são a versão da editora (cabeçalho do evento,
+  rodapé "978-…/$31.00 © IEEE", produtor "Conference Publishing Solutions"/iText). Esses não servem.
+- Word via AppleScript: o Word só tem acesso à pasta já liberada pela Vanessa
+  (`<scratchpad>/aam/is2020/word`); em outra pasta dá timeout (-1712). Copiar o .docx para lá.
+- Documentos com controle de alterações ligado: antes de salvar em PDF,
+  `set track revisions of d to false` e `accept all revisions d`, senão saem balões na margem.
+- O Word desta máquina substitui "Times" por Sylfaen (muda a paginação). Se já houver um PDF
+  limpo com as fontes certas, preferir editá-lo: remover blocos de texto do stream da página com
+  pypdf (blocos BT…ET pela coordenada y) em vez de regerar pelo Word.
+
 Avisos usados:
 - Springer: "This version of the article has been accepted for publication, after peer review (when applicable) and is subject to Springer Nature's AM terms of use (https://www.springernature.com/gp/open-research/policies/accepted-manuscript-terms), but is not the Version of Record and does not reflect post-acceptance improvements, or any corrections. The Version of Record is available online at: https://doi.org/<doi>"
 - Elsevier: "© <ano>. This manuscript version is made available under the CC-BY-NC-ND 4.0 license https://creativecommons.org/licenses/by-nc-nd/4.0/. The final version was published in <revista> <vol>: <pp>, https://doi.org/<doi>"
+- IEEE: "© <ano> IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works. Published in: <evento>, pp. <pp>. DOI: https://doi.org/<doi>"
+- Wiley: "This is the peer reviewed version of the following article: <autores>. <título>. <revista> <vol>(<n>): <pp> (<ano>), which has been published in final form at https://doi.org/<doi>. This article may be used for non-commercial purposes in accordance with Wiley Terms and Conditions for Use of Self-Archived Versions."

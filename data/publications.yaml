@@ -420,7 +420,7 @@
   details: "94: 101610"
   doi: "10.1016/j.is.2020.101610"
   oa_url: null
-  local_pdf: null
+  local_pdf: oliveira2020-is.pdf
   rights:
     publisher: "Elsevier"
     status: "allowed"
@@ -517,7 +517,7 @@
   details: "56: 1753-1770"
   doi: "10.1016/j.ipm.2019.05.011"
   oa_url: null
-  local_pdf: null
+  local_pdf: "santos2019-ipm.pdf"
   rights:
     publisher: "Elsevier"
     status: "allowed"
@@ -568,7 +568,7 @@
   details: "1-11"
   doi: "10.1109/msr.2019.00077"
   oa_url: null
-  local_pdf: null
+  local_pdf: "pimentel2019-msr.pdf"
   rights:
     publisher: "IEEE"
     status: "allowed"
@@ -747,7 +747,7 @@
   details: "68: 111-127"
   doi: "10.1016/j.future.2016.08.016"
   oa_url: null
-  local_pdf: null
+  local_pdf: marinho2017-fgcs.pdf
   rights:
     publisher: "Elsevier"
     status: "allowed"
@@ -936,7 +936,7 @@
   details: "71-80"
   doi: "10.1109/sbcars.2016.22"
   oa_url: null
-  local_pdf: null
+  local_pdf: ribeiro2016-sbcars.pdf
   rights:
     publisher: "IEEE"
     status: "allowed"
@@ -1330,7 +1330,7 @@
   details: "92-95"
   doi: "10.1109/SECSE.2013.6615105"
   oa_url: null
-  local_pdf: null
+  local_pdf: neves2013-se-cse.pdf
   rights:
     publisher: "IEEE"
     status: "allowed"
@@ -1431,7 +1431,7 @@
   details: "24: 1513-1530"
   doi: "10.1002/cpe.1870"
   oa_url: null
-  local_pdf: null
+  local_pdf: marinho2012-ccpe.pdf
   rights:
     publisher: "Wiley"
     status: "allowed"
