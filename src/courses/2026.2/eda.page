@@ -209,8 +209,8 @@ Para ajudar na identificação de memory leak, vocês podem usar as seguintes fe
 |29/10/2026| **SEM AULA - AGENDA ACADÊMICA**
 |03/11/2026| Exercícios no Laboratório (Tabela Hash em Memória Principal)
 |05/11/2026| Exercícios no Laboratório (Tabela Hash em Disco)
-|10/11/2026| AULA
-|12/11/2026| AULA
+|10/11/2026| [Heap](/material/ed/14-Heap.pdf)<BR/>[Implementação em memória](/material/ed/heap.c)<BR/>[Implementação em disco](/material/ed/heap-disco.c)
+|12/11/2026| Aula de Dúvidas
 |17/11/2026| **PROVA 2**
 |19/11/2026| **SEGUNDA CHAMADA**
 |24/11/2026| **SEM AULA**
