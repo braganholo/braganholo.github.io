@@ -52,6 +52,37 @@
     source: "https://journals-sol.sbc.org.br/index.php/jidm/about/submissions"
     checked: "2026-11-09"
 
+- id: pimentel2026-is
+  lattes: null   # accepted 2026-11 (after the Lattes export of 2026-11-09)
+  type: journal
+  status: accepted
+  year: 2026
+  authors:
+    - "João Felipe Pimentel"
+    - "Arthur Paiva"
+    - "João Pedro Lopez"
+    - "Eduardo Jandre"
+    - "Ruslan Marzo"
+    - "Bruno Gonçalves"
+    - "Matheus Lobo"
+    - "Felipe Coutinho"
+    - "Juliana Freire"
+    - "Leonardo Murta"
+    - "Vanessa Braganholo"
+  title: "The Conception and Evolution of noWorkflow"
+  venue: "Information Systems"
+  details: null
+  doi: null
+  oa_url: null
+  local_pdf: null
+  rights:
+    publisher: "Elsevier"
+    status: "allowed"
+    version_needed: "accepted"
+    policy: "Accepted manuscript may be posted on personal website immediately, with CC BY-NC-ND license and link to DOI. Publisher PDF not allowed. Vanessa (2026-11-13): no PDF online yet; add the accepted manuscript later."
+    source: "https://www.elsevier.com/about/policies-and-standards/sharing"
+    checked: "2026-11-13"
+
 - id: blanco2026-sbbd
   lattes: C2   # position in Lattes export of 2026-11-09
   type: conference
