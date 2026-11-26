@@ -52,11 +52,11 @@
     source: "https://journals-sol.sbc.org.br/index.php/jidm/about/submissions"
     checked: "2026-11-09"
 
-- id: pimentel2026-is
+- id: pimentel2027-is
   lattes: null   # accepted 2026-11 (after the Lattes export of 2026-11-09)
   type: journal
-  status: accepted
-  year: 2026
+  status: published
+  year: 2027
   authors:
     - "João Felipe Pimentel"
     - "Arthur Paiva"
@@ -71,17 +71,17 @@
     - "Vanessa Braganholo"
   title: "The Conception and Evolution of noWorkflow"
   venue: "Information Systems"
-  details: null
-  doi: null
-  oa_url: null
+  details: "145: 102830"
+  doi: "10.1016/j.is.2026.102830"
+  oa_url: "https://www.sciencedirect.com/science/article/pii/S0306437926001456"
   local_pdf: null
   rights:
     publisher: "Elsevier"
-    status: "allowed"
-    version_needed: "accepted"
-    policy: "Accepted manuscript may be posted on personal website immediately, with CC BY-NC-ND license and link to DOI. Publisher PDF not allowed. Vanessa (2026-11-13): no PDF online yet; add the accepted manuscript later."
-    source: "https://www.elsevier.com/about/policies-and-standards/sharing"
-    checked: "2026-11-13"
+    status: "open_access"
+    version_needed: "any"
+    policy: "Published open access (CC BY 4.0, © 2026 The Authors) per Crossref license metadata. Volume 145, April 2027 (confirmed by Vanessa on ScienceDirect, 2026-11-26)."
+    source: "https://api.crossref.org/works/10.1016/j.is.2026.102830"
+    checked: "2026-11-26"
 
 - id: blanco2026-sbbd
   lattes: C2   # position in Lattes export of 2026-11-09
