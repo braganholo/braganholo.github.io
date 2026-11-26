@@ -137,10 +137,10 @@ def render_entry(p, tag, problems)
     problems << "#{p['id']}: has both oa_url and local_pdf (only the open-access link is shown)"
   end
   links << %(<a href="https://doi.org/#{h(p['doi'])}">DOI</a>) if p['doi']
-  links << %(<a href="bib/#{h(p['id'])}.bib">BibTeX</a>)
+  links << %(<a class="pub-bib-toggle" href="bib/#{h(p['id'])}.bib">BibTeX</a>)
   link_html = links.empty? ? '' : %( <span class="pub-links">[#{links.join('] [')}]</span>)
   tag_html = tag ? %(<span class="pub-tag pub-#{p['type']}" title="#{h(TYPES[p['type']][1])}">#{tag}</span> ) : ''
-  %(<li class="pub" id="#{h(p['id'])}">#{tag_html}#{authors}: <span class="pub-title">#{h(title)}</span> #{venue}.#{link_html}</li>)
+  %(<li class="pub" id="#{h(p['id'])}">#{tag_html}#{authors}: <span class="pub-title">#{h(title)}</span> #{venue}.#{link_html}<pre class="pub-bib" hidden>#{h(bibtex(p))}</pre></li>)
 end
 
 pubs = YAML.load_file(DATA)
@@ -192,6 +192,23 @@ years.each do |y|
   html << '</ul>'
 end
 html << '</div>'
+# BibTeX links open the entry inline (without JavaScript they download the .bib file)
+html << <<~JS.chomp
+  <script>
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a.pub-bib-toggle');
+    if (!a) return;
+    var pre = a.closest('li').querySelector('pre.pub-bib');
+    if (!pre) return;
+    e.preventDefault();
+    pre.hidden = !pre.hidden;
+    if (!pre.hidden) {
+      var r = document.createRange(); r.selectNodeContents(pre);
+      var s = window.getSelection(); s.removeAllRanges(); s.addRange(r);
+    }
+  });
+  </script>
+JS
 
 header = File.read(HEADER)
 page = header.rstrip + "\n\n" + html.join("\n") + "\n"
