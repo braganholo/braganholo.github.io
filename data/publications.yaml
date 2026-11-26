@@ -2242,7 +2242,7 @@
   status: published
   year: 2009
   authors:
-    - "M. M. Moro"
+    - "Mirella Moura Moro"
     - "Vanessa Braganholo"
     - "C. Dorneles"
     - "D. Duarte"
@@ -2595,7 +2595,7 @@
   status: published
   year: 2009
   authors:
-    - "M. M. Moro"
+    - "Mirella Moura Moro"
     - "Vanessa Braganholo"
   title: "Desmistificando XML: da Pesquisa à Prática Industrial"
   venue: "Atualização em Informática 2009"
@@ -2604,7 +2604,7 @@
   oa_url: null
   local_pdf: "moro2009-jai.pdf"
   rights:
-    publisher: null
+    publisher: "SBC"
     status: "to_confirm"
     version_needed: "any"
     policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."

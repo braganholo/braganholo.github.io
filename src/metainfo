@@ -1,5 +1,5 @@
 --- paths
-[/**/*.pdf, /**/*.dat, /**/*.zip, /**/*.pptx, /**/*.xsd, /**/*.txt, /**/*.dotx, /**/*.sql, /**/*.png, /**/*.rar, /**/*.pl, /.htaccess]:
+[/**/*.pdf, /**/*.dat, /**/*.zip, /**/*.pptx, /**/*.xsd, /**/*.txt, /**/*.dotx, /**/*.sql, /**/*.png, /**/*.rar, /**/*.pl, /**/*.bib, /.htaccess]:
   handler: copy
 
 --- alcn

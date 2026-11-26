@@ -19,6 +19,8 @@ instale os gems numa pasta temporária e rode o webgen numa cópia do site:
 - `tools/build_publications.rb`: gera a página e imprime um relatório
   (`ruby tools/build_publications.rb`, ou `--check` para só ver o relatório).
 - `src/papers/`: PDFs hospedados no site (copiados pela regra de `src/metainfo`).
+- `src/bib/<id>.bib`: **gerados** pelo mesmo script (um BibTeX por entrada, link [BibTeX] na página;
+  arquivos de ids removidos são apagados). Nunca editar à mão; corrigir o YAML e regerar.
 
 Escopo combinado com a Vanessa (09/11/2026): periódicos, artigos completos em
 congressos, capítulos de livro e artigos aceitos. **Fora**: livros organizados,

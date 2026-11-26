@@ -59,6 +59,61 @@ def oa_label(url)
   url =~ %r{\.pdf\z|/pdf/|/download/}i ? 'PDF' : 'Open access'
 end
 
+# --- BibTeX (one file per entry in src/bib/<id>.bib) ----------------------
+
+BIB = File.join(ROOT, 'src', 'bib')
+ACCENTS = { "́" => "'", "̀" => '`', "̂" => '^', "̃" => '~',
+            "̈" => '"', "̧" => 'c' }.freeze
+
+# UTF-8 text -> LaTeX-safe text (accents as {\'a}, special chars escaped)
+def tex(s)
+  s = s.to_s.gsub(/([&%$#_])/) { "\\#{$1}" }
+  s = s.unicode_normalize(:nfd).gsub(/([A-Za-z])([̀-ͯ])/) do
+    base = $1 == 'i' ? '\i' : $1
+    acc = ACCENTS[$2]
+    next "#{$1}#{$2}" unless acc
+    acc == 'c' ? "{\\c{#{base}}}" : "{\\#{acc}#{base}}"
+  end
+  s.unicode_normalize(:nfc)
+end
+
+# Braces around words with capitals after the first letter (acronyms, noWorkflow),
+# so bibliography styles do not lowercase them
+def bib_title(t)
+  t.to_s.strip.split(/ /).map { |w| w[1..-1].to_s =~ /[A-Z]/ ? "{#{tex(w)}}" : tex(w) }.join(' ')
+end
+
+def bib_pages(pg)
+  pg = pg.to_s.strip
+  pg.count('-') == 1 ? pg.sub('-', '--') : pg
+end
+
+def bibtex(p)
+  d = p['details'].to_s.strip
+  m = d.match(/\A(?:LNCS (\d+), )?(?:(\d+)(?:\((\d+)\))?: )?(.*)\z/)
+  series_vol, volume, number, pages = m ? m.captures : [nil, nil, nil, d]
+  kind, container = { 'journal' => ['article', 'journal'], 'conference' => ['inproceedings', 'booktitle'],
+                      'chapter' => ['incollection', 'booktitle'] }[p['type']]
+  f = []
+  f << ['author', p['authors'].map { |a| tex(a) }.join(' and ')]
+  f << ['title', bib_title(p['title'])]
+  f << [container, tex(p['venue'])]
+  if series_vol
+    f << ['series', 'Lecture Notes in Computer Science']
+    f << ['volume', series_vol]
+  end
+  f << ['volume', volume] if volume
+  f << ['number', number] if number
+  f << ['pages', bib_pages(pages)] unless pages.to_s.empty?
+  f << ['publisher', tex(p['rights']['publisher'])] if p['type'] == 'chapter' && p.dig('rights', 'publisher').to_s != ''
+  f << ['year', p['year'].to_s]
+  f << ['doi', p['doi']] if p['doi']
+  f << ['url', p['oa_url'] || "https://doi.org/#{p['doi']}"] if p['oa_url'] || p['doi']
+  f << ['note', 'Accepted for publication'] if p['status'] == 'accepted'
+  width = f.map { |k, _| k.size }.max
+  "@#{kind}{#{p['id']},\n" + f.map { |k, v| "  #{k.ljust(width)} = {#{v}}" }.join(",\n") + "\n}\n"
+end
+
 def render_entry(p, tag, problems)
   authors = p['authors'].map { |a| a == ME ? "<strong>#{h(a)}</strong>" : h(a) }.join(', ')
   title = p['title'].to_s.strip
@@ -82,6 +137,7 @@ def render_entry(p, tag, problems)
     problems << "#{p['id']}: has both oa_url and local_pdf (only the open-access link is shown)"
   end
   links << %(<a href="https://doi.org/#{h(p['doi'])}">DOI</a>) if p['doi']
+  links << %(<a href="bib/#{h(p['id'])}.bib">BibTeX</a>)
   link_html = links.empty? ? '' : %( <span class="pub-links">[#{links.join('] [')}]</span>)
   tag_html = tag ? %(<span class="pub-tag pub-#{p['type']}" title="#{h(TYPES[p['type']][1])}">#{tag}</span> ) : ''
   %(<li class="pub" id="#{h(p['id'])}">#{tag_html}#{authors}: <span class="pub-title">#{h(title)}</span> #{venue}.#{link_html}</li>)
@@ -145,6 +201,11 @@ if ARGV.include?('--check')
 else
   File.write(OUT, page)
   puts "Wrote #{OUT.sub(ROOT + '/', '')} (#{published.size} published, #{accepted.size} accepted)"
+  Dir.mkdir(BIB) unless Dir.exist?(BIB)
+  pubs.each { |p| File.write(File.join(BIB, "#{p['id']}.bib"), bibtex(p)) }
+  stale = Dir[File.join(BIB, '*.bib')].map { |f| File.basename(f, '.bib') } - ids
+  stale.each { |i| File.delete(File.join(BIB, "#{i}.bib")) }
+  puts "Wrote src/bib/ (#{pubs.size} BibTeX files#{stale.empty? ? '' : ", removed #{stale.size} stale"})"
 end
 
 by_status = pubs.group_by { |p| (p['rights'] || {})['status'] }
