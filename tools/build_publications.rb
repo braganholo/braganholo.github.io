@@ -171,6 +171,9 @@ end
 years = published.map { |p| p['year'] }.uniq.sort.reverse
 
 html = []
+# Style for the inline BibTeX box lives in the page itself, so it works even
+# when the browser still has an old andreas01.css in cache
+html << '<style>.publications pre.pub-bib {background-color:#f4f4f4; border:1px solid #ccc; border-radius:3px; box-sizing:border-box; font-size:0.85em; line-height:1.35; margin:6px 0 4px; max-width:100%; overflow-wrap:anywhere; padding:6px 8px; text-indent:0; white-space:pre-wrap; word-break:break-word;}</style>'
 html << '<div class="publications">'
 html << '<p class="pub-legend">' + TYPES.map { |t, (l, d)| %(<span class="pub-tag pub-#{t}">#{l}</span> #{d}) }.join(' &nbsp; ') + '</p>'
 nav = []
