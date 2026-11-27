@@ -922,11 +922,11 @@
   local_pdf: null
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: nogueira2017-bresci
   lattes: C13   # position in Lattes export of 2026-11-09
@@ -1218,11 +1218,11 @@
   local_pdf: null
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: oliveira2014-sbbd
   lattes: C26   # position in Lattes export of 2026-11-09
@@ -1244,11 +1244,11 @@
   local_pdf: null
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: miranda2014-sbsc
   lattes: C28   # position in Lattes export of 2026-11-09
@@ -1268,11 +1268,11 @@
   local_pdf: null
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: oliveira2014-sac
   lattes: C24   # position in Lattes export of 2026-11-09
@@ -1390,11 +1390,11 @@
   local_pdf: "bivar2013-eScience.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: martins2013-sbbd
   lattes: C30   # position in Lattes export of 2026-11-09
@@ -1415,11 +1415,11 @@
   local_pdf: null
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: braganholo2012-ijossp
   lattes: J26   # position in Lattes export of 2026-11-09
@@ -1513,11 +1513,11 @@
   local_pdf: null
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: pinheiro2012-wtdbd
   lattes: C34   # position in Lattes export of 2026-11-09
@@ -1535,11 +1535,11 @@
   local_pdf: null
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: silva2012-sbbd
   lattes: C36   # position in Lattes export of 2026-11-09
@@ -1560,11 +1560,11 @@
   local_pdf: null
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: carmo2012-wei
   lattes: C32   # position in Lattes export of 2026-11-09
@@ -1582,11 +1582,11 @@
   local_pdf: "carmo2012-wei.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: delgado2012-wei
   lattes: C33   # position in Lattes export of 2026-11-09
@@ -1605,11 +1605,11 @@
   local_pdf: "delgado2012-wei.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: oliveira2012-sbbd
   lattes: C35   # position in Lattes export of 2026-11-09
@@ -1628,11 +1628,11 @@
   local_pdf: null
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: escalfoni2011-eswa
   lattes: J27   # position in Lattes export of 2026-11-09
@@ -1827,11 +1827,11 @@
   local_pdf: "lima2011-sbbd.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: ferraz2010-jws
   lattes: J33   # position in Lattes export of 2026-11-09
@@ -2106,11 +2106,11 @@
   local_pdf: "silva2010-wtdbd.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: dias2010-wp2p
   lattes: C44   # position in Lattes export of 2026-11-09
@@ -2161,11 +2161,11 @@
   local_pdf: "silva2010-escience.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: carvalho2010-sbsi
   lattes: C45   # position in Lattes export of 2026-11-09
@@ -2207,11 +2207,11 @@
   local_pdf: "costa2010-wtdbd.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: laporti2009-compind
   lattes: J37   # position in Lattes export of 2026-11-09
@@ -2302,11 +2302,11 @@
   local_pdf: "goncalves2009-science.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: rodrigues2009-sbbd
   lattes: C59   # position in Lattes export of 2026-11-09
@@ -2326,11 +2326,11 @@
   local_pdf: "rodrigues2009-sbbd-posteres.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: mattoso2009-semish
   lattes: C52   # position in Lattes export of 2026-11-09
@@ -2354,11 +2354,11 @@
   local_pdf: "mattoso2009-semish.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: ogasawara2009-mtags
   lattes: C60   # position in Lattes export of 2026-11-09
@@ -2431,11 +2431,11 @@
   local_pdf: "carvalho2009-sbbd-demos.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: campos2009-ontobras
   lattes: C58   # position in Lattes export of 2026-11-09
@@ -2534,11 +2534,11 @@
   local_pdf: "escalfoni2009-sbsc.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: elias2009-parcfd
   lattes: C51   # position in Lattes export of 2026-11-09
@@ -2583,11 +2583,11 @@
   local_pdf: "jatoba2009-sbsc.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: moro2009-jai
   lattes: B1   # position in Lattes export of 2026-11-09
@@ -2605,11 +2605,11 @@
   local_pdf: "moro2009-jai.pdf"
   rights:
     publisher: "SBC"
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: elias2008-ontobras
   lattes: C65   # position in Lattes export of 2026-11-09
@@ -2653,11 +2653,11 @@
   local_pdf: "mattoso2008-semish.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: laporti2007-cscwd
   lattes: C66   # position in Lattes export of 2026-11-09
@@ -2699,11 +2699,11 @@
   local_pdf: "ferraz2007-sbbd.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: figueiredo2007-sbbd
   lattes: C68   # position in Lattes export of 2026-11-09
@@ -2722,11 +2722,11 @@
   local_pdf: "figueiredo2007-sbbd-demos.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: braganholo2007-handbook
   lattes: B2   # position in Lattes export of 2026-11-09
@@ -2788,7 +2788,7 @@
   details: "LNCS 4254, 192-205"
   doi: "10.1007/11896548_18"
   oa_url: null
-  local_pdf: null
+  local_pdf: vargas2006-datax.pdf
   rights:
     publisher: "Springer"
     status: "allowed"
@@ -2813,7 +2813,7 @@
   details: "LNCS 4254, 150-163"
   doi: "10.1007/11896548_15"
   oa_url: null
-  local_pdf: null
+  local_pdf: andrade2006-datax.pdf
   rights:
     publisher: "Springer"
     status: "allowed"
@@ -2869,11 +2869,11 @@
   local_pdf: "ferraz2006-wtdbd.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: moro2005-ieeepot
   lattes: J40   # position in Lattes export of 2026-11-09
@@ -2890,12 +2890,12 @@
   details: "24(3): 11-13,45"
   doi: "10.1109/mp.2005.1502498"
   oa_url: null
-  local_pdf: null
+  local_pdf: moro2005-ieeepot.pdf
   rights:
     publisher: "IEEE"
     status: "allowed"
     version_needed: "accepted"
-    policy: "Accepted manuscript may be posted on personal website with IEEE copyright notice and DOI link. Publisher PDF not allowed. Existing file IEEE-Pot-2005.pdf is the PUBLISHER version and must not be linked; accepted manuscript needed."
+    policy: "Accepted manuscript may be posted on personal website with IEEE copyright notice and DOI link. Publisher PDF not allowed (old publisher file IEEE-Pot-2005.pdf removed 2026-11-27)."
     source: "https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/"
     checked: "2026-11-09"
 
@@ -2938,11 +2938,11 @@
   local_pdf: "figueiredo2005-wtdbd.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: mattoso2005-sbbd
   lattes: C78   # position in Lattes export of 2026-11-09
@@ -2967,11 +2967,11 @@
   local_pdf: "mattoso2005-sbbd-demos.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: mattoso2005-wsl
   lattes: C74   # position in Lattes export of 2026-11-09
@@ -3019,11 +3019,11 @@
   local_pdf: "vargas2005-wtdbd.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: braganholo2005-ctd
   lattes: C73   # position in Lattes export of 2026-11-09
@@ -3042,11 +3042,11 @@
   local_pdf: "braganholo2005-ctd.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: moro2004-rita
   lattes: J41   # position in Lattes export of 2026-11-09
@@ -3066,11 +3066,11 @@
   local_pdf: "moro2004-rita.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: braganholo2004-vldb
   lattes: C79   # position in Lattes export of 2026-11-09
@@ -3112,11 +3112,11 @@
   local_pdf: "braganholo2004-wtdbd.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: braganholo2003-webdb
   lattes: C81   # position in Lattes export of 2026-11-09
@@ -3158,11 +3158,11 @@
   local_pdf: "braganholo2003-sbbd.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: braganholo2002-wtdbd
   lattes: C83   # position in Lattes export of 2026-11-09
@@ -3180,11 +3180,11 @@
   local_pdf: "braganholo2002-wtdbd.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"
 
 - id: braganholo2001-iiwas
   lattes: C85   # position in Lattes export of 2026-11-09
@@ -3250,8 +3250,8 @@
   local_pdf: "tutorial.pdf"
   rights:
     publisher: null
-    status: "to_confirm"
+    status: "allowed"
     version_needed: "any"
-    policy: "Older event without DOI or publisher repository; posting depends on whether copyright was transferred. Awaiting author confirmation."
-    source: null
-    checked: "2026-11-09"
+    policy: "SBC event/publication without copyright transfer restriction; Vanessa confirmed (2026-11-27) that the PDF may be posted."
+    source: "Vanessa Braganholo, 2026-11-27"
+    checked: "2026-11-27"

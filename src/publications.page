@@ -648,7 +648,7 @@ Feel free to contact me if you want a paper you could not find online.
   year      = &#123;2013&#125;
 &#125;
 </pre></li>
-<li class="pub" id="bivar2013-bresci"><span class="pub-tag pub-conference" title="Conference and workshop papers">C56</span> B. Bivar, L. Santos, T. Kohwalter, A. Marinho, M. L. Q. Mattoso, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Uma Comparação entre os Modelos de Proveniência OPM e PROV.</span> <em>Brazilian e-Science Workshop</em> 2013: 1-8. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/bivar2013-bresci.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;bivar2013-bresci,
+<li class="pub" id="bivar2013-bresci"><span class="pub-tag pub-conference" title="Conference and workshop papers">C56</span> B. Bivar, L. Santos, T. Kohwalter, A. Marinho, M. L. Q. Mattoso, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Uma Comparação entre os Modelos de Proveniência OPM e PROV.</span> <em>Brazilian e-Science Workshop</em> 2013: 1-8. <span class="pub-links">[<a href="papers/bivar2013-eScience.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/bivar2013-bresci.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;bivar2013-bresci,
   author    = &#123;B. Bivar and L. Santos and T. Kohwalter and A. Marinho and M. L. Q. Mattoso and Vanessa Braganholo&#125;,
   title     = &#123;Uma Compara&#123;\c&#123;c&#125;&#125;&#123;\~a&#125;o entre os Modelos de Proveni&#123;\^e&#125;ncia &#123;OPM&#125; e &#123;PROV&#125;&#125;,
   booktitle = &#123;Brazilian e-Science Workshop&#125;,
@@ -724,7 +724,7 @@ Feel free to contact me if you want a paper you could not find online.
   year      = &#123;2012&#125;
 &#125;
 </pre></li>
-<li class="pub" id="delgado2012-wei"><span class="pub-tag pub-conference" title="Conference and workshop papers">C51</span> C. Delgado, R. Toledo, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Uso de Dojos no Ensino Superior de Computação.</span> <em>Workshop sobre Educação em Computação (WEI)</em> 2012: 1-10. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/delgado2012-wei.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;delgado2012-wei,
+<li class="pub" id="delgado2012-wei"><span class="pub-tag pub-conference" title="Conference and workshop papers">C51</span> C. Delgado, R. Toledo, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Uso de Dojos no Ensino Superior de Computação.</span> <em>Workshop sobre Educação em Computação (WEI)</em> 2012: 1-10. <span class="pub-links">[<a href="papers/delgado2012-wei.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/delgado2012-wei.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;delgado2012-wei,
   author    = &#123;C. Delgado and R. Toledo and Vanessa Braganholo&#125;,
   title     = &#123;Uso de Dojos no Ensino Superior de Computa&#123;\c&#123;c&#125;&#125;&#123;\~a&#125;o&#125;,
   booktitle = &#123;Workshop sobre Educa&#123;\c&#123;c&#125;&#125;&#123;\~a&#125;o em Computa&#123;\c&#123;c&#125;&#125;&#123;\~a&#125;o (WEI)&#125;,
@@ -732,7 +732,7 @@ Feel free to contact me if you want a paper you could not find online.
   year      = &#123;2012&#125;
 &#125;
 </pre></li>
-<li class="pub" id="carmo2012-wei"><span class="pub-tag pub-conference" title="Conference and workshop papers">C50</span> D. H. Carmo, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Um Estudo sobre o Uso Didático de DOJOs de Programação.</span> <em>Workshop sobre Educação em Computação (WEI)</em> 2012: 1-10. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/carmo2012-wei.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;carmo2012-wei,
+<li class="pub" id="carmo2012-wei"><span class="pub-tag pub-conference" title="Conference and workshop papers">C50</span> D. H. Carmo, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Um Estudo sobre o Uso Didático de DOJOs de Programação.</span> <em>Workshop sobre Educação em Computação (WEI)</em> 2012: 1-10. <span class="pub-links">[<a href="papers/carmo2012-wei.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/carmo2012-wei.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;carmo2012-wei,
   author    = &#123;D. H. Carmo and Vanessa Braganholo&#125;,
   title     = &#123;Um Estudo sobre o Uso Did&#123;\&#39;a&#125;tico de &#123;DOJOs&#125; de Programa&#123;\c&#123;c&#125;&#125;&#123;\~a&#125;o&#125;,
   booktitle = &#123;Workshop sobre Educa&#123;\c&#123;c&#125;&#125;&#123;\~a&#125;o em Computa&#123;\c&#123;c&#125;&#125;&#123;\~a&#125;o (WEI)&#125;,
@@ -818,7 +818,7 @@ Feel free to contact me if you want a paper you could not find online.
   url       = &#123;https://www.usenix.org/legacy/events/tapp11/tech/final_files/Marinho.pdf&#125;
 &#125;
 </pre></li>
-<li class="pub" id="lima2011-sbbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C48</span> Diego Laurentino Lima, Carla Amor Divino Moreira Delgado, Leonardo Murta, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Consultando Documentos XML Utilizando Inferência.</span> <em>Simpósio Brasileiro de Banco de Dados (SBBD)</em> 2011: 16-1-16-8. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/lima2011-sbbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;lima2011-sbbd,
+<li class="pub" id="lima2011-sbbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C48</span> Diego Laurentino Lima, Carla Amor Divino Moreira Delgado, Leonardo Murta, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Consultando Documentos XML Utilizando Inferência.</span> <em>Simpósio Brasileiro de Banco de Dados (SBBD)</em> 2011: 16-1-16-8. <span class="pub-links">[<a href="papers/lima2011-sbbd.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/lima2011-sbbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;lima2011-sbbd,
   author    = &#123;Diego Laurentino Lima and Carla Amor Divino Moreira Delgado and Leonardo Murta and Vanessa Braganholo&#125;,
   title     = &#123;Consultando Documentos &#123;XML&#125; Utilizando Infer&#123;\^e&#125;ncia&#125;,
   booktitle = &#123;Simp&#123;\&#39;o&#125;sio Brasileiro de Banco de Dados (SBBD)&#125;,
@@ -873,7 +873,7 @@ Feel free to contact me if you want a paper you could not find online.
   url     = &#123;https://doi.org/10.1016/j.websem.2010.03.001&#125;
 &#125;
 </pre></li>
-<li class="pub" id="silva2010-wtdbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C47</span> T. L. Silva, M. L. Q. Mattoso, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Metodologia para projeto de fragmentação de dados XML sobre bases distribuídas.</span> <em>Workshop de Teses e Dissertações em Banco de Dados (WTDBD)</em> 2010: 1-6. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/silva2010-wtdbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;silva2010-wtdbd,
+<li class="pub" id="silva2010-wtdbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C47</span> T. L. Silva, M. L. Q. Mattoso, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Metodologia para projeto de fragmentação de dados XML sobre bases distribuídas.</span> <em>Workshop de Teses e Dissertações em Banco de Dados (WTDBD)</em> 2010: 1-6. <span class="pub-links">[<a href="papers/silva2010-wtdbd.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/silva2010-wtdbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;silva2010-wtdbd,
   author    = &#123;T. L. Silva and M. L. Q. Mattoso and Vanessa Braganholo&#125;,
   title     = &#123;Metodologia para projeto de fragmenta&#123;\c&#123;c&#125;&#125;&#123;\~a&#125;o de dados &#123;XML&#125; sobre bases distribu&#123;\&#39;\i&#125;das&#125;,
   booktitle = &#123;Workshop de Teses e Disserta&#123;\c&#123;c&#125;&#125;&#123;\~o&#125;es em Banco de Dados (WTDBD)&#125;,
@@ -881,7 +881,7 @@ Feel free to contact me if you want a paper you could not find online.
   year      = &#123;2010&#125;
 &#125;
 </pre></li>
-<li class="pub" id="silva2010-bresci"><span class="pub-tag pub-conference" title="Conference and workshop papers">C46</span> V. Silva, F. Chirigati, K. Maia, E. Ogasawara, D. Oliveira, <strong>Vanessa Braganholo</strong>, L. G. P. Murta, M. L. Q. Mattoso: <span class="pub-title">SimiFlow: Uma Arquitetura para Agrupamento de Workflows por Similaridade.</span> <em>Brazilian e-Science Workshop</em> 2010: 33-40. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/silva2010-bresci.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;silva2010-bresci,
+<li class="pub" id="silva2010-bresci"><span class="pub-tag pub-conference" title="Conference and workshop papers">C46</span> V. Silva, F. Chirigati, K. Maia, E. Ogasawara, D. Oliveira, <strong>Vanessa Braganholo</strong>, L. G. P. Murta, M. L. Q. Mattoso: <span class="pub-title">SimiFlow: Uma Arquitetura para Agrupamento de Workflows por Similaridade.</span> <em>Brazilian e-Science Workshop</em> 2010: 33-40. <span class="pub-links">[<a href="papers/silva2010-escience.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/silva2010-bresci.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;silva2010-bresci,
   author    = &#123;V. Silva and F. Chirigati and K. Maia and E. Ogasawara and D. Oliveira and Vanessa Braganholo and L. G. P. Murta and M. L. Q. Mattoso&#125;,
   title     = &#123;&#123;SimiFlow:&#125; Uma Arquitetura para Agrupamento de Workflows por Similaridade&#125;,
   booktitle = &#123;Brazilian e-Science Workshop&#125;,
@@ -946,7 +946,7 @@ Feel free to contact me if you want a paper you could not find online.
   url       = &#123;https://dl.acm.org/doi/pdf/10.1145/1851476.1851550&#125;
 &#125;
 </pre></li>
-<li class="pub" id="costa2010-wtdbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C39</span> P. Costa, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Uma nova abordagem para consulta a dados de proveniência.</span> <em>Workshop de Teses e Dissertações em Banco de Dados (WTDBD)</em> 2010: 1-6. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/costa2010-wtdbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;costa2010-wtdbd,
+<li class="pub" id="costa2010-wtdbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C39</span> P. Costa, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Uma nova abordagem para consulta a dados de proveniência.</span> <em>Workshop de Teses e Dissertações em Banco de Dados (WTDBD)</em> 2010: 1-6. <span class="pub-links">[<a href="papers/costa2010-wtdbd.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/costa2010-wtdbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;costa2010-wtdbd,
   author    = &#123;P. Costa and Vanessa Braganholo&#125;,
   title     = &#123;Uma nova abordagem para consulta a dados de proveni&#123;\^e&#125;ncia&#125;,
   booktitle = &#123;Workshop de Teses e Disserta&#123;\c&#123;c&#125;&#125;&#123;\~o&#125;es em Banco de Dados (WTDBD)&#125;,
@@ -1005,7 +1005,7 @@ Feel free to contact me if you want a paper you could not find online.
   year      = &#123;2009&#125;
 &#125;
 </pre></li>
-<li class="pub" id="rodrigues2009-sbbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C35</span> C. A. S. Rodrigues, J. F. Almeida, <strong>Vanessa Braganholo</strong>, M. L. Q. Mattoso: <span class="pub-title">Consulta a Bases XML distribuídas em P2P.</span> <em>Sessão de Pôsteres do Simpósio Brasileiro de Banco de Dados (SBBD)</em> 2009: 1-4. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/rodrigues2009-sbbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;rodrigues2009-sbbd,
+<li class="pub" id="rodrigues2009-sbbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C35</span> C. A. S. Rodrigues, J. F. Almeida, <strong>Vanessa Braganholo</strong>, M. L. Q. Mattoso: <span class="pub-title">Consulta a Bases XML distribuídas em P2P.</span> <em>Sessão de Pôsteres do Simpósio Brasileiro de Banco de Dados (SBBD)</em> 2009: 1-4. <span class="pub-links">[<a href="papers/rodrigues2009-sbbd-posteres.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/rodrigues2009-sbbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;rodrigues2009-sbbd,
   author    = &#123;C. A. S. Rodrigues and J. F. Almeida and Vanessa Braganholo and M. L. Q. Mattoso&#125;,
   title     = &#123;Consulta a Bases &#123;XML&#125; distribu&#123;\&#39;\i&#125;das em &#123;P2P&#125;&#125;,
   booktitle = &#123;Sess&#123;\~a&#125;o de P&#123;\^o&#125;steres do Simp&#123;\&#39;o&#125;sio Brasileiro de Banco de Dados (SBBD)&#125;,
@@ -1023,7 +1023,7 @@ Feel free to contact me if you want a paper you could not find online.
   url       = &#123;https://dl.acm.org/doi/pdf/10.1145/1646468.1646470&#125;
 &#125;
 </pre></li>
-<li class="pub" id="mattoso2009-semish"><span class="pub-tag pub-conference" title="Conference and workshop papers">C33</span> M. L. Q. Mattoso, C. M. L. Werner, G. H. Travassos, <strong>Vanessa Braganholo</strong>, L. G. P. Murta, E. Ogasawara, F. Oliveira, W. Martinho: <span class="pub-title">Desafios no Apoio à Composição de Experimentos Científicos em Larga Escala.</span> <em>Seminário Integrado de Software e Hardware (SEMISH)</em> 2009: 307-321. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/mattoso2009-semish.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;mattoso2009-semish,
+<li class="pub" id="mattoso2009-semish"><span class="pub-tag pub-conference" title="Conference and workshop papers">C33</span> M. L. Q. Mattoso, C. M. L. Werner, G. H. Travassos, <strong>Vanessa Braganholo</strong>, L. G. P. Murta, E. Ogasawara, F. Oliveira, W. Martinho: <span class="pub-title">Desafios no Apoio à Composição de Experimentos Científicos em Larga Escala.</span> <em>Seminário Integrado de Software e Hardware (SEMISH)</em> 2009: 307-321. <span class="pub-links">[<a href="papers/mattoso2009-semish.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/mattoso2009-semish.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;mattoso2009-semish,
   author    = &#123;M. L. Q. Mattoso and C. M. L. Werner and G. H. Travassos and Vanessa Braganholo and L. G. P. Murta and E. Ogasawara and F. Oliveira and W. Martinho&#125;,
   title     = &#123;Desafios no Apoio &#123;\`a&#125; Composi&#123;\c&#123;c&#125;&#125;&#123;\~a&#125;o de Experimentos Cient&#123;\&#39;\i&#125;ficos em Larga Escala&#125;,
   booktitle = &#123;Semin&#123;\&#39;a&#125;rio Integrado de Software e Hardware (SEMISH)&#125;,
@@ -1040,7 +1040,7 @@ Feel free to contact me if you want a paper you could not find online.
   url       = &#123;https://inria.hal.science/inria-00416494&#125;
 &#125;
 </pre></li>
-<li class="pub" id="jatoba2009-sbsc"><span class="pub-tag pub-conference" title="Conference and workshop papers">C31</span> A. Jatoba, N. Albernaz, S. Vrabl, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Wiki para Deficientes Visuais: Explorando Novas Possibilidades de Colaboração.</span> <em>Simpósio Brasileiro de Sistemas Colaborativos (SBSC)</em> 2009: 1-8. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/jatoba2009-sbsc.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;jatoba2009-sbsc,
+<li class="pub" id="jatoba2009-sbsc"><span class="pub-tag pub-conference" title="Conference and workshop papers">C31</span> A. Jatoba, N. Albernaz, S. Vrabl, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Wiki para Deficientes Visuais: Explorando Novas Possibilidades de Colaboração.</span> <em>Simpósio Brasileiro de Sistemas Colaborativos (SBSC)</em> 2009: 1-8. <span class="pub-links">[<a href="papers/jatoba2009-sbsc.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/jatoba2009-sbsc.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;jatoba2009-sbsc,
   author    = &#123;A. Jatoba and N. Albernaz and S. Vrabl and Vanessa Braganholo&#125;,
   title     = &#123;Wiki para Deficientes Visuais: Explorando Novas Possibilidades de Colabora&#123;\c&#123;c&#125;&#125;&#123;\~a&#125;o&#125;,
   booktitle = &#123;Simp&#123;\&#39;o&#125;sio Brasileiro de Sistemas Colaborativos (SBSC)&#125;,
@@ -1056,7 +1056,7 @@ Feel free to contact me if you want a paper you could not find online.
   year      = &#123;2009&#125;
 &#125;
 </pre></li>
-<li class="pub" id="goncalves2009-bresci"><span class="pub-tag pub-conference" title="Conference and workshop papers">C29</span> F. B. Goncalves, C. E. T. Oliveira, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Compartilhamento de Dados e Recursos Computacionais de Armazenamento em Redes P2P Sociais.</span> <em>Brazilian e-Science Workshop</em> 2009: 1-8. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/goncalves2009-bresci.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;goncalves2009-bresci,
+<li class="pub" id="goncalves2009-bresci"><span class="pub-tag pub-conference" title="Conference and workshop papers">C29</span> F. B. Goncalves, C. E. T. Oliveira, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Compartilhamento de Dados e Recursos Computacionais de Armazenamento em Redes P2P Sociais.</span> <em>Brazilian e-Science Workshop</em> 2009: 1-8. <span class="pub-links">[<a href="papers/goncalves2009-science.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/goncalves2009-bresci.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;goncalves2009-bresci,
   author    = &#123;F. B. Goncalves and C. E. T. Oliveira and Vanessa Braganholo&#125;,
   title     = &#123;Compartilhamento de Dados e Recursos Computacionais de Armazenamento em Redes &#123;P2P&#125; Sociais&#125;,
   booktitle = &#123;Brazilian e-Science Workshop&#125;,
@@ -1064,7 +1064,7 @@ Feel free to contact me if you want a paper you could not find online.
   year      = &#123;2009&#125;
 &#125;
 </pre></li>
-<li class="pub" id="escalfoni2009-sbsc"><span class="pub-tag pub-conference" title="Conference and workshop papers">C28</span> R. E. Escalfoni, D. Machado, <strong>Vanessa Braganholo</strong>, M. Borges: <span class="pub-title">Uma Abordagem Colaborativa para a Identificação de Fatores que Influenciam a Inovação.</span> <em>Simpósio Brasileiro de Sistemas Colaborativos (SBSC)</em> 2009: 1-9. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/escalfoni2009-sbsc.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;escalfoni2009-sbsc,
+<li class="pub" id="escalfoni2009-sbsc"><span class="pub-tag pub-conference" title="Conference and workshop papers">C28</span> R. E. Escalfoni, D. Machado, <strong>Vanessa Braganholo</strong>, M. Borges: <span class="pub-title">Uma Abordagem Colaborativa para a Identificação de Fatores que Influenciam a Inovação.</span> <em>Simpósio Brasileiro de Sistemas Colaborativos (SBSC)</em> 2009: 1-9. <span class="pub-links">[<a href="papers/escalfoni2009-sbsc.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/escalfoni2009-sbsc.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;escalfoni2009-sbsc,
   author    = &#123;R. E. Escalfoni and D. Machado and Vanessa Braganholo and M. Borges&#125;,
   title     = &#123;Uma Abordagem Colaborativa para a Identifica&#123;\c&#123;c&#125;&#125;&#123;\~a&#125;o de Fatores que Influenciam a Inova&#123;\c&#123;c&#125;&#125;&#123;\~a&#125;o&#125;,
   booktitle = &#123;Simp&#123;\&#39;o&#125;sio Brasileiro de Sistemas Colaborativos (SBSC)&#125;,
@@ -1090,7 +1090,7 @@ Feel free to contact me if you want a paper you could not find online.
   year      = &#123;2009&#125;
 &#125;
 </pre></li>
-<li class="pub" id="carvalho2009-sbbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C25</span> M. Carvalho, R. P. Albuquerque, M. Borges, <strong>Vanessa Braganholo</strong>: <span class="pub-title">PPGI-SGPC Sistema Para Gestão da Produção Científica.</span> <em>Sessão de Demos do Simpósio Brasileiro de Banco de Dados (SBBD)</em> 2009: 1-6. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/carvalho2009-sbbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;carvalho2009-sbbd,
+<li class="pub" id="carvalho2009-sbbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C25</span> M. Carvalho, R. P. Albuquerque, M. Borges, <strong>Vanessa Braganholo</strong>: <span class="pub-title">PPGI-SGPC Sistema Para Gestão da Produção Científica.</span> <em>Sessão de Demos do Simpósio Brasileiro de Banco de Dados (SBBD)</em> 2009: 1-6. <span class="pub-links">[<a href="papers/carvalho2009-sbbd-demos.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/carvalho2009-sbbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;carvalho2009-sbbd,
   author    = &#123;M. Carvalho and R. P. Albuquerque and M. Borges and Vanessa Braganholo&#125;,
   title     = &#123;&#123;PPGI-SGPC&#125; Sistema Para Gest&#123;\~a&#125;o da Produ&#123;\c&#123;c&#125;&#125;&#123;\~a&#125;o Cient&#123;\&#39;\i&#125;fica&#125;,
   booktitle = &#123;Sess&#123;\~a&#125;o de Demos do Simp&#123;\&#39;o&#125;sio Brasileiro de Banco de Dados (SBBD)&#125;,
@@ -1106,7 +1106,7 @@ Feel free to contact me if you want a paper you could not find online.
   year      = &#123;2009&#125;
 &#125;
 </pre></li>
-<li class="pub" id="moro2009-jai"><span class="pub-tag pub-chapter" title="Book chapters">B2</span> Mirella Moura Moro, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Desmistificando XML: da Pesquisa à Prática Industrial.</span> <em>Atualização em Informática 2009</em> 231-278 (2009). <span class="pub-links">[<a class="pub-bib-toggle" href="bib/moro2009-jai.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@incollection&#123;moro2009-jai,
+<li class="pub" id="moro2009-jai"><span class="pub-tag pub-chapter" title="Book chapters">B2</span> Mirella Moura Moro, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Desmistificando XML: da Pesquisa à Prática Industrial.</span> <em>Atualização em Informática 2009</em> 231-278 (2009). <span class="pub-links">[<a href="papers/moro2009-jai.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/moro2009-jai.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@incollection&#123;moro2009-jai,
   author    = &#123;Mirella Moura Moro and Vanessa Braganholo&#125;,
   title     = &#123;Desmistificando &#123;XML:&#125; da Pesquisa &#123;\`a&#125; Pr&#123;\&#39;a&#125;tica Industrial&#125;,
   booktitle = &#123;Atualiza&#123;\c&#123;c&#125;&#125;&#123;\~a&#125;o em Inform&#123;\&#39;a&#125;tica 2009&#125;,
@@ -1118,7 +1118,7 @@ Feel free to contact me if you want a paper you could not find online.
 </ul>
 <h3 class="pub-year" id="y2008">2008</h3>
 <ul class="publist">
-<li class="pub" id="mattoso2008-semish"><span class="pub-tag pub-conference" title="Conference and workshop papers">C23</span> M. L. Q. Mattoso, C. M. L. Werner, G. H. Travassos, <strong>Vanessa Braganholo</strong>, L. G. P. Murta: <span class="pub-title">Gerenciando Experimentos Científicos em Larga Escala.</span> <em>Seminário Integrado de Software e Hardware (SEMISH)</em> 2008: 121-135. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/mattoso2008-semish.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;mattoso2008-semish,
+<li class="pub" id="mattoso2008-semish"><span class="pub-tag pub-conference" title="Conference and workshop papers">C23</span> M. L. Q. Mattoso, C. M. L. Werner, G. H. Travassos, <strong>Vanessa Braganholo</strong>, L. G. P. Murta: <span class="pub-title">Gerenciando Experimentos Científicos em Larga Escala.</span> <em>Seminário Integrado de Software e Hardware (SEMISH)</em> 2008: 121-135. <span class="pub-links">[<a href="papers/mattoso2008-semish.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/mattoso2008-semish.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;mattoso2008-semish,
   author    = &#123;M. L. Q. Mattoso and C. M. L. Werner and G. H. Travassos and Vanessa Braganholo and L. G. P. Murta&#125;,
   title     = &#123;Gerenciando Experimentos Cient&#123;\&#39;\i&#125;ficos em Larga Escala&#125;,
   booktitle = &#123;Semin&#123;\&#39;a&#125;rio Integrado de Software e Hardware (SEMISH)&#125;,
@@ -1147,7 +1147,7 @@ Feel free to contact me if you want a paper you could not find online.
   url       = &#123;https://doi.org/10.1109/cscwd.2007.4281527&#125;
 &#125;
 </pre></li>
-<li class="pub" id="figueiredo2007-sbbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C20</span> G. C. Figueiredo, <strong>Vanessa Braganholo</strong>, M. L. Q. Mattoso: <span class="pub-title">Um Mediador para o Processamento de Consultas sobre Bases XML Distribuídas.</span> <em>Sessão de Demos do Simpósio Brasileiro de Banco de Dados (SBBD)</em> 2007: 21-26. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/figueiredo2007-sbbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;figueiredo2007-sbbd,
+<li class="pub" id="figueiredo2007-sbbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C20</span> G. C. Figueiredo, <strong>Vanessa Braganholo</strong>, M. L. Q. Mattoso: <span class="pub-title">Um Mediador para o Processamento de Consultas sobre Bases XML Distribuídas.</span> <em>Sessão de Demos do Simpósio Brasileiro de Banco de Dados (SBBD)</em> 2007: 21-26. <span class="pub-links">[<a href="papers/figueiredo2007-sbbd-demos.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/figueiredo2007-sbbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;figueiredo2007-sbbd,
   author    = &#123;G. C. Figueiredo and Vanessa Braganholo and M. L. Q. Mattoso&#125;,
   title     = &#123;Um Mediador para o Processamento de Consultas sobre Bases &#123;XML&#125; Distribu&#123;\&#39;\i&#125;das&#125;,
   booktitle = &#123;Sess&#123;\~a&#125;o de Demos do Simp&#123;\&#39;o&#125;sio Brasileiro de Banco de Dados (SBBD)&#125;,
@@ -1155,7 +1155,7 @@ Feel free to contact me if you want a paper you could not find online.
   year      = &#123;2007&#125;
 &#125;
 </pre></li>
-<li class="pub" id="ferraz2007-sbbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C19</span> Cláudio Ananias Ferraz, <strong>Vanessa Braganholo</strong>, Marta Mattoso: <span class="pub-title">Storing AXML Documents with ARAXA.</span> <em>Simpósio Brasileiro de Banco de Dados (SBBD)</em> 2007: 255-269. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/ferraz2007-sbbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;ferraz2007-sbbd,
+<li class="pub" id="ferraz2007-sbbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C19</span> Cláudio Ananias Ferraz, <strong>Vanessa Braganholo</strong>, Marta Mattoso: <span class="pub-title">Storing AXML Documents with ARAXA.</span> <em>Simpósio Brasileiro de Banco de Dados (SBBD)</em> 2007: 255-269. <span class="pub-links">[<a href="papers/ferraz2007-sbbd.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/ferraz2007-sbbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;ferraz2007-sbbd,
   author    = &#123;Cl&#123;\&#39;a&#125;udio Ananias Ferraz and Vanessa Braganholo and Marta Mattoso&#125;,
   title     = &#123;Storing &#123;AXML&#125; Documents with &#123;ARAXA&#125;&#125;,
   booktitle = &#123;Simp&#123;\&#39;o&#125;sio Brasileiro de Banco de Dados (SBBD)&#125;,
@@ -1188,7 +1188,7 @@ Feel free to contact me if you want a paper you could not find online.
   url     = &#123;https://dl.acm.org/doi/pdf/10.1145/1166074.1166078&#125;
 &#125;
 </pre></li>
-<li class="pub" id="vargas2006-datax"><span class="pub-tag pub-conference" title="Conference and workshop papers">C18</span> A. P. Vargas, <strong>Vanessa Braganholo</strong>, C. A. Heuser: <span class="pub-title">Conflict Resolution and Delta Detection in Updates through XML views.</span> <em>EDBT Workshop on Database Technologies for Handling XML Information on the Web (DATAX)</em> 2006: LNCS 4254, 192-205. <span class="pub-links">[<a href="https://doi.org/10.1007/11896548_18">DOI</a>] [<a class="pub-bib-toggle" href="bib/vargas2006-datax.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;vargas2006-datax,
+<li class="pub" id="vargas2006-datax"><span class="pub-tag pub-conference" title="Conference and workshop papers">C18</span> A. P. Vargas, <strong>Vanessa Braganholo</strong>, C. A. Heuser: <span class="pub-title">Conflict Resolution and Delta Detection in Updates through XML views.</span> <em>EDBT Workshop on Database Technologies for Handling XML Information on the Web (DATAX)</em> 2006: LNCS 4254, 192-205. <span class="pub-links">[<a href="papers/vargas2006-datax.pdf">PDF</a>] [<a href="https://doi.org/10.1007/11896548_18">DOI</a>] [<a class="pub-bib-toggle" href="bib/vargas2006-datax.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;vargas2006-datax,
   author    = &#123;A. P. Vargas and Vanessa Braganholo and C. A. Heuser&#125;,
   title     = &#123;Conflict Resolution and Delta Detection in Updates through &#123;XML&#125; views&#125;,
   booktitle = &#123;EDBT Workshop on Database Technologies for Handling XML Information on the Web (DATAX)&#125;,
@@ -1212,7 +1212,7 @@ Feel free to contact me if you want a paper you could not find online.
   url       = &#123;https://doi.org/10.1007/978-3-540-71351-7_56&#125;
 &#125;
 </pre></li>
-<li class="pub" id="ferraz2006-wtdbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C16</span> C. Ferraz, <strong>Vanessa Braganholo</strong>, M. L. Q. Mattoso: <span class="pub-title">Uma Abordagem para o Armazenamento de Documentos XML Ativos.</span> <em>Workshop de Teses e Dissertações em Banco de Dados (WTDBD)</em> 2006: 38-42. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/ferraz2006-wtdbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;ferraz2006-wtdbd,
+<li class="pub" id="ferraz2006-wtdbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C16</span> C. Ferraz, <strong>Vanessa Braganholo</strong>, M. L. Q. Mattoso: <span class="pub-title">Uma Abordagem para o Armazenamento de Documentos XML Ativos.</span> <em>Workshop de Teses e Dissertações em Banco de Dados (WTDBD)</em> 2006: 38-42. <span class="pub-links">[<a href="papers/ferraz2006-wtdbd.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/ferraz2006-wtdbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;ferraz2006-wtdbd,
   author    = &#123;C. Ferraz and Vanessa Braganholo and M. L. Q. Mattoso&#125;,
   title     = &#123;Uma Abordagem para o Armazenamento de Documentos &#123;XML&#125; Ativos&#125;,
   booktitle = &#123;Workshop de Teses e Disserta&#123;\c&#123;c&#125;&#125;&#123;\~o&#125;es em Banco de Dados (WTDBD)&#125;,
@@ -1220,7 +1220,7 @@ Feel free to contact me if you want a paper you could not find online.
   year      = &#123;2006&#125;
 &#125;
 </pre></li>
-<li class="pub" id="andrade2006-datax"><span class="pub-tag pub-conference" title="Conference and workshop papers">C15</span> Alexandre Gois De Andrade, Gabriela Ruberg, Fernanda Baião, <strong>Vanessa Braganholo</strong>, Marta Mattoso: <span class="pub-title">Efficiently Processing XML Queries over Fragmented Repositories with PartiX.</span> <em>EDBT Workshop on Database Technologies for Handling XML Information on the Web (DATAX)</em> 2006: LNCS 4254, 150-163. <span class="pub-links">[<a href="https://doi.org/10.1007/11896548_15">DOI</a>] [<a class="pub-bib-toggle" href="bib/andrade2006-datax.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;andrade2006-datax,
+<li class="pub" id="andrade2006-datax"><span class="pub-tag pub-conference" title="Conference and workshop papers">C15</span> Alexandre Gois De Andrade, Gabriela Ruberg, Fernanda Baião, <strong>Vanessa Braganholo</strong>, Marta Mattoso: <span class="pub-title">Efficiently Processing XML Queries over Fragmented Repositories with PartiX.</span> <em>EDBT Workshop on Database Technologies for Handling XML Information on the Web (DATAX)</em> 2006: LNCS 4254, 150-163. <span class="pub-links">[<a href="papers/andrade2006-datax.pdf">PDF</a>] [<a href="https://doi.org/10.1007/11896548_15">DOI</a>] [<a class="pub-bib-toggle" href="bib/andrade2006-datax.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;andrade2006-datax,
   author    = &#123;Alexandre Gois De Andrade and Gabriela Ruberg and Fernanda Bai&#123;\~a&#125;o and Vanessa Braganholo and Marta Mattoso&#125;,
   title     = &#123;Efficiently Processing &#123;XML&#125; Queries over Fragmented Repositories with &#123;PartiX&#125;&#125;,
   booktitle = &#123;EDBT Workshop on Database Technologies for Handling XML Information on the Web (DATAX)&#125;,
@@ -1235,7 +1235,7 @@ Feel free to contact me if you want a paper you could not find online.
 </ul>
 <h3 class="pub-year" id="y2005">2005</h3>
 <ul class="publist">
-<li class="pub" id="moro2005-ieeepot"><span class="pub-tag pub-journal" title="Journal articles">J2</span> Mirella Moura Moro, <strong>Vanessa Braganholo</strong>, Andre Costi Nacul, Miguel Rodrigues Fornari: <span class="pub-title">The Successful Grad Student.</span> <em>IEEE Potentials</em> 24(3): 11-13,45 (2005). <span class="pub-links">[<a href="https://doi.org/10.1109/mp.2005.1502498">DOI</a>] [<a class="pub-bib-toggle" href="bib/moro2005-ieeepot.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@article&#123;moro2005-ieeepot,
+<li class="pub" id="moro2005-ieeepot"><span class="pub-tag pub-journal" title="Journal articles">J2</span> Mirella Moura Moro, <strong>Vanessa Braganholo</strong>, Andre Costi Nacul, Miguel Rodrigues Fornari: <span class="pub-title">The Successful Grad Student.</span> <em>IEEE Potentials</em> 24(3): 11-13,45 (2005). <span class="pub-links">[<a href="papers/moro2005-ieeepot.pdf">PDF</a>] [<a href="https://doi.org/10.1109/mp.2005.1502498">DOI</a>] [<a class="pub-bib-toggle" href="bib/moro2005-ieeepot.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@article&#123;moro2005-ieeepot,
   author  = &#123;Mirella Moura Moro and Vanessa Braganholo and Andre Costi Nacul and Miguel Rodrigues Fornari&#125;,
   title   = &#123;The Successful Grad Student&#125;,
   journal = &#123;IEEE Potentials&#125;,
@@ -1247,7 +1247,7 @@ Feel free to contact me if you want a paper you could not find online.
   url     = &#123;https://doi.org/10.1109/mp.2005.1502498&#125;
 &#125;
 </pre></li>
-<li class="pub" id="vargas2005-wtdbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C14</span> A. P. Vargas, C. A. Heuser, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Suporte a transações longas em atualizações através de visões XML.</span> <em>Workshop de Teses e Dissertações em Banco de Dados (WTDBD)</em> 2005. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/vargas2005-wtdbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;vargas2005-wtdbd,
+<li class="pub" id="vargas2005-wtdbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C14</span> A. P. Vargas, C. A. Heuser, <strong>Vanessa Braganholo</strong>: <span class="pub-title">Suporte a transações longas em atualizações através de visões XML.</span> <em>Workshop de Teses e Dissertações em Banco de Dados (WTDBD)</em> 2005. <span class="pub-links">[<a href="papers/vargas2005-wtdbd.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/vargas2005-wtdbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;vargas2005-wtdbd,
   author    = &#123;A. P. Vargas and C. A. Heuser and Vanessa Braganholo&#125;,
   title     = &#123;Suporte a transa&#123;\c&#123;c&#125;&#125;&#123;\~o&#125;es longas em atualiza&#123;\c&#123;c&#125;&#125;&#123;\~o&#125;es atrav&#123;\&#39;e&#125;s de vis&#123;\~o&#125;es &#123;XML&#125;&#125;,
   booktitle = &#123;Workshop de Teses e Disserta&#123;\c&#123;c&#125;&#125;&#123;\~o&#125;es em Banco de Dados (WTDBD)&#125;,
@@ -1262,7 +1262,7 @@ Feel free to contact me if you want a paper you could not find online.
   year      = &#123;2005&#125;
 &#125;
 </pre></li>
-<li class="pub" id="mattoso2005-sbbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C12</span> M. L. Q. Mattoso, G. Zimbrão, A. Lima, F. Baião, <strong>Vanessa Braganholo</strong>, A. Aveleda, B. Miranda, B. K. Almentero, M. N. Costa: <span class="pub-title">ParGRES: Middleware para Processamento Paralelo de Consultas OLAP em Clusters de Banco de Dados.</span> <em>Sessão de Demos do Simpósio Brasileiro de Banco de Dados (SBBD)</em> 2005: 19-24. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/mattoso2005-sbbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;mattoso2005-sbbd,
+<li class="pub" id="mattoso2005-sbbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C12</span> M. L. Q. Mattoso, G. Zimbrão, A. Lima, F. Baião, <strong>Vanessa Braganholo</strong>, A. Aveleda, B. Miranda, B. K. Almentero, M. N. Costa: <span class="pub-title">ParGRES: Middleware para Processamento Paralelo de Consultas OLAP em Clusters de Banco de Dados.</span> <em>Sessão de Demos do Simpósio Brasileiro de Banco de Dados (SBBD)</em> 2005: 19-24. <span class="pub-links">[<a href="papers/mattoso2005-sbbd-demos.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/mattoso2005-sbbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;mattoso2005-sbbd,
   author    = &#123;M. L. Q. Mattoso and G. Zimbr&#123;\~a&#125;o and A. Lima and F. Bai&#123;\~a&#125;o and Vanessa Braganholo and A. Aveleda and B. Miranda and B. K. Almentero and M. N. Costa&#125;,
   title     = &#123;&#123;ParGRES:&#125; Middleware para Processamento Paralelo de Consultas &#123;OLAP&#125; em Clusters de Banco de Dados&#125;,
   booktitle = &#123;Sess&#123;\~a&#125;o de Demos do Simp&#123;\&#39;o&#125;sio Brasileiro de Banco de Dados (SBBD)&#125;,
@@ -1270,7 +1270,7 @@ Feel free to contact me if you want a paper you could not find online.
   year      = &#123;2005&#125;
 &#125;
 </pre></li>
-<li class="pub" id="figueiredo2005-wtdbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C11</span> G. C. Figueiredo, <strong>Vanessa Braganholo</strong>, M. L. Q. Mattoso: <span class="pub-title">Consultas sobre visões XML de Bases Relacionais Distribuídas.</span> <em>Workshop de Teses e Dissertações em Banco de Dados (WTDBD)</em> 2005. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/figueiredo2005-wtdbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;figueiredo2005-wtdbd,
+<li class="pub" id="figueiredo2005-wtdbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C11</span> G. C. Figueiredo, <strong>Vanessa Braganholo</strong>, M. L. Q. Mattoso: <span class="pub-title">Consultas sobre visões XML de Bases Relacionais Distribuídas.</span> <em>Workshop de Teses e Dissertações em Banco de Dados (WTDBD)</em> 2005. <span class="pub-links">[<a href="papers/figueiredo2005-wtdbd.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/figueiredo2005-wtdbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;figueiredo2005-wtdbd,
   author    = &#123;G. C. Figueiredo and Vanessa Braganholo and M. L. Q. Mattoso&#125;,
   title     = &#123;Consultas sobre vis&#123;\~o&#125;es &#123;XML&#125; de Bases Relacionais Distribu&#123;\&#39;\i&#125;das&#125;,
   booktitle = &#123;Workshop de Teses e Disserta&#123;\c&#123;c&#125;&#125;&#123;\~o&#125;es em Banco de Dados (WTDBD)&#125;,
@@ -1285,7 +1285,7 @@ Feel free to contact me if you want a paper you could not find online.
   year      = &#123;2005&#125;
 &#125;
 </pre></li>
-<li class="pub" id="braganholo2005-ctd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C9</span> <strong>Vanessa Braganholo</strong>, S. B. Davidson, C. A. Heuser: <span class="pub-title">Updating relations through XML views.</span> <em>Concurso de Teses e Dissertações da SBC (CTD)</em> 2005: 95-103. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/braganholo2005-ctd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;braganholo2005-ctd,
+<li class="pub" id="braganholo2005-ctd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C9</span> <strong>Vanessa Braganholo</strong>, S. B. Davidson, C. A. Heuser: <span class="pub-title">Updating relations through XML views.</span> <em>Concurso de Teses e Dissertações da SBC (CTD)</em> 2005: 95-103. <span class="pub-links">[<a href="papers/braganholo2005-ctd.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/braganholo2005-ctd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;braganholo2005-ctd,
   author    = &#123;Vanessa Braganholo and S. B. Davidson and C. A. Heuser&#125;,
   title     = &#123;Updating relations through &#123;XML&#125; views&#125;,
   booktitle = &#123;Concurso de Teses e Disserta&#123;\c&#123;c&#125;&#125;&#123;\~o&#125;es da SBC (CTD)&#125;,
@@ -1296,7 +1296,7 @@ Feel free to contact me if you want a paper you could not find online.
 </ul>
 <h3 class="pub-year" id="y2004">2004</h3>
 <ul class="publist">
-<li class="pub" id="moro2004-rita"><span class="pub-tag pub-journal" title="Journal articles">J1</span> Mirella Moura Moro, <strong>Vanessa Braganholo</strong>, Andre Costi Nacul, Miguel Rodrigues Fornari: <span class="pub-title">Rumo ao título de Doutor/Mestre.</span> <em>Revista de Informática Teórica e Aplicada - RITA</em> 10(2): 99-112 (2004). <span class="pub-links">[<a class="pub-bib-toggle" href="bib/moro2004-rita.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@article&#123;moro2004-rita,
+<li class="pub" id="moro2004-rita"><span class="pub-tag pub-journal" title="Journal articles">J1</span> Mirella Moura Moro, <strong>Vanessa Braganholo</strong>, Andre Costi Nacul, Miguel Rodrigues Fornari: <span class="pub-title">Rumo ao título de Doutor/Mestre.</span> <em>Revista de Informática Teórica e Aplicada - RITA</em> 10(2): 99-112 (2004). <span class="pub-links">[<a href="papers/moro2004-rita.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/moro2004-rita.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@article&#123;moro2004-rita,
   author  = &#123;Mirella Moura Moro and Vanessa Braganholo and Andre Costi Nacul and Miguel Rodrigues Fornari&#125;,
   title   = &#123;Rumo ao t&#123;\&#39;\i&#125;tulo de &#123;Doutor/Mestre&#125;&#125;,
   journal = &#123;Revista de Inform&#123;\&#39;a&#125;tica Te&#123;\&#39;o&#125;rica e Aplicada - RITA&#125;,
@@ -1306,7 +1306,7 @@ Feel free to contact me if you want a paper you could not find online.
   year    = &#123;2004&#125;
 &#125;
 </pre></li>
-<li class="pub" id="braganholo2004-wtdbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C8</span> <strong>Vanessa Braganholo</strong>, C. A. Heuser, A. I. Reis: <span class="pub-title">Redigindo artigos de Ciência da Computação: uma visão geral para alunos de mestrado e doutorado.</span> <em>Workshop de Teses e Dissertações em Banco de Dados (WTDBD)</em> 2004. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/braganholo2004-wtdbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;braganholo2004-wtdbd,
+<li class="pub" id="braganholo2004-wtdbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C8</span> <strong>Vanessa Braganholo</strong>, C. A. Heuser, A. I. Reis: <span class="pub-title">Redigindo artigos de Ciência da Computação: uma visão geral para alunos de mestrado e doutorado.</span> <em>Workshop de Teses e Dissertações em Banco de Dados (WTDBD)</em> 2004. <span class="pub-links">[<a href="papers/braganholo2004-wtdbd.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/braganholo2004-wtdbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;braganholo2004-wtdbd,
   author    = &#123;Vanessa Braganholo and C. A. Heuser and A. I. Reis&#125;,
   title     = &#123;Redigindo artigos de Ci&#123;\^e&#125;ncia da Computa&#123;\c&#123;c&#125;&#125;&#123;\~a&#125;o: uma vis&#123;\~a&#125;o geral para alunos de mestrado e doutorado&#125;,
   booktitle = &#123;Workshop de Teses e Disserta&#123;\c&#123;c&#125;&#125;&#123;\~o&#125;es em Banco de Dados (WTDBD)&#125;,
@@ -1334,7 +1334,7 @@ Feel free to contact me if you want a paper you could not find online.
   year      = &#123;2003&#125;
 &#125;
 </pre></li>
-<li class="pub" id="braganholo2003-sbbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C5</span> <strong>Vanessa Braganholo</strong>, Susan B. Davidson, Carlos Alberto Heuser: <span class="pub-title">UXQuery: Building updatable XML Views over Relational Databases.</span> <em>Simpósio Brasileiro de Banco de Dados (SBBD)</em> 2003: 26-40. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/braganholo2003-sbbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;braganholo2003-sbbd,
+<li class="pub" id="braganholo2003-sbbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C5</span> <strong>Vanessa Braganholo</strong>, Susan B. Davidson, Carlos Alberto Heuser: <span class="pub-title">UXQuery: Building updatable XML Views over Relational Databases.</span> <em>Simpósio Brasileiro de Banco de Dados (SBBD)</em> 2003: 26-40. <span class="pub-links">[<a href="papers/braganholo2003-sbbd.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/braganholo2003-sbbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;braganholo2003-sbbd,
   author    = &#123;Vanessa Braganholo and Susan B. Davidson and Carlos Alberto Heuser&#125;,
   title     = &#123;&#123;UXQuery:&#125; Building updatable &#123;XML&#125; Views over Relational Databases&#125;,
   booktitle = &#123;Simp&#123;\&#39;o&#125;sio Brasileiro de Banco de Dados (SBBD)&#125;,
@@ -1345,7 +1345,7 @@ Feel free to contact me if you want a paper you could not find online.
 </ul>
 <h3 class="pub-year" id="y2002">2002</h3>
 <ul class="publist">
-<li class="pub" id="braganholo2002-wtdbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C4</span> <strong>Vanessa Braganholo</strong>, C. A. Heuser: <span class="pub-title">Updating Relational Databases through XML Views.</span> <em>Workshop de Teses e Dissertações em Banco de Dados (WTDBD)</em> 2002. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/braganholo2002-wtdbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;braganholo2002-wtdbd,
+<li class="pub" id="braganholo2002-wtdbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C4</span> <strong>Vanessa Braganholo</strong>, C. A. Heuser: <span class="pub-title">Updating Relational Databases through XML Views.</span> <em>Workshop de Teses e Dissertações em Banco de Dados (WTDBD)</em> 2002. <span class="pub-links">[<a href="papers/braganholo2002-wtdbd.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/braganholo2002-wtdbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;braganholo2002-wtdbd,
   author    = &#123;Vanessa Braganholo and C. A. Heuser&#125;,
   title     = &#123;Updating Relational Databases through &#123;XML&#125; Views&#125;,
   booktitle = &#123;Workshop de Teses e Disserta&#123;\c&#123;c&#125;&#125;&#123;\~o&#125;es em Banco de Dados (WTDBD)&#125;,
@@ -1374,7 +1374,7 @@ Feel free to contact me if you want a paper you could not find online.
 </ul>
 <h3 class="pub-year" id="y2000">2000</h3>
 <ul class="publist">
-<li class="pub" id="mello2000-sbbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C1</span> R. Mello, C. Dorneles, A. Kade, <strong>Vanessa Braganholo</strong>, C. A. Heuser: <span class="pub-title">Dados Semi-Estruturados.</span> <em>Simpósio Brasileiro de Banco de Dados (SBBD) - Tutorial</em> 2000: 475-511. <span class="pub-links">[<a class="pub-bib-toggle" href="bib/mello2000-sbbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;mello2000-sbbd,
+<li class="pub" id="mello2000-sbbd"><span class="pub-tag pub-conference" title="Conference and workshop papers">C1</span> R. Mello, C. Dorneles, A. Kade, <strong>Vanessa Braganholo</strong>, C. A. Heuser: <span class="pub-title">Dados Semi-Estruturados.</span> <em>Simpósio Brasileiro de Banco de Dados (SBBD) - Tutorial</em> 2000: 475-511. <span class="pub-links">[<a href="papers/tutorial.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/mello2000-sbbd.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;mello2000-sbbd,
   author    = &#123;R. Mello and C. Dorneles and A. Kade and Vanessa Braganholo and C. A. Heuser&#125;,
   title     = &#123;Dados &#123;Semi-Estruturados&#125;&#125;,
   booktitle = &#123;Simp&#123;\&#39;o&#125;sio Brasileiro de Banco de Dados (SBBD) - Tutorial&#125;,
