@@ -1847,7 +1847,7 @@
   details: "8: 209-224"
   doi: "10.1016/j.websem.2010.03.001"
   oa_url: null
-  local_pdf: null
+  local_pdf: ferraz2010-jws.pdf
   rights:
     publisher: "Elsevier"
     status: "allowed"
@@ -1910,14 +1910,14 @@
   year: 2010
   authors:
     - "Marta Mattoso"
-    - "Cláudia Maria Lima Werner"
+    - "Cláudia Werner"
     - "Guilherme Horta Travassos"
     - "Vanessa Braganholo"
-    - "L. G. P. Murta"
-    - "E. Ogasawara"
-    - "D. Oliveira"
-    - "S. Cruz"
-    - "W. Martinho"
+    - "Eduardo Ogasawara"
+    - "Daniel de Oliveira"
+    - "Sérgio Manuel Serra da Cruz"
+    - "Wallace Martinho"
+    - "Leonardo Murta"
   title: "Towards Supporting the Life Cycle of Large Scale Scientific Experiments"
   venue: "International Journal of Business Process Integration and Management"
   details: "5: 79-92"
@@ -1926,11 +1926,11 @@
   local_pdf: null
   rights:
     publisher: "Inderscience"
-    status: "allowed"
+    status: "not_allowed"
     version_needed: "accepted"
-    policy: "Accepted manuscript after 12-month embargo (expired); personal-website posting listed by Sherpa, to confirm on Inderscience page. Publisher PDF not allowed. Existing file mattoso2010-ijbpim.pdf is the PUBLISHER version and must not be linked; accepted manuscript needed."
+    policy: "Inderscience (checked 2026-11-28): personal webpage only for the Author's Original (preprint, before peer review). Accepted Manuscript only on institutional/subject repositories after 12 months (24 months on academic social networks). Publisher PDF not allowed. Option: deposit the AAM in an institutional repository and link it as oa_url."
     source: "https://www.inderscience.com/mobile/inauthors/index.php?pid=74"
-    checked: "2026-11-09"
+    checked: "2026-11-28"
 
 - id: ogasawara2010-vecpar
   lattes: C40   # position in Lattes export of 2026-11-09

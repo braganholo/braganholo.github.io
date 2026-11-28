@@ -844,8 +844,8 @@ Feel free to contact me if you want a paper you could not find online.
   url     = &#123;https://seer.ufrgs.br/rita/article/download/rita_v17_n3_p325/11274&#125;
 &#125;
 </pre></li>
-<li class="pub" id="mattoso2010-ijbpim"><span class="pub-tag pub-journal" title="Journal articles">J8</span> Marta Mattoso, Cláudia Maria Lima Werner, Guilherme Horta Travassos, <strong>Vanessa Braganholo</strong>, L. G. P. Murta, E. Ogasawara, D. Oliveira, S. Cruz, W. Martinho: <span class="pub-title">Towards Supporting the Life Cycle of Large Scale Scientific Experiments.</span> <em>International Journal of Business Process Integration and Management</em> 5: 79-92 (2010). <span class="pub-links">[<a href="https://doi.org/10.1504/ijbpim.2010.033176">DOI</a>] [<a class="pub-bib-toggle" href="bib/mattoso2010-ijbpim.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@article&#123;mattoso2010-ijbpim,
-  author  = &#123;Marta Mattoso and Cl&#123;\&#39;a&#125;udia Maria Lima Werner and Guilherme Horta Travassos and Vanessa Braganholo and L. G. P. Murta and E. Ogasawara and D. Oliveira and S. Cruz and W. Martinho&#125;,
+<li class="pub" id="mattoso2010-ijbpim"><span class="pub-tag pub-journal" title="Journal articles">J8</span> Marta Mattoso, Cláudia Werner, Guilherme Horta Travassos, <strong>Vanessa Braganholo</strong>, Eduardo Ogasawara, Daniel de Oliveira, Sérgio Manuel Serra da Cruz, Wallace Martinho, Leonardo Murta: <span class="pub-title">Towards Supporting the Life Cycle of Large Scale Scientific Experiments.</span> <em>International Journal of Business Process Integration and Management</em> 5: 79-92 (2010). <span class="pub-links">[<a href="https://doi.org/10.1504/ijbpim.2010.033176">DOI</a>] [<a class="pub-bib-toggle" href="bib/mattoso2010-ijbpim.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@article&#123;mattoso2010-ijbpim,
+  author  = &#123;Marta Mattoso and Cl&#123;\&#39;a&#125;udia Werner and Guilherme Horta Travassos and Vanessa Braganholo and Eduardo Ogasawara and Daniel de Oliveira and S&#123;\&#39;e&#125;rgio Manuel Serra da Cruz and Wallace Martinho and Leonardo Murta&#125;,
   title   = &#123;Towards Supporting the Life Cycle of Large Scale Scientific Experiments&#125;,
   journal = &#123;International Journal of Business Process Integration and Management&#125;,
   volume  = &#123;5&#125;,
@@ -866,7 +866,7 @@ Feel free to contact me if you want a paper you could not find online.
   url     = &#123;https://journals-sol.sbc.org.br/index.php/jidm/article/download/1288/170&#125;
 &#125;
 </pre></li>
-<li class="pub" id="ferraz2010-jws"><span class="pub-tag pub-journal" title="Journal articles">J6</span> Cláudio Ananias Ferraz, <strong>Vanessa Braganholo</strong>, Marta Mattoso: <span class="pub-title">ARAXA: Storing and managing Active XML documents.</span> <em>Journal of Web Semantics</em> 8: 209-224 (2010). <span class="pub-links">[<a href="https://doi.org/10.1016/j.websem.2010.03.001">DOI</a>] [<a class="pub-bib-toggle" href="bib/ferraz2010-jws.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@article&#123;ferraz2010-jws,
+<li class="pub" id="ferraz2010-jws"><span class="pub-tag pub-journal" title="Journal articles">J6</span> Cláudio Ananias Ferraz, <strong>Vanessa Braganholo</strong>, Marta Mattoso: <span class="pub-title">ARAXA: Storing and managing Active XML documents.</span> <em>Journal of Web Semantics</em> 8: 209-224 (2010). <span class="pub-links">[<a href="papers/ferraz2010-jws.pdf">PDF</a>] [<a href="https://doi.org/10.1016/j.websem.2010.03.001">DOI</a>] [<a class="pub-bib-toggle" href="bib/ferraz2010-jws.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@article&#123;ferraz2010-jws,
   author  = &#123;Cl&#123;\&#39;a&#125;udio Ananias Ferraz and Vanessa Braganholo and Marta Mattoso&#125;,
   title   = &#123;&#123;ARAXA:&#125; Storing and managing Active &#123;XML&#125; documents&#125;,
   journal = &#123;Journal of Web Semantics&#125;,

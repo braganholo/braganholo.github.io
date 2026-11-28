@@ -59,7 +59,7 @@ só DOI. Na dúvida, `to_confirm` e perguntar à Vanessa.
 | Springer (LNCS/proceedings) | Manuscrito aceito, liberado 12 meses após a publicação, com aviso "This is an Accepted Manuscript..." | springernature.com/gp/open-science/policies/book-policies |
 | IEEE | Manuscrito aceito com aviso "© AAAA IEEE. Personal use of this material is permitted..." + DOI | IEEE Author Center (post-publication policies) |
 | Wiley | Manuscrito aceito após 12 meses, com o aviso da Wiley na 1ª página | authors.wiley.com (self-archiving) |
-| Inderscience | Manuscrito aceito após 12 meses (Sherpa: homepage do autor) — confirmar | inderscience.com (author entitlement) |
+| Inderscience | Site pessoal: só o preprint (antes da revisão). Manuscrito aceito só em repositório institucional/temático após 12 meses → depositar e usar `oa_url` (verificado 28/11/2026) | inderscience.com/mobile/inauthors/index.php?pid=74 |
 | IGI Global | PDF final do próprio capítulo/artigo no site pessoal, com link para a IGI — reconferir | igi-global.com/policies/content-reuse |
 | VLDB 2004 | O PDF traz a permissão de cópia não comercial da VLDB → cópia local | aviso no próprio PDF |
 | Eventos antigos sem DOI (SBBD < 2016, WTDBD, WEI, SBSC 2009–2014, SEMISH, CTD, WSL, ONTOBRAS, CILAMCE, IDEAS, iiWAS, WebDB...) | Depende de ter havido cessão de direitos → `to_confirm` até a Vanessa confirmar | — |
