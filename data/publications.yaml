@@ -563,19 +563,19 @@
   status: published
   year: 2019
   authors:
-    - "Adriel Santos Araujo"
-    - "Juan Lucas Vieira"
-    - "E. J. Oliveira"
+    - "Adriel Araújo"
+    - "Juan Vieira"
+    - "Eduardo Jandre"
     - "Aura Conci"
-    - "Diego Gimenez Passos"
+    - "Diego Passos"
     - "Vanessa Braganholo"
-    - "J. Viterbo Filho"
+    - "José Viterbo"
   title: "A Framework for Monitoring Patients with Alzheimer's and Other Dementias"
   venue: "IWSSIP - International Conference on Systems, Signals and Image Processing"
   details: "175-180"
   doi: "10.1109/iwssip.2019.8787250"
   oa_url: null
-  local_pdf: null
+  local_pdf: araujo2019-iwssip.pdf
   rights:
     publisher: "IEEE"
     status: "allowed"
@@ -654,7 +654,7 @@
   details: "78: 40-57"
   doi: "10.1016/j.is.2018.07.001"
   oa_url: null
-  local_pdf: null
+  local_pdf: oliveira2018-is.pdf
   rights:
     publisher: "Elsevier"
     status: "allowed"
@@ -1648,7 +1648,7 @@
   details: "38: 1148-1159"
   doi: "10.1016/j.eswa.2010.05.008"
   oa_url: null
-  local_pdf: null
+  local_pdf: escalfoni2011-eswa.pdf
   rights:
     publisher: "Elsevier"
     status: "allowed"
