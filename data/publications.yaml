@@ -30,27 +30,27 @@
 - id: almeida2026-jidm
   lattes: A1   # position in Lattes export of 2026-11-09
   type: journal
-  status: accepted
+  status: published
   year: 2026
   authors:
-    - "Jessica Monçôres de Almeida"
+    - "Jéssica Monçôres de Almeida"
     - "Débora Pina"
     - "Rodrigo Pereira dos Santos"
     - "Vanessa Braganholo"
     - "Daniel de Oliveira"
   title: "Provenance as the Backbone of Systems-of-Systems Data Governance"
   venue: "Journal of Information and Data Management - JIDM"
-  details: null
-  doi: null
-  oa_url: null
-  local_pdf: almeida2026-jidm.pdf
+  details: "17(1): 341-351"
+  doi: "10.5753/jidm.2026.7730"
+  oa_url: "https://journals-sol.sbc.org.br/index.php/jidm/article/download/7730/4504"
+  local_pdf: null
   rights:
     publisher: "SBC"
-    status: "allowed"
-    version_needed: "accepted"
-    policy: "CC BY 4.0; authors retain copyright and full publishing rights, so the accepted manuscript may be posted before publication (with an accepted-manuscript note). Once published, set oa_url to the SOL PDF (local copy is then hidden)."
+    status: "open_access"
+    version_needed: "any"
+    policy: "Published open access in SOL (CC BY 4.0), 2026-11-27."
     source: "https://journals-sol.sbc.org.br/index.php/jidm/about/submissions"
-    checked: "2026-11-09"
+    checked: "2026-11-27"
 
 - id: pimentel2027-is
   lattes: null   # accepted 2026-11 (after the Lattes export of 2026-11-09)

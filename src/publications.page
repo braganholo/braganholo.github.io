@@ -33,18 +33,10 @@ Feel free to contact me if you want a paper you could not find online.
   note    = &#123;Accepted for publication&#125;
 &#125;
 </pre></li>
-<li class="pub" id="almeida2026-jidm"><span class="pub-tag pub-journal" title="Journal articles">J</span> Jessica Monçôres de Almeida, Débora Pina, Rodrigo Pereira dos Santos, <strong>Vanessa Braganholo</strong>, Daniel de Oliveira: <span class="pub-title">Provenance as the Backbone of Systems-of-Systems Data Governance.</span> <em>Journal of Information and Data Management - JIDM</em> (2026). <span class="pub-links">[<a href="papers/almeida2026-jidm.pdf">PDF</a>] [<a class="pub-bib-toggle" href="bib/almeida2026-jidm.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@article&#123;almeida2026-jidm,
-  author  = &#123;Jessica Mon&#123;\c&#123;c&#125;&#125;&#123;\^o&#125;res de Almeida and D&#123;\&#39;e&#125;bora Pina and Rodrigo Pereira dos Santos and Vanessa Braganholo and Daniel de Oliveira&#125;,
-  title   = &#123;Provenance as the Backbone of &#123;Systems-of-Systems&#125; Data Governance&#125;,
-  journal = &#123;Journal of Information and Data Management - JIDM&#125;,
-  year    = &#123;2026&#125;,
-  note    = &#123;Accepted for publication&#125;
-&#125;
-</pre></li>
 </ul>
 <h3 class="pub-year" id="y2027">2027</h3>
 <ul class="publist">
-<li class="pub" id="pimentel2027-is"><span class="pub-tag pub-journal" title="Journal articles">J42</span> João Felipe Pimentel, Arthur Paiva, João Pedro Lopez, Eduardo Jandre, Ruslan Marzo, Bruno Gonçalves, Matheus Lobo, Felipe Coutinho, Juliana Freire, Leonardo Murta, <strong>Vanessa Braganholo</strong>: <span class="pub-title">The Conception and Evolution of noWorkflow.</span> <em>Information Systems</em> 145: 102830 (2027). <span class="pub-links">[<a href="https://www.sciencedirect.com/science/article/pii/S0306437926001456">Open access</a>] [<a href="https://doi.org/10.1016/j.is.2026.102830">DOI</a>] [<a class="pub-bib-toggle" href="bib/pimentel2027-is.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@article&#123;pimentel2027-is,
+<li class="pub" id="pimentel2027-is"><span class="pub-tag pub-journal" title="Journal articles">J43</span> João Felipe Pimentel, Arthur Paiva, João Pedro Lopez, Eduardo Jandre, Ruslan Marzo, Bruno Gonçalves, Matheus Lobo, Felipe Coutinho, Juliana Freire, Leonardo Murta, <strong>Vanessa Braganholo</strong>: <span class="pub-title">The Conception and Evolution of noWorkflow.</span> <em>Information Systems</em> 145: 102830 (2027). <span class="pub-links">[<a href="https://www.sciencedirect.com/science/article/pii/S0306437926001456">Open access</a>] [<a href="https://doi.org/10.1016/j.is.2026.102830">DOI</a>] [<a class="pub-bib-toggle" href="bib/pimentel2027-is.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@article&#123;pimentel2027-is,
   author  = &#123;Jo&#123;\~a&#125;o Felipe Pimentel and Arthur Paiva and Jo&#123;\~a&#125;o Pedro Lopez and Eduardo Jandre and Ruslan Marzo and Bruno Gon&#123;\c&#123;c&#125;&#125;alves and Matheus Lobo and Felipe Coutinho and Juliana Freire and Leonardo Murta and Vanessa Braganholo&#125;,
   title   = &#123;The Conception and Evolution of &#123;noWorkflow&#125;&#125;,
   journal = &#123;Information Systems&#125;,
@@ -58,6 +50,18 @@ Feel free to contact me if you want a paper you could not find online.
 </ul>
 <h3 class="pub-year" id="y2026">2026</h3>
 <ul class="publist">
+<li class="pub" id="almeida2026-jidm"><span class="pub-tag pub-journal" title="Journal articles">J42</span> Jéssica Monçôres de Almeida, Débora Pina, Rodrigo Pereira dos Santos, <strong>Vanessa Braganholo</strong>, Daniel de Oliveira: <span class="pub-title">Provenance as the Backbone of Systems-of-Systems Data Governance.</span> <em>Journal of Information and Data Management - JIDM</em> 17(1): 341-351 (2026). <span class="pub-links">[<a href="https://journals-sol.sbc.org.br/index.php/jidm/article/download/7730/4504">PDF</a>] [<a href="https://doi.org/10.5753/jidm.2026.7730">DOI</a>] [<a class="pub-bib-toggle" href="bib/almeida2026-jidm.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@article&#123;almeida2026-jidm,
+  author  = &#123;J&#123;\&#39;e&#125;ssica Mon&#123;\c&#123;c&#125;&#125;&#123;\^o&#125;res de Almeida and D&#123;\&#39;e&#125;bora Pina and Rodrigo Pereira dos Santos and Vanessa Braganholo and Daniel de Oliveira&#125;,
+  title   = &#123;Provenance as the Backbone of &#123;Systems-of-Systems&#125; Data Governance&#125;,
+  journal = &#123;Journal of Information and Data Management - JIDM&#125;,
+  volume  = &#123;17&#125;,
+  number  = &#123;1&#125;,
+  pages   = &#123;341--351&#125;,
+  year    = &#123;2026&#125;,
+  doi     = &#123;10.5753/jidm.2026.7730&#125;,
+  url     = &#123;https://journals-sol.sbc.org.br/index.php/jidm/article/download/7730/4504&#125;
+&#125;
+</pre></li>
 <li class="pub" id="poubel2026-wtcia"><span class="pub-tag pub-conference" title="Conference and workshop papers">C86</span> Rodrigo L. Poubel, Luiz Eduardo Oliveira, Rodrigo Gaudio, Flavia Pastura, Ronald Sampaio, Ladan Machado, Leonardo Murta, <strong>Vanessa Braganholo</strong>, Aura Conci: <span class="pub-title">The InfraJoint Protocol for Infrared Thermography of the Hands and Wrists in the Assessment of Inflammatory Arthropathies.</span> <em>Workshop de Termografia Computacional e IA para Aplicações Médicas</em> 2026: 1-12. <span class="pub-links">[<a href="https://sol.sbc.org.br/index.php/sbcas_estendido/article/download/43859/43622">PDF</a>] [<a href="https://doi.org/10.5753/sbcas_estendido.2026.26491">DOI</a>] [<a class="pub-bib-toggle" href="bib/poubel2026-wtcia.bib">BibTeX</a>]</span><pre class="pub-bib" hidden>@inproceedings&#123;poubel2026-wtcia,
   author    = &#123;Rodrigo L. Poubel and Luiz Eduardo Oliveira and Rodrigo Gaudio and Flavia Pastura and Ronald Sampaio and Ladan Machado and Leonardo Murta and Vanessa Braganholo and Aura Conci&#125;,
   title     = &#123;The &#123;InfraJoint&#125; Protocol for Infrared Thermography of the Hands and Wrists in the Assessment of Inflammatory Arthropathies&#125;,
